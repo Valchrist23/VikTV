@@ -372,8 +372,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8 no https:/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="MX",Jalisco TV 
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="US",TVP Pacifico Obregon https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
-not working https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="US",TVP Pacifico Obregon 
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
+
+not
+working https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 
 el nueve 
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/86a9a82d-41e9-4133-a494-72171218942c/3.m3u8
