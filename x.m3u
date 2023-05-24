@@ -764,21 +764,17 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gntvjunior.com/wp-content/uploads/2021/06/cropped-GNTV-Junior-Logo-1.jpg" group-title="Cartoon",GNTV Junior 
 https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_122/HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIyNmQ1MzMtNWQ0My00MDEzLTgwOWMtYjY1NTk2OTg4NDBhXkEyXkFqcGdeQXVyMjgwNDQ3Njg@._V1_FMjpg_UX1000_.jpg" group-title="Cartoon", Kartoon Circus 
-https://simultv.s.llnwi.net/o062/KartoonCircus/interlink.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta Kids 
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV 
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
 
-pagina //www.planetatv.online 
+pagina 
+//www.planetatv.online 
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Kids 
-no sirve 
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://zaztv.com/storage/branding_media/BYPUAzbxn2h1N8bbNDSYINV61sVctU5Gf2dAYMnS.png" group-title="Cartoon",ZAS 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1972 
