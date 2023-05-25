@@ -15,6 +15,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 not work 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w/live
 
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b9/2b/4d/b92b4d60-36da-9d5c-cf76-3b61ec6d0bda/source/512x512bb.jpg" group-title="MX",15 tv  
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w193512155.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaplus-tv-mx.png" group-title="MX",VA +
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w590809501_b1428000_sleng.m3u8
 
