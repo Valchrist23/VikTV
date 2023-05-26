@@ -723,6 +723,9 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="ANIME",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/436-4362370_yamato-logo-png-transparent-logo-yamato-png-png.png" group-title="ANIME",Yamato Animation
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="ANIME",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
 
