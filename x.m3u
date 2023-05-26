@@ -1006,10 +1006,11 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/512x
 #EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",Cineverse Selects 
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",Saber Mas 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/SaberMas_295x98.png" group-title="Movies",Saber Mas 
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmpvYnMubW92aWVzX3NjcmVlbl8wXzE1ODAzNDU2MjBfMDM4/screen-0.jpg?fakeurl=1&type=.webp" group-title="Movies",Movie Hub 
+no
 https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-cine-romantico.jpg" group-title="LAT",Cine Romantico 
@@ -1247,6 +1248,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad16
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY old https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=7f328451-2355-11ec-9867-0242ac110003&deviceId=19a68ac1-6038-4179-b4b1-520bdec65875&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/COMEDYHUB_1000X1000.png?$296_164_PNG$" group-title="US",Comedy Hub 
+no
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 old 
@@ -1257,10 +1259,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",Comedy Dynamics 
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6152d75abd229300079c7078/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",Married With Children 
-nop 
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6152d75abd229300079c7078/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-793390810.png" group-title="US",This 
 https://cdn.igocast.com/channel11_hls/channel11_profile1.m3u8
@@ -1275,7 +1273,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff49
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", FashionTV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/209/603/681/paris-fashion-week-london-fashion-week-fashion-show-fashion.jpg" group-title="ART", Fashion Flash 
+#EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART", Fashion Flash 
 https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8 old http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
 
 #EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Mexico",World Fashion Channel (1080p) 
