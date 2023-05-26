@@ -699,6 +699,13 @@ no
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL 
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="LAT",Latino Kids 
+https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
+
+sirve pero no 
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8 
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="ANIME",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
@@ -724,9 +731,6 @@ https://asp1.toonamiaftermath.com/livehttporigin/est/XFhYcy-sGiRBO-playlist.m3u8
 old 
 https://asp6.toonamiaftermath.com/livehttporigin/est/XpIW8S-NXYrAU-chunklist.m3u8?streamDelay=180 
 https://asp1.toonamiaftermath.com/livehttporigin/est/6lUNpi-FrRTeO-chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="ANIME",Toonami Movies 
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" group-title="ANIME",Watch it Kid
 
@@ -828,11 +832,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f
 #EXTINF:-1 tvg-logo="https://vod365.co.uk/wp-content/uploads/2020/03/yaslogo.png" group-title="LAT",YAAAS! 
 https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_YAAAS/playlist.m3u8?ads.wurl_channel=951&ads.wurl_name=YAAAS&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="LAT",Latino Kids 
-https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
-
-sirve pero no 
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="MX",Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
@@ -841,6 +840,12 @@ old
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/chunklist_w70628535.m3u8 https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1777819243.m3u8?PlaylistM3UCL https://stmv2.voxtvhd.com.br/reikotv/reikotv/chunklist_w1650343097.m3u8
+
+#EXTINF:-1 tvg-logo="http://zaztv.com/storage/branding_media/BYPUAzbxn2h1N8bbNDSYINV61sVctU5Gf2dAYMnS.png" group-title="Cartoon",ZAS 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1972 
+
+same complete 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=0.09214500%201660497893&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=https%3A%2F%2Fzaztv.com%2F&app_version=[APP_VERSION]&app_category=Entertainment&app_store_url=https%3A%2F%2Fzaztv.com%2F&hls_marker=1&pod_duration=[POD_DURATION]&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F104.0.5112.81%20Safari%2F537.36&ip=164.92.69.67&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=1920&player_height=1080&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F104.0.5112.81%20Safari%2F537.36&ip=164.92.69.67&cb=0.09214500%201660497893&hls_marker=1&app_version=[APP_VERSION]&app_store_url=https%3A%2F%2Fzaztv.com%2F&app_name=[APP_NAME]&app_domain=https%3A%2F%2Fzaztv.com%2F&app_category=Entertainment&did=10e179e5-db16-539d-b3f8-ec807717&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8&autoplay=1&muted=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gntvjunior.com/wp-content/uploads/2021/06/cropped-GNTV-Junior-Logo-1.jpg" group-title="Cartoon",GNTV Junior 
 https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_122/HD/playlist.m3u8
@@ -854,14 +859,7 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8
 pagina 
 //www.planetatv.online 
 
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Kids 
-
-#EXTINF:-1 tvg-logo="http://zaztv.com/storage/branding_media/BYPUAzbxn2h1N8bbNDSYINV61sVctU5Gf2dAYMnS.png" group-title="Cartoon",ZAS 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1972 
-
-same complete 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=0.09214500%201660497893&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=https%3A%2F%2Fzaztv.com%2F&app_version=[APP_VERSION]&app_category=Entertainment&app_store_url=https%3A%2F%2Fzaztv.com%2F&hls_marker=1&pod_duration=[POD_DURATION]&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F104.0.5112.81%20Safari%2F537.36&ip=164.92.69.67&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=1920&player_height=1080&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20WOW64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F104.0.5112.81%20Safari%2F537.36&ip=164.92.69.67&cb=0.09214500%201660497893&hls_marker=1&app_version=[APP_VERSION]&app_store_url=https%3A%2F%2Fzaztv.com%2F&app_name=[APP_NAME]&app_domain=https%3A%2F%2Fzaztv.com%2F&app_category=Entertainment&did=10e179e5-db16-539d-b3f8-ec807717&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8&autoplay=1&muted=1
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1519315300.2673/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Cartoon",TG Junior 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
@@ -869,9 +867,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/103-1031814_galaxy-tv-galaxy-tv-logo-hd-png-download.png" group-title="Cartoon",Galaxy TV 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2101 same https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2101&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 
-#EXTINF:-1 tvg-logo="https://herogo-origin001.sotalcloud.com/contentserver/v2/distributions/22724923/content/1658774836095_toonovation.png?img.crop=200x200" group-title="Cartoon",Toon ovation 
-no 
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/9555bf6d-4ef4-43be-a427-07f44cdc7d63/2.m3u8 
 
 Boxcinema https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/18dda0b0-10f0-4357-ba0b-32f77fad4bfe/2.m3u8
 
@@ -1801,10 +1796,14 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8
 old worki 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="ANIME",Toonami Movies 
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1794747202.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV 
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="LAT",Wow TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? same https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1235 
 
