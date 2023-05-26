@@ -661,6 +661,8 @@ https://seo.tv.bo/tv/q1SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png" group-title="?",SEO Peliculas
 https://seo.tv.bo/tv/q4PE.m3u8
+same
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Latinoamerica 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8 
