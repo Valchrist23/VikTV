@@ -63,6 +63,9 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4
 https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MX",Canal 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="MX",Canal 66 
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478109_b1428000_sleng.m3u8
 
@@ -75,8 +78,7 @@ https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478
 https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC 
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w310095722_b478000_sleng.m3u8 
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w917020827_b478000_sleng.m3u8 
-https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w2131362913_b478000_sleng.m3u8 wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDI6MTI6MDMgQU0maGFzaF92YWx1ZT1qY0ppWkNQbDFvQ2h0T2U1bmp4VDJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
-esta parte no se ?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDExOjMwOjI3IFBNJmhhc2hfdmFsdWU9UFp5MFBXWFFKUnZSZ3lrUGlLTUF3QT09JnZhbGlkbWludXRlcz01JmlkPQ%3D%3D
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w2131362913_b478000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12 
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
