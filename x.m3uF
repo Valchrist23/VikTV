@@ -263,12 +263,6 @@ old https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/chunklist_w10
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="LAT",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="Telemilenio" tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1647-294x165-FFFFFF.jpg" group-title="SPAIN",Telemilenio 
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8 
-
-#EXTINF:-1 tvg-name="Telexitos" tvg-id="" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Telexitos_logo.png" group-title="SPAIN",Telexitos 
-https://v-ny.mybtv.net/live/660.m3u8
-
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distrito 
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8 
 
@@ -305,9 +299,11 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D same https://rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8 no https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Samsung-es_BoxCinema/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=BoxCinema&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",TVEI 
+no
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8 
 
-no http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.m3u 
+no 
+http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.m3u 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" group-title="ES",Canal4 
