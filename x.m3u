@@ -668,6 +668,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Latinoamerica 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Cartoon",Energeek Fanpop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://kanade.wowlymedia.com/public/assets/img/AnimeStation-Logo-BK.png" group-title="Cartoon",Animestation 
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 no
