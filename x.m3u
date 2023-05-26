@@ -47,8 +47,10 @@ https://v-sd.mybtv.net/live/486.m3u8
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.7txDz5GWVGobAyCargklrwHaKX&pid=Api&P=0&w=300&h=300" group-title="MX",CANAL 8 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="MX",El Nueve
+#EXTINF:-1 tvg-id="Televisa Aguascalientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="MX",El Nueve
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+no
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4
 https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
@@ -56,8 +58,16 @@ https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 #EXTINF:-1 tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="MX",Canal 66 
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478109_b1428000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="MX",Canal 66
+https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+
 old
-https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478109_b1428000_sleng.m3u8 60417ddeaf0d9 https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w310095722_b478000_sleng.m3u8 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w917020827_b478000_sleng.m3u8 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w2131362913_b478000_sleng.m3u8 wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDI6MTI6MDMgQU0maGFzaF92YWx1ZT1qY0ppWkNQbDFvQ2h0T2U1bmp4VDJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC 
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478109_b1428000_sleng.m3u8 60417ddeaf0d9 
+https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC 
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w310095722_b478000_sleng.m3u8 
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w917020827_b478000_sleng.m3u8 
+https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w2131362913_b478000_sleng.m3u8 wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNi8yMDIzIDI6MTI6MDMgQU0maGFzaF92YWx1ZT1qY0ppWkNQbDFvQ2h0T2U1bmp4VDJ3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 esta parte no se ?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIyIDExOjMwOjI3IFBNJmhhc2hfdmFsdWU9UFp5MFBXWFFKUnZSZ3lrUGlLTUF3QT09JnZhbGlkbWludXRlcz01JmlkPQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12 
@@ -204,7 +214,9 @@ https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w10845465
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="MX",Turistik TV 
 https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w1303397998.m3u8
 
-same https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+same
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel Channel 
 https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTBCK9ubnCAuEa4vMAYIix9Ya-oy8qbx4PYUVtUs5bNy)/dm/3/x7v76vf/s/live-1.m3u8 
@@ -1006,6 +1018,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",Viceland HD 
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+same
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Charge%21_Logo_2020.svg" group-title="USA",CHARGE 
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -1484,6 +1498,7 @@ no
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1545 
 no 
 https://sport.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="USA",NFL Channel 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=a4d316c7-02d2-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
