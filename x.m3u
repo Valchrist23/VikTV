@@ -176,7 +176,8 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CinePride.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="Lifestyle",CinePride (720p) no
+#EXTINF:-1 tvg-id="CinePride.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="Lifestyle",CinePride (720p)
+ 
 
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="",Runtime TV y Peliculas 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=fd3c2800b72b5fd3a37959d353c41c32&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450423&id=2964&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=tiKerCW0Y7dCZwfBRv11wVvcU5zGfg3MNmtdHPY0hV8%3D
@@ -452,6 +453,9 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Rq4tjGFeh0v0i4iM053e7AAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Multivision 
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MX",MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX",Canal 10 Microvision HD 
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 old http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
@@ -496,6 +500,11 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8 
 no 
 https://tastemade-freetv16min-plex.amagi.tv/amRdirect/us_privacy=1---&did=undefined&dnt=1&X-Plex-Token=_LXvenL6PaN4RLbzdQ9z&channelId=5ef51c802ddee5003f1c0225&appBundle=com.plexapp.ctv&appStoreUrl=https%3A%2F%2Fapp.plex.tv&appName=Plex/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/720x404_1641200/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://imgx.fubo.tv/station_logos/TastemadeTravel_m.png" group-title="MX",Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+fubo
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking", Food52 
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
