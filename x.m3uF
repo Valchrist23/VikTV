@@ -669,12 +669,15 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kanade.wowlymedia.com/public/assets/img/AnimeStation-Logo-BK.png" group-title="Cartoon",Animestation 
+https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
+no
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.suptv.org/images/banner/2.gif" group-title="Movies",suptv 
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8 
+https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 
 no 
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8 
 http://91.134.238.137/live/goat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.suptv.org/images/banner/2.gif" group-title="Movies",Cloudserver Kids
@@ -685,6 +688,7 @@ https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",Locomotion 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
+no
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8 https://locomotiontv.tk/en-vivo.html
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -694,6 +698,9 @@ https://azxtv.com/hls/stream.m3u8
 no 
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL 
 http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="ANIME",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="ANIME",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
