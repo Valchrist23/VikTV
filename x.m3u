@@ -52,9 +52,6 @@ https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 no
 https://v-sd.mybtv.net/live/486.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="MX",CANAL 8 
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
 #EXTINF:-1 tvg-id="Televisa Aguascalientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="MX",El Nueve
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 no
@@ -245,8 +242,10 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX",Multimedios TV 
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="MX",CANAL 8 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2019/06/TEN-LOGO-SLIDE2.png" group-title="MX",TEN HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest?cb=20210513184925&path-prefix=es" group-title="MX",TEN HD 
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="MX",Antares TV 
