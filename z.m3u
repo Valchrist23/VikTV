@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Jubei Chan
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Jubei Chan
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_4cqney36/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_xhv8jx4n,1_o26ij9t4,1_7is6j4fc,1_f8kqol1a,1_nki6mlp4,1_6wdz7vmi,1_cctn0gdt/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Jubei Chan Ep 2
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Jubei Chan Ep 2
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_z38dg0xr/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_5s9j5jad,1_tmqcioq7,1_qi12f1rh,1_mj4tm7g9,1_8gi8z9cz,1_97oswsiz,1_bagkcssi/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Kite Libertator
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Kite Libertator
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_n3ao0o7f/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_65oibalg,1_spaloudg,1_1rpgwqwl,1_gvzb6oqz,1_p5iyi58k,1_yhvybnxo,1_hmea32e5/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-id="Movie" tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Mazinkaiser
+#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Mazinkaiser
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdxwe0w/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Puppet Princess
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Puppet Princess
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_tyone006/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9txr2xcs,1_9lx2u1a5,1_uvzku85p,1_ykashjxa,1_df1jq1v8,1_qbmatvuj,1_et86svt8,1_04kimojs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
 
