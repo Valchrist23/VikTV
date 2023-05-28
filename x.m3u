@@ -567,9 +567,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/6/6a/Usa-network-logo_131116012234.jpg/revision/latest?cb=20141224055213" group-title="USA",USA 
 no #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/elgourmet_logo_dark.png" group-title="Cooking",El Gourmet
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5lb3gudHZfaWNvbl8xNTk0MzYxNjc0XzAxOA/icon.png?w=140&fakeurl=1" group-title="Music",Neox TV 
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="24/7 PLUTO TV",Pluto TV Hogar 
@@ -1835,6 +1832,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5lb3gudHZfaWNvbl8xNTk0MzYxNjc0XzAxOA/icon.png?w=140&fakeurl=1" group-title="Music",Neox TV 
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Ar",Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
