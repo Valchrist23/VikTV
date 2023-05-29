@@ -1109,25 +1109,23 @@ old
 http://51.161.118.146:8080/ISG03_FOX_SEATTLE_WA_KCPQ/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ca&id=170&r=1280x720 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
-no https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u 
+no 
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u 
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
 https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ca&id=118&r=1280x720
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX KTVU-DT1 
-no 
-http://51.161.118.146:8080/ISG03_FOX_SAN_FRANCISCO_CA_KTVU/video.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 44 Harrisburg 
+https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX (KRIV-DT1) Houston TX 
-no 
-http://51.161.118.146:8080/ISG03_FOX_HOUSTON_TX_KRIV/video.m3u8
+https://iptv-org.github.io/iptv/index.nsfw.m3u
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX Chicago 
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
 
-old http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX Atlanta 
-no 
-http://51.161.118.146:8080/ISG03_FOX_ATLANTA_GA_WAGA/video.m3u8
+old http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX Huntsville
+https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX New York 
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8 
