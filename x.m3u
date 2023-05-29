@@ -939,9 +939,8 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 original comet 
 https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/f.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=5ee56f51d1ee45f088364b74afdeadfb
 
-#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_em7nrwbm/def_height/838/def_width/1600/version/100012/type/2/q/100" group-title="Documentary",MagellanTV 
-dontlike 
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_em7nrwbm/def_height/838/def_width/1600/version/100012/type/2/q/100" group-title="Documentary",Logos 
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u88
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.3h-jCaMLpb9BAbGUgqIBPgAAAA&pid=Api&P=0&w=418&h=172" group-title="Documentary",Outside TV 
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
@@ -976,7 +975,11 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/MyNetworkTV_2D_Logo.svg" group-title="MX",MyTV KCWX Sanantonio 
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+no
 https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="In",FX 
 http://51.210.199.52/hls/stream.m3u8
