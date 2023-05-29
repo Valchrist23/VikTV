@@ -1415,7 +1415,11 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel 
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/12/TBS-logo-blue.png" group-title="USA",tbs
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Rock_Entertainment#/media/File:Rock_Entertainment.png" group-title="USA",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Rock_Action_%28TV_channel%29#/media/File:Rock_Action.png" group-title="USA",Rock Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932" group-title="Gaming",GINX Esports TV
 
