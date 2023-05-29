@@ -887,6 +887,9 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8
 pagina 
 //www.planetatv.online 
 
+#EXTINF:-1 tvg-id="xtremacartoon.ar" tvg-name="" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/06/xtreme-sport-vector-logo.png" group-title="Cartoon",Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Kids 
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1519315300.2673/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Cartoon",TG Junior 
