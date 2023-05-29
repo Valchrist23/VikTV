@@ -478,13 +478,16 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="MX",Capital
 
-#EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="LAT",TeleSur 
+#EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="Ven",TeleSur 
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="LAT",Telesur
+logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="Ven",Telesur
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="LAT",Globovision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Ven",Globovision
 https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
+https://ls.tves.gob.ve/hls/tves.m3u8
 
 -----------------------------------------Kitchen--------------------------------------------- 
 
