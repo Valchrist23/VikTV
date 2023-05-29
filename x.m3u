@@ -483,6 +483,9 @@ http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="LAT",Telesur
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="LAT",Globovision
+https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
+
 -----------------------------------------Kitchen--------------------------------------------- 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade 
