@@ -489,6 +489,9 @@ https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
 https://ls.tves.gob.ve/hls/tves.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
+https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
+
 -----------------------------------------Kitchen--------------------------------------------- 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking", Tastemade 
