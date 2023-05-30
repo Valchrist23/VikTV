@@ -1214,13 +1214,14 @@ http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="US",CNN RePlay 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d2feb4d8-21b7-11eb-9bad-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/512px-TMC_logo_2016.svg.png" group-title="",TMC 
-no 
-https://rapid1.gcdn.co/E153/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/560352.png" group-title="USA",E! old https://rapid1.gcdn.co/E58/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA LOCAL",KVVB-TV 33 
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/560352.png" group-title="USA",E! 
+old
+https://rapid1.gcdn.co/E58/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live
 
@@ -1323,7 +1324,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/maste
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cgUAySwTdV0/V_rDBlllznI/AAAAAAAAA9s/DNQ04yQuyoM21NNTfwcWIOsZlBlXunWqgCLcB/s1600/People%2B%252B%2BArts%2B%25281997%2529.png" group-title="Art",Classic Arts Showcase 
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://mcn6.org/wp-content/uploads/2020/08/unnamed-2.png" group-title="Movies",MCN 9
+#EXTINF:-1 tvg-logo="https://mcn6.org/wp-content/uploads/2020/08/unnamed-2.png" group-title="Movies",Pax
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 
 old 
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8 
@@ -1509,6 +1511,12 @@ no
  http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 
 -----------------------------------------Sports----------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="",TNT Sports
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CBS_Sports_HQ.png" group-title="Sports",CBS Sports HQ 
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
