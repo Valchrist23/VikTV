@@ -1008,11 +1008,8 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/MyNetworkTV_2D_Logo.svg" group-title="MX",MyTV KCWX Sanantonio 
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 no
 https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="In",FX 
 http://51.210.199.52/hls/stream.m3u8
