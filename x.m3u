@@ -1017,6 +1017,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/512x288_875600/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",Cineverse Selects 
+no
 https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/SaberMas_295x98.png" group-title="Movies",Saber Mas 
