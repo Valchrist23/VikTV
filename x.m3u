@@ -505,8 +505,6 @@ http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8 
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="MX",Capital
-
 #EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="Ven",TeleSur 
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
@@ -517,11 +515,12 @@ no
 https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
+https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
 no
 https://ls.tves.gob.ve/hls/tves.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
-https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Ven",eSports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
 -----------------------------------------Kitchen--------------------------------------------- 
 
