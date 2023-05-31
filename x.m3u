@@ -195,9 +195,9 @@ no
 https://www.runtime.tv/themes/custom/run/runtime/logo.png
 
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="",Runtime 
-https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/6039b5ce-c4d3-4103-bd73-407ec378e801/3.m3u8
 
-#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title="",ViX Jajaja 
+
+#EXTINF:-1 tvg-id="Vix JAJAJA" tvg-country="US" tvg-language="" tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title="",ViX Jajaja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="MX",EstrellaTV 
@@ -207,6 +207,7 @@ old
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0b043bce-1fa6-11ec-8837-0242ac110003&deviceId=a7eb821e-12b4-49c0-a7ec-45839820e803&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="MX",EstrellaTV 
+no
 https://content.uplynk.com/channel/81bcd5789d8d48ae8b6b0a559db1c7d6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV 
@@ -481,7 +482,10 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX",Canal 10 Microvision HD 
-https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 old http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
+
+old 
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="ES",France 24 Español SD 
 http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8 
@@ -851,9 +855,10 @@ notworking
 https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w111746657.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",RetroCrush 
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush 
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb543d167c6c648692d43a67cef041a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7751db80148b61299bce8c37683f03409a5e5afba358b1ebe75e40db39f0b14f55c37943b49f43c88148a6d2810d9e5e8323f341c89af58cd34284d79b42936df727364830748f817a8abb3edcbbca334af61d2f420e47d9a09cf05d398853313f929e9be50e9577c98d35931254d161c87d6e51e01ac2f634722fdacf96e7002714a1dc526228d29dcae8d5144370e266c093b05d738be21c3866c468ca2b2839ea93a3dd665074e4d1178cbe7c1c36c1d33ef3594e168ec2ee68bf0bb0a8d69937430e40050e8f5bad8863d228971fc2ab41730d1d12ffdf3db0f741fc34a84fc2a07ead49e912c4a3c8e2ae71a541165ffa69da5a4a58c53e797deb2cc3575d06860b059f3c31f7597ad50cacf864c2aed5e1092ca69ee976bf3ebffb5a89b635a0636a0d59f3ea7a0b0c0c5cc0fe6a08077cc16eedc785b4245e4ebfa18db6eb7b0c2a155b120082e9e230bc8bc322125f81702e727b1d12d955873a9150075060995ee0ad0f75970f6e78b5f0710e0c1ee3a2dbb68ed8ce4ba26c939ead4b48156d23ec634b761490dceb7ef2374c727f27f02c6c51b20a5f02a7d5feec978461d98f26cd1c670768d1ff074b6b0b20f7ef85f70e916dd920dd322af3305eab/93/1920x1080_4715744/index.m3u8
 
 Same 
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=491&ads.wurl_name=RetroCrush 
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",RetroCrush 
@@ -897,6 +902,9 @@ https://contvanime-localnow.cinedigm.com/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Asian",Asiancrush (720p) 
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d167c6c648692d43a67cef041a1f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7751db80148b61299bce8c37683f03409a5e5afba358b1ebe05a40d93da5b41a55c37942e19f43c88148a688805f975e8127f9419fc3a482d212d1d49b40936be530194a1d7e968e6a96c749c4b9f00869c600422c0b46d9b381f7583d855e313f929e9be50e9577c98d35931254d161c87d6e51e01ac2f634722fdacf96e7002714a1dc526228d29dcae8d5144370e266c093b05d738be21c3866c468ca2b2839ea93a3dd665074e4d1178cbe7c1c36c1d33ef3594e168ec2ee68bf0bb0a8d69937430e40050e8f5bad8863d228971fc2ab41730d1d12ffdf3db0f741fc34a84fc2a07ead49e912c4a3c8e2ae71a541165ffa69da5a4a58c53e797deb2cc3575d06860b059f3c31f7597ad50cacf864c2aed5e1092ca69ee976bf3ebffb5a89b635a0636a0d59f3ea7a0b0c0c5cc0fe6a08077cc16eedc785b4245e4ebfa18db6eb7b0c2a155b120082e9e230bc8bc322125f81702e727b1d12d955873a9150075060995ee0ad0f75970f6e78b5f0710e0c1ee3a2dbb68ed8ce4ba26c939ead4b48156d23ec634b761490dceb7ef2374c727f27f02c6c51b20a5f02a7d5feec978461d98f26cd1c670768d1ff074b6b0521e3188ac078d4efd3ad8ebeb80337a8ff/72/512x288_906215/index.m3u8
+
+no
 https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://logoeps.com/wp-content/uploads/2014/05/49503-youku-logo-icon-vector-icon-vector-eps.png" group-title="Asian",Xtrema Asia
@@ -1003,7 +1011,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904
 
 
 #EXTINF:-1 tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/levelup-com-logo-vector-xs.png" group-title="Gaming",Levelup 
-https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-HeroGo/195.m3u8 working https://answermedia-leveluptv-1-us.tcl.wurl.tv/playlist.m3u8
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-HeroGo/195.m3u8 
+
+working 
+https://answermedia-leveluptv-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://presetsgratis.com/wp-content/uploads/2021/10/retro-play-apk.png.webp" group-title="Gaming",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
@@ -1022,7 +1033,10 @@ https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=7a4a7116-1b04-11ec-aefb-0242ac110003&deviceId=9d8f625d-d1f4-473b-a707-39b5323f84f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rightnowtv.png" group-title="USA",Right Now TV 
-https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8 old https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/chunklist.m3u8
+https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8 
+
+old 
+https://2-fss-2.streamhoster.com/pl_118/205448-2064324-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Nowthis_logo16.png" group-title="USA",Now This 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
@@ -1117,7 +1131,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg" group-title="Movies",Electric Now 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8 
-same https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=za2544Lu2USHsyQ6qxjv&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=za2544Lu2USHsyQ6qxjv&custom_7=5f170d61b898490041b49360&is_lat=0
+same
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=za2544Lu2USHsyQ6qxjv&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=za2544Lu2USHsyQ6qxjv&custom_7=5f170d61b898490041b49360&is_lat=0
 
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Movies",Top Cine 
