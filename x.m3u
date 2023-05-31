@@ -341,8 +341,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/7LaRiojaTV.png" group-title="ES",La Rioja 
 no
 https://stream-03.sv4.dailymotion.com/sec(D9J3chSPMBKwmID2SmGTMIxNTGqtoK2tAZ0qmE_lH-u_xHpwnujTllfG7ZtlhLRG)/dm/3/x8dhao1/s/live-2.m3u8 
-
-old 
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" group-title="ES",Atreseries 
@@ -2091,7 +2089,10 @@ http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18
 old not work https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV 
-http://crackle-xumo.amagi.tv/playlist.m3u8 same https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-crackle-xumo/CDN/768x432_1425600/index.m3u8
+http://crackle-xumo.amagi.tv/playlist.m3u8 
+
+same 
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-crackle-xumo/CDN/768x432_1425600/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="US",Tubi Originals 
 https://lnc-tubi-originals.tubi.video/index.m3u8
