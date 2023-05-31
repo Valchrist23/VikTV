@@ -1195,7 +1195,9 @@ same https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1153
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1153
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/thumbh_20200930_060553.jpg" group-title="Movies",Canela TV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=148 same https://stream.ads.ottera.tv/playlist.m3u8?network_id=205
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=148 
+same
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=205
 
 #EXTINF:-1 tvg-logo="https://canelamedia.com/wp-content/uploads/2022/05/logo-kids-v2.svg" group-title="Movies",Canela TV Kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
@@ -1265,10 +1267,11 @@ https://smart-tv.livedoomovie.com/02_WarnerTVHD_720p/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png",WGN 9
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",WFMZ cANNEL 69
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",WFMZ Channel 69
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
+no
 https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ca&id=170&r=1280x720 
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
@@ -1276,6 +1279,7 @@ no
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u 
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
+no
 https://iptv.arkina1234.repl.co/mybtv.php/index.m3u8?v=ca&id=118&r=1280x720
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 43 Harrisburg 
@@ -1295,9 +1299,9 @@ old http://51.161.118.146:8080/ISG03_FOX_CHICAGO_IL_WFLD/video.m3u8 #EXTINF:-1 t
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX New York 
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8 
-no 
 
+no 
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8 
 http://51.161.118.146:8080/ISG03_FOX_BOSTON_MA_WFXT/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX Orlando 
@@ -1359,7 +1363,10 @@ https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="US",AMC East 
-https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8 old https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8 
+
+old 
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/10/AMC-Plus.jpg" group-title="US",AMC+ 
 no https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8 
@@ -1403,9 +1410,6 @@ https://dust-int-samsungau.amagi.tv/playlist.m3u8
 
 old 
 https://29955703caa546ac80a889f3df2317f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_Dust/playlist.m3u8?ads.wurl_channel=252&ads.wurl_name=Dust&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png" group-title="Global",Galaxy Tv not anymore 
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Global",ION Television East 
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -1743,7 +1747,7 @@ https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network 
 https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-TCN/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.rockland.de/typo3conf/ext/ch_radio21/Resources/Public/Assets/rockland_logo.svg" group-title="Music",Rockland Radio
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://commons.wikimedia.org/wiki/File:Rockland_Radio_Logo.jpg" group-title="Music",Rockland Radio
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2032486525_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="US",Gravitas 
