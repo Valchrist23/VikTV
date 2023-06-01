@@ -1970,7 +1970,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319f06067a3ee000708af
 old 
 https://haunttv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BloodyDisgusting.us" tvg-name="Bloody Disgusting" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3" group-title="Movies",Bloody Disgusting (1080p) 
+#EXTINF:-1 tvg-id="Scream Box" tvg-name="Scream Box" tvg-country="US" tvg-language="English" tvg-logo="https://i.pcmag.com/imagery/reviews/05lTV8zpzdxJCNUNOQq4h4i-9.fit_scale.size_1028x578.v1665758383.png" group-title="Movies",Scream Box TV
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8 
 
 no 
