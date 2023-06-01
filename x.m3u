@@ -187,10 +187,10 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePride.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="Lifestyle",CinePride (720p)
  
 
-#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="",Runtime TV y Peliculas 
+#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="",Runtime Cine y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=fd3c2800b72b5fd3a37959d353c41c32&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450423&id=2964&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=tiKerCW0Y7dCZwfBRv11wVvcU5zGfg3MNmtdHPY0hV8%3D
 
-#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title="",Runtime Accion 
+#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" group-title="",Runtime Acción 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=c6c7713bd924a73bea0756a03f57c603&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450807&id=4674&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=1EfhcIQydWgIfF4gbkV0esjLvP0RKZk3DWCeRWSjBf8%3D
 
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_comedy_bg.jpg" group-title="",Runtime Comedia 
@@ -265,7 +265,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="MX",CANAL 8 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest?cb=20210513184925&path-prefix=es" group-title="MX",TEN HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Canal10Honduras2019.png/revision/latest?cb=20210513184925&path-prefix=es" group-title="MX",Ten HD 
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="MX",Antares TV 
@@ -300,7 +300,7 @@ no
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",EXTREMADURA 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8 
 
 no
@@ -339,7 +339,7 @@ no
 http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.m3u 
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" group-title="ES",Canal4 
+#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" group-title="ES",Canal 4 
 https://www.tdtchannels.com/stream/tevecat.m3u8
 
 same 
@@ -357,14 +357,14 @@ https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_tok
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="ES",Atrescine 
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="ES",La 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" group-title="ES",La 1 HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="ES",TVE
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",LA 2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2 
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",LA 2 
@@ -377,7 +377,7 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 https://rtvelivestreamv6.akamaized.net/segments/la2/la2_main_1080.m3u8 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid 
+#EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid Int.
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="LAT",RT in Spanish 
@@ -2197,7 +2197,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5lb3gudHZfaWNvbl8xNTk0MzYxNjc0XzAxOA/icon.png?w=140&fakeurl=1" group-title="Music",Neox TV 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5lb3gudHZfaWNvbl8xNTk0MzYxNjc0XzAxOA/icon.png?w=140&fakeurl=1" group-title="Music",Neox 
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Ar",Bayres TV 
