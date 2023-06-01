@@ -361,8 +361,10 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",RTVE
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="ES",TVEI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="ES",Star TVE HD
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
+
+TVEI
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2 
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
@@ -377,7 +379,7 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8
 https://rtvelivestreamv6.akamaized.net/segments/la2/la2_main_1080.m3u8 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid Int.
+#EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" group-title="LAT",RT in Spanish 
