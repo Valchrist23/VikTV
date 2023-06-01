@@ -386,7 +386,16 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Internacional 
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Puertorico https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Internacional http://190.131.228.59:8000/play/a067/index.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Los Angeles https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo 
+
+Puertorico 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Internacional 
+http://190.131.228.59:8000/play/a067/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Los Angeles 
+https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -680,9 +689,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdd
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="US",True History 
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History Channel (Best of) 
-no 
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="US",TLC
+https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="US",Pluto TV History 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
@@ -2156,9 +2164,8 @@ old not work https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-
-
 same 
+https://crackle-plex.amagi.tv/playlist480p.m3u8
 https://d26ryn1s9vxsg0.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/9123c8d1-6545-4a96-94fa-3f12facbbf00/4.m3u8
 http://crackle-xumo.amagi.tv/playlist.m3u8 
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-crackle-xumo/CDN/768x432_1425600/index.m3u8
