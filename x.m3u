@@ -518,7 +518,8 @@ https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
 https://rundle.deta.dev/hls/LIVE$TVes.ve/6.m3u8/Level(19012010)?end=END&start=LIVE
-no
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Ven",Tves
 https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Ven",eSports Max
