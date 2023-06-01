@@ -29,6 +29,9 @@ https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="LAT",Multivision
 https://panel.dattalive.com/8250/8250/chunklist_w835067006.m3u8
 
+old
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/340px-Logo_tvmax.png" group-title="MX",TVMax
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
@@ -85,12 +88,16 @@ https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+no
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.kdtv.san.francisco.ca.us.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision 
-https://v-ny.mybtv.net/live/643.m3u8 
+
 
 old
+https://v-ny.mybtv.net/live/643.m3u8
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 
 
@@ -473,12 +480,6 @@ working https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3
 el nueve 
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/86a9a82d-41e9-4133-a494-72171218942c/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.Rq4tjGFeh0v0i4iM053e7AAAAA&pid=Api&P=0&w=300&h=300" group-title="MX",Multivision 
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="MX",MVS
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="MX",Canal 10 Microvision HD 
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
 
@@ -504,6 +505,9 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" group-title="Ven",TeleSur 
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
+
+old
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Ven",Globovision
