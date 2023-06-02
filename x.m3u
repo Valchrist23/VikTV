@@ -142,7 +142,8 @@ https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLm1xMaiJ_3ULi4ohiN
 notworking
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Galavision" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="MX",Galavision
+#EXTINF:-1 tvg-name="Telehit" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="MX",Telehit
+https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33561_dark_360w_270h.png" group-title="MX",Guatevision 
 http://190.122.96.187:8888/http/002
@@ -187,8 +188,9 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CinePride.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png" group-title="Lifestyle",CinePride (720p)
- 
+#EXTINF:-1 tvg-id="Ovation Now" tvg-country="US" tvg-language="English" tvg-logo="https://ovationtv.com/app/uploads/2021/10/logo-ovation.svg" group-title="Lifestyle",Ovation Now
+https://linear-293.frequency.stream/dist/vix/293/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="",Runtime Cine y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=fd3c2800b72b5fd3a37959d353c41c32&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450423&id=2964&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=tiKerCW0Y7dCZwfBRv11wVvcU5zGfg3MNmtdHPY0hV8%3D
@@ -1458,6 +1460,9 @@ https://22efc0415b994402907c019895d9f1de.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Global",ION Plus 
 https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/ION_Mystery_logo.svg" group-title="Global",ION Mistery 
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Documentary", Pluto TV Animals 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
