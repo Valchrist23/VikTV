@@ -90,11 +90,8 @@ https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-no
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/uni.kdtv.san.francisco.ca.us.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision 
-
+https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
 
 old
 https://v-ny.mybtv.net/live/643.m3u8
@@ -587,10 +584,8 @@ https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking",Stirr gusto
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking",Gusto TV
-
-old no sirve 
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f3662f6b3c476fc03e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f3662f6b3c476fc03e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking",Televisa Cocina
+https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appétit" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p) 
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
