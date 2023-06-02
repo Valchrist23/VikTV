@@ -710,7 +710,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 no
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-idhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History US West
+#EXTINF:-1 tvg-id="History" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" group-title="US",History US East
 https://mhdtv.co.in/jio/app/live/146/History_HD/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d44e50251670155050ab56de144c59ac9c4452bade594cdd308904eb346398ce368d6bd9c631d51fb886108adeed76dff_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/2019/09/logo-discovery-hd.png" group-title="US",Discovery Channel USA HD 
