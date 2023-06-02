@@ -93,6 +93,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision 
 https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision 
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 old
 https://v-ny.mybtv.net/live/643.m3u8
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
