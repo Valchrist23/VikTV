@@ -1614,7 +1614,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a5a9e767980007
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="USA",True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pluto_TV_logo_2020.svg" group-title="USA",Pluto Live 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pluto_TV_logo_2020.svg" group-title="USA",Cine terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/featuredImage.jpg" group-title="USA",Pluto TV Staff Picks 
