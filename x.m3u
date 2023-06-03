@@ -2182,7 +2182,7 @@ http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=MEAE1417577214175772&ct=18
 
 old not work https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle TV 
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="US",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 same 
