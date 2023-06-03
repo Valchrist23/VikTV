@@ -1614,9 +1614,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6000a5a9e767980007
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="USA",True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pluto_TV_logo_2020.svg" group-title="USA",Cine terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/featuredImage.jpg" group-title="USA",Pluto TV Staff Picks 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
@@ -1709,6 +1706,10 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed9
 
 old 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5f3b5ae8-2aa6-11ec-a03d-0242ac110003&deviceId=39cf00ce-0dde-4b0b-835b-3e794bb4ecdf&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pluto_TV_logo_2020.svg" group-title="USA",Cine terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Movies",Cine adrenalina 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
