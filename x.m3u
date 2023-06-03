@@ -135,12 +135,14 @@ https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w761503669_DVR
 https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/chunklist_w1456781176.m3u8 https://5fe2654d6127d.streamlock.net/tvunam/smil:tvunam.smil/chunklist_w779578621_b3428000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen TV HD 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpvABp3rnLxYGpO_mCXlyAXKxbp0OWDu3tGUwRbFZnlp)/dm/3/x82z4if/d/live-2.m3u8
 
 no
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLm1xMaiJ_3ULi4ohiNnbSCV9dvdfZogxpQ7FVLvxvEVj)/dm/3/x82z4if/d/live-2.m3u8
 
-#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV HD 
+#EXTINF:-1 tvg-id="Imagen TV Radio" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV Radio 
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
 notworking
 http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
 
