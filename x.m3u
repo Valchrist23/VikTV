@@ -382,6 +382,9 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8 
 
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2
+https://ythls.onrender.com/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
+                      
 same 
 https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8 
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8 
