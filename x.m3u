@@ -2015,7 +2015,7 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Adult-Swim-Logo.png" group-title="ES",DailyAnimated 
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/b/b7/20200417004325%21Toonami_logo.svg" group-title="ANIME",Toonami 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Toonami_Logo_2021.png" group-title="ANIME",Toonami 
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~ 
@@ -2098,7 +2098,7 @@ https://linear-218.frequency.stream/dist/localnow/218/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="Movies",Local Now Adrenaline Rush 
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/adrenalinerush.png" group-title="Movies",Local Now Adrenaline Rush 
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="Movies",Local Now Adrenaline Rush 
 https://linear-133.frequency.stream/dist/vix/133/hls/master/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://mhdtvworld.xyz/wp-content/uploads/2021/05/localnowscifi.png" group-title="Movies",Local Now SCI-FI 
