@@ -190,7 +190,7 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ovation Now" tvg-country="US" tvg-language="English" tvg-logo="https://ovationtv.com/app/uploads/2021/10/logo-ovation.svg" group-title="Lifestyle",Ovation Now
+#EXTINF:-1 tvg-id="Ovation Now" tvg-country="US" tvg-language="English" tvg-logo="https://www.ovationtv.com/app/uploads/2019/08/ovation-now-og-image-2000x800-c-default.jpg" group-title="Lifestyle",Ovation Now
 https://linear-293.frequency.stream/dist/vix/293/hls/master/playlist.m3u8
 
 
@@ -1047,12 +1047,12 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Junior-Logo.svg" group-title="Cartoon",TG Junior 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/103-1031814_galaxy-tv-galaxy-tv-logo-hd-png-download.png" group-title="Cartoon",Galaxy TV 
+
+#EXTINF:-1 tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" group-title="Cartoon",Watch it Kid
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2101 
 
-same 
+same https://www.pngfind.com/pngs/m/103-1031814_galaxy-tv-galaxy-tv-logo-hd-png-download.png
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2101&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
-
 
 #EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest?cb=20160624154932" group-title="Gaming",GINX Esports TV
 
