@@ -1777,7 +1777,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.coolstreaming.us/img/ch/image82141696383.jpg" group-title="Music", Music Retro 
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8 
+
+old
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="MX",TVPop 
 https://v4.tustreaming.cl/poptv/playlist.m3u8
