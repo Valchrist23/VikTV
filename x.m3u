@@ -210,9 +210,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&avod=1&coppa=0&is_lat
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/favicon.png" group-title="",Mexico TV y Peliculas 
 no 
 https://www.runtime.tv/themes/custom/run/runtime/logo.png
+https://www.runtime.tv/themes/custom/run/runtime/logo.png
 
-#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="",Runtime 
-
+#EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://ustvnow360.com/channels/logo/1b0f12d37dc84ca7a45ed306b27caf51.png" group-title="",Action
+https://c83c7aef41db47a8baa908017fa7ef75.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/TeleUp_ACTION/469a1751-71ff-4310-9b35-85e9f4efd631/4.m3u8
 
 #EXTINF:-1 tvg-id="Vix JAJAJA" tvg-country="US" tvg-language="" tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title="",ViX Jajaja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
