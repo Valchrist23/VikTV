@@ -262,10 +262,14 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
 old 
 https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZDDQ_P1sCRKkAYc9Dib341W9txK3xPlv5i4TmC6bK6Y)/dm/3/x7v76vf/s/live-1.m3u8 
-https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w1311648668.m3u8? https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w1544771676.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAzOjU4OjUzIEFNJmhhc2hfdmFsdWU9TG5GNjh3SEpNMTRvQUkyY0hUNnNFUT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZAzCdugIo-3L7u_eQe8LY_TEOv1JkloAKNq9atQd3SA)/dm/3/x7v76vf/s/live-1.m3u8
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w1311648668.m3u8? 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf 
+https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZAzCdugIo-3L7u_eQe8LY_TEOv1JkloAKNq9atQd3SA)/dm/3/x7v76vf/s/live-1.m3u8
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w753064221.m3u8?
+
+
 https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZDDQ_P1sCRKkAYc9Dib341W9txK3xPlv5i4TmC6bK6Y)/dm/3/x7v76vf/s/live-1.m3u8 
 https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zd-qYcXx7quuv54nyewfF-8)/dm/3/x7v76vf/s/live-1.m3u8 
-https://stream-03.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYVwn5JNcnTcM2Yhb1-k5u8)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX",Multimedios TV 
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
@@ -381,6 +385,7 @@ TVEI
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2
+si
 https://ztnr.rtve.es/ztnr/1688885.m3u8 
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2
@@ -391,7 +396,6 @@ https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_720.m3u8 
 https://rtvelivestreamv6.akamaized.net/segments/la2/la2_main_1080.m3u8 
-https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
@@ -421,7 +425,8 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Internacional
 
 old 
-https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8 
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8 
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 https://knsdlive-f.akamaihd.net/i/knsdb1_1@71120/index_2500_av-p.m3u8?sd=10&rebase=on
@@ -798,7 +803,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Cartoon",Energeek Fanpop
-no
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Cartoon",Energeek Fanpop
