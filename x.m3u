@@ -178,6 +178,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 old 
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_Tev%C3%A9_logo.jpg/1440px-Am%C3%A9rica_Tev%C3%A9_logo.jpg" group-title="MX",América Tevé
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-country="MX" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
