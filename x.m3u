@@ -39,6 +39,8 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7] 
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+
 no
 https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cp0FynDlE_OBM2iE1kQ7mDArQfbPeA0_xqlJTTRmLQx-ac7P6DkNrAVzuDvQVnix1rUm27Y_cwNFGOgDoqVtapPka05lWuumrZK6iGggtRwHcHW8n1tFf3LQMNaU23dGrCWDzZ1n9G4-PWWntBiF73I5j-xvfVCLdb4PBV_uyUT4eX6osGvv4TtqC1AL4oEWgqIrdTwHykaKOL0mmtknBuqfu3xh93uz6TNU2iWEarRYBnkiR35bsMwiUZfth-J5ELNnLUeg08uwIDdFHM6zt3QBC_HNAnkeIT5E-dmLk9AN2bqF6BmooLPy5tdS2B9M9Srqjs3nDrRI5sV3iDTJqaoXY_-YqBf4SrXoh5FyPtc4UdHTS0mxMpzlP8J1imNpEmX0DIw3enLt9NrnzgaVUbBDLMiCBNKtgXVQ_YiiOI7InoOWsCNQPD0vrJF7IH0LR-rF0yQALbLbpNV_7jzUj6yM7KLZuSOcXP-i3_oQ8KrTMr7UlDKyg9xFD69DDFRyL1tUSXR_y0HjohhV_UdRh2fQ2_50U0oQpxCOAEGiWj4EUU0lFeIjdToccOdiki8kznLfUvmfi_m9p16pO2gKMo3NgXUaLdmCawG6lursMHrke8cOFvZBxAzTy5RcDLFzLc9W81NudjCrbVcOQE-AQuY6669psW3MnIvHU-So7O8kK3P1A3ZE3lTLhRf8Lk7TGPYmYNCJ_pez4TMt2N3QrimP-ceCUaNeDv6RVNUVsJMAkyEI9ptAES9czPrxwSSh6wQ0-VOd12wSO7pApBzSpWkSbQPE4exFX6dYlPX2SFUFxOX4I3gZ3JSJIbEVorLVbxJ7pIXfrhO_9Y9g6kgm0F80pi9aOuSfmo01L3XsTgjyUutkIQsVmInSyIQdvdlqGgztxA7Jd-8xCTC3CVcgASoJdXMtZWFzdC0yMPsF.m3u8 old https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CpgFZQqtZq20lJmyoQLa-ztCmpW-zfOJ1mp9e8r-U5G2itE29m3iGekeH2_UT8UdPf9xM5-CZuCnM_LEkzxq8PfoOKu6CSUOky6NV1vKQbRFQWUmZ8ZVp5KjB373kXl7ItPoPyObw_Kacx4IxEtzx0-v0TAyLVfzcr4vM5N4Wl7oIxKjJtvm6SI_lLsee2OH7R0_9pf7Qqmyibw7WoFp63duUE3MbtpnNduHDaMknC8_hGnOZgvz-_mHDtJOX3n5TfcGjwVQLWW9_cDx_FNe6QKt0ehGrjBlOX44CIzmluY1_raPZqr-2N-7ypfloRhOLRUe1VMoZCMODrNYS9AdJehPQ4oVeNnftokcU0lnt4r7d2uercxn-_jNd7e_PKq429z32AzE7YVt2fJ0Hd9CsxqqcHT0hDxpzjaqapjikS7RyZ98-jmXTdkFQGCLMqHMwtoUc7-zCxQSAYb14aGd9lI_vGGx5z3jPJZyi7xXkfiBkVUAkMUod0ONuzw4p5nsBZSsat4nm4HsEUZJCc3AoPiTbh0EeyILKfAhcGVw977wPpdbA3oSUknAPICDSYNCyc3tP0FdhSA67hRgbqbXXjspeebZu9wXsbhIIcSiN06adjm04WQY7bcJSAAs2RMaw-9uQUg5WMOelf9exapOOJkhoTFVQZvyprC4-4_DCw-RIr8DxGrIGY-CWeqkmF1QWXPPK2m-ExEffdimvgI4scz4BCoemCrI9IqkK2MSQROAD4VGdKJoV-F0HaoZaQTXzqCbKzhKzaKtvEF4-s-M2XvyrTrVhN_NMRuEzO6Mw6LbRpZYdm-FKxHHqbuPEEyT0nyeBx60pcN60V34gJ6Yb5IYycLiP1GX7Sv38KbE7naSF7S8VqU7DACsvxoMO8WYaGQGHmX1Obz7IAEqCXVzLWVhc3QtMjDOBQ.m3u8
 
@@ -349,14 +351,6 @@ https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/
 same 
 https://rakuten-hola-2-es.lg.wurl.tv/playlist.m3u8 no https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Samsung-es_BoxCinema/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=BoxCinema&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",TVEI 
-no
-https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8 
-
-no 
-http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.m3u 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" group-title="ES",Canal 4 
 https://www.tdtchannels.com/stream/tevecat.m3u8
 
@@ -382,7 +376,14 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="ES",Star TVE HD
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
-TVEI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",TVEI 
+http://210.210.155.37/uq2663/h/h158/index2.m3u8
+no
+https://cdnlive.shooowit.net/rtvcelive/channel1.smil/playlist.m3u8 
+
+no 
+http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.m3u 
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2 
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
