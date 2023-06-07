@@ -2274,6 +2274,9 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1631254879.m3u8
 no
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="LAT",Cinco TV
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8 
 
