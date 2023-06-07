@@ -229,7 +229,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da0
 old 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0b043bce-1fa6-11ec-8837-0242ac110003&deviceId=a7eb821e-12b4-49c0-a7ec-45839820e803&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="MX",EstrellaTV 
+#EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="MX",Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+
 no
 https://content.uplynk.com/channel/81bcd5789d8d48ae8b6b0a559db1c7d6.m3u8
 
