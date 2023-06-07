@@ -2208,6 +2208,7 @@ https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="US",Sony Pix
+no
 https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master.m3u8?hdnea=st=1685632792~exp=1685633092~acl=*~id=7b098718-f507-4e09-a255-e386b657b829~hmac=8aa01483468ed7b3ecbb3a49ad633216afbd85fe10c4b53e380ffabf9d0f1672&originpath=/linear/hls/pa/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/a7018feb-0af6-4be1-a6f9-703f721c4f88:DLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="US",Sony Movies
@@ -2294,18 +2295,17 @@ https://videohd.live:19360/8010/8010.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5lb3gudHZfaWNvbl8xNTk0MzYxNjc0XzAxOA/icon.png?w=140&fakeurl=1" group-title="Music",Neox 
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="Ar",Bayres TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33561_dark_360w_270h.png" group-title="MX",Guaymate 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="MX",Guaymate 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
 
 #EXTINF:-1 tvg-logo="http://zaztv.com/storage/branding_media/BYPUAzbxn2h1N8bbNDSYINV61sVctU5Gf2dAYMnS.png" group-title="Movies",Peliculas 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1731
 
-#EXTINF:-1 tvg-logo="https://adocco.tv/wp-content/uploads/2022/03/cropped-logo_tv.png" group-title="Movies",Adocco TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2430-294x165-FFFFFF.jpg" group-title="Movies",PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Movies",Canal 6 Costa Rica
