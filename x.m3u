@@ -546,6 +546,12 @@ old
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Ven",Globovision
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1686131379/ei/U_5_ZIOeJ4qSkgbUxrfgDQ/ip/2806%3A2f0%3A1100%3Abb7%3Ad9ee%3A99a0%3A94c9%3Aaa0f/id/t-A6RWx1I8k.1/source/yt_live_broadcast/requiressl/yes/tx/24472451/txs/24472450%2C24472451%2C24472452%2C24472453%2C24472454%2C24472455%2C24472456/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/spc/qEK7By8Vlx6Dvcy780eYrl2E9kUh7QOej8de59R8SuvPrv8pLrx_7Ow/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362688/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgH8GgTWKXSOwiqKNNA2j8FEkDdg84n-QxEZHRa0Wk1XECIQC6fUmUpXL0z0CzJ2_-GFyUFeIfXujrgkFKDbGmc49SJw%3D%3D/file/index.m3u8
+
+no
+https://ythls.onrender.com/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
+
+no
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8?PlaylistM3UCL
 
 no
@@ -805,7 +811,7 @@ https://seo.tv.bo/tv/q4PE.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Latinoamerica 
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Latinoamerica 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Cartoon",EnerGeek Fanpop
@@ -1827,7 +1833,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-iroMdC9P6rM/VhQ4S8pCbVI/AAAAAAAAA2M/_szadO0P7Do/s640/vevo-tv-logo-new.png" group-title="Music",Vevo Pop 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="Music",Maxima Tv FM 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="Music",Maxima Tv
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network 
