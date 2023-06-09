@@ -1692,9 +1692,10 @@ old
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2238fca9-04d9-11eb-8b9f-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753bc&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/featuredImage.jpg" group-title="Movies",Pluto TV Crime Movies 
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
 old 
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=210eaf91-2a46-11ec-9bee-0242ac110003&deviceId=48ee2226-4800-443e-8b20-c5380fe7b7ab&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Movies",Cine Premiere 
