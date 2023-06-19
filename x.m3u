@@ -41,8 +41,21 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-id="sintesistv.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV (1080p) [Not 24/7] 
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
-no
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cp0FynDlE_OBM2iE1kQ7mDArQfbPeA0_xqlJTTRmLQx-ac7P6DkNrAVzuDvQVnix1rUm27Y_cwNFGOgDoqVtapPka05lWuumrZK6iGggtRwHcHW8n1tFf3LQMNaU23dGrCWDzZ1n9G4-PWWntBiF73I5j-xvfVCLdb4PBV_uyUT4eX6osGvv4TtqC1AL4oEWgqIrdTwHykaKOL0mmtknBuqfu3xh93uz6TNU2iWEarRYBnkiR35bsMwiUZfth-J5ELNnLUeg08uwIDdFHM6zt3QBC_HNAnkeIT5E-dmLk9AN2bqF6BmooLPy5tdS2B9M9Srqjs3nDrRI5sV3iDTJqaoXY_-YqBf4SrXoh5FyPtc4UdHTS0mxMpzlP8J1imNpEmX0DIw3enLt9NrnzgaVUbBDLMiCBNKtgXVQ_YiiOI7InoOWsCNQPD0vrJF7IH0LR-rF0yQALbLbpNV_7jzUj6yM7KLZuSOcXP-i3_oQ8KrTMr7UlDKyg9xFD69DDFRyL1tUSXR_y0HjohhV_UdRh2fQ2_50U0oQpxCOAEGiWj4EUU0lFeIjdToccOdiki8kznLfUvmfi_m9p16pO2gKMo3NgXUaLdmCawG6lursMHrke8cOFvZBxAzTy5RcDLFzLc9W81NudjCrbVcOQE-AQuY6669psW3MnIvHU-So7O8kK3P1A3ZE3lTLhRf8Lk7TGPYmYNCJ_pez4TMt2N3QrimP-ceCUaNeDv6RVNUVsJMAkyEI9ptAES9czPrxwSSh6wQ0-VOd12wSO7pApBzSpWkSbQPE4exFX6dYlPX2SFUFxOX4I3gZ3JSJIbEVorLVbxJ7pIXfrhO_9Y9g6kgm0F80pi9aOuSfmo01L3XsTgjyUutkIQsVmInSyIQdvdlqGgztxA7Jd-8xCTC3CVcgASoJdXMtZWFzdC0yMPsF.m3u8 old https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CpgFZQqtZq20lJmyoQLa-ztCmpW-zfOJ1mp9e8r-U5G2itE29m3iGekeH2_UT8UdPf9xM5-CZuCnM_LEkzxq8PfoOKu6CSUOky6NV1vKQbRFQWUmZ8ZVp5KjB373kXl7ItPoPyObw_Kacx4IxEtzx0-v0TAyLVfzcr4vM5N4Wl7oIxKjJtvm6SI_lLsee2OH7R0_9pf7Qqmyibw7WoFp63duUE3MbtpnNduHDaMknC8_hGnOZgvz-_mHDtJOX3n5TfcGjwVQLWW9_cDx_FNe6QKt0ehGrjBlOX44CIzmluY1_raPZqr-2N-7ypfloRhOLRUe1VMoZCMODrNYS9AdJehPQ4oVeNnftokcU0lnt4r7d2uercxn-_jNd7e_PKq429z32AzE7YVt2fJ0Hd9CsxqqcHT0hDxpzjaqapjikS7RyZ98-jmXTdkFQGCLMqHMwtoUc7-zCxQSAYb14aGd9lI_vGGx5z3jPJZyi7xXkfiBkVUAkMUod0ONuzw4p5nsBZSsat4nm4HsEUZJCc3AoPiTbh0EeyILKfAhcGVw977wPpdbA3oSUknAPICDSYNCyc3tP0FdhSA67hRgbqbXXjspeebZu9wXsbhIIcSiN06adjm04WQY7bcJSAAs2RMaw-9uQUg5WMOelf9exapOOJkhoTFVQZvyprC4-4_DCw-RIr8DxGrIGY-CWeqkmF1QWXPPK2m-ExEffdimvgI4scz4BCoemCrI9IqkK2MSQROAD4VGdKJoV-F0HaoZaQTXzqCbKzhKzaKtvEF4-s-M2XvyrTrVhN_NMRuEzO6Mw6LbRpZYdm-FKxHHqbuPEEyT0nyeBx60pcN60V34gJ6Yb5IYycLiP1GX7Sv38KbE7naSF7S8VqU7DACsvxoMO8WYaGQGHmX1Obz7IAEqCXVzLWVhc3QtMjDOBQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4
+https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MX",Canal 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="MX",Canal 66
+https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12 
+https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="MX",Canal 23
+https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1090px-Las_Estrellas.svg.png" group-title="MX",Las Estrellas 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
@@ -52,45 +65,11 @@ https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1090px-Las_Estrellas.svg.png" group-title="MX",Las Estrellas 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-no
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1280px-Logotipo_de_Televisa.svg.png" group-title="MX",XHG Canal 4 
-no
-https://v-sd.mybtv.net/live/486.m3u8
 
 #EXTINF:-1 tvg-id="Televisa Aguascalientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="MX",El Nueve
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 no
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4
-https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MX",Canal 44
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Canal 66" tvg-name="" tvg-language="Korean" tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" group-title="News",Canal 66 Mexicali 
-
-#EXTINF:-1 tvg-logo="https://canal66.tv/wp-content/uploads/2021/09/TOP-66LOGO.png" group-title="MX",Canal 66
-https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
-
-old
-https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC 
-https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w770478109_b1428000_sleng.m3u8 60417ddeaf0d9 
-https://5f1af61612fb5.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8?PlaylistM3UC 
-https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w310095722_b478000_sleng.m3u8 
-https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w917020827_b478000_sleng.m3u8 
-https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w2131362913_b478000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12 
-https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="MX",Canal 23
-https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
