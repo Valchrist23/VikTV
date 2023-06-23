@@ -615,10 +615,10 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary",So...Real 
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category",Stirr City Las Vegas
+#EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/180/center/90/4369b546-cf08-44f9-9d88-c382cc13ac2e-medium16x9_STIRR_0721_EPG_STIRRCity_1920x1080.png" group-title="Without category",Stirr City Las Vegas 
 https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8 
 
-#EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category",STIRR | National 
+#EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category",STIRR | National    
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/qA7MrNawAnvhqUfdiTuxF0KphIT4ZGV_C6cP2GsQiP8/rs:fit:520:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/SUI5NExvY2pSZE9V/RGRXU1VBVWZ3SGFH/dyZwaWQ9QXBp" group-title="US",Paramount+ Picks 
@@ -698,7 +698,7 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",Viceland HD 
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Charge%21_Logo_2020.svg" group-title="USA",CHARGE 
+#EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/180/center/90/48c80649-8389-4512-8af0-90119f1c4deb-medium16x9_STIRR_0721_EPG_Charge_1920x1080.png" group-title="USA",CHARGE 
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder (1080p) 
