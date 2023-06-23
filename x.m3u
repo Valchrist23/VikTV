@@ -198,6 +198,8 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="MX",Multimedios TV 
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="MX",Multimedios Costa Rica
@@ -217,6 +219,8 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7
 
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",22 de Mexico 
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9 
+same
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="LAT",CGTN Español 
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -1231,3 +1235,10 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="USA",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="USA",FX
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/16553
+
+
+
