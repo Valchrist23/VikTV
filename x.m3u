@@ -66,7 +66,7 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="adn 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg" group-title="MX",TVMás 
+#EXTINF:-1 tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="MX",TVMás   
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="MX",Canal Once 
