@@ -633,7 +633,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="MX",Lifetime Latinoamerica 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tibs2.threeifbyspace.net/wp-content/uploads/2017/05/SYFY-Horizontal-Logo_Color.jpg" group-title="USA",Pluto TV Sci-Fi 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="USA",Pluto TV Sci-Fi 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg" group-title="Movies",Electric Now 
