@@ -426,7 +426,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="US",The Asylum 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=7efea9c6-aa34-4c2e-9f5c-3cc26c6782e6&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="Art",The Bob Ross Channel 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" group-title="Art",The Bob Ross Channel  
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/08/RED-TV-ok.png" group-title="US",Red TV 
@@ -456,7 +456,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Cartoon",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://kanade.wowlymedia.com/public/assets/img/AnimeStation-Logo-BK.png" group-title="Cartoon",AnimeStation 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542951683663269888/2UHYRzKx_400x400.jpg" group-title="Cartoon",AnimeStation  
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewjJrSf.png" group-title="Movies",Kanade TV 
