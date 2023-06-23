@@ -182,7 +182,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8 old https://v-ny.mybtv.net/live/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel Chanel 
+#EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="MX",Mexico Travel Chanel 
 https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zdd1Kn-ibALgaafxFbV79CAhJ2rlVZinVflXD1fm5tdf)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="MX",Turistik TV 
