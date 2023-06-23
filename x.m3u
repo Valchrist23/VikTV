@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png/v1/crop/x_230,y_314,w_1457,h_454/fill/w_200,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20mv.png" group-title="General",Mariavision
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://static.wixstatic.com/media/ae9e39_98c192d6a3754e0188199e96fc46b514~mv2.png/v1/crop/x_230,y_314,w_1457,h_454/fill/w_200,h_62,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20mv.png" group-title="General",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="MX",Mexiquense TV 
@@ -24,7 +24,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png" group-title="LAT",Multivision
 https://panel.dattalive.com/8250/8250/chunklist_w835067006.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/340px-Logo_tvmax.png" group-title="MX",TVMax
+#EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/340px-Logo_tvmax.png" group-title="MX",TV Max
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="MX",Canal 57
@@ -78,7 +78,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="US",TVP Pacifico Obregon 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen TV HD 
+#EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen Television 
 https://ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-id="Imagen TV Radio" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV Radio 
@@ -95,9 +95,6 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Televisa Aguascalientes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" group-title="MX",El Nueve
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",DPXHIMT 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="LAT",Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -123,16 +120,19 @@ https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33561_dark_360w_270h.png" group-title="MX",Guatevision 
 http://190.122.96.187:8888/http/002
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",AZDLY1H 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca Uno
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MX",Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca Siete 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="MX",AMAS70 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca7 
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="MX",A Mas 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_Tev%C3%A9_logo.jpg/1440px-Am%C3%A9rica_Tev%C3%A9_logo.jpg" group-title="MX",América Tevé
@@ -180,7 +180,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8 old https://v-ny.mybtv.net/live/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="MX",Estrella TV 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel Channel 
+#EXTINF:-1 tvg-logo="http://www.fotosdigitalesgratis.com/noticias/fotos/Mexico-Travel-Internacional-Logo.jpg" group-title="MX",Mexico Travel Chanel 
 https://stream-04.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zdd1Kn-ibALgaafxFbV79CAhJ2rlVZinVflXD1fm5tdf)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="MX",Turistik TV 
@@ -231,7 +231,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",Canal 24 Horas HD 
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="ES",¡HOLA! TV HD 
+#EXTINF:-1 tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="ES",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="ES",¡HOLA! TV HD 
