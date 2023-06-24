@@ -76,7 +76,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="XHCTTITDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="MX",Imagen Television 
-https://ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 tvg-id="Imagen TV Radio" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="MX",Imagen TV Radio 
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
@@ -522,6 +522,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/626c2ed933a2890007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Cartoon",Totally Turtles 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Cartoon",Totally Turtles 
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Cartoon",Transformers TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
@@ -612,7 +615,7 @@ https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/resources/media2/16x9/full/180/center/90/4369b546-cf08-44f9-9d88-c382cc13ac2e-medium16x9_STIRR_0721_EPG_STIRRCity_1920x1080.png" group-title="Without category",Stirr City Las Vegas 
 https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8 
 
-#EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category",STIRR | National    
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Stirr_TV_logo.png" group-title="Without category",STIRR | National    
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/qA7MrNawAnvhqUfdiTuxF0KphIT4ZGV_C6cP2GsQiP8/rs:fit:520:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/SUI5NExvY2pSZE9V/RGRXU1VBVWZ3SGFH/dyZwaWQ9QXBp" group-title="US",Paramount+ Picks 
@@ -1056,7 +1059,7 @@ https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
 https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/www.haunttv.ca/829edcc1-haunttvlogo-260x147_1000000000000000000028.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319f06067a3ee000708af95/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="Scream Box" tvg-name="Scream Box" tvg-country="US" tvg-language="English" tvg-logo="https://i.pcmag.com/imagery/reviews/05lTV8zpzdxJCNUNOQq4h4i-9.fit_scale.size_1028x578.v1665758383.png" group-title="Movies",Scream Box TV
