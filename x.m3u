@@ -262,7 +262,7 @@ https://ythls.onrender.com/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="MX" tvg-url="" group-title="MX",RT en Español
+#EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="MX" tvg-url="" group-title="MX",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Internacional 
