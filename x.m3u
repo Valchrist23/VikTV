@@ -929,7 +929,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pluto TV K-Pop" tvg-name="" tvg-language="Korean" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" tvg-country="KO" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" group-title="Music",Pluto TV K-Pop 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Music",Retro Plus 
+#EXTINF:-1, tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8 
 
 #EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="Music",Retro Plus 2 
@@ -944,13 +944,13 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music", 1Mus 
 http://rtmp.one.by:2300
 
-#EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-iroMdC9P6rM/VhQ4S8pCbVI/AAAAAAAAA2M/_szadO0P7Do/s640/vevo-tv-logo-new.png" group-title="Music", Vevo 80s 
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo 80s 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
 
-#EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-iroMdC9P6rM/VhQ4S8pCbVI/AAAAAAAAA2M/_szadO0P7Do/s640/vevo-tv-logo-new.png" group-title="Music", Vevo 90s 
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo 90s 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1, tvg-logo="http://3.bp.blogspot.com/-iroMdC9P6rM/VhQ4S8pCbVI/AAAAAAAAA2M/_szadO0P7Do/s640/vevo-tv-logo-new.png" group-title="Music",Vevo Pop 
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-id="https://serenotv.com/envivo/canal-maxima-tv/" type="stream" channelId="-1" tvg-logo="https://i.imgur.com/wGaYGJ8.jpg" group-title="Music",Maxima Tv
