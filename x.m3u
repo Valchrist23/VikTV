@@ -555,7 +555,7 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8
 #EXTINF:-1 tvg-id="xtremacartoon.ar" tvg-name="" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/06/xtreme-sport-vector-logo.png" group-title="Cartoon",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Junior-Logo.svg" group-title="Cartoon",TG Junior 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Junior-Logo.svg/1354px-Junior-Logo.svg.png" group-title="Cartoon",TG Junior 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
 #EXTINF:-1 tvg-logo="https://watchitkid.com/wp-content/uploads/2019/09/Watch_It_Kid_TV_LOGO_Crop.png" group-title="Cartoon",Watch it Kid
@@ -1056,7 +1056,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://skidrowcracked.com/wp-content/uploads/2018/11/UNIDENTIFIED.jpg" group-title="US",Unidentified 
 https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/www.haunttv.ca/829edcc1-haunttvlogo-260x147_1000000000000000000028.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
 https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/www.haunttv.ca/829edcc1-haunttvlogo-260x147_1000000000000000000028.png" tvg-country="US" tvg-url="" group-title="",Haunt TV 
