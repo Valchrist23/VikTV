@@ -1136,7 +1136,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy 
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LiveJasmin_logo.svg/1280px-LiveJasmin_logo.svg.png"group-title="Music",Jasmin TV 
+#EXTINF:-1 tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LiveJasmin_logo.svg/1280px-LiveJasmin_logo.svg.png" tvg-country="US" tvg-url="" group-title="Music",Jasmin. TV
 http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8 
 
 -----------------------------------------Movie Channels---------------------------------------------
