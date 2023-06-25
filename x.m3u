@@ -1101,7 +1101,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-Yah!" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" tvg-country="US" tvg-url="" group-title="Movies",Hi-Yah!
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8 
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+working
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 -----------------------------------------Random--------------------------------------------- 
 
