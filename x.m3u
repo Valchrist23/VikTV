@@ -211,7 +211,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.OJu0j-4aGYrHv86kC8Y5_QAAAA&pid=Api&P=0&w=300&h=300" group-title="ES",Distrito 
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" group-title="ES",Canal Extremadura Sat
+#EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="Canal Extremadura Sat" tvg-language="es" tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",Canal Extremadura Sat
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",Canal 24 Horas HD 
@@ -226,7 +226,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="ES",¡HOLA! TV HD 
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D 
 
-#EXTINF:-1 tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" group-title="ES",Canal 4 
+#EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4" tvg-language="es" tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",Canal 4
 https://www.tdtchannels.com/stream/tevecat.m3u8
 
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="MX",Uni Teve
@@ -243,15 +243,14 @@ http://210.210.155.37/uq2663/h/h158/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="ES",TVE 
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2 
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="ES",La 2
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",La 2
 https://ythls.onrender.com/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
 
-#EXTINF:-1 tvg-name="TV Madrid" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" group-title="LAT",Telemadrid
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-language="es" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",Maria Vision
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
-
 
 #EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="MX" tvg-url="" group-title="MX",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
