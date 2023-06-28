@@ -1,58 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
+#EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles The Movie (1990)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bax6hItUe0XSeyO25J5V7hhgkkZ.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles III (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bax6hItUe0XSeyO25J5V7hhgkkZ.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles III (1993)
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future (1985)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future (1985)
 https://archive.org/details/back-to-the-future-trilogy/Back+to+the+future/Back+to+the+Future+Part+1.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",Back to the Future 2 (1987)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future 2 (1987)
 
 
-#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",Training Day (2001)
+#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",z Training Day (2001)
 
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",A Christmas Star
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",z A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIXEL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",z PIXEL
 https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlNDliYmMtNDZiMy00NWY5LTkxMDctMGJmMmE2YzZhOWFhXkEyXkFqcGdeQXVyMTE4OTc0Njc5._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",Venom Let There Be Carnage (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JlNDliYmMtNDZiMy00NWY5LTkxMDctMGJmMmE2YzZhOWFhXkEyXkFqcGdeQXVyMTE4OTc0Njc5._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Venom Let There Be Carnage (2021)
 https://lh3.googleusercontent.com/HwSEjZ-lEnOkjQQDNw7ZrPTXRCsDB93Nw90aMYxlirIbnTwKc4f_TtSAo9-d3RNj7STIM4GBvMt30S1NXC0ylqyFLV9qOgguUYWAUXe3pXnr4aWve_l4EdhDfG-1bXPt57iEUsC-52c=m37
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM1MGY4OTYtOGZkOC00NjYyLTk3OTMtODUyZDdhYWQ3NGFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg",The Transformers Animated Movie (1986)
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM1MGY4OTYtOGZkOC00NjYyLTk3OTMtODUyZDdhYWQ3NGFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg",z The Transformers Animated Movie (1986)
 https://archive.org/serve/thetransformers1986/The%20Transformers%201986.mp4
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTMzOTYzOF5BMl5BanBnXkFtZTcwMTE4NTEyMQ@@._V1_.jpg",Joe Animated Movie (1987)
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTMzOTYzOF5BMl5BanBnXkFtZTcwMTE4NTEyMQ@@._V1_.jpg",z Joe Animated Movie (1987)
 https://archive.org/serve/g.-i-joe-the-movie-1987-full-movie/G.I%20%20Joe%20%20%20The%20Movie%20%281987%29%20Full%20Movie.mp4
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/hKrZNmR/Snake-Eyes-G-I-Joe-Origins-2021.jpg",Snake Eyes: G.I. Joe Origins (2021)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/hKrZNmR/Snake-Eyes-G-I-Joe-Origins-2021.jpg",z Snake Eyes: G.I. Joe Origins (2021)
 https://archive.org/download/vibora/vibora.mkv
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/qmLMYHy/suicide-2.jpg",The Suicide Squad (2021)[DUAL]
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qmLMYHy/suicide-2.jpg",z The Suicide Squad (2021)[DUAL]
 https://archive.org/download/manguera_202108/Th3%205u1c1d3%205qu4d%202.mkv
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/DMKc9Mf/centinela.jpg",Centinela (2021)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/DMKc9Mf/centinela.jpg",z Centinela (2021)
 https://archive.org/download/carros_202109/C3nt1n3l4.mp4
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg",Free Guy (2021)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HDRHzSm/Free.jpg",z Free Guy (2021)
 https://archive.org/download/manguera_20210927/_Fr33%205uy.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMGI1YTctY2E5OS00YjhkLWFiZjgtMzJmN2Q5ODQ1ODc5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" group-title="MOVIES",Saint Seiya Legend of Crimson Youth (1988)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMGI1YTctY2E5OS00YjhkLWFiZjgtMzJmN2Q5ODQ1ODc5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg" group-title="MOVIES",z Saint Seiya Legend of Crimson Youth (1988)
 https://archive.org/serve/saint-seiya-la-leyenda-de-los-jovenes-carmesi-1405/Saint%20Seiya%20La%20Leyenda%20de%20los%20J%C3%B3venes%20Carmes%C3%AD03.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY4OWMzZDUtNDE4Ny00MzJhLWFhN2YtNTA1Mjc1MWE4MTE4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="MOVIES",Street Fighter The Animated Movie (1994)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzY4OWMzZDUtNDE4Ny00MzJhLWFhN2YtNTA1Mjc1MWE4MTE4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg" group-title="MOVIES",z Street Fighter The Animated Movie (1994)
 https://archive.org/download/street-fighter-2-the-animated-movie-full-length/Street%20Fighter%202%20The%20Animated%20Movie%20%28Uncut%29.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgyMTM2YjctYjc0Zi00ZDY3LWExZDMtNGMwYzY5MmZlMWI0XkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_.jpg" group-title="MOVIES",Fatal Fury Animated
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgyMTM2YjctYjc0Zi00ZDY3LWExZDMtNGMwYzY5MmZlMWI0XkEyXkFqcGdeQXVyMTk5NDI0MA@@._V1_.jpg" group-title="MOVIES",z Fatal Fury Animated
 https://ia802602.us.archive.org/6/items/sci-fi-channel-saturday-anime-fatalfuryOVAmarathon1996withfullcommericals/Sci-Fi%20Channel%20Saturday%20Anime%20Fatal%20Fury%20Marathon%201996%20With%20Full%20Commericals.mp4?cnt=0
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",Street Fighter Assassins Fist 2014
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Street Fighter Assassins Fist 2014
 https://dl.dropbox.com/s/xlwra6k4ojs23o4/Street.Fighter.Assassin%27s.Fist.%282014%29.1080p-Dual.Audio-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",Ghost in The Shell
@@ -70,197 +70,197 @@ https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20
 #EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Universal Soldier Regeneration
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_nwtfpd7u/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg",Mississippi En Llamas (1988)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/EBcG1lET-1280.jpg",z Mississippi En Llamas (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/F11TUDhR-960.jpg",El regreso a la laguna azul (1991)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/F11TUDhR-960.jpg",z El regreso a la laguna azul (1991)
 https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/V1JkaLsY-960.jpg",Ganar o Morir (1993)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/V1JkaLsY-960.jpg",z Ganar o Morir (1993)
 https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg",Los beverly ricos (1993)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg",z Los beverly ricos (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg",La máscara 1 (1994)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/oo1NGfNH-1280.jpg",z La máscara 1 (1994)
 https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720",La máscara 2 HBO (2005)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0pNWEGAc/poster.jpg?width=720",z La máscara 2 HBO (2005)
 https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg",Balto 1 (1995)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/SgUXQRft-1280.jpg",z Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/5DJW0rvZ/poster.jpg?width=720",Los puentes de Madison (1995)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/5DJW0rvZ/poster.jpg?width=720",z Los puentes de Madison (1995)
 https://cdn.jwplayer.com/manifests/5DJW0rvZ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/tVuH5d4I-1280.jpg",Matilda (1996)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/tVuH5d4I-1280.jpg",z Matilda (1996)
 https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jZ52iLy8-1920.jpg",Striptease - HBO (1996)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jZ52iLy8-1920.jpg",z Striptease - HBO (1996)
 https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg",Titanic (1997)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/HUQB3sIe-1280.jpg",z Titanic (1997)
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FTJI05Y2/poster.jpg?width=720",Austin Powers- El espía seductor (1999)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FTJI05Y2/poster.jpg?width=720",z Austin Powers- El espía seductor (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg",El hombre de la máscara de hierro (1998)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YyEbpfZG-1280.jpg",z El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ZITfGiUA-960.jpg",De ladrón a policía (1999)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ZITfGiUA-960.jpg",z De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/WPoxidJu-1280.jpg",La Tormenta Perfecta (2000)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/WPoxidJu-1280.jpg",z La Tormenta Perfecta (2000)
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/6xi76kcK-1920.jpg",La Tormenta Perfecta - HBO (2000)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/6xi76kcK-1920.jpg",z La Tormenta Perfecta - HBO (2000)
 https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ztfljVZv-1280.jpg",La Caída Del Halcón Negro (2001)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ztfljVZv-1280.jpg",z La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3RAl2Fke/poster.jpg?width=720",La Caída Del Halcón Negro - HBO (2001)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/3RAl2Fke/poster.jpg?width=720",z La Caída Del Halcón Negro - HBO (2001)
 https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/bfuasxiA-1280.jpg",Red de corrupción (2001)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/bfuasxiA-1280.jpg",z Red de corrupción (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e2bYVviq-1920.jpg",Día de entrenamiento (2001)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e2bYVviq-1920.jpg",z Día de entrenamiento (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/o2E37V3E-1280.jpg",El pianista (2002)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/o2E37V3E-1280.jpg",z El pianista (2002)
 https://cdn.jwplayer.com/manifests/p9O19DMJ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/KJqtLh71-1280.jpg",John. Q. (2002)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/KJqtLh71-1280.jpg",z John. Q. (2002)
 https://cdn.jwplayer.com/manifests/y42yIqqU.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/FOQryG5o-1280.jpg",Pandillas de nueva york (2002)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/FOQryG5o-1280.jpg",z Pandillas de nueva york (2002)
 https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/p9O19DMJ-1280.jpg",Misterios Del Titanic (2003)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/p9O19DMJ-1280.jpg",z Misterios Del Titanic (2003)
 https://cdn.jwplayer.com/manifests/o2E37V3E.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/vnNZVGg2-1920.jpg",Daredevil - El hombre sin miedo (2003)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/vnNZVGg2-1920.jpg",z Daredevil - El hombre sin miedo (2003)
 https://cdn.jwplayer.com/manifests/vnNZVGg2.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0trZp8Pq/poster.jpg?width=720",Elefante - HBO (2003
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/0trZp8Pq/poster.jpg?width=720",z Elefante - HBO (2003
 https://cdn.jwplayer.com/manifests/0trZp8Pq.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/JYwPkB6n-1280.jpg",Yo. Robot (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/JYwPkB6n-1280.jpg",z Yo. Robot (2004)
 https://cdn.jwplayer.com/manifests/JYwPkB6n.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/1xFr5tdm-1280.jpg",Diario De Una Pasión (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/1xFr5tdm-1280.jpg",z Diario De Una Pasión (2004)
 https://cdn.jwplayer.com/manifests/1xFr5tdm.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/RuDUr9p2-1280.jpg",Troya (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/RuDUr9p2-1280.jpg",z Troya (2004)
 https://cdn.jwplayer.com/manifests/RuDUr9p2.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qAFSj60N-1280.jpg",El Aviador (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qAFSj60N-1280.jpg",z El Aviador (2004)
 https://cdn.jwplayer.com/manifests/qAFSj60N.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/T9l8nvXA-1280.jpg",El Efecto Mariposa (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/T9l8nvXA-1280.jpg",z El Efecto Mariposa (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FhWKxI2s/poster.jpg?width=720",El Efecto Mariposa - HBO (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FhWKxI2s/poster.jpg?width=720",z El Efecto Mariposa - HBO (2004)
 https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/OWY4QHmV/poster.jpg?width=720",Espanta tiburones (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/OWY4QHmV/poster.jpg?width=720",z Espanta tiburones (2004)
 https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/wbEcUjsI-1280.jpg",Colateral (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/wbEcUjsI-1280.jpg",z Colateral (2004)
 https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg",¿dónde están las rubias? (2004)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/7Eu0eQCZ-1280.jpg",z ¿dónde están las rubias? (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg",Constantine (2005)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/03q5ktEp-1920.jpg",z Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/da5kxY4t-1280.jpg",Zathura una Aventura Espacial(2005)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/da5kxY4t-1280.jpg",z Zathura una Aventura Espacial(2005)
 https://cdn.jwplayer.com/manifests/da5kxY4t.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fVy6BGsJ-1280.jpg",Danny el perro (2005)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fVy6BGsJ-1280.jpg",z Danny el perro (2005)
 https://cdn.jwplayer.com/manifests/fVy6BGsJ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Jqxa6aUH-1920.jpg",300 (2006)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Jqxa6aUH-1920.jpg",z 300 (2006)
 https://cdn.jwplayer.com/manifests/Jqxa6aUH.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cfR3HmOO-1280.jpg",Lo Que El Agua Se Llevó (2006)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cfR3HmOO-1280.jpg",z Lo Que El Agua Se Llevó (2006)
 https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cLok27OH-1280.jpg",El útimo Regalo (2006)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/cLok27OH-1280.jpg",z El útimo Regalo (2006)
 https://cdn.jwplayer.com/manifests/cLok27OH.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/lI9a46OZ/poster.jpg?width=720",Click perdiendo el control - hbo (2006)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/lI9a46OZ/poster.jpg?width=720",z Click perdiendo el control - hbo (2006)
 https://cdn.jwplayer.com/manifests/TaQmewjt.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg",Soy Leyenda (2007)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Up95l49F-1280.jpg",z Soy Leyenda (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/3qaTzQpB-1280.jpg",Michael Clayton (2007)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/3qaTzQpB-1280.jpg",z Michael Clayton (2007)
 https://cdn.jwplayer.com/manifests/3qaTzQpB.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/USMrvajO/poster.jpg?width=720",El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/USMrvajO/poster.jpg?width=720",z El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
 https://cdn.jwplayer.com/manifests/Y3zmTE15.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YqkDEnAb-1280.jpg",¡Sí. Señor! (2008)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YqkDEnAb-1280.jpg",z ¡Sí. Señor! (2008)
 https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QroHqRIx-1280.jpg",Una loca película de esparta (2008)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QroHqRIx-1280.jpg",z Una loca película de esparta (2008)
 https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/qfHB4jAs/poster.jpg?width=720",Rendirse Jamas (2008)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/qfHB4jAs/poster.jpg?width=720",z Rendirse Jamas (2008)
 https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg",Avatar opcion 1 (2009)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/jpaugSDb-1280.jpg",z Avatar opcion 1 (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/LS2zp2ZO-1280.jpg",Avatar opcion 2 (2009)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/LS2zp2ZO-1280.jpg",z Avatar opcion 2 (2009)
 https://cdn.jwplayer.com/manifests/LS2zp2ZO.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/hLBjuVFi/poster.jpg?width=720",Hermanos (2009)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/hLBjuVFi/poster.jpg?width=720",z Hermanos (2009)
 https://cdn.jwplayer.com/manifests/hLBjuVFi.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Q5r2eRdV-1280.jpg",Siempre a tu lado (Hachiko) (2009)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/Q5r2eRdV-1280.jpg",z Siempre a tu lado (Hachiko) (2009)
 https://cdn.jwplayer.com/manifests/Q5r2eRdV.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg",Megamente (2010)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/YhAEndMC-1280.jpg",z Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/IihVkpOm-960.jpg",El regreso de la nana mágica (2010)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/IihVkpOm-960.jpg",z El regreso de la nana mágica (2010)
 https://cdn.jwplayer.com/manifests/IihVkpOm.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MjS0jG1y-1280.jpg",Wall street 2 el dinero nunca duerme (2010)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MjS0jG1y-1280.jpg",z Wall street 2 el dinero nunca duerme (2010)
 https://cdn.jwplayer.com/manifests/MjS0jG1y.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/IdKvAeRu-1280.jpg",El precio de la codicia (2011)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/IdKvAeRu-1280.jpg",z El precio de la codicia (2011)
 https://cdn.jwplayer.com/manifests/IdKvAeRu.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/zFQVncnu-1280.jpg",La úLtima Pelea (2011)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/zFQVncnu-1280.jpg",z La úLtima Pelea (2011)
 https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/CaszktLq-1280.jpg",Rango (2011)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/CaszktLq-1280.jpg",z Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg",El lobo de wall street  (2013)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/zfUzDIU8-1280.jpg",z El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ZzJCuyhk-1280.jpg",En el corazón del mar (2015)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ZzJCuyhk-1280.jpg",z En el corazón del mar (2015)
 https://cdn.jwplayer.com/manifests/ZzJCuyhk.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/GVCKKdS8-1280.jpg",Invierno en llamas la lucha por la libertad de ucrania (2015)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/GVCKKdS8-1280.jpg",z Invierno en llamas la lucha por la libertad de ucrania (2015)
 https://cdn.jwplayer.com/manifests/GVCKKdS8.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg",el primer encuentro de dos mundos (2016)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0G2uwVnm-1920.jpg",z el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nTLa65rp-1280.jpg",Animales Fantasticos Y Donde Encontrarlos (2016)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nTLa65rp-1280.jpg",z Animales Fantasticos Y Donde Encontrarlos (2016)
 https://cdn.jwplayer.com/manifests/nTLa65rp.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/56lfqCEx/poster.jpg?width=720",Amigos de armas - HBO (2016)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/56lfqCEx/poster.jpg?width=720",z Amigos de armas - HBO (2016)
 https://cdn.jwplayer.com/manifests/56lfqCEx.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/VBp30h86-1280.jpg",Dunkerque (2017)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/VBp30h86-1280.jpg",z Dunkerque (2017)
 https://cdn.jwplayer.com/manifests/VBp30h86.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ezFvnRQD-1280.jpg",Chalard games goeng (2017)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ezFvnRQD-1280.jpg",z Chalard games goeng (2017)
 https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/3kJmSKBc-1280.jpg",Los piratas de somalia (2017)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/3kJmSKBc-1280.jpg",z Los piratas de somalia (2017)
 https://cdn.jwplayer.com/manifests/3kJmSKBc.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e4SIq3Bv-1280.jpg",La muerte de stalin (2017)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e4SIq3Bv-1280.jpg",z La muerte de stalin (2017)
 https://cdn.jwplayer.com/manifests/e4SIq3Bv.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/pycD39fo-1280.jpg",Primer año (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/pycD39fo-1280.jpg",z Primer año (2018)
 https://cdn.jwplayer.com/manifests/pycD39fo.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e5UGrKyO-1280.jpg",Rey de los ladrones (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/e5UGrKyO-1280.jpg",z Rey de los ladrones (2018)
 https://cdn.jwplayer.com/manifests/e5UGrKyO.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/b3kH3Nwk-1280.jpg",El jefe de la mafia gotti (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/b3kH3Nwk-1280.jpg",z El jefe de la mafia gotti (2018)
 https://cdn.jwplayer.com/manifests/b3kH3Nwk.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/otzMAZgi-1280.jpg",Héctor el father conocerás la verdad (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/otzMAZgi-1280.jpg",z Héctor el father conocerás la verdad (2018)
 https://cdn.jwplayer.com/manifests/otzMAZgi.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/JV6Tw10Q-960.jpg",Escape a la libertad (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/JV6Tw10Q-960.jpg",z Escape a la libertad (2018)
 https://cdn.jwplayer.com/manifests/JV6Tw10Q.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/a7eKgcX8-1280.jpg",Titanes Del Pacífico La Insurrección (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/a7eKgcX8-1280.jpg",z Titanes Del Pacífico La Insurrección (2018)
 https://cdn.jwplayer.com/manifests/a7eKgcX8.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/P2w05rte-1280.jpg",El carnicero (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/P2w05rte-1280.jpg",z El carnicero (2018)
 https://cdn.jwplayer.com/manifests/P2w05rte.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FvRRZgBJ/poster.jpg?width=720",Ready player one Comienza el Juego - HBO (2018)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/FvRRZgBJ/poster.jpg?width=720",z Ready player one Comienza el Juego - HBO (2018)
 https://cdn.jwplayer.com/manifests/FvRRZgBJ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0y968num-1280.jpg",El Niño Que Domó El Viento (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0y968num-1280.jpg",z El Niño Que Domó El Viento (2019)
 https://cdn.jwplayer.com/manifests/0y968num.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/9wqolVIg-1280.jpg",Violento Y Furioso (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/9wqolVIg-1280.jpg",z Violento Y Furioso (2019)
 https://cdn.jwplayer.com/manifests/9wqolVIg.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ChboFKML-1280.jpg",Milagro En La Caverna (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/ChboFKML-1280.jpg",z Milagro En La Caverna (2019)
 https://cdn.jwplayer.com/manifests/ChboFKML.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/mXWJ5e4K-1280.jpg",Mob Town (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/mXWJ5e4K-1280.jpg",z Mob Town (2019)
 https://cdn.jwplayer.com/manifests/mXWJ5e4K.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nxvEs8Ok-1280.jpg",El Ascenso Del Diablo (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nxvEs8Ok-1280.jpg",z El Ascenso Del Diablo (2019)
 https://cdn.jwplayer.com/manifests/nxvEs8Ok.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/wSAVQWw1-640.jpg",El faro (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/wSAVQWw1-640.jpg",z El faro (2019)
 https://cdn.jwplayer.com/manifests/wSAVQWw1.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/uGHvqY8O-1280.jpg",El irlandés (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/uGHvqY8O-1280.jpg",z El irlandés (2019)
 https://cdn.jwplayer.com/manifests/uGHvqY8O.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/1HJASNy7-1280.jpg",Hellboy (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/1HJASNy7-1280.jpg",z Hellboy (2019)
 https://cdn.jwplayer.com/manifests/1HJASNy7.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/NTCpg8mg/poster.jpg?width=720",Contra Lo Imposible (2019)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/NTCpg8mg/poster.jpg?width=720",z Contra Lo Imposible (2019)
 https://cdn.jwplayer.com/manifests/NTCpg8mg.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/7n2y4Uex-1280.jpg",Yo Te Cuido (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/7n2y4Uex-1280.jpg",z Yo Te Cuido (2020)
 https://cdn.jwplayer.com/manifests/7n2y4Uex.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fQNVxbTQ-1280.jpg",La Batalla De Kamdesh (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/fQNVxbTQ-1280.jpg",z La Batalla De Kamdesh (2020)
 https://cdn.jwplayer.com/manifests/fQNVxbTQ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/vm4DbZPQ-1280.jpg",La Batalla Olvidada (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/vm4DbZPQ-1280.jpg",z La Batalla Olvidada (2020)
 https://cdn.jwplayer.com/manifests/vm4DbZPQ.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/T4IiriH0-1280.jpg",La foquita  el 10 de la calle (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/T4IiriH0-1280.jpg",z La foquita  el 10 de la calle (2020)
 https://cdn.jwplayer.com/manifests/T4IiriH0.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/uZwRAstv-1280.jpg",La maldición de alcatraz (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/uZwRAstv-1280.jpg",z La maldición de alcatraz (2020)
 https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/BAG9ZvTB-1280.jpg",Greyhound en la mira del enemigo (2020)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/BAG9ZvTB-1280.jpg",z Greyhound en la mira del enemigo (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nDZNfqR8-1280.jpg",Finch (2021)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nDZNfqR8-1280.jpg",z Finch (2021)
 https://cdn.jwplayer.com/manifests/nDZNfqR8.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qXqi58hS-1280.jpg",Chernóbil La Película (2021)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qXqi58hS-1280.jpg",z Chernóbil La Película (2021)
 https://cdn.jwplayer.com/manifests/927TOKWz.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qCR3UtKp-1280.jpg",Riesgo bajo cero (2021)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/qCR3UtKp-1280.jpg",z Riesgo bajo cero (2021)
 https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nU9zWYHw-1280.jpg",Dos Contra El Hielo (2022)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/nU9zWYHw-1280.jpg",z Dos Contra El Hielo (2022)
 https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QSjZusGW-1280.jpg",El hombre del norte (2022)
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/QSjZusGW-1280.jpg",z El hombre del norte (2022)
 https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://content.jwplatform.com/v2/media/xGFGJBJQ/poster.jpg?width=720",Operación Cerveza (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
@@ -445,11 +445,9 @@ https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2S
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10326928_LAT_HD.mp4
 
 #EXTINF:-1,Dumbo 2019 
-http://tv.nousiptv.com:25462/movie/Alejandro2019/12345/30839.mkv
 
 #EXTINF:-1,Hacker 2019 
 https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Hacker%20(2019)%201080p%20Latino.mp4
-
 #EXTINF:-1,crypto 2019 
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt8563452_LAT_HD.mp4
 #EXTINF:-1,navidad en África netflix 2019 
