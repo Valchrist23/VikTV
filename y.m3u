@@ -1194,9 +1194,6 @@ https://goo.gl/3KGMLf
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  BLOOD IN BLOOD OUT/ VATOS LACOS
 http://www.deadlyblogger.com/NewRelease/blood.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EL MENSAJERO DE LA OSCURIDAD 2002
-http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EN EL CORAZON DEL MAR
 https://goo.gl/4BqODN
 
@@ -1218,51 +1215,6 @@ https://goo.gl/iU1U32
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SINIESTRO
 https://goo.gl/F5NCPj
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  UN VUELO DE LOCURA
-http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
-
-
-#EXTINF:0 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg", Todo El Dinero Del Mundo | .
-http://regiotv.xyz/todoeldinerodelmundo
-
-#EXTINF:0 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound | .
-http://srregio.xyz/mudbound
-
-#EXTINF:0 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST | .
-http://srregio.xyz/insidecast
-
-#EXTINF:0 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured | .
-http://srregio.xyz/thecure
-
-#EXTINF:0 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extranos | .
-http://regiotv.xyz/losextranos
-
-#EXTINF:0 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin | .
-http://regiotv.xyz/christoperrobin
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB | .
-http://regiotv.xyz/momanddad
-
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad | .
-http://regiotv.xyz/momanddadLAT
-
-#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB | .
-http://regiotv.xyz/24hrssobrevivir
-
-
-
-
-#EXTINF:0 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso | .
-https://bit.ly/2GajoTS
-
-#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie | .
-https://bit.ly/2KS5ucG
-
-
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino | .
-https://bit.ly/2wBG4x8
-
-
 #EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | .
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
@@ -1275,14 +1227,8 @@ https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool | .
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente | .
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-
 #EXTINF:0 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII | .
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-
-#EXTINF:0 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg", Doctor Strange | .
-https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | .
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
@@ -1290,123 +1236,14 @@ https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | .
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
-#EXTINF:0 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg", Konvert SUBTITULADO | .
-https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
-
-#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg", Civil War | .
-https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
-
-#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es", Fragiles | .
-https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg", Zombiology | .
-https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg", La Noche de la Bruja | .
-https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
-
-#EXTINF:0 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg", Quija | .
-https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
-
-
-#EXTINF:0 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg", El Rostro De Un Angel | .
-https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
-
-
-#EXTINF:0 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | . NO
-https://goo.gl/sFaEVq
-
-#EXTINF:0 tvg-logo="http://www.leelibros.com/biblioteca/files/images/El_Cementerio_Viviente.jpg", Cementerio de Mascotas | .
-https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
-
-
-#EXTINF:-1, WONDER WOMAN
-https://archive.org/download/MARAVILA_201708/MARAVILA.flv
-
-#EXTINF:-1,LOS POWER RANGERS
-http://bit.ly/2gbHp2p?JoCaRoMovie
-
-#EXTINF:-1, COLORS
-https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
-
-
-#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", Wonder Woman 2017
-https://archive.org/download/MARAVILA_201708/MARAVILA.flv
-
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="CINE", Alien Covenant (2017)
-http://ow.ly/SgXZ30eXN93?CONEXION?null=
-
-#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="CINE", Amytiville El Despertar
-https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", Jeepers Creepers 3
-https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", Valerian y la ciudad de los mil planetas
-https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", Atomica
-https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
-
-
-#EXTINF:-1,Annabelle La Creacion
-https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
-
-#EXTINF:-1,Pitufos 3 La Aldea Perdida
-https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
-
-#EXTINF:-1,Cars 2
-https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hD6D7rwyrbI/T8GpYlkl2wI/AAAAAAAAAbE/lW9onkroT6o/s1600/El+Gran+Robo.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE. EL GRAN ROBO
-http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
-
-
-#EXTINF:-1,UN PERDEDOR SIN SUERTE
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,UN VUELO DE LOCURA
-http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,Una Loca Pelicula de The Walking Dead |
-https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
-
 #EXTINF:-1,Varias Lat:Colossal
 http://ow.ly/FXZ930eWtrs
-
-#EXTINF:-1,Varias Lat:Huye
-http://ow.ly/3a9530eXgFk
-
-#EXTINF:-1,Varias Lat:La Momia 2017
-http://ow.ly/rSYw30eS9p5
-
-
-#EXTINF:-1,Varias Lat:Todo Todo
-http://ow.ly/tlKB30eS9pK
-
-
-#EXTINF:-1,Varias Lat:Un Saco De Canicas
-http://ow.ly/v7hc30eVA0P
-
 
 #EXTINF:-1,Varias Lat:Volver al Futuro III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF:-1,Varias Lat:Yo antes de Ti
-http://ow.ly/1Ud130eSgQq
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dead_again_in_tombstone-246953069-large.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: DEAD AGAIN IN TOMBSTONE
-https://ia601501.us.archive.org/3/items/1960196002/1960-196002.mkv?earMy.mp4
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/zombies-fanon/images/e/e1/Wawis_el-dia-del-apocalipsis.jpg/revision/latest?cb=20140925005657&path-prefix=es" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: EL DIA DEL APOCALIPSIS
-http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
-
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: EL MAL DENTRO 2017
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/elmuro.net.co/wp-content/uploads/2017/01/EZ_Poster70x100.jpg?resize=300%2C429" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: ESTACION ZOMBIE
-https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: LA MINA
 https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
@@ -1417,77 +1254,14 @@ http://www.deadlyblogger.com/NewRelease/matrix1.mp4
 #EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
-
-#EXTINF:-1,24hrs Para Sobrevivir SUB |
-http://regiotv.xyz/24hrssobrevivir
-
-#EXTINF:-1,Anon |
-http://srregio.xyz/regioflix/anon
-
-
-#EXTINF:-1,Estrenos:Espiando A Los Vecinos
-http://cecegeek@goo.gl/n6SNxR
-
-#EXTINF:-1,Estrenos:Moana
-http://cecegeek@goo.gl/FQ2PRH
-
-#EXTINF:-1,Intensamente |
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-
-#EXTINF:-1,Mom & Dad |
-http://regiotv.xyz/momanddadLAT
-
-#EXTINF:-1,Mom & Dad SUB |
-http://regiotv.xyz/momanddad
-
-#EXTINF:-1,PELICULA - LIFE VIDA INTELIGENTE (2017)
-https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
-
-
-#EXTINF:-1,PELICULA - VALERIAN Y LA CIUDAD DE MIL PLANETAS
-https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
-
-#EXTINF:-1,PELICULA AMYTIVILLE EL DESPERAR
-https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
-
-#EXTINF:-1,Pesadilla Siniestra |
-http://regiotv.xyz/pesadillasiniestra
-
-#EXTINF:-1,ROBOCOP
-http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
-
-#EXTINF:-1,Samson |
-http://srregio.xyz/regioflix/samson
-
 #EXTINF:-1,Sand Castle
 http://cecegeek@goo.gl/FDyHpL
 
 #EXTINF:-1,Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
 
-#EXTINF:-1,Sangre por Sangre |
-https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
-
 #EXTINF:-1,Terminus |
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-
-#EXTINF:-1,Terror en la Oscuridad CAST |
-http://srregio.xyz/insidecast
-
-#EXTINF:-1,Todo El Dinero Del Mundo |
-http://regiotv.xyz/todoeldinerodelmundo
-
-#EXTINF:-1,Todo Poderoso |
-https://bit.ly/2GajoTS
-
-#EXTINF:-1,Todo Todo
-http://cecegeek@goo.gl/mnzQRk
-
-#EXTINF:-1,Todo todo 2017
-https://ia801503.us.archive.org/9/items/NadaNadaIverso/Nada%20Nada%20Iverso.mp4?Pelixmax1.mp4
-
-#EXTINF: -1, ELLA EN MI CUERPO Y EL EN EL MIO
-https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
 
 #EXTINF: -1, ELLOS SIEMPRE REGRESAN
 https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
