@@ -8,7 +8,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future (1985)
-https://archive.org/details/back-to-the-future-trilogy/Back+to+the+future/Back+to+the+Future+Part+1.mp4
+
+#EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",z Volver al Futuro 
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future 2 (1987)
 
@@ -317,7 +319,7 @@ https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg",Piratas Del Caribe 3 (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Guardians of the galaxy dual audio
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Guardians of the galaxy dual audio  no
 https://goo.gl/sFaEVq
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNhNGYzZDMtYWQ3Ni00ZmNmLWE2ODctNTZmODg4OWM2ZDJhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Batman V Superman Dawn of Justice (2016)
@@ -346,31 +348,31 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Glass.2019.1080p-dual-l
 #EXTINF:-1,Pie Pequeño 2018 
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6182908_LAT_HD.mp4
 
-#EXTINF:-1,noche de juegos 2018 
+#EXTINF:-1,noche de juegos 2018   no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv2704998ltv2.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A la deriva
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", A la deriva  no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6306064_SUBP_HD.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Yo Soy Simón
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Yo Soy Simón  no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv5164432sv2.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cuando ellas quieren
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cuando ellas quieren  no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6857166_SUBP_HD.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Replicas
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Replicas  no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt4154916_SUBP_HD.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNjNGZlNTQtMjRjYi00ZWMyLWE1NGQtMzBjMDdjZDBiMzEzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Without category",z Ocean's Eight
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNjNGZlNTQtMjRjYi00ZWMyLWE1NGQtMzBjMDdjZDBiMzEzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Without category",z Ocean's Eight no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt5164214_SUBP_HD.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Robin Hood
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt4532826_SUBP_HD.mp4
+https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt4532826_SUBP_HD.mp4 no
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Escuela para fracasados
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Escuela para fracasados no
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6781982_SUBP_HD.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jefa Por Accidente
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jefa Por Accidente  NO
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt2126357_SUBP_HD.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",z Máquinas mortales
@@ -403,13 +405,13 @@ https://dl.dropbox.com/s/s0ij5jaf0nh2tp8/The.hero.2017.1080p-dual-lat-cinecalida
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Tres anuncios por un crimen (2017) www.kevincap0.xyz
 https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Asesinato en el Expreso de Oriente (2017) www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Asesinato en el Expreso de Oriente (2017) NO Sirve
 https://dl.dropbox.com/s/83awu4xbefks18l/Murder.on.the.orient.express.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Hotel de criminales (2018) www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Hotel de criminales (2018)  NO
 https://dl.dropbox.com/s/6ycxaxjln2awj86/Hotel.artemis.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Jurassic World 2: El reino caído 2018 www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Jurassic World 2: El reino caído 2018 NO
 https://dl.dropbox.com/s/0c89sr8oi6dqjhx/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Hotel Transylvania 3: Monstruos de vacaciones (2018) www.kevincap0.xyz
@@ -422,7 +424,7 @@ https://dl.dropbox.com/s/t1wo9pil6q9bq0g/The.grinch.2018.1080p-dual-lat-cinecali
 https://dl.dropbox.com/s/3wbzuiwd3i4obp8/Wonder.park.2019.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) Ant Man (2015)
-http://tvpremiumhd.club/lista-gratuita/213027/on/live.php?id=archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (DOUBTFUL) La forma del agua (2017) www.kevincap0.xyz
 https://dl.dropbox.com/s/1wd0jtf25p6nuuz/The.shape.of.water.2017.1080p-dual-lat-cinecalidad.to.mp4
@@ -439,7 +441,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Love.simon.2
 https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,Toy Story 4.. 2019
-https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/Toy%20Story%204%20(2019)%201080p%20Latino.mp4
 
 #EXTINF:-1,una cenicienta moderna 2019 
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10326928_LAT_HD.mp4
@@ -677,39 +678,21 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Le.chant.du.loup.2019.1
 #EXTINF:-1,La  voz de la igualdad 2018 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/On.the.basis.of.sex.2018.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1,El pasajero 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/The.commuter.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,Creed 1 la leyenda de Rocky 
-https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv3076658lt.mp4
+
 #EXTINF:-1,Creed 2..2019 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6343314_LAT_HD.mp4
+
 #EXTINF:-1,Oceans 8 las estafadoras 2019 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt5164214_SUBP_HD.mp4
+
 #EXTINF:-1,Robin Hood 2019 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt4532826_SUBP_HD.mp4
+
 #EXTINF:-1,Escuela para fracasados 2019 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6781982_SUBP_HD.mp4
-#EXTINF:-1,El ocupante 2019 intruder
-https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/The%20Intruder%20(2019)%20HD%201080p%20Latin0.mp4
-#EXTINF:-1,historia de miedo 
-http://89.187.185.168:80/movie/W3U4y3p5u/Y0tQv889do/6609.mkv
-#EXTINF:-1,La ola 2015 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/7-11-2019/The.wave.2015.1080p-dual-lat.mp4
 
 #EXTINF:-1,una vigilante 2019 
 https://storage.googleapis.com/mark4-250902.appspot.com/tt6211976_LAT_HD.mp4
 #EXTINF:-1,una cigueña en apuros 2017
 https://storage.googleapis.com/pl-storage.appspot.com/PL/PL-1-11-2019/A.storks.journey.2017.1080p-dual-lat.mp4
-
-#EXTINF:-1,Dora la exploradora 2019 
-https://c14.vidlox.me/oudvgr2szvtk2yixv6yokut7ixdcumlihqzdm7oiexokp6vplk2kwsiknk6q/v.mp4
-#EXTINF:-1,El Libro de la Selva 2016 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/The.jungle.book.2016.1080p-dual-lat.mp4
-#EXTINF:-1,amigos en armas 2016 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/7-11-2019/War.dogs.2016.1080p-dual-lat.mp4
-#EXTINF:-1,El hijo 
-#EXTINF:-1,cara de ángel sub 
-#EXTINF:-1,nosotros terror 2019 
 
 #EXTINF:-1,Mi amigo enzo 2019 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/6-11-2017/The.art.of.racing.in.the.rain.2019.1080p-dual-lat-cinecalidad.is.mp4
@@ -727,16 +710,11 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/Cars.3.2017.1
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Patient.zero.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,liga de la justicia 2017 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/Justice.league.2017.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1,mis huellas a casa 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/A.dogs.way.home.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1,I AM MOTHER 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/I.am.mother.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,El Bosque Maldito 
-https://storage.googleapis.com/mark4-250902.appspot.com/tt6198946_LAT_HD.mp4
+
 #EXTINF:-1,cementerio de mascotas 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Pet.sematary.2019.1080p-dual-lat-MegaCineApp.Com.mp4
+
 #EXTINF:-1,bosque Maldito 
 
 #EXTINF:-1,Feliz Dia de Tu Muerte 2 
@@ -745,14 +723,7 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Happy.death.day.2u.2019
 https://storage.googleapis.com/pl-storage.appspot.com/PL/The.curse.of.la.llorona.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 #EXTINF:-1,El convento 2019 
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt3111516_LAT_HD.mp4
-#EXTINF:-1 un lugar en silencio 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/The.silence.2019.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1,Hombres de negro 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Men.in.black.international.2019.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1,Jefa Por Accidente 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt2126357_SUBP_HD.mp4
 #EXTINF:-1,El secuestro de stela 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Kidnapping.stella.2019.1080p-dual-lat-cinecalidad.to.mp4
 
@@ -809,7 +780,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Long.shot.2019.1080p-du
 #EXTINF:-1,godzilla 2019 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Godzilla.king.of.the.monsters.2019.1080p-dual-lat-cinecalidad.to.mp4
 #EXTINF:-1,Hellboy 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Hellboy.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,El sótano de MA 2019
 
@@ -817,19 +787,15 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Hellboy.2019.1080p-dual
 #EXTINF:-1,Hijo de la oscuridad 2019
 
 #EXTINF:-1,Batman y Superman 2016
-https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/Batman.v.superman.dawn.of.justice.2016.1080p.theatrical-dual-lat.mp4
+
 #EXTINF:-1,DETECTIVE PIkachu 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Pokemon.detective.pikachu.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,Misterio a bordo 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Murder.mystery.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 #EXTINF:-1,tren a París 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
 #EXTINF:-1,A-X-L 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt5709188_LAT_HD.mp4
+
 #EXTINF:-1,Extraordinariamente feos 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/UglyDolls.2019.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,Mía y el leon 2019
 https://dl.dropbox.com/s/hk6r6liurserzg7/Mia.and.the.white.lion.2018.1080p-dual-lat-cinecalidad.is.mp4
@@ -1039,14 +1005,10 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/6-11-2017/Hacksaw.ridge
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
 
 
-
-
-
-
 #EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/07/30/09/09/0763744.jpg", IT: Capitulo 2 | 
-http://regioflix.club/REGIOFLIX/201119rt/IT2.SRREGIO.mkv
+ 
 #EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-joker-2-1567010576.jpg", Joker | REGIOFLIX
-http://regioflix.club/REGIOFLIX/201119rt/joksrregiobrs.mkv
+
 #EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg", Nueve Reinas | 
 http://regioflix.club/REGIOFLIX/201119rt/NueveReinasSrRegio.mkv
 #EXTINF:0 tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1", Historias de Miedo para contar en la Oscuridad | 
@@ -1064,7 +1026,7 @@ http://regioflix.club/REGIOFLIX/201119rt/th3.l10n.k1ng.2019.hdrip.720p.latino.mp
 #EXTINF:0 tvg-logo="https://d9nvuahg4xykp.cloudfront.net/1000688362882447428/6840842068782473800.jpg", KIN | 
 http://regioflix.club/REGIOFLIX/201119rt/k1n.2018.hdrip.720p.latino.mp4
 #EXTINF:0 tvg-logo="https://http2.mlstatic.com/poster-de-lona-vinilica-toy-story-4-D_NQ_NP_638722-MLA31114800027_062019-Q.jpg", Toy Story 4 | 
-http://regioflix.club/REGIOFLIX/201119rt/t0y.st0ry.4.2019.hdrip.720p.latino.mp4
+ 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/EAR5XXoXUAcZfts.jpg", Teen Titans Go vs Teen Titans | 
 http://regioflix.club/REGIOFLIX/201119rt/t33n.t1t4ns.g0.vs.t33n.t1t4ns.2019.hdrip.720p.latino.mp4
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/media/C90UIBXUwAA5lsR.jpg", Mexico Barbaro 2018 | 
@@ -1191,22 +1153,21 @@ http://regioflix.club/REGIOFLIX/201119rt/Bumblebee.SrRegio.mp4
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 | 
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
-#EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro | 
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO | R
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 | R
-https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es",z Eso (It) 1990 | R
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg",z Next Gen
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
-#EXTINF:0 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+#EXTINF:0 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg",z Tragedy Girls
 https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 #EXTINF:0 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso | 
-https://bit.ly/2GajoTS
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala | RE 
-https://bit.ly/2wBzaYz
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg",z La Leyenda de la Nahuala | RE 
+
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino | R
-https://bit.ly/2wBG4x8
+
 #EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion |  
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos |   
@@ -1746,7 +1707,7 @@ https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
 https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
 
 
-#EXTINF:0 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | .
+#EXTINF:0 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | . NO
 https://goo.gl/sFaEVq
 
 #EXTINF:0 tvg-logo="http://www.leelibros.com/biblioteca/files/images/El_Cementerio_Viviente.jpg", Cementerio de Mascotas | .
