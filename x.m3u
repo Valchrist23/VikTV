@@ -313,9 +313,6 @@ https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xu
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://imgx.fubo.tv/station_logos/TastemadeTravel_m.png" group-title="MX",Tastemade Travel
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="Cooking",Food52 
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1024px-Gusto_logo.svg.png" group-title="Cooking",GUSTOTV
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8 
 
