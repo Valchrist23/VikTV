@@ -1,133 +1,133 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Jubei Chan
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Jubei Chan
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_4cqney36/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_xhv8jx4n,1_o26ij9t4,1_7is6j4fc,1_f8kqol1a,1_nki6mlp4,1_6wdz7vmi,1_cctn0gdt/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Jubei Chan Ep 2
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Jubei Chan Ep 2
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_z38dg0xr/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_5s9j5jad,1_tmqcioq7,1_qi12f1rh,1_mj4tm7g9,1_8gi8z9cz,1_97oswsiz,1_bagkcssi/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Kite Libertator
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Kite Libertator
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_n3ao0o7f/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_65oibalg,1_spaloudg,1_1rpgwqwl,1_gvzb6oqz,1_p5iyi58k,1_yhvybnxo,1_hmea32e5/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Mazinkaiser
+#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Mazinkaiser
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdxwe0w/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Puppet Princess
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Puppet Princess
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_tyone006/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9txr2xcs,1_9lx2u1a5,1_uvzku85p,1_ykashjxa,1_df1jq1v8,1_qbmatvuj,1_et86svt8,1_04kimojs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",El castillo en el cielo
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",z El castillo en el cielo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg",El cuento de la princesa Kaguya
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg",z El cuento de la princesa Kaguya
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg",El increible castillo vagabundo
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg",z El increible castillo vagabundo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20increible%20castillo%20vagabundo.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg",La princesa Mononoke
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg",z La princesa Mononoke
 https://archive.org/download/peliculas-studio-ghibli-latino/La%20princesa%20Mononoke.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg",Ponyo en el acantilado
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg",z Ponyo en el acantilado
 https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20acantilado.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg",La tumba de las Luciernagas
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg",z La tumba de las Luciernagas
 https://archive.org/download/peliculas-studio-ghibli-latino/La%20tumba%20de%20las%20Luciernagas.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg",Mi vecino Totoro
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg",z Mi vecino Totoro
 https://archive.org/download/peliculas-studio-ghibli-latino/Mi%20vecino%20Totoro.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NDYyMzktZGM0ZC00MjYwLWJmODItMmI2Mjk3OGU1ZTkxXkEyXkFqcGdeQXVyMTE5MTgwNzg3._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Visionaries Knights of the Magical Light Vol1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NDYyMzktZGM0ZC00MjYwLWJmODItMmI2Mjk3OGU1ZTkxXkEyXkFqcGdeQXVyMTE5MTgwNzg3._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Visionaries Knights of the Magical Light Vol1
 https://archive.org/download/visionaries-disc-1/VISIONARIES_DISC1.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NDYyMzktZGM0ZC00MjYwLWJmODItMmI2Mjk3OGU1ZTkxXkEyXkFqcGdeQXVyMTE5MTgwNzg3._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Visionaries Knights of the Magical Light Vol1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NDYyMzktZGM0ZC00MjYwLWJmODItMmI2Mjk3OGU1ZTkxXkEyXkFqcGdeQXVyMTE5MTgwNzg3._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Visionaries Knights of the Magical Light Vol1
 https://ia801406.us.archive.org/10/items/visionaries-disc-1/VISIONARIES_DISC2.mp4
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Street_Fighter_2_V_Logo.png/220px-Street_Fighter_2_V_Logo.png" group-title="TV Series",Street Fighter 2 V S01E01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Street_Fighter_2_V_Logo.png/220px-Street_Fighter_2_V_Logo.png" group-title="TV Series",z Street Fighter 2 V S01E01
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2001%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E02
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2002%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E03
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2003%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E04
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2004%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E05
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2005%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E06
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2006%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E07
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2007%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E08
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E08
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2008%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E09
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E09
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2009%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E10
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2010%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E11
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2011%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E12
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2012%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E13
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2013%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E14
 https://ia904507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2014%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E15
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2015%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E16
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2016%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E17
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2017%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E18
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2018%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E19
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E19
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2019%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E20
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2020%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E21
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E21
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2021%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E22
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E22
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2022%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E23
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E23
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2023%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E24
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2024%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E25
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2025%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E26
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2026%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E27
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E27
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2027%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E28
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E28
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2028%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",Street Fighter 2 V S01E29
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Street_Fighter_II_V_main_visual.png" group-title="TV Series",z Street Fighter 2 V S01E29
 https://ia804507.us.archive.org/32/items/street-fighter-ii-v-07-manga-adv-jpn-film-store-group_202107/Street%20Fighter%20II%20V%20DVDRemux%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D%2FStreet%20Fighter%20II%20V%2029%20%5BManga%2BADV%2BJpn%5D%20%5BFilmStore%20Group%5D.mp4
 
 
