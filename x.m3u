@@ -1184,11 +1184,14 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/spelling-satellite-networks-inc/tele-uno-1-75975208.jpg",TeleUno TV 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Movies",Toonami Movies 
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Movies",Orbit TV 
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8 
 
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Movies",Toonami Movies 
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="Movies",FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
