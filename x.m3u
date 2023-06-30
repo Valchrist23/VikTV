@@ -1047,7 +1047,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 -----------------------------------------Dedicated 24/7--------------------------------------------- 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-country="US" tvg-url="" group-title="",American Horrors
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e" tvg-name="Scream Factory TV" tvg-language="English" tvg-logo="https://shoutfactorytvlive.com/media_cache/userFiles/uploads/Scream_Factory_TV/max2000/ScreamFactoryTV_1450x630_LiveSite.jpg" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="",Scream Factory TV
+https://b1570a6919f94bcfa2f061daee64c70f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_ScreamFactoryTV/playlist.m3u8
+no
 http://170.178.189.66:1935/live/Stream1/.m3u8 
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-name="Historias de Ultratumba" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml" group-title="Documentary",Historias de Ultratumba
