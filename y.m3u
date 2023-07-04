@@ -1,20 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Beetlejuice (1988)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295935.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Black Panther Wakanda Forever (2022)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/204818.mkv
+
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles The Movie (1990)
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg/220px-Teenage_Mutant_Ninja_Turtles_II_%281991_film%29_poster.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdkMTk5ODMtYjhkMS00MGNlLThkMmItYjRjMTc2ZWY1OWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263727.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bax6hItUe0XSeyO25J5V7hhgkkZ.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles III (1993)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1MDliMWUtYzIzZC00Yjc2LWE1MTYtNWI1YzE5NzIxMzFmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles III (1993)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/237859.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODliYWE0NTQtMGM3NC00MmUxLTk4NjYtODM1OGRiYmRkYTBjXkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Rise Of The Teenage Mutant Ninja Turtles III (2020)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/262743.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future (1985)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295924.mkv
 
 #EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",z Volver al Futuro 
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future 2 (1987)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295925.mkv
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",Volver al Futuro III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",Volver al Futuro III
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/294762.mp4
+
 
 #EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",z Training Day (2001)
 
@@ -57,6 +74,9 @@ https://ia802602.us.archive.org/6/items/sci-fi-channel-saturday-anime-fatalfuryO
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Street Fighter Assassins Fist 2014
 https://dl.dropbox.com/s/xlwra6k4ojs23o4/Street.Fighter.Assassin%27s.Fist.%282014%29.1080p-Dual.Audio-.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc0MDllYjktYzFjZi00OTgwLWJmZWMtODlmMTVlODQyZTgwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Jason X (2001)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/208794.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Ghost in The Shell (1995)
 https://ia802500.us.archive.org/7/items/ghost-in-the-shell_202205/Ghost%20In%20The%20Shell%20Full%20Tape.mp4
@@ -525,11 +545,13 @@ https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecali
 
 #EXTINF:-1,z una cenicienta moderna 2019 
 
-#EXTINF:-1,z Dumbo 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Dumbo 2019 
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263898.mkv
 
 #EXTINF:-1,z Hacker 2019 
 
-#EXTINF:-1,z crypto 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I3YjljOTMtNTg0Ny00NDdhLTlkODUtMzEwMzMwZWNkZTIwXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z crypto 2019 
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/265449.mkv
 
 #EXTINF:-1,z navidad en África netflix 2019 
 
@@ -537,7 +559,8 @@ https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecali
 
 #EXTINF:-1,z serpiente de cascabel netflix 2019 
 
-#EXTINF:-1,z historias de miedo para contar en la oscuridad 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Frozen 2 (2019)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/256398.mkv
 
 #EXTINF:-1,z El rey netflix 2019 
 
@@ -1425,6 +1448,10 @@ http://cecegeek@goo.gl/FDyHpL
 
 #EXTINF:-1,z Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
+
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD FREE IPTV EvoluciÃ³n",z Top Gun Maverick (2022)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/163017.mkv
+
 
 #EXTINF:-1,z Terminus |
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
