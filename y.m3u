@@ -1,10 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Amadeus (1984)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264323.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Beetlejuice (1988)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295935.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Bram Stoker's Dracula (1992)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264441.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Black Panther Wakanda Forever (2022)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/204818.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Groundhog Day (1993)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264450.mkv
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles The Movie (1990)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/296170.mkv
@@ -540,7 +549,7 @@ https://dl.dropbox.com/s/3wbzuiwd3i4obp8/Wonder.park.2019.1080p-dual-lat-cinecal
 #EXTINF:-1,z yo soy Simón 
 https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Love.simon.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",z Rascacielos 2018
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Rascacielos 2018
 https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Toy Story (1995)
@@ -566,7 +575,8 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/265449.mkv
 
 #EXTINF:-1,z eli 2019 neflix 
 
-#EXTINF:-1,z serpiente de cascabel netflix 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg3YjA5MGYtYjdiNy00YThjLWJiZDEtN2M1NmE1NTVhMWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z The Doors (1991)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264309.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Frozen 2 (2019)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/256398.mkv
@@ -594,37 +604,26 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/In.the.tall.grass.2019.
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10958282_LAT_HD.mp4
 
 #EXTINF:-1,z Drive netflix 
-https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6593054_LAT_HD.mp4
 
 #EXTINF:-1,z triple frontera netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Triple.frontier.2019.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1,z Mi primer combate 2018 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/First.match.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,z El stand de los besos 2019 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/The.kissing.booth.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,z campamento en el fin del mundo 2019 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Rim.of.the.world.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,z El arte de vivir bajo la lluvia 2018 
-https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt4682780_CAST_HD.mp4
 
 #EXTINF:-1,z La protectora netflix 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Close.2019.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,z benji 2018 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/Benji.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1,z Los vigilantes de Malibú neflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Malibu.rescue.the.movie.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,z El buen sam 2019 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Good.sam.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,z obsecion secreta 2019 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Secret.obsession.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1,z como enamorarte de tu jefe 2018 netflix 
 https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Set.it.up.2018.1080p-dual-lat-cinecalidad.to.mp4
