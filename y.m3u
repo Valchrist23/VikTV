@@ -7,6 +7,7 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295935.mkv
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/204818.mkv
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles The Movie (1990)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/296170.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdkMTk5ODMtYjhkMS00MGNlLThkMmItYjRjMTc2ZWY1OWIxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263727.mkv
@@ -31,7 +32,6 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",Volver al Futuro III
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/294762.mp4
-
 
 #EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",z Training Day (2001)
 
@@ -543,11 +543,18 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Love.simon.2
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",z Rascacielos 2018
 https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1,Toy Story 4.. 2019
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Toy Story (1995)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263073.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Toy Story 2 (1999)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263076.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Toy Story 3 (2010)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263077.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Toy Story 4 (2019)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264090.mkv
 
 #EXTINF:-1,z una cenicienta moderna 2019 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Dumbo 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxMDE0MDI1Ml5BMl5BanBnXkFtZTgwMzExNTU3NjM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Dumbo (2019)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/263898.mkv
 
 #EXTINF:-1,z Hacker 2019 
@@ -693,9 +700,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Marnies.welt.2018.1080p
 #EXTINF:-1,z casino a casa
 https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/The.house.2017.1080p-dual-lat.mp4
 
-#EXTINF:-1,z Rápido y furioso 2019 
-https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6806448_LAT_HD.mp4
-
 #EXTINF:-1,z quien mató a los puppes 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/The.happytime.murders.2018.1080p-dual-lat-cinecalidad.to.mp4
 
@@ -727,10 +731,13 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Childs.play.2019.1080p-
 
 #EXTINF:-1,z Annabelle 2019
 
-#EXTINF:-1,z atentado en el estadio 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFiOGRjN2YtZGMwYy00NGQ0LWEzZGItOGYxMGRhMWQzY2ViXkEyXkFqcGdeQXVyOTQxNjY4OTc@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z The Conjuring (2007)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/265038.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEwODczZjYtZTU2MS00YzQ2LWJjMTUtMjQ4NjEwMTNkYmE4XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Final Score (2018)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Final.score.2018.1080p-dual-lat-MegaCineApp.Com.mp4
 
-#EXTINF:-1,z El gran terremoto 2018 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYzYWRlZmEtNTQzZC00ZmE2LThjNzAtMDY3ZmNmYmJiMjBlXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z The Quake (2018)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/The.quake.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1z ,pequeña italia 2018
@@ -1194,7 +1201,10 @@ http://regioflix.club/REGIOFLIX/201119rt/coco.mkv
 #EXTINF:0 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cartel-el-camino-netflix-1569313372.jpg?resize=480:*",z El Camino | R
 http://regioflix.club/REGIOFLIX/201119rt/ElCaminoUnapel%C3%ADculadeBreakingBad.mp4
 
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41ZNxjju0XL.jpg",z Fast And Furios Hobbs And Shaw | 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Fast And Furios Hobbs And Shaw (2019)
+https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt6806448_LAT_HD.mp4
+
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41ZNxjju0XL.jpg",z Fast And Furios Hobbs And Shaw (2019)
 http://regioflix.club/REGIOFLIX/201119rt/f4st.4nd.fur10us.h0bbs.4nd.sh4w.2019.hdrip.720p.latino.mp4
 
 #EXTINF:0 tvg-logo="http://regaloseuropa.com/WebRoot/Store14/Shops/0c13511c-26f9-4901-9cf0-c456b0c1e853/5CA6/0414/B799/FAB3/63DE/0A48/3534/0187/Poster_Disney_El_Rey_Leon_Simba.jpg",z El Rey Leon 2019 | R
