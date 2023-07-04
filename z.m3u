@@ -15,6 +15,9 @@ https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdx
 #EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Puppet Princess
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_tyone006/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9txr2xcs,1_9lx2u1a5,1_uvzku85p,1_ykashjxa,1_df1jq1v8,1_qbmatvuj,1_et86svt8,1_04kimojs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Ghost In The Shell (1995)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/259283.mkv
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",z El castillo en el cielo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
 
