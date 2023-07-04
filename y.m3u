@@ -36,11 +36,29 @@ https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future 2 (1987)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295925.mkv
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",Volver al Futuro III
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Back to the Future III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",Volver al Futuro III
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Back to the Future Part III
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/294762.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyZDdhNDYtNWE5MS00N2Q5LThmYjMtOGMzZjFmOGIzMWQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Highlander: Endgame (2000)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293342.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",z Jurassic World (2015)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293392.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg",z Jurassic World Fallen Kingdom (2016)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293391.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Karate Kid (1984)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293395.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg",z The Karate Kid Part III (1989)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293397.mkv
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQwOTVkZmQtMDMwNS00ZTQzLTlkODUtOWI0NDZkMjYxNWUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z The Next Karate Kid (1994)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293396.mkv
 
 #EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",z Training Day (2001)
 
