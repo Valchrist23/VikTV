@@ -21,6 +21,10 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/259283.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Goblin Slayer Goblins Crown (2020)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/296427.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZThiMjA0N2MtYWM0NS00ZDY3LTg2MzktOWJjNjg3OWMwMjI2XkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Gantz (2010)
+http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264908.mkv
+
+
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",z El castillo en el cielo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
 
