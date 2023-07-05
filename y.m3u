@@ -34,6 +34,9 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264441.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Black Panther Wakanda Forever (2022)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/204818.mkv
 
+#EXTINF:-1 tvg-logo="http://www.shanemarais.net/wp-content/uploads/2013/07/008cinderella.jpg" group-title="ENGLISH MOVIES",Cinderella (1950)
+https://www.deadlyblogger.com/NewRelease/cinder1.mp4
+
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" group-title="ENGLISH MOVIES",The Day After Tomorrow (2004)
 https://www.deadlyblogger.com/NewRelease/theday2004.mp4
 
@@ -103,13 +106,13 @@ https://www.deadlyblogger.com/NewRelease/twotowers.mp4
 https://www.deadlyblogger.com/NewRelease/returnking1.mp4
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg",z Jurassic World Fallen Kingdom (2016)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293391.mp4
+
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Karate Kid (1984)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293395.mkv
+
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg",z The Karate Kid Part III (1989)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293397.mkv
+
 
 #EXTINF:-1 tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Men-of-Honor-movie-poster.jpg" group-title="ENGLISH MOVIES",Men of Honor (2000)
 https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
@@ -166,14 +169,25 @@ https://ia802602.us.archive.org/6/items/sci-fi-channel-saturday-anime-fatalfuryO
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1ODQ2MzUxOV5BMl5BanBnXkFtZTgwMjg2MDk4MDE@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Street Fighter Assassins Fist 2014
 https://dl.dropbox.com/s/xlwra6k4ojs23o4/Street.Fighter.Assassin%27s.Fist.%282014%29.1080p-Dual.Audio-.mkv
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Cobra (1986)
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=BA0373FF761B37D3&resid=BA0373FF761B37D3%21105&authkey=AAaos_OjAXLxm28
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc0MDllYjktYzFjZi00OTgwLWJmZWMtODlmMTVlODQyZTgwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Jason X (2001)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/208794.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Viernes 13, Parte 4(1984)- Último capítulo
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=5167F642C06454CE&resid=5167F642C06454CE%21106&authkey=AP8eUxWZT-c9xbQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Viernes 13, Parte 5(1985)- Un nuevo comienzo
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=5167F642C06454CE&resid=5167F642C06454CE%21107&authkey=ADW0A-hWms-TKr0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Viernes 13, Parte 6(1986)- Jason vive
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=5167F642C06454CE&resid=5167F642C06454CE%21105&authkey=ABdKyBi17HCVrQ4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Viernes 13, Parte 7(1988)- Sangre nueva
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=5167F642C06454CE&resid=5167F642C06454CE%21108&authkey=AP7Rv6e9JE_P8ZE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Viernes 13, Parte 8(1989)- Jason vuelve... para siempre
+http://tvpremiumhd.club/lista-gratuita/153021/on/vod.php?cid=E8CCB172CCE01780&resid=E8CCB172CCE01780%21107&authkey=ALQqLGHo1Gd27u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Ghost in The Shell (1995)
 https://ia802500.us.archive.org/7/items/ghost-in-the-shell_202205/Ghost%20In%20The%20Shell%20Full%20Tape.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Ghost in The Shell (2017)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/259471.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3ZDEzYTQtZjg1NC00NTkwLTkyZWQtNDg1NDRlYWRhMmI3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Vampire Hunter D (1987)
 https://archive.org/download/vampire-hunter-d-english-dubbed-version/Vampire%20Hunter%20D%20English%20Dubbed%20Version.ia.mp4
@@ -195,6 +209,9 @@ https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/V1JkaLsY-960.jpg",z Ganar o Morir (1993)
 https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
+
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="ENGLISH MOVIES",Jungle Book (1942)
+https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
 
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/MbDDABPA-1280.jpg",z Los beverly ricos (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
@@ -559,6 +576,9 @@ https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 #EXTINF:-1 group-title="Peliculas" tvg-logo="https://cdn.jwplayer.com/thumbs/0axWMZRM-1280.jpg",z Piratas Del Caribe 3 (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg" group-title="ENGLISH MOVIES",Pinocchio (1940)
+https://www.deadlyblogger.com/NewRelease/pinco1.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Guardians of the galaxy dual audio  no
 https://goo.gl/sFaEVq
 
@@ -574,6 +594,9 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Pokemon.detective.pikac
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Misterio a bordo 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Murder.mystery.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Metropolisposter.jpg" group-title="ENGLISH MOVIES",Metropolis (1927)
+https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
+
 #EXTINF:-1,z tren a París 2018 
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
@@ -583,9 +606,9 @@ https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Split (2016)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264901.mkv
 
-#EXTINF:-1,z Pie Pequeño 2018 
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="VOD A LA CARTA",Prometeus HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
 #EXTINF:-1,z noche de juegos 2018   no
 
