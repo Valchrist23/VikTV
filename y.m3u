@@ -1,10 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Amadeus (1984)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264323.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Beetlejuice (1988)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295935.mkv
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="ENGLISH MOVIES",Austin Powers: The Spy Who Shagged Me (1999)
+https://www.deadlyblogger.com/NewRelease/austin2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/krYBVdp.jpg" group-title="ENGLISH MOVIES",The Animal (2001)
+https://www.deadlyblogger.com/NewRelease/animal.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="ENGLISH MOVIES",Bad Boys 
+https://www.deadlyblogger.com/NewRelease/badboys1.mp4
+
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="ENGLISH MOVIES",Bad Boys II (2003)
+https://www.deadlyblogger.com/NewRelease/badboys2.mp4
+
+#EXTINF:-1 tvg-logo="https://badmoviemarathon.files.wordpress.com/2014/12/blade-ii.jpg" group-title="ENGLISH MOVIES",Blade II (2002)
+https://www.deadlyblogger.com/NewRelease/blade2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.movieposter.com/posters/archive/main/40/MPW-20378" group-title="ENGLISH MOVIES",Blade: Trinity (2004)
+https://www.deadlyblogger.com/NewRelease/blade3.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_bourne_supremacy-906985510-large.jpg" group-title="ENGLISH MOVIES",The Bourne 
+https://www.deadlyblogger.com/NewRelease/bourne1.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_bourne_supremacy-906985510-large.jpg" group-title="ENGLISH MOVIES",The Bourne 2
+https://www.deadlyblogger.com/NewRelease/bourne2.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_bourne_supremacy-906985510-large.jpg" group-title="ENGLISH MOVIES",The Bourne Supremacy (2004)
+https://www.deadlyblogger.com/NewRelease/bourne2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Bram Stoker's Dracula (1992)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264441.mkv
@@ -12,8 +34,38 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264441.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Black Panther Wakanda Forever (2022)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/204818.mkv
 
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" group-title="ENGLISH MOVIES",The Day After Tomorrow (2004)
+https://www.deadlyblogger.com/NewRelease/theday2004.mp4
+
+#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="ENGLISH MOVIES",The Fast and the Furious (2001)*
+https://www.deadlyblogger.com/NewRelease/fast1.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/finding-nemo-2003/large_zjqInUwldOBa0q07fOyohYCWxWX.jpg" group-title="ENGLISH MOVIES",Finding Nemo (2003)
+https://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-fifth-element-1997/large_yph0ZQC0I56CzQANxEMxj3x78gb.jpg" group-title="ENGLISH MOVIES",The Fifth Element (1997)
+https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Gataca_Movie_Poster_B.jpg/220px-Gataca_Movie_Poster_B.jpg" group-title="ENGLISH MOVIES",Gattaca (1997)
+https://archive.org/download/Gattaca/Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Groundhog Day (1993)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264450.mkv
+
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/medias/nmedia/18/63/56/92/19726998.jpg" group-title="ENGLISH MOVIES",Honey (2003)
+https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Movie_poster_i_robot.jpg" group-title="ENGLISH MOVIES",I Robot (2004)
+https://www.deadlyblogger.com/NewRelease/irobot.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" group-title="ENGLISH MOVIES",Men in Black (1997)
+https://www.deadlyblogger.com/NewRelease/mnb1.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" group-title="ENGLISH MOVIES",Men in Black 2 
+https://www.deadlyblogger.com/NewRelease/mnb2.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img5.acsta.net/pictures/14/05/26/16/57/120603.jpg" group-title="ENGLISH MOVIES",Men in Black 3
+https://www.deadlyblogger.com/NewRelease/mnb3.mp4
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles The Movie (1990)
 https://www.deadlyblogger.com/NewRelease/tmnt1.mp4
@@ -24,17 +76,11 @@ https://www.deadlyblogger.com/NewRelease/tmnt2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1MDliMWUtYzIzZC00Yjc2LWE1MTYtNWI1YzE5NzIxMzFmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Teenage Mutant Ninja Turtles III (1993)
 https://www.deadlyblogger.com/NewRelease/tmnt3.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODliYWE0NTQtMGM3NC00MmUxLTk4NjYtODM1OGRiYmRkYTBjXkEyXkFqcGdeQXVyODA4OTIyMzY@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Rise Of The Teenage Mutant Ninja Turtles III (2020)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/262743.mkv
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future (1985)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295924.mkv
-
-#EXTINF:0 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg",z Volver al Futuro 
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Movies",z Back to the Future 2 (1987)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/295925.mkv
+https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?discomp4
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Back to the Future III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
@@ -43,10 +89,18 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/294762.mp4
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyZDdhNDYtNWE5MS00N2Q5LThmYjMtOGMzZjFmOGIzMWQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z Highlander: Endgame (2000)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293342.mkv
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",z Jurassic World (2015)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293392.mp4
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" group-title="ENGLISH MOVIES",The Hateful Eight (2015)
+https://www.deadlyblogger.com/NewRelease/hateful2015.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg" group-title="ENGLISH MOVIES",The Lord of the Rings: The Fellowship of the Ring (2001)
+https://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg" group-title="ENGLISH MOVIES",The Lord of the Rings: The Two Towers (2002)
+https://www.deadlyblogger.com/NewRelease/twotowers.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg" group-title="ENGLISH MOVIES",The Lord of the Rings: The Return of the King (2003)
+https://www.deadlyblogger.com/NewRelease/returnking1.mp4
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg",z Jurassic World Fallen Kingdom (2016)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293391.mp4
@@ -57,10 +111,11 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293395.mkv
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODk0NzA4MTMtNGQ3Zi00OTdlLThiZmQtOTI0YWEyNDFiMTg2XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg",z The Karate Kid Part III (1989)
 http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293397.mkv
 
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQwOTVkZmQtMDMwNS00ZTQzLTlkODUtOWI0NDZkMjYxNWUwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",z The Next Karate Kid (1994)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/293396.mkv
+#EXTINF:-1 tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Men-of-Honor-movie-poster.jpg" group-title="ENGLISH MOVIES",Men of Honor (2000)
+https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
 
 #EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="MOVIES",z Training Day (2001)
+https://www.deadlyblogger.com/NewRelease/training.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1304441/screenshots/3695049/film_logo_dribbble.png" group-title="MOVIES",z A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
@@ -73,6 +128,15 @@ https://lh3.googleusercontent.com/HwSEjZ-lEnOkjQQDNw7ZrPTXRCsDB93Nw90aMYxlirIbnT
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BZGM1MGY4OTYtOGZkOC00NjYyLTk3OTMtODUyZDdhYWQ3NGFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg",z The Transformers Animated Movie (1986)
 https://archive.org/serve/thetransformers1986/The%20Transformers%201986.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg" group-title="ENGLISH MOVIES",Transformers (2007)
+https://www.deadlyblogger.com/NewRelease/transformers1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/transformers-revenge-of-the-fallen.25586.jpg" group-title="ENGLISH MOVIES",Transformers: Revenge of the Fallen (2009)
+https://www.deadlyblogger.com/NewRelease/transformers2.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIoUZttvlj5vrx_368_a/Transformers-Dark-Of-The-Moon.jpg" group-title="ENGLISH MOVIES",Transformers: Dark of the Moon (2011)
+https://www.deadlyblogger.com/NewRelease/transformers3.mp4
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTMzOTYzOF5BMl5BanBnXkFtZTcwMTE4NTEyMQ@@._V1_.jpg",z Joe Animated Movie (1987)
 https://archive.org/serve/g.-i-joe-the-movie-1987-full-movie/G.I%20%20Joe%20%20%20The%20Movie%20%281987%29%20Full%20Movie.mp4
@@ -498,6 +562,9 @@ https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Guardians of the galaxy dual audio  no
 https://goo.gl/sFaEVq
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Guardians of the galaxy (2014)
+https://www.deadlyblogger.com/NewRelease/guardians2014.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNhNGYzZDMtYWQ3Ni00ZmNmLWE2ODctNTZmODg4OWM2ZDJhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Batman V Superman Dawn of Justice (2016)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/Batman.v.superman.dawn.of.justice.2016.1080p.theatrical-dual-lat.mp4
 
@@ -594,10 +661,10 @@ http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/265449.mkv
 #EXTINF:-1,z eli 2019 neflix 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg3YjA5MGYtYjdiNy00YThjLWJiZDEtN2M1NmE1NTVhMWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z The Doors (1991)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/264309.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Frozen 2 (2019)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/256398.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z Frozen (2013)
+https://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
 
 #EXTINF:-1,z El rey netflix 2019 
 
@@ -878,6 +945,7 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/Personal.shop
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Le.chant.du.loup.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 #EXTINF:-1,z La voz de la igualdad 2018 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/On.the.basis.of.sex.2018.1080p-dual-lat-cinecalidad.is.mp4
+
 #EXTINF:-1,El pasajero 2018 
 #EXTINF:-1,Creed 1 la leyenda de Rocky 
 #EXTINF:-1,Creed 2..2019 
@@ -1118,6 +1186,9 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/A.dogs.journey.2019.108
 #EXTINF:-1,z El Pájaro Loco película 2017 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/PL-31-10-2019/Woody.woodpecker.2017.1080p-dual-lat.mp4
 
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-polar-express-2004/large_wOrvRSt0pOlQWLBQDAoRryfUrSm.jpg" group-title="ENGLISH MOVIES",The Polar Express (2004)
+https://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+
 #EXTINF:-1,z condorito la película 2019 
 
 #EXTINF:-1,z más halla de la montaña 2019 
@@ -1264,6 +1335,9 @@ http://regioflix.club/REGIOFLIX/201119rt/x.m3n.d4rk.ph03n1x.2019.brrip.720p.lati
 
 #EXTINF:0 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg",z Godzilla El Rey de los Monstruos | 
 http://regioflix.club/REGIOFLIX/201119rt/g0dz1ll4.k1ng.0f.m0nst3r.2019.hdrip.720p.latino.mp4
+
+#EXTINF:0 tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg",z Jhon Wick (2014) 
+http://www.deadlyblogger.com/NewRelease/johnwick.mp4
 
 #EXTINF:0 tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg",z Jhon Wick 3 | 
 http://regioflix.club/REGIOFLIX/201119rt/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4
@@ -1460,6 +1534,9 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",z Redada Asesina | .
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/pokmon-the-movie-2000-pokmon-the-power-of-one.20955.jpg" group-title="ENGLISH MOVIES",Pokemon: The Movie 2000 (1999)
+https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
+
 #EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",z SAW VIII SUBTITULADO | .
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
@@ -1496,6 +1573,9 @@ http://bit.ly/MRAQCSAND
 # EXTINF: -1, ESTRENOS: THE MINE (2017)
 http://bit.ly/THEMINE
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzBiYTY0YmMtNWVmZi00ODNkLWI4YjQtNjhlMjhmNWJhMzljXkEyXkFqcGdeQXVyMTcxNTYyMjM@._V1_FMjpg_UX1000_.jpg" group-title="MOVIES",z I'm not Lrena Bobbitt (2014)
-http://mael-tv.online:8880/movie/PRUEBA143/PRUEBA143/296479.mkv
+#EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/wild-wild-west-1999/large_yT2y0SCQNj2pnRmvfxVbI9yrC4a.jpg" group-title="ENGLISH MOVIES",Wild Wild West (1999)
+https://www.deadlyblogger.com/NewRelease/wildwest.mp4
+
+#EXTINF:-1 tvg-logo="https://ca.movieposter.com/posters/archive/main/96/MPW-48454" group-title="ENGLISH MOVIES",X2 (2003)
+https://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
