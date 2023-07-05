@@ -1246,7 +1246,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png" group-title="Movies",Canal 6 Costa Rica
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO 2 East
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="USA",Rock Entertainment
