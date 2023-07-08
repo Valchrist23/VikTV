@@ -2,7 +2,6 @@
 
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="Peliculas",Austin Powers: The Spy Who Shagged Me (1999)
 https://www.deadlyblogger.com/NewRelease/austin2.mp4
 
@@ -23,7 +22,6 @@ https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?d
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Back to the Future III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="Peliculas",Bad Boys II (2003)
 https://www.deadlyblogger.com/NewRelease/badboys2.mp4
@@ -47,7 +45,6 @@ https://www.deadlyblogger.com/NewRelease/bourne2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bram Stoker's Dracula (1992)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Black Panther Wakanda Forever (2022)
-
 
 #EXTINF:-1 tvg-logo="http://www.shanemarais.net/wp-content/uploads/2013/07/008cinderella.jpg" group-title="Peliculas",Cinderella (1950)
 https://www.deadlyblogger.com/NewRelease/cinder1.mp4
@@ -1368,7 +1365,6 @@ http://bit.ly/LABELLAMOVIE
 #EXTINF:-1 group-title="Peliculas",MASCOTA HUMANA (2016)
 http://bit.ly/MASCOTAHUMANA
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Peliculas",ROBOCOP 
 https://archive.org/download/robo-cop-1987_202205/RoboCop%20%281987%29.ia.mp4
 
@@ -1461,7 +1457,6 @@ http://cecegeek@goo.gl/FDyHpL
 
 #EXTINF:-1 group-title="Peliculas",Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
-
 
 #EXTINF:-1 group-title="Peliculas",Terminus
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
