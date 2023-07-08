@@ -9,7 +9,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w18287
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="General",N+
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="MX",Foro TV 
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="MX",Foro TV 
 https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8 
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="MX",Foro TV
