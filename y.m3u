@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="Peliculas",Austin Powers: The Spy Who Shagged Me (1999)
 https://www.deadlyblogger.com/NewRelease/austin2.mp4
 
@@ -20,6 +21,10 @@ https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?d
 
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Back to the Future III
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Back to the Future 3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/bad-boys-ii-2003/large_11jdudaJnp4rizjYnwLEb0dNKbd.jpg" group-title="Peliculas",Bad Boys II (2003)
 https://www.deadlyblogger.com/NewRelease/badboys2.mp4
@@ -43,6 +48,7 @@ https://www.deadlyblogger.com/NewRelease/bourne2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bram Stoker's Dracula (1992)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Black Panther Wakanda Forever (2022)
+
 
 #EXTINF:-1 tvg-logo="http://www.shanemarais.net/wp-content/uploads/2013/07/008cinderella.jpg" group-title="Peliculas",Cinderella (1950)
 https://www.deadlyblogger.com/NewRelease/cinder1.mp4
@@ -622,10 +628,10 @@ https://dl.dropbox.com/s/opl112eqxqorgyf/Mortal.engines.2018.1080p-dual-lat-cine
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEwYWU0ZjktNTNkNy00M2FhLThjM2ItOTEwMzA3NGY1ODRhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",mía y el leon (2018)
 https://dl.dropbox.com/s/hk6r6liurserzg7/Mia.and.the.white.lion.2018.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJlNDgzNDMtNjAyZC00ODNhLTgwNDktODk5ZWZmMjBiODY1XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Coco 2017 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTJlNDgzNDMtNjAyZC00ODNhLTgwNDktODk5ZWZmMjBiODY1XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Coco (2017)
 https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/Coco.2017.1080p-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas",Jumanji: En la selva (2017) www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jumanji: Welcome to the Jungle (2017)
 https://dl.dropbox.com/s/23a6zboqw88gdzk/Jumanji.welcome.to.the.jungle.2017.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 group-title="Peliculas",El heroe (2017) 
@@ -650,26 +656,11 @@ https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecali
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Frozen (2013)
 https://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
 
-#EXTINF:-1 group-title="Peliculas",en la hierva alta 2019 neflix 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2ZWU3N2MtY2JkYy00YjFjLWEyZWQtMjQ0MTU0NDk1ZTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",In the Tall Grass (2019) neflix 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/In.the.tall.grass.2019.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZlMWEzNmMtMzI5Ni00MzliLTgxM2ItZjUxZGI3ODI2ZjFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Street Flow (2019) netflix 
 https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt10958282_LAT_HD.mp4
-
-#EXTINF:-1 group-title="Peliculas",como enamorarte de tu jefe 2018 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Set.it.up.2018.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",tienda de unicornio 2017 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Unicorn.store.2017.1080p-dual-lat-cinecalidad.is.mp4
-
-#EXTINF:-1 group-title="Peliculas",Mi pequeño demonio netflix 2017 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/4-11-2019/Little.evil.2017.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",nosotros en la noche 2017 netflix 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/Our.souls.at.night.2017.1080p-dual-lat.mp4
-
-#EXTINF:-1 group-title="Peliculas",A todos los chicos que me he enamorado netflix 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/To.all.the.boys.ive.loved.before.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 group-title="Peliculas",alta realidad netflix 2017
 https://storage.googleapis.com/pl-storage.appspot.com/PL/4-11-2019/Realityhigh.2017.1080p-dual-lat.mp4
@@ -852,15 +843,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Goosebumps.2.haunted.ha
 
 #EXTINF:-1 group-title="Peliculas",El rehén 2018 
 https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Beirut.2018.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",un pequeño favor 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/A.simple.favor.2018.1080p-dual-lat-cinecalidad.to-r.mp4
-
-#EXTINF:-1 group-title="Peliculas",Cuando ellas quieren 2018 
-https://storage.googleapis.com/opportune-mile-250902.appspot.com/tt6857166_LAT_HD.mp4
-
-#EXTINF:-1 group-title="Peliculas",se armo el Belén 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/The.star.2017.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 group-title="Peliculas",alcanzando tu sueño 2018 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Teen.spirit.2018.1080p-dual-lat-cinecalidad.is.mp4
@@ -1363,55 +1345,53 @@ http://bit.ly/LABELLAMOVIE
 #EXTINF:-1 group-title="Peliculas",MASCOTA HUMANA (2016)
 http://bit.ly/MASCOTAHUMANA
 
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Peliculas",ROBOCOP 
 https://archive.org/download/robo-cop-1987_202205/RoboCop%20%281987%29.ia.mp4
 
-#EXTINF:-1 group-title="Peliculas",VOLVER AL FUTURO3
-https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
-
-#EXTINF:-1 group-title="Peliculas",CASTILLO DE ARENA (2017)
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
 http://bit.ly/MRAQCASTI
 
 #EXTINF:-1 group-title="Peliculas",CHUKY EL MUNHECO DIABOLICO (TERROR)
 http://bit.ly/MRAQCCHUCK
 
-#EXTINF:-1 group-title="Peliculas",COLOSSAL (2016)
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016)     
 http://bit.ly/2w5zZIw
 
-#EXTINF:-1 group-title="Peliculas",MI VIDA A LOS 17
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge of Seventeen
 http://bit.ly/2v16m9z
 
-#EXTINF:-1 group-title="Peliculas",SAHARA (2017)
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
 http://bit.ly/SAHARAMOVIE
 
-#EXTINF:-1 group-title="Peliculas",SPECTRE
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spectre (2015)
 https://goo.gl/3KGMLf
 
 #EXTINF:-1 tvg-logo="https://www.alveo-slovakia.com/photo/4437484/rogue-one-a-star-wars-story-2016-directed-by-gareth-edwards-rogue-one-a-star-wars-story.jpg" group-title="Peliculas",Rogue One: A Star Wars Story (2019)
 https://deadlyblogger.com/NewRelease/rogue1.mp4
 
-#EXTINF:-1 group-title="Peliculas",BLOOD IN BLOOD OUT/ VATOS LACOS
+EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZmMjAxNjQtZjQzOS00NjU4LWI0NDktZjlkZTgwNjVmNzU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bound by Honor (1993)/ VATOS LACOS
 http://www.deadlyblogger.com/NewRelease/blood.mp4
 
-#EXTINF:-1 group-title="Peliculas",EN EL CORAZON DEL MAR
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",In the Heart of the Sea (2015)
 https://goo.gl/4BqODN
 
-#EXTINF:-1 group-title="Peliculas",HORAS CONTADAS
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Finest Hours (2016)
 https://goo.gl/SyvNCX
 
-#EXTINF:-1 group-title="Peliculas",LA CHICA DANESA
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Danish Girl (2015)
 https://goo.gl/nQXbQ5
 
-#EXTINF:-1 group-title="Peliculas",LA MALDICION EL INICIO DEL FIN
+#EXTINF:0 tvg-logo="No Image" group-title="Peliculas",LA MALDICION EL INICIO DEL FIN
 https://goo.gl/gWJEZq
 
-#EXTINF:-1 group-title="Peliculas",MI ABUELO ES UN PELIGRO
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0NzkyNDk2M15BMl5BanBnXkFtZTgwNDczOTU3NzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dirty Grandpa (2016)
 https://goo.gl/KYCQoX
 
-#EXTINF:-1 group-title="Peliculas",SADAKO Y KAYAKO
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNzEwNjctOTE3OC00YjM2LTk5ZTUtZWQxZTg0MmM1ZjdjXkEyXkFqcGdeQXVyNzU2NjU4Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sadako vs. Kayako (2016)
 https://goo.gl/iU1U32
 
-#EXTINF:-1 group-title="Peliculas",SINIESTRO
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sinister (2012)
 https://goo.gl/F5NCPj
 
 #EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg" group-title="Peliculas",Cuando nos Conocimos
@@ -1455,6 +1435,7 @@ http://cecegeek@goo.gl/FDyHpL
 
 #EXTINF:-1 group-title="Peliculas",Sandy Wexler
 http://cecegeek@goo.gl/kyH56Z
+
 
 #EXTINF:-1 group-title="Peliculas",Terminus
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
