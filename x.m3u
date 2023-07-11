@@ -118,6 +118,9 @@ https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="MX",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="MX",Azteca Uno -1
+https://stream.ads.ottera.tv/cl/230711cimf8l8gv6tm3i7emo8g/1280x720_2997500_0_f.m3u8?i=475_5396
+
 #EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-language="es" tvg-logo="https://i.imgur.com/4kX1baN.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="MX",Azteca7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -682,13 +685,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/thumbh_20200930_060553.jpg" group-title="Movies",Canela TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=148 
 
-#EXTINF:-1 tvg-logo="https://canelamedia.com/wp-content/uploads/2022/05/logo-kids-v2.svg" group-title="Movies",Canela TV Kids 
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-kids-16x9.jpg" group-title="Movies",Canela TV Kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=55
+
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-kids-16x9.jpg" group-title="Movies",Canela TV Kids 
+https://stream.ads.ottera.tv/cl/230711cimf4f9ra6jehr3fv2dg/1920x1080_2900000_5_f.m3u8?i=475_654
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/thumbh_20200930_060553.jpg" group-title="Movies",Channel TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=81
-
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Movies",Canela TV
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" group-title="Movies",Canela Cinema 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
@@ -700,7 +704,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1544 
 
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-tv.jpg" group-title="Movies",Fox Sports Canela TV 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1444
+https://stream.ads.ottera.tv/cl/230711cimfa75hqgp3biuugrj0/1920x1080_5931200_4_f.m3u8?i=475_4060
 
 #EXTINF:-1 tvg-logo="https://static.tumblr.com/b9byeoh/Dualgtd1f/wired_logo.jpg" group-title="USA",Wired 
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8 
