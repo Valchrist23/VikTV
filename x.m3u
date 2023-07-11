@@ -972,10 +972,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 
-#EXTINF:0 tvg-id="https://serenotv.com/envivo/canal-maxima-tv/" type="stream" channelId="-1" tvg-logo="https://i.imgur.com/wGaYGJ8.jpg" group-title="Music",Maxima Tv
+#EXTINF:-1 tvg-id="https://serenotv.com/envivo/canal-maxima-tv/" type="stream" channelId="-1" tvg-logo="https://i.imgur.com/wGaYGJ8.jpg" group-title="Music",Maxima Tv
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
 https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-TCN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="US",Gravitas
@@ -1092,7 +1092,7 @@ https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 tvg-id="DailyAnimated" tvg-name="DailyAnimated" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Adult-Swim-Logo.png" tvg-country="US" tvg-url="" group-title="24/7",DailyAnimated
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMDNjZWUtYzM4Ny00ODM3LWI2OWYtMjQyZGM5ZjhlNzY2XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_FMjpg_UX1000_.jpg" group-title="24/7",Korgoth The Barbarian
+#EXTINF:-1 tvg-id="Korgoth The Barbarian" tvg-name="Korgoth The Barbarian" tvg-language="English"tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMDNjZWUtYzM4Ny00ODM3LWI2OWYtMjQyZGM5ZjhlNzY2XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_FMjpg_UX1000_.jpg" group-title="24/7",Korgoth The Barbarian
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~
