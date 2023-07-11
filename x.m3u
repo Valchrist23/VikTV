@@ -646,7 +646,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="US",My Time Movie Network 
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="MX",Lifetime Latinoamerica 
+#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="MX",My Time Movie Network Latinoamerica 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",Pluto TV Sci-Fi 
@@ -660,9 +660,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL 
-
-#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg",Movie Central by TV Player
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="Movies",Tu Cine 
 https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-tucine-plexA/CDN/512x288_875600/index.m3u8
@@ -1254,6 +1251,9 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg",Movie Central by TV Player
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="USA",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/index.m3u8
