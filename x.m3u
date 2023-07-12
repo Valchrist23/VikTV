@@ -886,8 +886,14 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f659
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8xs5lny6s2nh5z4Po5Il4wHaE0&pid=Api&P=0&w=260&h=170" group-title="USA",Crime 360
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
+EXTINF:-1 channel-id="pluto-5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-chno="588" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Investigación" , Los archivos del FBI 
+https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8 
+
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-chno="2775" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="En Español" ,Investiga
 https://i.mjh.nz/PlutoTV/5cf96b8f4f1ca3f0629f4bf1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-chno="601" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Investigación" , Misterios sin Resolver
+https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="USA",True Crime
 https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
@@ -898,7 +904,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/thumbnail.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=68&h=80&dpr=1&q=75" group-title="USA",Pluto TV Fantastic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=743deb85-ff32-11ec-a06f-0242ac110003&deviceId=d871e933-34f2-4ee4-adbc-afaa292d7136&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3931&deviceLon=-121.962&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="MX",Cinevault 80s
+#EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="MX",Cinevault 80s
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/featuredImage.jpg" group-title="Movies",80s Rewind
