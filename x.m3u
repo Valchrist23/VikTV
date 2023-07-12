@@ -267,7 +267,7 @@ https://ythls.onrender.com/channel/UCzFECXtTtodMuin8whWxDqQ.m3u8
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-language="es" tvg-logo="http://ortomedicalcare.com/wp-content/uploads/2018/01/logo-telemadrid-1.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-id="RT en espanol" tvg-name="RT en espanol" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",RT en espanol
+#EXTINF:-1 tvg-id="RT en Espanol" tvg-name="RT en Espanol" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",RT en Espanol | Rusia
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LAT",Telemundo Al Dia 
@@ -1023,7 +1023,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=publish" group-title="Sports",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
-#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",EDGeSport
+#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",EDGESport (1080p) 
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Pac-12_Network_logo.png" tvg-country="US" tvg-url="" group-title="Sports",Pac-12 Insider
