@@ -62,19 +62,19 @@ https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaplus-tv-mx.png" group-title="MX",VA +
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w590809501_b1428000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",Canal 4 
+#EXTINF:-1 tvg-id="" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",Canal 4 
 https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12
+#EXTINF:-1 tvg-id="Canal 12" tvg-name="Canal 12" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="MX",Canal 12
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="MX",Canal 23
 https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MX",Canal 44
+#EXTINF:-1 tvg-id="Mexicali en Vivo" tvg-name="Mexicali en Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MX",Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XHILA" tvg-name="Canal 66" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-XHILA-TDT.png" tvg-country="Lat" tvg-url="" group-title="MX",Canal 66
