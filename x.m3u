@@ -411,9 +411,6 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 #EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/2019/09/logo-discovery-hd.png" group-title="US",Discovery Channel
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="USA",Space Science TV
-https://magellan-space-science-now-1-us.freemoviesplus.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-language="en" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" tvg-shift="0",Discover Film
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=DiscoverFilm&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
