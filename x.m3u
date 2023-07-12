@@ -734,6 +734,9 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",WFMZ Channel 69
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55475&extension=ts&play_token=g0Q6iErq0N
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 43 Harrisburg 
 https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 
@@ -741,9 +744,6 @@ https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 54
-https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX Huntsville
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 7 Los Angeles
