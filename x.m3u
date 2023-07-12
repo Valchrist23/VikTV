@@ -1114,6 +1114,9 @@ https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
 #EXTINF:-1 tvg-id="Korgoth The Barbarian" tvg-name="Korgoth The Barbarian" tvg-language="English"tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMDNjZWUtYzM4Ny00ODM3LWI2OWYtMjQyZGM5ZjhlNzY2XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_FMjpg_UX1000_.jpg" group-title="24/7",Korgoth The Barbarian
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 
+#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Futurama
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CssEBZpJIK5fCqM86YJbGbi00AVQjXJlyIrZDpPBMR3eQQ4chDJuowVoQzsGaJ6a1a72O6ezds4igWUN6VKgDfkS2ou641vR3xWFdD9XzDwg3UHY0g4yGwbOp0j4pheD8v24cy_XRmdzzP2dZn6OFwC1WUQUZe8xodAEnfBy4Pgf5Pr8OXnepM5UiRodv6cVeLytYMVqmLk_Fng-IlpPtxChuIwYyWtb2j2gVBcenGWgdG5cuzb4fk7dtfT50QwPFLZqVxJq4zAJ54_PN0nADBn_mRl5T_797efB6acc3AQM77oK9NSWscd_HB_4Rgnp4_1cB89RtZcsDyHWVWKtFRT_BcV8SclIdYNqwZ5NYydbBUV7z66vkMyIQ9orCyBJUltCKp0aPO8i6jZclFcIjV8SnScWhtVjrCpL6GvCu_QsenmC73DyYhERx2lQIkLLKgRGmYW7d-oVj8Xkgv7g86NYqzp18nFUQnJQpnadld2kYwXOXgX-XOnqRQLoGFznMvGo7ZsWlEkOd8jwY1PjAw-achKkyl614J8mNt_jzikLWZo15lRCCT9MghgBplto93OH6VqAU5xMT8gCrSGbEw-h0pVyDd_x0xXF0xE-7xvasrEq9xfp2ZgKPqeWVSiYjrWvnkdbdWf_UWB1yMjUSXhoVLqBCcmmfu6kmuJ2XGL7Uht4b3a1Y16_LlHeydMjLTXbZs1eWGtS-woxoAVbldxAuEoZwaIsOoba9EkBD7A8ljg10hmow0uKYzRwlM76WmRu_xEBH_zkRqWn3r4aDG-8BUtjScTnxIyOcSABKglldS13ZXN0LTIwgwc.m3u
+
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="LABEL",~ 24/7 Adult Swim Geo-Blocked ~
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
