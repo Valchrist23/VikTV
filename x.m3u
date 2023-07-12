@@ -611,6 +611,9 @@ https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://presetsgratis.com/wp-content/uploads/2021/10/retro-play-apk.png.webp" group-title="Gaming",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="SHORTGOD",Bit Me op1 | México 
+http://pe.shortgod.com/ponch/tv1.php?id=2605
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="USA",Pluto TV Comedy 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=7a4a7116-1b04-11ec-aefb-0242ac110003&deviceId=9d8f625d-d1f4-473b-a707-39b5323f84f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
