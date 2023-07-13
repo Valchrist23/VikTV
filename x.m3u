@@ -295,7 +295,7 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 10 
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-lang="es" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Lat" group-title="Entretenimiento +",TeleSUR
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento +",
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entretenimiento +",Globovision
