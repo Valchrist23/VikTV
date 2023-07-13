@@ -309,7 +309,7 @@ https://ythls.onrender.com/channel/UCfJtBtmhnIyfUB6RqXeImMw.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entretenimiento +",Globovision
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Entretenimiento +"",Tves
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Entretenimiento +",Tves
 https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Deportes/Esports",eSports Max
@@ -360,7 +360,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8b
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Cooking",Hell's Kitchen en español 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 #EXTINF:-1 channel-id="pluto-5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="605" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Cooking",America's Test Kitchen 
+#EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Cooking",America's Test Kitchen 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
