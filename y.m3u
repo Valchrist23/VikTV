@@ -35,6 +35,12 @@ https://www.movieposter.com/posters/archive/main/40/MPW-20378
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blade: Trinity (2004) 
 https://www.deadlyblogger.com/NewRelease/blade3.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_.jpg" group-title="Peliculas",The Wolverine (2013)
+https://deadlyblogger.com/NewRelease/thewolverine.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_.jpg" group-title="Peliculas",Captain America Winter Soldier (2014)
+https://deadlyblogger.com/NewRelease/wintersoldier.webm
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JkNGU0ZGMtZjVjNS00NjgyLWEyOWYtZmRmZGQyN2IxZjA2XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Bourne Identity
 https://www.deadlyblogger.com/NewRelease/bourne1.mp4
 
@@ -1559,5 +1565,6 @@ https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%2
 https://goo.gl/sFaEVq
 #EXTINF:-1 group-title="peliculas infantiles",la muerte de superman
 https://ia800809.us.archive.org/13/items/La.muerte.de.Superman./La.muerte.de.Superman..mp4
+
 #EXTINF:-1 tvg-logo="https" group-title="peliculas semanasanta",Jesucristo Superstar (1971)
 https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Jesucristo%20Superstar%20%281973%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
