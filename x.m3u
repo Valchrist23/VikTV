@@ -185,7 +185,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="Entretenimiento +",Estrella TV 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel 
+#EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWJXbw3QIoPm-Fn6F9Odke5b3CSjOETIXnU1K9bf9to3)/dm/3/x7v76vf/s/live-0.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Turistik TV" tvg-name="Turistik TV" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="Entretenimiento +",Turistik TV 
@@ -239,7 +239,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 tvg-id="¡HOLA! Play" tvg-name="¡HOLA! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="group-title="Entretenimiento +",¡HOLA! Play
+#EXTINF:-1 tvg-id="¡HOLA! Play" tvg-name="¡HOLA! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",¡HOLA! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",Canal 4
