@@ -8,6 +8,9 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w18287
 mismo
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
+#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20230125T022553SQUARE.png_20230125022554.png" group-title="Latino" , ViX JaJaJa 
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="Basico",N+
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
 
@@ -169,10 +172,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&avod=1&coppa=0&is_lat
 #EXTINF:-1 channel-id="pluto-62c5d80dc6de440007e033eb" tvg-id="62c5d80dc6de440007e033eb" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Cine/Series", Runtime 
 https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20230125T022553SQUARE.png_20230125022554.png" group-title="Latino" , ViX JaJaJa 
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="USBC2100010OS" tvg-name="ViX JaJaJa" tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title="Entretenimiento +",ViX JaJaJa
+#EXTINF:-1 tvg-id="ViX JaJaJa" tvg-name="ViX JaJaJa" tvg-logo="https://images.vix.com/prd/channel/62063c0a7ccf2d563f082b98/430b850443879b4216ec1c2ddda89792?tr=q-80&w=1920" group-title="Entretenimiento +",ViX JaJaJa
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" tvg-name="EstrellaTV" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="MX",EstrellaTV 
@@ -342,6 +342,7 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appétit" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="Cooking",bon appétit (1080p) 
+no
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Cooking",Foodies 
