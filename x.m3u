@@ -120,10 +120,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Telehit
 https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33561_dark_360w_270h.png" group-title="Noticias",Guatevision 
-no
-http://190.122.96.187:8888/http/002
-
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
@@ -243,7 +239,7 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-1 tvg-id="24 Horas TVE" tvg-name="24 Horas TVE" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="group-title="Entretenimiento +",¡HOLA! Play
+#EXTINF:-1 tvg-id="¡HOLA! Play" tvg-name="¡HOLA! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="group-title="Entretenimiento +",¡HOLA! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0",Canal 4
@@ -1184,8 +1180,6 @@ http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 -----------------------------------------Series---------------------------------------------
 
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s271788/images/logod.jpg?t=637847679770000000" group-title="MX",MorroTV
 https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 
@@ -1296,9 +1290,11 @@ http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies",Rock Entertainment
+no
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",Rock Action
+no
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Movies",Canal 57
