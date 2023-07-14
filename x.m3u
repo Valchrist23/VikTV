@@ -867,8 +867,8 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cgUAySwTdV0/V_rDBlllznI/AAAAAAAAA9s/DNQ04yQuyoM21NNTfwcWIOsZlBlXunWqgCLcB/s1600/People%2B%252B%2BArts%2B%25281997%2529.png" group-title="Art",Classic Arts Showcase 
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://mcn6.org/wp-content/uploads/2020/08/unnamed-2.png" group-title="Movies",Pax
-https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+#EXTINF:-1 tvg-id="https://serenotv.com/envivo/canal-maxima-tv/" type="stream" channelId="-1" tvg-logo="https://i.imgur.com/wGaYGJ8.jpg" group-title="Cine/Series",Maxima Tv
+https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="Entretenimiento+",Pop TV
 http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8 
@@ -945,9 +945,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-name="Cine adrenalina" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="US" tvg-url="" group-title="Cine/Series",Cine adrenalina
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="https://serenotv.com/envivo/canal-maxima-tv/" type="stream" channelId="-1" tvg-logo="https://i.imgur.com/wGaYGJ8.jpg" group-title="Cine/Series",Maxima Tv
-https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
-
 
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/2560px-VH1_logo.svg.png" tvg-country="US" tvg-url="" group-title="Music",VH1
@@ -959,7 +956,7 @@ http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2" tvg-name="MTV Pluto TV" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG-1641928171062.png" tvg-country="US" tvg-url="" group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music",MTV en español
+#EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-name="MTV en español" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music",MTV en español
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
 #EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Music",Yo! MTV
@@ -968,7 +965,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc312
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",The Box
+#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/ 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
@@ -989,13 +986,13 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music",TVPop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
+#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
@@ -1015,10 +1012,10 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" group-title="",BT Sports 2
 http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
 
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=publish" group-title="Sports",SportsGrid
+#EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=publish" group-title="Sports",SportsGrid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="EdgeSports(Germany)(English).de" tvg-name="Programacion Local" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",Edge Sport 
+#EXTINF:-1 tvg-id="EdgeSports(Germany)(English).de" tvg-name="Edge Sport" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",Edge Sport 
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Pac-12_Network_logo.png" tvg-country="US" tvg-url="" group-title="Sports",Pac-12 Insider
