@@ -502,12 +502,6 @@ https://cdn.jwplayer.com/manifests/sLuBQOl2.m3u8
 #EXTINF:-1 group-title="Peliculas",Depredador La Presa (2022)
 https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="Peliculas",MATRIX
-http://www.deadlyblogger.com/NewRelease/matrix1.mp4
-
-#EXTINF:-1 group-title="Peliculas",Matrix 1 (1999)
-https://cdn.jwplayer.com/manifests/9oei3qCM.m3u8
-
 #EXTINF:-1 group-title="Peliculas",Matrix Recargado 2 (2003)
 https://cdn.jwplayer.com/manifests/NyfN73eV.m3u8
 
@@ -1270,9 +1264,6 @@ https://gloria.tv/streaming/Wz8uTUFiGML73ectPsktyp1nA/hls/master.m3u8
 #EXTINF:-1 group-title="peliculas infantiles",EL CAZADOR Y LA REINA DEL HIELO
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
 
-#EXTINF:-1 group-title="peliculas infantiles" tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg",Guardianes de la Galaxia
-https://goo.gl/sFaEVq
-
 #EXTINF:-1 group-title="peliculas infantiles",la muerte de superman
 https://ia800809.us.archive.org/13/items/La.muerte.de.Superman./La.muerte.de.Superman..mp4
 
@@ -1429,9 +1420,14 @@ https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avatar (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avatar (2009) opcion 2 
-https://cdn.jwplayer.com/manifests/LS2zp2ZO.m3u8
+#EXTINF:-1 group-title="peliculas infantiles" tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg",Guardians of the Galaxy (2014)
+https://goo.gl/sFaEVq
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="Peliculas",Matrix (1999)
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Matrix (1999)
+https://cdn.jwplayer.com/manifests/9oei3qCM.m3u8
 
 
 
