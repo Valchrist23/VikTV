@@ -359,10 +359,7 @@ https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
 https://cdn.jwplayer.com/manifests/nTLa65rp.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Amigos de armas - HBO (2016)
-https://cdn.jwplayer.com/manifests/56lfqCEx.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Chalard games goeng (2017)
-https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
+https://cdn.jwplayer.com/manifests/56lfqCEx.m3u
 
 #EXTINF:-1 group-title="Peliculas",Los piratas de somalia (2017)
 https://cdn.jwplayer.com/manifests/3kJmSKBc.m3u8
@@ -542,19 +539,13 @@ https://goo.gl/sFaEVq
 https://www.deadlyblogger.com/NewRelease/guardians2014.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmNhNGYzZDMtYWQ3Ni00ZmNmLWE2ODctNTZmODg4OWM2ZDJhXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman V Superman Dawn of Justice (2016)
-https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/Batman.v.superman.dawn.of.justice.2016.1080p.theatrical-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkxNzRmNDYtMDY0OS00N2JhLTkzZWUtMWE3MzZkNDk1MmJiXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",DETECTIVE PIkachu 2019  
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Pokemon.detective.pikachu.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Misterio a bordo 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Murder.mystery.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Metropolisposter.jpg" group-title="Peliculas",Metropolis (1927)
 https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
-
-#EXTINF:-1 group-title="Peliculas",tren a París 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Split (2016)
 
@@ -1405,6 +1396,12 @@ https://archive.org/download/coco.-2017.1080p-dual-audio/Green%20Snake%20%282021
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Raya and the Last Dragon (2021)
 https://archive.org/download/coco.-2017.1080p-dual-audio/Raya%20and%20the%20last%20Dragon%20%282021%29%201080p%20-Dual%20Audio-.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Legend of the Guardians: The Owls of Ga'Hoole (2010)
+https://archive.org/download/coco.-2017.1080p-dual-audio/Legend%20Of%20The%20Guardians%20%282010%29%201080p%20-Dual%20Audio-.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Q5YTI0NTQtOGFlOC00MTEzLTg2NDYtM2VhNDk1ZTllNTNiXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dragon Quest: Your Story (2019)
+https://archive.org/download/coco.-2017.1080p-dual-audio/Dragon%20Quest%20Your%20Story%20%282019%29%201080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",King of Thieves (2018)
 https://cdn.jwplayer.com/manifests/e5UGrKyO.m3u8
 
@@ -1429,7 +1426,11 @@ http://www.deadlyblogger.com/NewRelease/matrix1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Matrix (1999)
 https://cdn.jwplayer.com/manifests/9oei3qCM.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMxMTFlMDYtNjIyNS00YzQ4LWJlMDAtNGQwY2RlZGJiMmM1XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Genius (2017)
+https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NjUzNjYwOV5BMl5BanBnXkFtZTgwMzY1MDM0NDM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The 15:17 to Paris (2018) 
+https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
 
 
