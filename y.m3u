@@ -1184,7 +1184,6 @@ https://www1567.hlsmp4.com/token=v-zE7UOW8azkw3rjN0Mwlg/1560673330/0.0.0.0/27/3/
 https://www1472.hlsmp4.com/token=t1c8rtvv1qMy4cqF8wZZOQ/1560538555/0.0.0.0/24/2/40/7b0fadc0e73ea56130a681dd6d15c402-360p.mp4
 
 #EXTINF:-1 group-title="peliculas clasicos disney",La Espada en la Piedra (1963)
-https://www1288.hlsmp4.com/token=MVW2URA2dE553Vd2WVmlqQ/1560538728/0.0.0.0/25/6/37/8fb3e9afdd164ffe295b143e1b5b0376-360p.mp4
 
 #EXTINF:-1 group-title="peliculas clasicos disney",101 Dalmatas (1961)
 https://s5.jawcloud.co/hls/baxpvzkvnzts7n2gmlmoownadedds4fy47bucwg6goql323azae26gr36n3a/index-v1-a1.m3u8
@@ -1245,28 +1244,28 @@ https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Jesucristo%20
 
 ----------------------Nuevas Agregadas----------------------------------
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",The Fast and the Furious (2001)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fast and the Furious (2001)
 https://archive.org/details/07_20210717_202107/01.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",2 Fast 2 Furious (2003)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",2 Fast 2 Furious (2003)
 https://archive.org/download/07_20210717_202107/02.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",The Fast and the Furious: Tokyo Drift (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fast and the Furious: Tokyo Drift (2006)
 https://archive.org/download/07_20210717_202107/03.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",Fast & Furious (2009)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast & Furious (2009)
 https://ia902309.us.archive.org/35/items/07_20210717_202107/04.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",Fast Five (2011)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast Five (2011)
 https://ia902309.us.archive.org/35/items/07_20210717_202107/05.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",Fast & Furious 6 (2013)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast & Furious 6 (2013)
 https://archive.org/download/07_20210717_202107/06.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",Furious 7 (2015)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Furious 7 (2015)
 https://archive.org/download/07_20210717_202107/07.mp4
 
-#EXTINF:-1 tvg-logo="https" group-title="Movies",The Fate of the Furious (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_FMjpg_UX1000_.jpg" tvg-logo="https" group-title="Movies",The Fate of the Furious (2017)
 https://ia902309.us.archive.org/35/items/07_20210717_202107/08.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bram Stoker's Dracula (1992)
@@ -1371,10 +1370,10 @@ https://archive.org/download/coco.-2017.1080p-dual-audio/Coco.2017.1080p%20-Dual
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGEwYzk1MjctMmM2YS00NGEzLWE0NzQtNjhhMzMzY2NkYWJiXkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",AINBO: Spirit of the Amazon (2021) 
 https://archive.org/download/coco.-2017.1080p-dual-audio/AINBO%20Spirit%20of%20the%20Amazon%20%282021%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Green Snake (2018)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlhZTUzYzAtODRjOC00YWZkLWJmM2EtMjc3NjIxYTcyNDc1XkEyXkFqcGdeQXVyNzA2MDE5NDg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Green Snake (2018)
 https://archive.org/download/coco.-2017.1080p-dual-audio/Green%20Snake%20%282021%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBjMGY2NzktMTc0ZS00ZTViLWJlN2MtNTI4YjhmMjQ5NjhhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Raya and the Last Dragon (2021)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Raya and the Last Dragon (2021)
 https://archive.org/download/coco.-2017.1080p-dual-audio/Raya%20and%20the%20last%20Dragon%20%282021%29%201080p%20-Dual%20Audio-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0NjA5OTA4N15BMl5BanBnXkFtZTcwODA3MTA3Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Legend of the Guardians: The Owls of Ga'Hoole (2010)
