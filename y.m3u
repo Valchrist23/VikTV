@@ -115,7 +115,7 @@ https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Non-Stop2014Poster.jpg" group-title="Peliculas",Non-Stop (2014)
 https://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
 
-#EXTINF:-1 tvg-logo="http://media.sinematurk.com/film/b/66/6bbe09e0b0bf/16542_1.jpg" group-title="Peliculas",Training Day (2001)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Peliculas",Training Day (2001)
 https://www.deadlyblogger.com/NewRelease/training.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMDU4ODg5N15BMl5BanBnXkFtZTgwODc2MjU5OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",A Christmas Star
@@ -130,7 +130,7 @@ https://www.deadlyblogger.com/NewRelease/transformers1.mp4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/transformers-revenge-of-the-fallen.25586.jpg" group-title="Peliculas",Transformers: Revenge of the Fallen (2009)
 https://www.deadlyblogger.com/NewRelease/transformers2.mp4
 
-#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FIoUZttvlj5vrx_368_a/Transformers-Dark-Of-The-Moon.jpg" group-title="Peliculas",Transformers: Dark of the Moon (2011)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Transformers: Dark of the Moon (2011)
 https://www.deadlyblogger.com/NewRelease/transformers3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKrZNmR/Snake-Eyes-G-I-Joe-Origins-2021.jpg" group-title="Peliculas",Snake Eyes: G.I. Joe Origins (2021)
@@ -198,12 +198,6 @@ https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
 
 #EXTINF:-1 group-title="Peliculas",Los beverly ricos (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
-
-#EXTINF:-1 group-title="Peliculas",La máscara 1 (1994)
-https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
-
-#EXTINF:-1 group-title="Peliculas",La máscara 2 HBO (2005)
-https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
@@ -1489,6 +1483,13 @@ https://archive.org/download/john-wick-2014-1080p-dual-audio/John%20Wick%20Chapt
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="Peliculas",John Wick: Chapter 4 (2023)
 https://archive.org/download/john-wick-2014-1080p-dual-audio/John%20Wick%20Chapter%204%20%282023%29%201080p%20-Dual%20Lat-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Son of the Mask (1994)
+https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Mask 2 (2005)
+https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
