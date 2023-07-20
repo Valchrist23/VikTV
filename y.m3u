@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="Peliculas",Austin Powers: The Spy Who Shagged Me (1999)
 https://www.deadlyblogger.com/NewRelease/austin2.mp4
 
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/austin-powers-the-spy-who-shagged-me.13904.jpg" group-title="Peliculas",Austin Powers- El espía seductor (1999)
+https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkOGY2ZmItMjllOS00NDgxLTg1OTItMDU5NjhjYTBjMzdkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Animal (2001)
 https://www.deadlyblogger.com/NewRelease/animal.mp4
 
@@ -184,253 +187,250 @@ https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzMDE3OGYtZDg3Mi00OGU1LWJhMDMtZDJiYzdmMWQ3NTE0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Universal Soldier Regeneration
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_nwtfpd7u/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Mississippi En Llamas (1988)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mississippi En Llamas (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjOTZmYjAtODRlZi00NTMwLTgzYzItNTVmNGRjMjY0MTJhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El regreso a la laguna azul (1991)
 https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Ganar o Morir (1993)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ganar o Morir (1993)
 https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="Peliculas",Jungle Book (1942)
 https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
 
-#EXTINF:-1 group-title="Peliculas",Los beverly ricos (1993)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE3YjcwNTYtY2IwNi00MDlhLTlhMzMtOGM1YzI5MTU5OGNkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Beverly Hillbillies (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Balto 1 (1995)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Balto 1 (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Los puentes de Madison (1995)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los puentes de Madison (1995)
 https://cdn.jwplayer.com/manifests/5DJW0rvZ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Matilda (1996)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Matilda (1996)
 https://cdn.jwplayer.com/manifests/tVuH5d4I.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Striptease - HBO (1996)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM1OTQwZGItMTJlYy00NjJmLWEwOTMtMDQzNmU3ZGNiODJiL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Striptease (1996)
 https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Titanic (1997)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Austin Powers- El espía seductor (1999)
-https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
-
-#EXTINF:-1 group-title="Peliculas",El hombre de la máscara de hierro (1998)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
-#EXTINF:-1 group-title="Peliculas",De ladrón a policía (1999)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Tormenta Perfecta (2000)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Tormenta Perfecta (2000)
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Tormenta Perfecta - HBO (2000)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Perfect Storm (2000)
 https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Caída Del Halcón Negro (2001)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Caída Del Halcón Negro - HBO (2001)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Caída Del Halcón Negro - HBO (2001)
 https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Red de corrupción (2001)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Red de corrupción (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Día de entrenamiento (2001)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZkMTUxYWEtMDY5NS00ZTA5LTg3MTItNTlkZWE1YWRjYjMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Training Day (2001)
 https://cdn.jwplayer.com/manifests/e2bYVviq.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El pianista (2002)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Pianist (2002)
 https://cdn.jwplayer.com/manifests/p9O19DMJ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",John. Q. (2002)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",John. Q. (2002)
 https://cdn.jwplayer.com/manifests/y42yIqqU.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Pandillas de nueva york (2002)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Pandillas de nueva york (2002)
 https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Misterios Del Titanic (2003)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Misterios Del Titanic (2003)
 https://cdn.jwplayer.com/manifests/o2E37V3E.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Daredevil - El hombre sin miedo (2003)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Daredevil - El hombre sin miedo (2003)
 https://cdn.jwplayer.com/manifests/vnNZVGg2.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Elefante - HBO (2003
 https://cdn.jwplayer.com/manifests/0trZp8Pq.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Yo. Robot (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Yo. Robot (2004)
 https://cdn.jwplayer.com/manifests/JYwPkB6n.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Diario De Una Pasión (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Diario De Una Pasión (2004)
 https://cdn.jwplayer.com/manifests/1xFr5tdm.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Efecto Mariposa (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Butterfly Effect (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Efecto Mariposa - HBO (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Butterfly Effect (2004)
 https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Espanta tiburones (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Espanta tiburones (2004)
 https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Colateral (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Collateral (2004)
 https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 
-#EXTINF:-1 group-title="Peliculas",¿dónde están las rubias? (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",¿dónde están las rubias? (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Constantine (2005)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Constantine (2005)
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Zathura una Aventura Espacial(2005)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Zathura una Aventura Espacial(2005)
 https://cdn.jwplayer.com/manifests/da5kxY4t.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Danny el perro (2005)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Danny el perro (2005)
 https://cdn.jwplayer.com/manifests/fVy6BGsJ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",300 (2006)  
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",300 (2006)  
 https://cdn.jwplayer.com/manifests/Jqxa6aUH.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Lo Que El Agua Se Llevó (2006)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Lo Que El Agua Se Llevó (2006)
 https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El útimo Regalo (2006)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El útimo Regalo (2006)
 https://cdn.jwplayer.com/manifests/cLok27OH.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Click perdiendo el control - hbo (2006)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Click perdiendo el control - hbo (2006)
 https://cdn.jwplayer.com/manifests/TaQmewjt.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Soy Leyenda (2007)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",I Am Legend (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Michael Clayton (2007)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Michael Clayton (2007)
 https://cdn.jwplayer.com/manifests/3qaTzQpB.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El asesinato de jesse james por el cobarde robert Ford - HBO (2007)
 https://cdn.jwplayer.com/manifests/Y3zmTE15.m3u8
 
-#EXTINF:-1 group-title="Peliculas",¡Sí. Señor! (2008)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",¡Sí. Señor! (2008)
 https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Una loca película de esparta (2008)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Una loca película de esparta (2008)
 https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Siempre a tu lado (Hachiko) (2009)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Siempre a tu lado (Hachiko) (2009)
 https://cdn.jwplayer.com/manifests/Q5r2eRdV.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Megamente (2010)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Megamente (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El regreso de la nana mágica (2010)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El regreso de la nana mágica (2010)
 https://cdn.jwplayer.com/manifests/IihVkpOm.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Wall street 2 el dinero nunca duerme (2010)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Wall street 2 el dinero nunca duerme (2010)
 https://cdn.jwplayer.com/manifests/MjS0jG1y.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El precio de la codicia (2011)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El precio de la codicia (2011)
 https://cdn.jwplayer.com/manifests/IdKvAeRu.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La úLtima Pelea (2011)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La úLtima Pelea (2011)
 https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Rango (2011)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El lobo de wall street  (2013)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El lobo de wall street  (2013)
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 
-#EXTINF:-1 group-title="Peliculas",En el corazón del mar (2015)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",En el corazón del mar (2015)
 https://cdn.jwplayer.com/manifests/ZzJCuyhk.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Invierno en llamas la lucha por la libertad de ucrania (2015)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Invierno en llamas la lucha por la libertad de ucrania (2015)
 https://cdn.jwplayer.com/manifests/GVCKKdS8.m3u8
 
-#EXTINF:-1 group-title="Peliculas",el primer encuentro de dos mundos (2016)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",el primer encuentro de dos mundos (2016)
 https://cdn.jwplayer.com/manifests/0G2uwVnm.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Animales Fantasticos Y Donde Encontrarlos (2016)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Animales Fantasticos Y Donde Encontrarlos (2016)
 https://cdn.jwplayer.com/manifests/nTLa65rp.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Amigos de armas - HBO (2016)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Amigos de armas - HBO (2016)
 https://cdn.jwplayer.com/manifests/56lfqCEx.m3u
 
-#EXTINF:-1 group-title="Peliculas",Los piratas de somalia (2017)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los piratas de somalia (2017)
 https://cdn.jwplayer.com/manifests/3kJmSKBc.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La muerte de stalin (2017)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La muerte de stalin (2017)
 https://cdn.jwplayer.com/manifests/e4SIq3Bv.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Primer año (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Primer año (2018)
 https://cdn.jwplayer.com/manifests/pycD39fo.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El jefe de la mafia gotti (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El jefe de la mafia gotti (2018)
 https://cdn.jwplayer.com/manifests/b3kH3Nwk.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Héctor el father conocerás la verdad (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Héctor el father conocerás la verdad (2018)
 https://cdn.jwplayer.com/manifests/otzMAZgi.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Titanes Del Pacífico La Insurrección (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Titanes Del Pacífico La Insurrección (2018)
 https://cdn.jwplayer.com/manifests/a7eKgcX8.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El carnicero (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El carnicero (2018)
 https://cdn.jwplayer.com/manifests/P2w05rte.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Ready player one Comienza el Juego - HBO (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ready player one Comienza el Juego - HBO (2018)
 https://cdn.jwplayer.com/manifests/FvRRZgBJ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Niño Que Domó El Viento (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Niño Que Domó El Viento (2019)
 https://cdn.jwplayer.com/manifests/0y968num.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Violento Y Furioso (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Violento Y Furioso (2019)
 https://cdn.jwplayer.com/manifests/9wqolVIg.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Milagro En La Caverna (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Milagro En La Caverna (2019)
 https://cdn.jwplayer.com/manifests/ChboFKML.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Mob Town (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mob Town (2019)
 https://cdn.jwplayer.com/manifests/mXWJ5e4K.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Ascenso Del Diablo (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Ascenso Del Diablo (2019)
 https://cdn.jwplayer.com/manifests/nxvEs8Ok.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El faro (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El faro (2019)
 https://cdn.jwplayer.com/manifests/wSAVQWw1.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El irlandés (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El irlandés (2019)
 https://cdn.jwplayer.com/manifests/uGHvqY8O.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Hellboy (2019)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Hellboy (2019)
 https://cdn.jwplayer.com/manifests/1HJASNy7.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Contra Lo Imposible (2019)
+#EXTINF:-1 tvg-logo="null"  group-title="Peliculas",Contra Lo Imposible (2019)
 https://cdn.jwplayer.com/manifests/NTCpg8mg.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Yo Te Cuido (2020)
 https://cdn.jwplayer.com/manifests/7n2y4Uex.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Batalla De Kamdesh (2020)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Batalla De Kamdesh (2020)
 https://cdn.jwplayer.com/manifests/fQNVxbTQ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Batalla Olvidada (2020)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Batalla Olvidada (2020)
 https://cdn.jwplayer.com/manifests/vm4DbZPQ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La foquita  el 10 de la calle (2020)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La foquita  el 10 de la calle (2020)
 https://cdn.jwplayer.com/manifests/T4IiriH0.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La maldición de alcatraz (2020)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La maldición de alcatraz (2020)
 https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Greyhound en la mira del enemigo (2020)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Greyhound en la mira del enemigo (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Finch (2021)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Finch (2021)
 https://cdn.jwplayer.com/manifests/nDZNfqR8.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Chernóbil La Película (2021)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Chernóbil La Película (2021)
 https://cdn.jwplayer.com/manifests/927TOKWz.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Riesgo bajo cero (2021)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Riesgo bajo cero (2021)
 https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Dos Contra El Hielo (2022)
@@ -448,76 +448,76 @@ https://cdn.jwplayer.com/manifests/3V1cKv16.m3u8
 #EXTINF:-1 group-title="Peliculas",El Planeta De Los Simios - Confrontación (2014)
 https://cdn.jwplayer.com/manifests/YlqUavXO.m3u8
 
-#EXTINF:-1 group-title="Peliculas",La Guerra Del Planeta De Los Simios (2017)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Guerra Del Planeta De Los Simios (2017)
 https://cdn.jwplayer.com/manifests/9XEgWDvt.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Día De La Independencia 1 (1996)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Día De La Independencia 1 (1996)
 https://cdn.jwplayer.com/manifests/sykrqD4w.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Día De La Independencia 2 (2016)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Día De La Independencia 2 (2016)
 https://cdn.jwplayer.com/manifests/zdCKIHPU.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Distrito 13 Ultimatum (2009)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Distrito 13 Ultimatum (2009)
 https://cdn.jwplayer.com/manifests/KYHkxPE7.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Distrito 13 (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Distrito 13 (2004)
 https://cdn.jwplayer.com/manifests/msvxRLvx.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Transformers 1 (2007)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Transformers 1 (2007)
 https://cdn.jwplayer.com/manifests/5ECkiwIl.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Transformers 2 (2009)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Transformers 2 (2009)
 https://cdn.jwplayer.com/manifests/rKmtnZyJ.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Transformers 3 (2011)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Transformers 3 (2011)
 https://cdn.jwplayer.com/manifests/pQNAYvPj.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Transformers 4 (2014)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Transformers 4 (2014)
 https://cdn.jwplayer.com/manifests/Cy9wu96b.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Los indestructibles 2 (2012)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los indestructibles 2 (2012)
 https://cdn.jwplayer.com/manifests/RZOSZhAm.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Los indestructibles 3 (2014)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los indestructibles 3 (2014)
 https://cdn.jwplayer.com/manifests/HpfBPbEM.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Top gun pasión y gloria (1986)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Top gun pasión y gloria (1986)
 https://cdn.jwplayer.com/manifests/YZhLuXO7.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Top gun: maverick (2022)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Top gun: maverick (2022)
 https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Depredador 1 (1987)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Depredador 1 (1987)
 https://cdn.jwplayer.com/manifests/sLuBQOl2.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Depredador La Presa (2022)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Depredador La Presa (2022)
 https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Matrix Recargado 2 (2003)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Matrix Recargado 2 (2003)
 https://cdn.jwplayer.com/manifests/NyfN73eV.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Matrix Revoluciones 3 (2003)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Matrix Revoluciones 3 (2003)
 https://cdn.jwplayer.com/manifests/BdE5Y7qC.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Matrix Resurrecciones 4 (2021)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Matrix Resurrecciones 4 (2021)
 https://cdn.jwplayer.com/manifests/3f2jFMzM.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Hombre Araña 1 (2002)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Hombre Araña 1 (2002)
 https://cdn.jwplayer.com/manifests/rO9EwfV6.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Hombre Araña 2 (2004)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Hombre Araña 2 (2004)
 https://cdn.jwplayer.com/manifests/pwT84WCZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/peter-pan-1953.30934.jpg" group-title="Peliculas",Peter Pan (1953)
 https://www.deadlyblogger.com/NewRelease/pan1.mp4
 
-#EXTINF:-1 group-title="Peliculas",Piratas Del Caribe 1 (2003)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Piratas Del Caribe 1 (2003)
 https://cdn.jwplayer.com/manifests/aHaMrXAN.m3u8
 
 #EXTINF:-1 group-title="Peliculas",Piratas Del Caribe 2 (2006)
 https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Piratas Del Caribe 3 (2017)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Piratas Del Caribe 3 (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg" group-title="Peliculas",Pinocchio (1940)
@@ -561,13 +561,13 @@ https://dl.dropbox.com/s/hk6r6liurserzg7/Mia.and.the.white.lion.2018.1080p-dual-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jumanji: Welcome to the Jungle (2017)
 https://dl.dropbox.com/s/23a6zboqw88gdzk/Jumanji.welcome.to.the.jungle.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",El heroe (2017) 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El heroe (2017) 
 https://dl.dropbox.com/s/s0ij5jaf0nh2tp8/The.hero.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Tres anuncios por un crimen (2017)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Tres anuncios por un crimen (2017)
 https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Hotel Transylvania 3: Monstruos de vacaciones (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Hotel Transylvania 3: Monstruos de vacaciones (2018)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTQ5NzE4Nl5BMl5BanBnXkFtZTgwNTk2MDA5NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wonder Park (2019)
 https://dl.dropbox.com/s/3wbzuiwd3i4obp8/Wonder.park.2019.1080p-dual-lat-cinecalidad.is.mp4
@@ -833,22 +833,22 @@ http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2635.mp4
 #EXTINF:-1 group-title="Peliculas",cargo
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2788.mp4
 
-#EXTINF:-1group-title="Peliculas",Thor Ragnarok 2017 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Thor Ragnarok 2017 
 
-#EXTINF:-1 group-title="Peliculas",Vengadores infinity war
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Vengadores infinity war
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2764.mkv
 
-#EXTINF:-1 group-title="Peliculas",Deadpool 2 (2018)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Deadpool 2 (2018)
 
 
-#EXTINF:-1 group-title="Peliculas",Jurassic World el Reino caído 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Jurassic World el Reino caído 2018 
 http://151.80.100.155:25443/movie/vodall/vrIzSCaxGN/2820.mkv
 
-#EXTINF:-1 group-title="Peliculas",El aprendis del crimen 2017 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El aprendis del crimen 2017 
 
-#EXTINF:-1 group-title="Peliculas",Vengadores 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Vengadores 2019 
 
-#EXTINF:-1 group-title="Peliculas", Rey León 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas", Rey León 2019 
 
 #EXTINF:-1 group-title="Peliculas",Oddball y sus pingüinos 2016
 https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/Oddball.and.the.penguins.2015.1080p-dual-lat.mp4
