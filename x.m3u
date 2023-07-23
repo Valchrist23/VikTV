@@ -1390,3 +1390,7 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dragon_Ball_Z_Logo.png" group-title="Anime",Dragonball Z
 https://v3.playerlatino.live/stream/m3u8/329
+
+
+#EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Saint_Seiya_logo.jpg" group-title="Anime",Saint Seiya 24/7
+https://v3.playerlatino.live/stream/m3u8/427
