@@ -666,6 +666,9 @@ https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Stirr_TV_logo.png" group-title="Without category",STIRR | National    
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/300px-Paramount_Network.svg.png" group-title="US",Paramount Network
+https://v3.playerlatino.live/stream/m3u8/200
+
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/qA7MrNawAnvhqUfdiTuxF0KphIT4ZGV_C6cP2GsQiP8/rs:fit:520:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/SUI5NExvY2pSZE9V/RGRXU1VBVWZ3SGFH/dyZwaWQ9QXBp" group-title="US",Paramount+ Picks 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
