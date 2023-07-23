@@ -287,6 +287,9 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo Laredo
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
 
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logotipo_Principal_de_Chilevisi%C3%B3n.svg/500px-Logotipo_Principal_de_Chilevisi%C3%B3n.svg.png" group-title="Entretenimiento +",Chilevision
+https://v3.playerlatino.live/stream/m3u8/198
+
 #EXTINF:-1 tvg-id="Canal 10 Microvision" tvg-name="Canal 10 Microvision" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="Entretenimiento +",Canal 10 Microvision HD 
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
 
@@ -1072,6 +1075,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07
 
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="MLB" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Sports",MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports Premium
+https://v3.playerlatino.live/stream/m3u8/192
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId= 
