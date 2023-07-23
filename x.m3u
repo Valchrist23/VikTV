@@ -681,6 +681,9 @@ https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Stirr_TV_logo.png" group-title="Entretenimiento +",STIRR | National    
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png" group-title="Entretenimiento +",WB tv
+https://v3.playerlatino.live/stream/m3u8/503
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/378px-SpaceLogo.svg.png" group-title="Entretenimiento +",Space
 https://v3.playerlatino.live/stream/m3u8/499
 
@@ -1255,6 +1258,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 https://v3.playerlatino.live/stream/m3u8/179
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
+https://v3.playerlatino.live/stream/m3u8/500
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
