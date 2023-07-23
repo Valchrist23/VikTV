@@ -153,6 +153,12 @@ https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 no
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cinecanal" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal
+https://v3.playerlatino.live/stream/m3u8/18
+
+#EXTINF:-1 tvg-id="Cinecanal" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal
+https://v3.playerlatino.live/stream/m3u8/479
+
 #EXTINF:-1 tvg-id="Ovation Now" tvg-name="Ovation Now" tvg-country="US" tvg-language="English" tvg-logo="https://www.ovationtv.com/app/uploads/2019/08/ovation-now-og-image-2000x800-c-default.jpg" group-title="Entretenimiento +",Ovation Now
 https://linear-293.frequency.stream/dist/vix/293/hls/master/playlist.m3u8
 
@@ -417,6 +423,9 @@ https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="US",TLC 
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",A&E
+https://v3.playerlatino.live/stream/m3u8/474
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="US",Pluto TV History
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
@@ -768,6 +777,12 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WFMZ.png",WFMZ Channel 69
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" roup-title="Entretenimiento +",Star Channel
+https://v3.playerlatino.live/stream/m3u8/489
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
+https://v3.playerlatino.live/stream/m3u8/495
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/260px-FXX_Logo.svg.png" roup-title="Entretenimiento +",FXX
 https://v3.playerlatino.live/stream/m3u8/357
 
@@ -810,8 +825,14 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/334px-Universal_TV_logo.svg.png" group-title="US",Universal TV
 https://v3.playerlatino.live/stream/m3u8/184
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="US",AMC 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
+https://v3.playerlatino.live/stream/m3u8/476
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
 https://v3.playerlatino.live/stream/m3u8/183
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
+https://v3.playerlatino.live/stream/m3u8/475
 
 es East 
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
@@ -857,6 +878,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff
 
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="Pluto TV Animales" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml" group-title="Doc",Pluto TV Animales 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png" group-title="Entretenimiento +",Comedy Central
+https://v3.playerlatino.live/stream/m3u8/480
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Entretenimiento +",Comedy Central en español 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
@@ -1235,6 +1259,9 @@ https://v3.playerlatino.live/stream/m3u8/179
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
+https://v3.playerlatino.live/stream/m3u8/20
+
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="Movies",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 
@@ -1264,6 +1291,9 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies UK Comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/240px-Sony_Channel_Logo.png" group-title="Entretenimiento +",Cine Channel
+https://v3.playerlatino.live/stream/m3u8/498
 
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8 
