@@ -267,11 +267,20 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF:-1 tvg-id="A3Series" tvg-name="A3Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Series
+https://v3.playerlatino.live/stream/m3u8/945
+
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento +",TVE
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1024px-Logo_RTVE.svg.png" group-title="Entretenimiento +",TVE 
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
+
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Entretenimiento +",Star TVE 
+https://v3.playerlatino.live/stream/m3u8/944
+
+#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0" group-title="Noticias",La 1
+https://v3.playerlatino.live/stream/m3u8/927
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" tvg-shift="0" group-title="Noticias",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
@@ -359,9 +368,6 @@ https://linear-317.frequency.stream/dist/vix/317/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",El Gourmet
 https://v3.playerlatino.live/stream/m3u8/157
 
-no
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="Cooking",Foodies 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
@@ -405,6 +411,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bc
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/1280x720_2500000/index.m3u8
 
 -----------------------------------------Entertainment---------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="LAT",E!
+https://v3.playerlatino.live/stream/m3u8/483
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LAT", Canal 26 Argentina
 http://200.115.193.177/live/26hd-720/.m3u8
@@ -1379,8 +1388,21 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/260px-HBO_Xtreme.svg.png" group-title="Movies",HBO Xtreme
+https://v3.playerlatino.live/stream/m3u8/971
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/298px-HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
 https://v3.playerlatino.live/stream/m3u8/300
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/270px-HBO_Signature.svg.png" group-title="Movies",HBO Signature
+https://v3.playerlatino.live/stream/m3u8/977
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/260px-HBO_Family.svg.png" group-title="Movies",HBO Family
+https://v3.playerlatino.live/stream/m3u8/968
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",HBO +
+https://v3.playerlatino.live/stream/m3u8/655
+
 
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/1/7/9/1339179_moviescentraltvplayer_830443.jpg" group-title="Movies",Movie Central by TV Player
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
