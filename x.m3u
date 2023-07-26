@@ -421,7 +421,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflix
 #EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="General",H2
+#EXTINF:-1 tvg-id="H2" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="General",H2
 https://v3.playerlatino.live/stream/m3u8/061
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="US",True History 
