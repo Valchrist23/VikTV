@@ -451,7 +451,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_11_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA",Discovery ID
-https://v3.playerlatino.live/stream/m3u8/82
+https://v3.playerlatino.live/stream/m3u8/068
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="US",Discovery Channel
 https://v3.playerlatino.live/stream/m3u8/741
@@ -463,7 +463,7 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 https://v3.playerlatino.live/stream/m3u8/187
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",A&E
-https://v3.playerlatino.live/stream/m3u8/474
+https://v3.playerlatino.live/stream/m3u8/734
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film & Arts
 https://v3.playerlatino.live/stream/m3u8/149
@@ -632,7 +632,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+https://v3.playerlatino.live/stream/m3u8/824
 
 #EXTINF:-1 tvg-id="xtremacartoon.ar" tvg-name="Xtrema Cartoons" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/06/xtreme-sport-vector-logo.png" group-title="Cartoon",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
