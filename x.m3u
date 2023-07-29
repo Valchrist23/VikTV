@@ -850,7 +850,7 @@ https://dai.google.com/linear/hls/event/YQrqEzS-QkeI4UECvYoWDA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTLA 5 (2) (news feed only)" tvg-logo="https://i.imgur.com/JH99Psi.jpg" group-title="USA LOCAL",KTLA 5 
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/334px-Universal_TV_logo.svg.png" group-title="US",Universal TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/334px-Universal_TV_logo.svg.png" group-title="US",Studio Universal
 https://v3.playerlatino.live/stream/m3u8/184
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
