@@ -464,7 +464,7 @@ https://v3.playerlatino.live/stream/m3u8/187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",A&E
 https://v3.playerlatino.live/stream/m3u8/734
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film & Arts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film and Artss
 https://v3.playerlatino.live/stream/m3u8/149
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-language="en" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" tvg-shift="0",Discover Film
