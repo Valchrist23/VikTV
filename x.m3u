@@ -115,9 +115,6 @@ https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DW En Español" tvg-name="DW En Español" tvg-chno="38" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="Telehit" tvg-name="Telehit" tvg-language="es" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Guerra de Chistes
-https://linear-479.frequency.stream/dist/vix/479/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="40" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
