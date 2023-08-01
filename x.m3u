@@ -467,7 +467,7 @@ https://v3.playerlatino.live/stream/m3u8/187
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",A&E
 https://v3.playerlatino.live/stream/m3u8/734
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film and Artss
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film and Arts
 https://v3.playerlatino.live/stream/m3u8/149
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-language="en" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" tvg-shift="0",Discover Film
@@ -633,7 +633,7 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
 https://v3.playerlatino.live/stream/m3u8/824
 
 #EXTINF:-1 tvg-id="xtremacartoon.ar" tvg-name="Xtrema Cartoons" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/06/xtreme-sport-vector-logo.png" group-title="Cartoon",Xtrema Cartoons
