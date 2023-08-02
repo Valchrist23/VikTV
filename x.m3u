@@ -115,43 +115,48 @@ https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DW En Español" tvg-name="DW En Español" tvg-chno="38" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="40" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="39" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="41" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="40" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="42" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-chno="41" tvg-language="es" tvg-logo="https://i.imgur.com/ZjBBIJE.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
 tomas la ultima numeracion en canelatv
 https://stream.ads.ottera.tv/cl/230711cimf8l8gv6tm3i7emo8g/1280x720_2997500_0_f.m3u8?i=475_5396
 
-#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-chno="43" tvg-language="es" tvg-logo="https://i.imgur.com/4kX1baN.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-chno="42" tvg-language="es" tvg-logo="https://i.imgur.com/4kX1baN.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-chno="44" tvg-language="es" tvg-logo="https://i.imgur.com/4kX1baN.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
+#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-chno="43" tvg-language="es" tvg-logo="https://i.imgur.com/4kX1baN.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 
 
-#EXTINF:-1 tvg-id="A Mas" tvg-name="A Mas" tvg-chno="45" tvg-language="es" tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",A Mas
+#EXTINF:-1 tvg-id="A Mas" tvg-name="A Mas" tvg-chno="44" tvg-language="es" tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
-#EXTINF:-1 tvg-id="América Tevé" tvg-name="América Tevé" tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_Tev%C3%A9_logo.jpg/1440px-Am%C3%A9rica_Tev%C3%A9_logo.jpg" group-title="Noticias",América Tevé
+#EXTINF:-1 tvg-id="América Tevé" tvg-name="América Tevé" tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_Tev%C3%A9_logo.jpg/1440px-Am%C3%A9rica_Tev%C3%A9_logo.jpg" group-title="Noticias",América Tevé
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Unicable
+https://v3.playerlatino.live/stream/m3u8/98
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-chno="47" tvg-country="MX" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden
+https://v3.playerlatino.live/stream/m3u8/57
+
 no
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Lat",Golden Premier
-no
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+https://v3.playerlatino.live/stream/m3u8/59
+
 
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Lat",Golden Edge
-
+https://v3.playerlatino.live/stream/m3u8/58
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-chno="48" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal
 https://v3.playerlatino.live/stream/m3u8/18
