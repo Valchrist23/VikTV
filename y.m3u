@@ -1619,13 +1619,13 @@ https://archive.org/download/honey-i-shrunk-the-kids-1989-1080p/Porkys%20%281981
 
 
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Blade (1998)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NDNjZWQtMGY0Mi00YTY2LWE5MzctMGRhZmNlYzljYTg5XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blade (1998)
 https://archive.org/download/blade-1998-1080p-dual-audio/Blade%20%281998%29%201080p%20-Dual%20Audio-.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Bladed II (2002)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVjZTIzNDYtNTBlNC00NTJjLTkzOTEtOTE0MjlhYzI2YTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bladed II (2002)
 https://archive.org/download/blade-1998-1080p-dual-audio/Blade%20II%20%282002%29%201080p%20-Dual%20Lat-.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Blade Trinity (2014)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0Nzg2MzI3MF5BMl5BanBnXkFtZTYwMjExODQ3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blade Trinity (2004)
 https://archive.org/download/blade-1998-1080p-dual-audio/Blade%20Trinity%20%282004%29%201080p%20-Dual%20Lat-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Iron Man (2008)
@@ -1659,18 +1659,12 @@ https://archive.org/download/spider-man.-2002.1080p-dual-audio/The%20Amazing%20S
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",The Amazing Spider-Man 2 (2014)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/The%20Amazing%20Spider-Man%202%20%282014%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Spider-Man Homecoming (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man Homecoming (2017)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/Spider-man.homecoming.2017.1080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Spider-Man Away From Home (2019)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man Away From Home (2019)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/Spider-Man%20Far%20From%20Home%20%282019%29%201080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Spider-Man No Way Home (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man No Way Home (2022)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/Spider-Man%20No%20Way%20Home%20%282022%29%201080p%20-Dual%20Audio-.mp4
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Thor (2011)
 https://archive.org/download/blade-1998-1080p-dual-audio/Thor%20%282011%29%201080p%20-Dual%20Audio-.mp4
@@ -1687,22 +1681,48 @@ https://archive.org/download/blade-1998-1080p-dual-audio/The%20Punisher%20%28200
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODUyMzUtNDBkZS00YThiLWEzMjEtMGRlOTIzZWU2ZDdmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Punisher War Zone (2008)
 https://archive.org/download/blade-1998-1080p-dual-audio/Punisher%20War%20Zone%20%282008%29%201080p%20-Dual%20Lat-.mkv
 
-
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ultimate Avengers (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwNzA0OTgxNV5BMl5BanBnXkFtZTcwOTkxMjIzMQ@@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Ultimate Avengers (2006)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/Ultimate%20Avengers%20%282006%29%20720p%20-Dual%20Audio-.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ultimate Avengers II (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ultimate Avengers II (2006)
 https://archive.org/download/spider-man.-2002.1080p-dual-audio/Ultimate%20Avengers%20II%20%282006%29%201080p%20-Dual%20Audio-.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",X-men Days Of Future Past (2014)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men Days Of Future Past (2014)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/X%20men%20Days%20of%20Future%20Past%20%282014%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",X-men Dark Phoenix (2019)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men Dark Phoenix (2019)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/X-Men%20Dark%20Phoenix%20%282019%29%201080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men First Class (2011)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/X%20men%20First%20Class%20%282011%29%201080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men Apocalypse
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/X-men.apocalypse.2016.1080p-dual-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Logan (2017)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/Logan.2017.1080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadpool (2016)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/Deadpool.2016.1080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzNmRhNTMtZDI4NC00Zjg1LTgxM2QtMjYxZDQ3OWJlMDRlXkEyXkFqcGdeQXVyNTU5MjkzMTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadpool 2 (2018)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/Deadpool.2.2018.1080p.unrated-dual-lat-cinecalidad.to.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dctor Strange (2016)
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/Doctor.strange.2016.1080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ghost Rider Spirit Of Vengeance
+https://archive.org/download/spider-man.-2002.1080p-dual-audio/Ghost%20Rider%20Spirit%20Of%20Vengeance%20%282011%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
-
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 
 
 
