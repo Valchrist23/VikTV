@@ -9,9 +9,6 @@ https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkOGY2ZmItMjllOS00NDgxLTg1OTItMDU5NjhjYTBjMzdkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Animal (2001)
 https://www.deadlyblogger.com/NewRelease/animal.mp4
 
-#EXTINF:-1 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="Peliculas",Annabelle: Creation (2017)
-http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Boys (1995)
 https://www.deadlyblogger.com/NewRelease/badboys1.mp4
 
@@ -193,7 +190,7 @@ https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjOTZmYjAtODRlZi00NTMwLTgzYzItNTVmNGRjMjY0MTJhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El regreso a la laguna azul (1991)
 https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Ganar o Morir (1993)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDk1MmVmMWYtYzU3Mi00OWViLWJjMjYtOTFhZWJjNjdmZGQ0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Nowhere to Run (1993)
 https://cdn.jwplayer.com/manifests/V1JkaLsY.m3u8
 
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/Jungle-Book-1942-film-images-252f0014-8163-4ea4-baae-b2175b4fc9c.jpg" group-title="Peliculas",Jungle Book (1942)
@@ -201,8 +198,8 @@ https://archive.org/download/JungleBook/Jungle_Book_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE3YjcwNTYtY2IwNi00MDlhLTlhMzMtOGM1YzI5MTU5OGNkXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Beverly Hillbillies (1993)
 https://cdn.jwplayer.com/manifests/MbDDABPA.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg"" group-title="Peliculas",Balto (1995)
+                     
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Balto (1995)
 https://cdn.jwplayer.com/manifests/SgUXQRft.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiZDZkN2EtNWI5ZS00ZDg3LTgyNDItMWI5NjVlNmE5ODJiXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Bridges of Madison County (1995)
@@ -475,16 +472,16 @@ https://cdn.jwplayer.com/manifests/pQNAYvPj.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Transformers: Age of Extinction (2014)
 https://cdn.jwplayer.com/manifests/Cy9wu96b.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los indestructibles 2 (2012)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg1YWRhNmQtMGI5Ny00MTI3LTg2OTItZWEzZGE3OGZjZDNhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Expendables 2 (2012)
 https://cdn.jwplayer.com/manifests/RZOSZhAm.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Los indestructibles 3 (2014)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Expendables 3 (2014)
 https://cdn.jwplayer.com/manifests/HpfBPbEM.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Top gun pasión y gloria (1986)
 https://cdn.jwplayer.com/manifests/YZhLuXO7.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Top gun: maverick (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Top gun: Maverick (2022)
 https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QwYmFmZTEtNzY2Mi00ZWMyLWEwY2YtMGIyNGZjMWExOWEyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Predator (1987)
@@ -553,7 +550,6 @@ https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt5164214_SUBP_HD.mp4
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-d4bjbp_31858af1.jpeg" group-title="Peliculas",Robin Hood (1973)
-http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=www.deadlyblogger.com/NewRelease/robinhood1.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mortal Engines (2018)
 https://dl.dropbox.com/s/opl112eqxqorgyf/Mortal.engines.2018.1080p-dual-lat-cinecalidad.is.mp4
@@ -566,9 +562,6 @@ https://dl.dropbox.com/s/23a6zboqw88gdzk/Jumanji.welcome.to.the.jungle.2017.1080
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",El heroe (2017) 
 https://dl.dropbox.com/s/s0ij5jaf0nh2tp8/The.hero.2017.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Three Billboards Outside Ebbing, Missouri (2017)
-https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Hotel Transylvania 3: Monstruos de vacaciones (2018)
 
@@ -636,44 +629,13 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p
 #EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2017
 #EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2019
 #EXTINF:-1 group-title="Peliculas",red de peligro 2018 
-#EXTINF:-1 group-title="Peliculas",pajaritos a volar 
-#EXTINF:-1 group-title="Peliculas",cars 3 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/Cars.3.2017.1080p-dual-lat.mp4
-#EXTINF:-1 group-title="Peliculas",paciente 0  2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Patient.zero.2018.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Happy.death.day.2u.2019.1080p-dual-lat-MegaCineApp.Com.mp4
-#EXTINF:-1 group-title="Peliculas",La Llorona 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/The.curse.of.la.llorona.2019.1080p-dual-lat-MegaCineApp.Com.mp4
-#EXTINF:-1 group-title="Peliculas",El convento 2019 
-https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt3111516_LAT_HD.mp4
-#EXTINF:-1 group-title="Peliculas",El secuestro de stela 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Kidnapping.stella.2019.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1 group-title="Peliculas",After aquí empieza todo
-https://storage.googleapis.com/pl-storage.appspot.com/PL/After.2019.1080p-dual-lat-MegaCineApp.Com.mp4
-#EXTINF:-1 group-title="Peliculas",Noche de Juegos 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv2704998ltv2.mp4
-#EXTINF:-1 group-title="Peliculas",Battle Angel 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Alita.battle.angel.2019.1080p-dual-lat-MegaCineApp.Com.mp4
-#EXTINF:-1 group-title="Peliculas",plan v 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Plan.v.2018.1080p-lat-cinecalidad.to.mp4
-#EXTINF:-1 group-title="Peliculas",Escape Room 2019
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Escape.room.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="Peliculas",capitana marvel 2019 
-https://storage.googleapis.com/encryption-257bit67hd939fdkv.appspot.com/WFQMzh2SFowa2xObXpoS0orRXlB/C4pitana%20Marvel-2019%201080p%20Latino.mp4
-#EXTINF:-1 group-title="Peliculas",Vengadores 2019 hd
-https://storage.googleapis.com/pl-storage.appspot.com/PL/Avengers.endgame.2019.1080p-dual-lat-cinecalidad.to.mp4
-#EXTINF:-1 group-title="Peliculas",Lego batman 2017
-https://storage.googleapis.com/pl-storage.appspot.com/PL/5-11-2019/The.lego.batman.movie.2017.1080p-dual-lat.mp4
-#EXTINF:-1 group-title="Peliculas",Lego batman 2019
-#EXTINF:-1 group-title="Peliculas",Noche de Juegos 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv2704998ltv2.mp4
-#EXTINF:-1 group-title="Peliculas",La gran aventura lego 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/The.lego.movie.2.the.second.part.2019.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 group-title="Peliculas",Lego Scooby-Doo 
-http://89.187.185.168:80/movie/W3U4y3p5u/Y0tQv889do/1031.mkv
+
 #EXTINF:-1 group-title="Peliculas",Lego ninjago 2017 
 #EXTINF:-1 group-title="Peliculas",La vida secreta de tus mascotas 2 
+#EXTINF:-1 tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg"group-title="Peliculas",Childs Play 2019 
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/500x/emi8atu3/anna-french-movie-poster.jpg?v=1560522294" group-title="Peliculas",Anna 
+#EXTINF:-1 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="Peliculas",Annabelle: Creation (2017)
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg" group-title="Peliculas",Godzilla El Rey de los Monstruos 
 #EXTINF:-1 group-title="Peliculas",El cascanueces y los 4 reinos 
 #EXTINF:-1 group-title="Peliculas",Tolkien romance 2019
 #EXTINF:-1 group-title="Peliculas",hasta que el cuerpo aguante 
@@ -712,84 +674,42 @@ http://89.187.185.168:80/movie/W3U4y3p5u/Y0tQv889do/1031.mkv
 #EXTINF:-1 group-title="Peliculas",Jefa Por Accidente
 -------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 group-title="Peliculas",Máquinas mortales
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mortal Engines
 https://dl.dropbox.com/s/opl112eqxqorgyf/Mortal.engines.2018.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0MzJkNTYtNWZkNC00NDdhLWI3M2YtNjZmYzFmNTM5MzM3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Aquaman 2018
 https://dl.dropbox.com/s/niurhx3xmfzhwoy/Aquaman.2018.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 group-title="Peliculas",Spider-Man animado 2018
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man In To The Spideverse (2018)
 https://dl.dropbox.com/s/c1gxoq585zjxrbw/Spider-man.into.the.spider-verse.2018.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 group-title="Peliculas",Jumanji: En la selva (2017) www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Jumanji: Welcome to the Jungle (2017)
 https://dl.dropbox.com/s/23a6zboqw88gdzk/Jumanji.welcome.to.the.jungle.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Tres anuncios por un crimen (2017) www.kevincap0.xyz
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Three Billboards Outside Ebbing, Missouri (2017)
 https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Jurassic World 2: El reino caído 2018
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jurassic World: Fallen Kingdom (2018)
 https://dl.dropbox.com/s/0c89sr8oi6dqjhx/Jurassic.world.fallen.kingdom.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Hotel Transylvania 3: Monstruos de vacaciones (2018) www.kevincap0.xyz
-https://dl.dropbox.com/s/dil6ejok46zdbry/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Hotel Transylvania 3: Monstruos de vacaciones (2018)
 
-#EXTINF:-1 group-title="Peliculas",El Grinch (2018)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Grinch (2018)
 https://dl.dropbox.com/s/t1wo9pil6q9bq0g/The.grinch.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",El Grinch (2018)
-https://storage.googleapis.com/pl-storage.appspot.com/PL/The.grinch.2018.1080p-dual-lat-cinecalidad.to.mp4
-
 #EXTINF:-1 group-title="Peliculas",Ant Man (2015)
-http://tvpremiumhd.club/lista-gratuita/213027/on/live.php?id=archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
 
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/201119rt/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg"La Forma del Agua SUBTITULADO | R
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
-#EXTINF:-1 group-title="Peliculas",La forma del agua (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Shape Of Watera (2017)
 https://dl.dropbox.com/s/1wd0jtf25p6nuuz/The.shape.of.water.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Tres anuncios por un crimen (2017)
-https://dl.dropbox.com/s/nvuu5b0alp7uw3x/Three.billboards.outside.ebbing.missouri.2017.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",yo soy Simón 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Love.simon.2018.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",los tres reyes magos 2015
-https://storage.googleapis.com/pl-storage.appspot.com/PL/12-11-2019/The.night.before.2015.1080p-dual-lat.mp4
 #EXTINF:-1,La purga. 2013 la noche de las bestias 
 
 #EXTINF:-1 group-title="Peliculas",La purga 2014.. Anarquía 
 https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv2184339lt.mp4
-
-#EXTINF:-1 group-title="Peliculas",La purga 2016 la noche de la elección 
-https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv4094724lt.mp4
-
-#EXTINF:-1 group-title="Peliculas",La purga 2018.. 12 horas para sobrevivir 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-28-10-2019/The.first.purge.2018.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",Escuela para fracasados 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6781982_SUBP_HD.mp4
-
-#EXTINF:-1 group-title="Peliculas",donde esta el dinero
-https://storage.googleapis.com/pl-storage.appspot.com/PL/PL-1-11-2019/Wheres.the.money.2017.1080p-dual-lat.mp4
-
-#EXTINF:-1 group-title="Peliculas",El rey Arturo 2017 
-https://storage.googleapis.com/pl-storage.appspot.com/PL/4-11-2019/King.arthur.legend.of.the.sword.2017.1080p-dual-lat.mp4
-
-#EXTINF:-1 group-title="Peliculas",El alma de la fiesta 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Life.of.the.party.2018.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",La navidad de las madres rebeldes 2017 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/A.bad.moms.christmas.2017.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",tan distinto como yo 2019 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/Same.kind.of.different.as.me.2017.1080p-dual-lat-cinecalidad.to.mp4
-
-#EXTINF:-1 group-title="Peliculas",Misión submarino 2018 
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt1846589_LAT_HD.mp4
-
-#EXTINF:-1 group-title="Peliculas",tren a París 2018 
-https://storage.googleapis.com/pl-storage.appspot.com/PL-30-10-2019/The.15.17.to.paris.2018.1080p-dual-lat-cinecalidad.to.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZkYjQzY2QtNjdkNC00YjkzLTk5NjUtY2MyNDNiYTBhN2M2XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Creed 1 la leyenda de Rocky
 https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv3076658lt.mp4
@@ -910,32 +830,17 @@ http://regioflix.club/REGIOFLIX/201119rt/sp1d3r.m4n.f4r.fr0m.h0m3.2019.hdrip.720
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjNiN2ZkZjEtNzllZi00ZGQ4LWIzZDQtOGYyODEwOTVmZGUxXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man: Into the Spider-Verse (2018)
 https://dl.dropbox.com/s/c1gxoq585zjxrbw/Spider-man.into.the.spider-verse.2018.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/500x/emi8atu3/anna-french-movie-poster.jpg?v=1560522294" group-title="Peliculas",Anna 
-http://regioflix.club/REGIOFLIX/201119rt/4nn4.2019.hdrip.720p.latino.mp4
-
 #EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/19/05/08/16/59/2526525.jpg" group-title="Peliculas",Aladino
 http://regioflix.club/REGIOFLIX/201119rt/aladin2019SrRegio.mp4
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video113/v4/dc/5c/d8/dc5cd867-e794-0386-6f76-0a4e580a2cfe/pr_source.lsr/268x0w.jpg" group-title="Peliculas",Anabelle 3 
 http://regioflix.club/REGIOFLIX/201119rt/4nn4b3ll3.3.2019.hdrip.720p.latino.mp4
 
-#EXTINF:-1 tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg"group-title="Peliculas",Childs Play 2019 
-
-
-#EXTINF:-1 tvg-logo="http://www.adnradio.cl/images/2019050933969640.jpg" group-title="Peliculas",X-MEN Dark Phoenix
-
-
-#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg" group-title="Peliculas",Godzilla El Rey de los Monstruos 
-
-
 #EXTINF:-1 tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg" group-title="Peliculas",Jhon Wick (2014) 
 http://www.deadlyblogger.com/NewRelease/johnwick.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg" group-title="Peliculas",Jhon Wick 3 
 http://regioflix.club/REGIOFLIX/201119rt/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4
-
-#EXTINF:-1 tvg-logo="https://prensaescenario.files.wordpress.com/2018/11/la-vida-secreta-de-tus-mascotas-2-poster.jpg?w=505"group-title="Peliculas",La Vida Secreta de tus Mascotas 2 
-http://regioflix.club/REGIOFLIX/201119rt/th3.s3cr3t.l1f3.0f.p3ts.2.2019.hdrip.720p.latino.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/uglydolls-187959511-large.jpg" group-title="Peliculas",Uglydolls: Extraordinariamente feos
 http://regioflix.club/REGIOFLIX/201119rt/uglyd0lls.2019.hdrip.720p.latino.mp4
@@ -944,7 +849,7 @@ http://regioflix.club/REGIOFLIX/201119rt/uglyd0lls.2019.hdrip.720p.latino.mp4
 http://regioflix.club/REGIOFLIX/201119rt/th3.hustl3.2019.brrs.720p.latino.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/04/Rocketman-poster-2.jpg" group-title="Peliculas",Rocketman 
-http://regioflix.club/REGIOFLIX/201119rt/r0k3tm4n.2019.hdrip.720p.subesp.mp4
+
 
 #EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg" group-title="Peliculas",La Razon de Estar con Tigo: Un Nuevo Viaje 
 http://regioflix.club/REGIOFLIX/201119rt/4.d0gs.j0urn3y.2019.hdrip.720p.latino.mp4
@@ -1004,7 +909,6 @@ https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc
 https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Peliculas",La Xarxa
-http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",EL MAL DENTRO 2017
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
@@ -1155,9 +1059,6 @@ https://stream78.uqload.com/3rfk25w4e5w2q4drdjc7hmficjx5uupsg7qhx2snr4l2m5ys2jiw
 
 #EXTINF:-1 group-title="peliculas clasicos disney",El Rey Leon 3: hakuna matata (2004)
 https://stream214.uqload.com/3rfkethbe5w2q4drdjc7hlnnbw3c3t2qqkksphwcnsijfp24ob64linujwba/v.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Aladdin (1992)
-https://www425.hlsmp4.com/token=Du1S39FOL8RbKb3JA-6EHw/1560538246/0.0.0.0/36/6/cb/4b7a5c8a6c79565f3e753d869ab4dcb6-480p.mp4
 
 #EXTINF:-1 group-title="peliculas clasicos disney",La Bella Y La Bestia (1991)
 https://www1512.hlsmp4.com/token=E19_WwJfRMflATevNs7R-g/1560586622/0.0.0.0/25/7/a9/a16291c6a5d7203db3080f7b48f0fa97-360p.mp4
@@ -1736,7 +1637,7 @@ https://archive.org/download/la-bella-durmiente-1080p/Chip%20n%20Dale%20Rescue%2
 https://archive.org/download/la-bella-durmiente-1080p/Christopher.robin.2018.1080p%20-Dual%20Audio-.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Cinderella (2015)
 https://archive.org/download/la-bella-durmiente-1080p/Cinderella%20%282015%29%201080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MjI0NjQ3Ml5BMl5BanBnXkFtZTcwMDk5ODczMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Robin Hood (1973)
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-d4bjbp_31858af1.jpeg" group-title="Peliculas",Robin Hood (1973)
 https://archive.org/download/la-bella-durmiente-1080p/Disney%27s%20Robin%20Hood%20%281973%29%20-Dual%20Audio-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc5NGVjMzktOTQ0ZC00OTYyLWI4YjMtMzQ1ZDE4MzcxZGFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dumbo (1941)
 https://archive.org/download/la-bella-durmiente-1080p/Dumbo%20%281941%29%201080p%20-Dual%20Audio-.mkv
