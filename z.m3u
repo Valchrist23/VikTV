@@ -48,6 +48,10 @@ https://archive.org/download/peliculas-studio-ghibli-latino/La%20tumba%20de%20la
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Mi_vecino_Totoro-520161596-large.jpg",z Mi vecino Totoro
 https://archive.org/download/peliculas-studio-ghibli-latino/Mi%20vecino%20Totoro.mp4
 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODc3MTMzNl5BMl5BanBnXkFtZTcwODYwNzUyMQ@@._V1_FMjpg_UX1000_.jpg",GI Joe Movie
+https://archive.org/download/g.-i.-joe-the-movie-1987_202201/G.I.JOE%20The%20Movie%20%281987%29%20%28Full%20Movie%29.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGQ1NDYyMzktZGM0ZC00MjYwLWJmODItMmI2Mjk3OGU1ZTkxXkEyXkFqcGdeQXVyMTE5MTgwNzg3._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Visionaries Knights of the Magical Light Vol
 https://archive.org/download/visionaries-disc-1/VISIONARIES_DISC1.mp4
 
