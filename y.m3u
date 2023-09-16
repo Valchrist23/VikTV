@@ -505,9 +505,6 @@ https://cdn.jwplayer.com/manifests/rO9EwfV6.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man 2 (2004)
 https://cdn.jwplayer.com/manifests/pwT84WCZ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/peter-pan-1953.30934.jpg" group-title="Peliculas",Peter Pan (1953)
-https://www.deadlyblogger.com/NewRelease/pan1.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 https://cdn.jwplayer.com/manifests/aHaMrXAN.m3u8
 
@@ -516,12 +513,8 @@ https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: At World's End (2007)
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg" group-title="Peliculas",Pinocchio (1940)
-https://www.deadlyblogger.com/NewRelease/pinco1.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/v95dBDcFb8Hpinm0mSew4PQ6NAL.jpg" group-title="Peliculas",Godzilla: Planet of the Monsters (2017)*
 http://tvpremiumhd.club/lista-gratuita/153021/on/lives.php?id=archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
@@ -1009,70 +1002,10 @@ https://www.deadlyblogger.com/NewRelease/xmen2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X Men Days of Future Past (2014)
 https://deadlyblogger.com/NewRelease/xmenfuture.mp4
 
-#EXTINF:-1 group-title="peliculas clasicos disney",Mulan (1998)
-https://s6.jawcloud.co/hls/baxphrcmnzts7n2gmlnooh5ids6l3qug2rwbt3iqjtssrjmjp44ndqvqzyfa/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Jorobado de Notre Dame (1996)
-https://yref67.vkcache.com/secip/0/6kKD2fRdYOAYl0umh36j4A/MTg3LjE4OS4xNDUuMTQ=/1560697200/hls-vod-s8/flv/api/files/videos/2017/08/04/1501827772emnsq.mp666Frag2Num1
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pocahontas (1995)
-
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Rey Leon 2: El reino de Simba (1999)
-https://stream78.uqload.com/3rfk25w4e5w2q4drdjc7hmficjx5uupsg7qhx2snr4l2m5ys2jiwsvkny4da/v.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Rey Leon 3: hakuna matata (2004)
-https://stream214.uqload.com/3rfkethbe5w2q4drdjc7hlnnbw3c3t2qqkksphwcnsijfp24ob64linujwba/v.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Policias y Ratones (1986)
-https://www1520.hlsmp4.com/token=F4UaCWExY5L3E5a4hpVPjA/1560673614/0.0.0.0/27/c/73/4afdd47422cf1d509b10fa0f2447e73c-480p.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Zorro y el Sabueso (1981)
-https://www1458.hlsmp4.com/token=3RNZGXz4xi0AoE5VC5NwIw/1560538617/0.0.0.0/24/2/e1/7863d4722316930309056900c7c1fe12-360p.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Libro de la Selva (1967)
-https://www1472.hlsmp4.com/token=t1c8rtvv1qMy4cqF8wZZOQ/1560538555/0.0.0.0/24/2/40/7b0fadc0e73ea56130a681dd6d15c402-360p.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",La Espada en la Piedra (1963)
-
-#EXTINF:-1 group-title="peliculas clasicos disney",101 Dalmatas (1961)
-https://s5.jawcloud.co/hls/baxpvzkvnzts7n2gmlmoownadedds4fy47bucwg6goql323azae26gr36n3a/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="peliculas clasicos disney",La Bella Durmiente (1959)
-http://bit.ly/LABELLAMOVIE
-
-#EXTINF:-1 group-title="peliculas clasicos disney",La Dama y el Vagabundo (1955)
-https://www1530.hlsmp4.com/token=gn8sSLz1wyva17kOBk-K0w/1560537961/0.0.0.0/28/8/c0/a45977df53c36aa51e139f21c81d9c08-360p.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Peter Pan (1953)
-https://www1099.hlsmp4.com/token=XSdsCLBJDIBXJFoJ8epJoA/1560537846/0.0.0.0/27/8/5f/76c31259133d96b8ff6d3f7ed818b5f8-360p.mp4
-
-#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/480/480/10998386-2084425776830023.jpg " group-title="peliculas clasicos disney",Alicia En El Pais de Las Maravillas (1951)
-https://ia601508.us.archive.org/33/items/MilOchoMil001/MilOchoMil_001.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",La Cenicienta (1950)
-https://lydia-media.gloria.tv/bonifacius/hls/e/f0/tp3grthxwqcz0u5dfwph2low00u5dfwph2lox.mp4/index.m3u8?sum=9YrzLw3oXaKweLmhtLQ98w&due=1560600000
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/0b/ae/7f0baedfb57021585a76e9890917b95a.jpg" group-title="peliculas clasicos disney",Bambi (1942)
-https://ia601509.us.archive.org/9/items/MilOchoMil004/MilOchoMil_004.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Bambi_II.jpg" group-title="peliculas clasicos disney",Bambi 2 (2006)
-https://ia601509.us.archive.org/9/items/MilOchoMil003/MilOchoMil_003.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Dumbo (1941)
-https://f4h4he.vkcache.com/secip/0/2KAjJCROu1tGi3gKPJf6gg/MTg3LjE4OS4xNDUuMTQ=/1560546000/hls-vod-s4/flv/api/files/videos/2019/03/30/15539188967ro94.mp666Frag10Num10
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Pinocho (1940)
-https://4fw4gd.vkcache.com/secip/0/2KAjJCROu1tGi3gKPJf6gg/MTg3LjE4OS4xNDUuMTQ=/1560546000/hls-vod-s9/flv/api/files/videos/2017/08/05/1501899427cnjah.mp666Frag1Num1
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Fantasia (1940)
-https://www139.hlsmp4.com/token=V0Wn0hXbnKCJmA07ivmdBg/1560673338/0.0.0.0/26/d/ba/2b89cd6521b7a77642114f93e74a8bad-360p.mp4
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Blancanieves (1937)
-https://gloria.tv/streaming/8wpv2xLASuLkCLi97cu6opSSc/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https" group-title="peliculas semanasanta",El Principe de Egipto (1998)
 https://openload.co/embed/NOLm9kh-Yjk/EL_PRINCIPE_DE_EGIPTO.mp4
+
 #EXTINF:-1 group-title="peliculas navidad",El Expreso Polar
 https://drive.google.com/file/d/1rwrXhT_OJLQRF1ofhwURkjYSD1AKMZUi/view?usp=sharing
 
@@ -1757,7 +1690,7 @@ https://archive.org/download/highlander-1986-1080p-dual-audio/Darkman%20%281990%
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBmNDhjOTYtZWVlMC00YzUwLWIyZjEtYzFjMWM5OTdiZDJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Demolition Man (1993)
 https://archive.org/download/highlander-1986-1080p-dual-audio/Demolition.Man%20%281993%29%201080p.BluRay%20-Dual%20Audio-.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA5MDg5ZDAtOWE1YS00Nzg2LTk5NzUtMDY3ZDZlN2U2M2ZlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dck Tracy (1990)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzA5MDg5ZDAtOWE1YS00Nzg2LTk5NzUtMDY3ZDZlN2U2M2ZlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dick Tracy (1990)
 https://archive.org/download/highlander-1986-1080p-dual-audio/Dick%20Tracy%20%281990%29%201080p%20-Dual%20Lat-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Die Hard (1988)
@@ -2434,12 +2367,62 @@ https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalid
 https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalidad.com.mx/Tron%20%281982%29%201080p%20-Dual%20Audio-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4NTk4MTk1OF5BMl5BanBnXkFtZTcwNTE2MDIwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Tron Legacy (2010)
 https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalidad.com.mx/Tron%20Legacy%20%282010%29%201080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg5YmUyNGMtMThiNS00MjA2LTgwZDctNDlhM2RkZDNmZmRkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",True Lies (1994)
-https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalidad.com.mx/True%20Lies%20%281994%29%201080p%20-Dual%20Audio-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1OTAxODYwOV5BMl5BanBnXkFtZTgwODM0ODY0MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Turtle Power The Definitive History Of The Teenage Mutant Ninja Turtles (2014)
 https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalidad.com.mx/Turtle.Power.The.Definitive.History.of.the.Teenage.Mutant.Ninja.Turtles.2014.DVDRip.XviD-EVO_000.avi
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2MjI5Njk0MF5BMl5BanBnXkFtZTgwNDQ2NzczNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Second Act (2018)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Mulan (1998)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",The Hunchback Of Notredame (1996)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pocahontas (1995)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Yhe Lion King 2 Simbas Pride (1999)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",El Rey Leon 3: hakuna matata (2004)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Policias y Ratones (1986)
+ 
+#EXTINF:-1 group-title="peliculas clasicos disney",El Zorro y el Sabueso (1981)
+ 
+#EXTINF:-1 group-title="peliculas clasicos disney",El Libro de la Selva (1967)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",The Sword In The Stone (1963)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",101 Dalmatas (1961)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",La Bella Durmiente (1959)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 group-title="peliculas clasicos disney",La Dama y el Vagabundo (1955)
+https://www1530.hlsmp4.com/token=gn8sSLz1wyva17kOBk-K0w/1560537961/0.0.0.0/28/8/c0/a45977df53c36aa51e139f21c81d9c08-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/480/480/10998386-2084425776830023.jpg " group-title="peliculas clasicos disney",Alicia En El Pais de Las Maravillas (1951)
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/peter-pan-1953.30934.jpg" group-title="Peliculas",Peter Pan (1953)
+https://www.deadlyblogger.com/NewRelease/pan1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Pinocchio-1940-poster.jpg" group-title="Peliculas",Pinocchio (1940)
+https://www.deadlyblogger.com/NewRelease/pinco1.mp4
+
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Cinderella (1950)
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/0b/ae/7f0baedfb57021585a76e9890917b95a.jpg" group-title="peliculas clasicos disney",Bambi (1942)
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Bambi_II.jpg" group-title="peliculas clasicos disney",Bambi 2 (2006)
+
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Pinocho (1940)
+
+#EXTINF:-1 group-title="peliculas clasicos disney",Snow White (1937)
+
+
+
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Prince Of Persia (2010)
 
