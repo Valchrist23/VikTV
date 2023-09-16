@@ -439,13 +439,13 @@ https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Runner Ever (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El Origen Del Planeta De Los Simios (2011)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El Origen Del Planeta De Los Simios (2011)
 https://cdn.jwplayer.com/manifests/3V1cKv16.m3u8
 
-#EXTINF:-1 group-title="Peliculas",El Planeta De Los Simios - Confrontación (2014)
+#EXTINF:-1 group-title="https://m.media-amazon.com/images/M/MV5BYWE2MzU2ZGUtYTY1Yi00ZTI5LWE4NzMtNWM1NzRhMDQ3ZjM3XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",El Planeta De Los Simios - Confrontación (2014)
 https://cdn.jwplayer.com/manifests/YlqUavXO.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La Guerra Del Planeta De Los Simios (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Guerra Del Planeta De Los Simios (2017)
 https://cdn.jwplayer.com/manifests/9XEgWDvt.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Independence Day (1996)
@@ -2460,7 +2460,8 @@ https://archive.org/download/the.-lost.-world.-jurassic.-park.-1997.720p-dual-la
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA0MGU4MzYtYTYxMy00MjRhLTlmMDYtZTVhZDc1Y2QwNWY2XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Pope's Exorcist (2023)
 https://archive.org/download/the.-lost.-world.-jurassic.-park.-1997.720p-dual-lat_202309/The%20Pope%27s%20Exorcist%20%282023%29%201080p%20-Dual%20Lat-.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzE0MDBhYTAtMGE3Ny00ZjFhLTkxZWEtNTAxYjBiNjgzNmU1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg" group-title="Peliculas",Big George Foreman (2023)
+https://archive.org/download/big.-george.-foreman.-2023.1080p.dual-lat.cinecalidad.com.mx/Big.George.Foreman.2023.1080p.dual-lat.cinecalidad.com.mx.mp4
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
