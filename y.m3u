@@ -581,9 +581,9 @@ https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv6857988lt.mp4
 https://storage.googleapis.com/opportune-mile-250902.appspot.com/tt5779372_LAT_HD.mp4
 
 -----------------NO-------------------------
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Jurassic World el Reino caído 2018 
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",El aprendis del crimen 2017 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas", Rey León 2019 
+ 
 #EXTINF:-1 group-title="Peliculas",escape plan extractor 2019 
 #EXTINF:-1 group-title="Peliculas",más halla de esperanza 2019 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p-dual-lat-MegaCineApp.Com.mp4
@@ -621,7 +621,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p
 #EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2017
 #EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2019
 #EXTINF:-1 group-title="Peliculas",red de peligro 2018 
-
 #EXTINF:-1 group-title="Peliculas",Lego ninjago 2017 
 #EXTINF:-1 group-title="Peliculas",La vida secreta de tus mascotas 2 
 #EXTINF:-1 tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg"group-title="Peliculas",Childs Play 2019 
@@ -747,18 +746,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/6-11-2017/Bad.santa.2.2
 
 #EXTINF:-1 group-title="Peliculas",Una pareja dispareja 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/7-11-2019/Skiptrace.2016.1080p-dual-lat.mp4
-
-#EXTINF:-1 group-title="Peliculas",Viral 2016
-
-#EXTINF:-1 group-title="Peliculas",Honey 3: Dare to Dance (2016)
-
-#EXTINF:-1 group-title="Peliculas",Hasta el último hombre 2017 
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg" group-title="Peliculas",Nueve Reinas 
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1" group-title="Peliculas",Historias de Miedo para contar en la Oscuridad 
-
-#EXTINF:-1 tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2019/03/21/dora_la_exploradora_pelicula_poster.jpg" group-title="Peliculas",Dora La Exploradora y la Ciudad Perdida 
 
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cartel-el-camino-netflix-1569313372.jpg?resize=480:*" group-title="Peliculas",El Camino
 http://regioflix.club/REGIOFLIX/201119rt/ElCaminoUnapel%C3%ADculadeBreakingBad.mp4
@@ -2405,24 +2392,40 @@ https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-108
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29%201080p%20-Dual%20Audio-.mkv
 
 #EXTINF:-1 tvg-logo="https://s1.thcdn.com/productimg/480/480/10998386-2084425776830023.jpg " group-title="peliculas clasicos disney",Alice In Wonderland (1951)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Alice%20In%20Wonderland%20%281951%29%201080p%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Lion King (2019)
+https://archive.org/download/mulan-1998-1080p-dual-lat/The%20Lion%20King%20%282019%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 group-title="peliculas clasicos disney",Yhe Lion King 2 Simbas Pride (1999)
-
-#EXTINF:-1 group-title="peliculas clasicos disney",El Rey Leon 3: hakuna matata (2004)
-
-#EXTINF:-1 group-title="peliculas clasicos disney",Policias y Ratones (1986)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 2 (2013)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%202%20%282013%29%201080p%20-Dual%20Audio-.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 3 (2017)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%203%20%282017%29%201080p%20-Dual%20Audio-.mp4
+#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",Policias y Ratones (1986)
  
-#EXTINF:-1 group-title="peliculas clasicos disney",El Zorro y el Sabueso (1981)
+#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",El Zorro y el Sabueso (1981)
  
-#EXTINF:-1 group-title="peliculas clasicos disney",El Libro de la Selva (1967)
+#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",El Libro de la Selva (1967)
 
-#EXTINF:-1 group-title="peliculas clasicos disney",Pinocho (1940)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Ferdinand (2017)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Ferdinand%20%282017%29%201080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBhZjNkNDItODcxMS00ZGNmLTk3ODUtOGU1NWI3N2Q3YmM1XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="peliculas",Guillermo Del Toro's Pinocchio (2022)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Guillermo%20del%20Toro%27s%20Pinocchio%20%282022%29%201080p%20-Dual%20Lat.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2MjI5Njk0MF5BMl5BanBnXkFtZTgwNDQ2NzczNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Second Act (2018)
 
-#EXTINF:-1 group-title="peliculas clasicos disney",Mulan (1998)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODkxNGQ1NWYtNzg0Ny00Yjg3LThmZTItMjE2YjhmZTQ0ODY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Mulan (1998)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Mulan%20%281998%29%201080p%20-Dual%20Lat-.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlZjRiYTUtN2NlNC00MDkxLWI0MmItOTUwNTg1YTU4MWUxXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Mulan (2020)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Mulan%20%282020%201080p%20-Dual%20Audio-.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMyMTY2YmEtZjM2ZS00ZWQ5LWE4YjEtOGMxOGZhY2RlZjJjXkEyXkFqcGdeQXVyNDM2OTEyOTM@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Mulan Rise Of A Warrior (1998)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Mulan.Rise.Of.A.Warrior%282009%29%201080p.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Prince Of Persia (2010)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxMTU5MTY4MV5BMl5BanBnXkFtZTcwNzgyNjg2NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Puss In Boots (2011)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Puss%20In%20Boots%20%282011%29%201080p%20-Dual%20Audio-.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Puss In Boots The Last Wish (2022)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Puss%20In%20Boots%20The%20Last%20Wish%20%282022%29%201080p%20-Dual%20Audio-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2NzNjMDAtZTAyMi00NTQzLWFlMTctNTUzMGE1ODE2NDRlXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Atlantis Lost Empire (2001)
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Atlantis%20The%20Lost%20Empire%20%282001%29%201080p%20-Dual%20Lat-.mkv
@@ -2447,6 +2450,19 @@ https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-108
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJkZDZkYTItOGZjNy00MTRmLTk4YWQtOWZmNTZkYThhZDAwXkEyXkFqcGdeQXVyOTc1NDIxNDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Stranger (2022)
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/The%20Stranger%20%282022%29%201080p%20-Dual%20Lat-.mp4
+
+
+#EXTINF:-1 group-title="Peliculas",Viral 2016
+
+#EXTINF:-1 group-title="Peliculas",Honey 3: Dare to Dance (2016)
+
+#EXTINF:-1 group-title="Peliculas",Hasta el último hombre 2017 
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg" group-title="Peliculas",Nueve Reinas 
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1" group-title="Peliculas",Historias de Miedo para contar en la Oscuridad 
+
+#EXTINF:-1 tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2019/03/21/dora_la_exploradora_pelicula_poster.jpg" group-title="Peliculas",Dora La Exploradora y la Ciudad Perdida 
 
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
