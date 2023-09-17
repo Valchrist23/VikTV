@@ -433,7 +433,7 @@ https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Against The Ice (2022)
 https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El hombre del norte (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Northman (2022)
 https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Runner Ever (2022)
@@ -442,7 +442,7 @@ https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El Origen Del Planeta De Los Simios (2011)
 https://cdn.jwplayer.com/manifests/3V1cKv16.m3u8
 
-#EXTINF:-1 group-title="https://m.media-amazon.com/images/M/MV5BYWE2MzU2ZGUtYTY1Yi00ZTI5LWE4NzMtNWM1NzRhMDQ3ZjM3XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg",El Planeta De Los Simios - Confrontación (2014)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWE2MzU2ZGUtYTY1Yi00ZTI5LWE4NzMtNWM1NzRhMDQ3ZjM3XkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El Planeta De Los Simios - Confrontación (2014)
 https://cdn.jwplayer.com/manifests/YlqUavXO.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Guerra Del Planeta De Los Simios (2017)
@@ -2400,11 +2400,6 @@ https://archive.org/download/mulan-1998-1080p-dual-lat/The%20Lion%20King%20%2820
 https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%202%20%282013%29%201080p%20-Dual%20Audio-.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 3 (2017)
 https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%203%20%282017%29%201080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",Policias y Ratones (1986)
- 
-#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",El Zorro y el Sabueso (1981)
- 
-#EXTINF:-1 tvg-logo="null" group-title="peliculas clasicos disney",El Libro de la Selva (1967)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Ferdinand (2017)
 https://archive.org/download/mulan-1998-1080p-dual-lat/Ferdinand%20%282017%29%201080p%20-Dual%20Audio-.mp4
@@ -2451,26 +2446,18 @@ https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-108
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmJkZDZkYTItOGZjNy00MTRmLTk4YWQtOWZmNTZkYThhZDAwXkEyXkFqcGdeQXVyOTc1NDIxNDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Stranger (2022)
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/The%20Stranger%20%282022%29%201080p%20-Dual%20Lat-.mp4
 
-
-#EXTINF:-1 group-title="Peliculas",Viral 2016
-
-#EXTINF:-1 group-title="Peliculas",Honey 3: Dare to Dance (2016)
-
-#EXTINF:-1 group-title="Peliculas",Hasta el último hombre 2017 
-
-#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg" group-title="Peliculas",Nueve Reinas 
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1" group-title="Peliculas",Historias de Miedo para contar en la Oscuridad 
-
-#EXTINF:-1 tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2019/03/21/dora_la_exploradora_pelicula_poster.jpg" group-title="Peliculas",Dora La Exploradora y la Ciudad Perdida 
-
-
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mowgli Legend Of The Jungle (2018)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Mowgli%20Legend%20Of%20The%20Jungle%20%282018%29%201080p%20-Dual%20Audio-.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania (2012)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Hotel.Transylvania.2012.latino-e-ingles-subt.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVhZWM0YTEtM2YxYy00YWUzLWI1YWQtNjk5ZTRhNTJmM2VhXkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania 2 (2015)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Hotel.transylvania.2.2015.1080p-dual-lat.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania 3 Summer Vacation (2018)
+https://archive.org/download/mulan-1998-1080p-dual-lat/Hotel%20Transylvania%203%20Summer%20Vacation%201080p%20-Dual%20Audio-.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Incredibles (2004)
+https://archive.org/download/mulan-1998-1080p-dual-lat/The%20Incredibles%20%282004%29%20-1080p%20-Dual%20Audio-.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Incredibles 2 (2018)
+https://archive.org/download/mulan-1998-1080p-dual-lat/The%20Incredibles%202%20%282018%29%20-1080p-%28Dual%20Audio%29.mp4
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
