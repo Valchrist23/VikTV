@@ -55,9 +55,6 @@ https://www.deadlyblogger.com/NewRelease/cinder1.mp4
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-day-after-tomorrow-2004/large_wOwT5GpuMEzCIBY8b5hd9PRX0fu.jpg" group-title="Peliculas",The Day After Tomorrow (2004)
 https://www.deadlyblogger.com/NewRelease/theday2004.mp4
 
-#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="Peliculas",The Fast and the Furious (2001)*
-https://www.deadlyblogger.com/NewRelease/fast1.mp4
-
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/finding-nemo-2003/large_zjqInUwldOBa0q07fOyohYCWxWX.jpg" group-title="Peliculas",Finding Nemo (2003)
 https://www.deadlyblogger.com/NewRelease/nemo2003.mp4
 
@@ -76,7 +73,7 @@ https://www.deadlyblogger.com/NewRelease/irobot.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Men in Black (1997)
 https://www.deadlyblogger.com/NewRelease/mnb1.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Men in Black 2 (2002)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Men in Black II (2002)
 https://www.deadlyblogger.com/NewRelease/mnb2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Men in Black 3 (2012)
@@ -220,7 +217,7 @@ https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJkYTBlZjktYmYyYi00ZWQ0LTgyMWYtMjQ5Yzg1Y2M3YzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Tormenta Perfecta (2000)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Perfect Storm (2000)
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Perfect Storm (2000)
@@ -436,7 +433,7 @@ https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Northman (2022)
 https://cdn.jwplayer.com/manifests/QSjZusGW.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Runner Ever (2022)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Run Ever (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El Origen Del Planeta De Los Simios (2011)
@@ -667,9 +664,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mortal Engines
 https://dl.dropbox.com/s/opl112eqxqorgyf/Mortal.engines.2018.1080p-dual-lat-cinecalidad.is.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0MzJkNTYtNWZkNC00NDdhLWI3M2YtNjZmYzFmNTM5MzM3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Aquaman 2018
-https://dl.dropbox.com/s/niurhx3xmfzhwoy/Aquaman.2018.1080p-dual-lat-cinecalidad.is.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man In To The Spideverse (2018)
 https://dl.dropbox.com/s/c1gxoq585zjxrbw/Spider-man.into.the.spider-verse.2018.1080p-dual-lat-cinecalidad.is.mp4
 
@@ -688,12 +682,10 @@ https://dl.dropbox.com/s/t1wo9pil6q9bq0g/The.grinch.2018.1080p-dual-lat-cinecali
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/201119rt/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg"La Forma del Agua SUBTITULADO | R
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Shape Of Watera (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Shape Of Water (2017)
 https://dl.dropbox.com/s/1wd0jtf25p6nuuz/The.shape.of.water.2017.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1,La purga. 2013 la noche de las bestias 
-
-#EXTINF:-1 group-title="Peliculas",La purga 2014.. Anarquía 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2ODMxMTk1Nl5BMl5BanBnXkFtZTgwMDEzNjEzMTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Purge Anarchy (2014)
 https://storage.googleapis.com/opportune-mile-250902.appspot.com/cv2184339lt.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzZDNhODMtYzk2ZC00ZTE2LTk2MTgtY2M3NjgyYzVjMTcyXkEyXkFqcGdeQXVyNTU1OTA4OTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Creed 2: Rocky's Legacy (2019) 
@@ -1010,6 +1002,9 @@ https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Jesucristo%20
 
 
 ----------------------Nuevas Agregadas----------------------------------
+
+#EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="Peliculas",The Fast and the Furious (2001)
+https://www.deadlyblogger.com/NewRelease/fast1.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fast and the Furious (2001)
 https://archive.org/details/07_20210717_202107/01.mp4
@@ -1799,6 +1794,9 @@ https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Ant-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Aquaman (2018)
 https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Aquaman.2018.1080p%20-Dual%20Audio-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0MzJkNTYtNWZkNC00NDdhLWI3M2YtNjZmYzFmNTM5MzM3XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Aquaman (2018)
+https://dl.dropbox.com/s/niurhx3xmfzhwoy/Aquaman.2018.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avengers Endgame (2019)
 https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Avengers%20Endgame%20%282019%29%201080p%20-Dual%20Audio-.mp4
