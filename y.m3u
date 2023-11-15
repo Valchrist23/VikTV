@@ -570,10 +570,14 @@ https://storage.googleapis.com/opportune-mile-250902.appspot.com/tt5779372_LAT_H
 
 -----------------NO-------------------------
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El aprendis del crimen 2017 
- 
-#EXTINF:-1 group-title="Peliculas",escape plan extractor 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Violet Evergarden (2017) 
+http://archive.org/download/tt10665338/tt8652818.mp4
+
+#EXTINF:-1 group-title="Peliculas",Up (2009) 
+http://ia601503.us.archive.org/12/items/sototo_patonce_05/05.mp4
+
 #EXTINF:-1 group-title="Peliculas",más halla de esperanza 2019 
+
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 #EXTINF:-1 group-title="Peliculas",X-men  2019  fénix oscura
 #EXTINF:-1 group-title="Peliculas",stuby un héroe muy especial 2019 
@@ -767,6 +771,8 @@ http://regioflix.club/REGIOFLIX/201119rt/th3.gr34t.h4ck.2019.hdrip.720p.latino.m
 
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg" group-title="Peliculas",Your Name. (2016)
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg" group-title="Peliculas",Your Name. (2016)
+http://ia601507.us.archive.org/26/items/Youhdhsbsme_201902/your%20name.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg" group-title="Peliculas",Jhonny English 3.0 
 https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
