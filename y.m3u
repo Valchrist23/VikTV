@@ -496,6 +496,9 @@ https://cdn.jwplayer.com/manifests/BdE5Y7qC.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Matrix Resurrections (2021)
 https://cdn.jwplayer.com/manifests/3f2jFMzM.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Animatrix (2020)
+http://archive.org/download/20221002_20221002_0821/animatrix.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg" group-title="Peliculas",Spider-Man (2002)
 https://cdn.jwplayer.com/manifests/rO9EwfV6.m3u8
 
@@ -2371,10 +2374,10 @@ https://www.deadlyblogger.com/NewRelease/pinco1.mp4
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Cinderella%20%281950%29%201080p%20-Dual%20Lat-.mkv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/0b/ae/7f0baedfb57021585a76e9890917b95a.jpg" group-title="peliculas clasicos disney",Bambi (1942)
-https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Bambi%20%281942%29%201080p%20-Dual%20Lat-.mkv
+http://archive.org/download/202209_20220918_2029/bambi.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Bambi_II.jpg" group-title="peliculas clasicos disney",Bambi 2 (2006)
-https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Bambi%20II%20%282006%29%20The%20Great%20Prince%20Of%20The%20Forest%201080p%20-%20Dual%20Lat-.mkv
+http://archive.org/download/2_202209/bambi%202.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_FMjpg_UX1000_.jpg"group-title="peliculas clasicos disney",Snow White (1937)
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281937%29%201080p%20-Dual%20Audio-.mkv
@@ -2409,7 +2412,7 @@ http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/8.mp4
 https://archive.org/download/mulan-1998-1080p-dual-lat/Puss%20In%20Boots%20The%20Last%20Wish%20%282022%29%201080p%20-Dual%20Audio-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2NzNjMDAtZTAyMi00NTQzLWFlMTctNTUzMGE1ODE2NDRlXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Atlantis Lost Empire (2001)
-https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/Atlantis%20The%20Lost%20Empire%20%282001%29%201080p%20-Dual%20Lat-.mkv
+http://archive.org/download/20220918_20220918_2011/Atlantis%20El%20regreso%20de%20Milo.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZDEzM2MtOTAyMS00NGYwLThjMTYtZDc4OGZkYjU0NTg5XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Belle Et La Bete (2014)
 https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-1080p-dual-audio/La%20Belle%20et%20la%20Bete%202014%201080p%20-Dual%20Audio-.mp4
