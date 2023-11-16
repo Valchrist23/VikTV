@@ -88,6 +88,11 @@ https://www.deadlyblogger.com/NewRelease/tmnt2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTA1MDliMWUtYzIzZC00Yjc2LWE1MTYtNWI1YzE5NzIxMzFmXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Teenage Mutant Ninja Turtles III (1993)
 https://www.deadlyblogger.com/NewRelease/tmnt3.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUzODQ5MDY5NV5BMl5BanBnXkFtZTgwOTc1NzcyMjE@._V1_.jpg" group-title="Peliculas",Teenage Mutant Ninja Turtles (2014)
+http://archive.org/download/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/7.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVkNjVjZTQtNTczYS00ODk5LWFkNjItYjNlMDc5ZjMyYTQwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Peliculas",Teenage Mutant Ninja Turtles Out Of The Shadows (2016)
+http://archive.org/download/vitax1/Sub1d0_p4r4_5tr34ming_V4r_12/8.mp4
+
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-hateful-eight-2015/large_large_fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg" group-title="Peliculas",The Hateful Eight (2015)
 https://www.deadlyblogger.com/NewRelease/hateful2015.mp4
 
@@ -618,34 +623,35 @@ http://ia601503.us.archive.org/12/items/sototo_patonce_05/05.mp4
 #EXTINF:-1 group-title="Peliculas",más halla de esperanza 2019 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
-#EXTINF:-1 group-title="Peliculas",Goonies (1989)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Goonies (1989)
 http://archive.org/download/John_S-1J_LCD4P/11.avi
 
-#EXTINF:-1 group-title="Peliculas",stuby un héroe muy especial 2019 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE5OWFkNzMtNmE5Zi00NDFkLWIyMDktZWQ0YjNiNTQ5NzlmXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wall-E (2008)
+http://archive.org/download/ttjum046/ttjum046.mp4
 
-#EXTINF:-1 group-title="Peliculas",línea mortal al límite 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",línea mortal al límite 
 
-#EXTINF:-1 group-title="Peliculas",Vaseline (1987)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Vaseline (1987)
 http://archive.org/download/John_S-1J_LCD4P/15.avi
 
-#EXTINF:-1 group-title="Peliculas",Jeepers Creepers 3 (2017) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Jeepers Creepers 3 (2017) 
 http://archive.org/download/H5E737PD/NMA149M2.mkv
-#EXTINF:-1 group-title="Peliculas",Jeepers Creepers Reborn (2022)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Jeepers Creepers Reborn (2022)
 http://archive.org/download/H5E737PD/OE8CYY60.mkv
 
-#EXTINF:-1 group-title="Peliculas",Halloween The Last Night (2022) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Halloween The Last Night (2022) 
 http://archive.org/download/H5FDK6D1/JA0D66PB.mkv
 
-#EXTINF:-1 group-title="Peliculas",Toy Story (1996)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story (1996)
 http://archive.org/download/xoye_2mailnext_3/wiimc/1.mp4
 
-#EXTINF:-1 group-title="Peliculas",Toy Story 2 (1999) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 2 (1999) 
 http://archive.org/download/xoye_2mailnext_3/wiimc/2.mp4
 
-#EXTINF:-1 group-title="Peliculas",Toy Story 3 (2010) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 3 (2010) 
 http://archive.org/download/xoye_2mailnext_3/wiimc/3.mp4
 
-#EXTINF:-1 group-title="Peliculas",Toy Story 4 (2019) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 4 (2019) 
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5ZjA5ZjMtZGZlOS00M2U4LTkyOTktYzYyNGZjN2UxYjdkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Addicted To Love (1997)
@@ -698,9 +704,15 @@ http://archive.org/download/1_20221005_202210/extraordinariamente%20feos.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Journey 2: The Mysterious Island (2012)
 http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La voz de la igualdad 2018 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",una vigilante 2019 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",una cigueña en apuros 2017
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spirited Away (2001) 
+http://www.mediafire.com/file/l7wr3fhbz8toozs/L454V3N7UR45D35H1H1R0.mp4/file
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM4NWZmMzQtNmI3OS00ZDExLWEwNTYtM2QyMzIzNjEwZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fairy Tail (2017)
+http://archive.org/download/TRIA53P4/FRTDRC17.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Princess Mononoke (1997)
+http://archive.org/download/1997_20220702/La%20Princesa%20Mononoke%201997.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi amigo enzo 2019 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2017
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2019
@@ -3043,7 +3055,8 @@ http://archive.org/download/2012_20220912/Frankenweenie%202012.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyNTg3MDYxOF5BMl5BanBnXkFtZTgwODM5ODcxMzE@._V1_.jpg" group-title="Peliculas",Bayonetta Bloody Fate (2013)
 http://archive.org/download/1_20200429_20200429_1922/5ub1d0w11mc/1.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spirit (2021)
+http://ia801401.us.archive.org/10/items/000_20191221/2.mp4
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
