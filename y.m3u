@@ -227,6 +227,8 @@ https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
+http://archive.org/download/3rtb-6b41/3RTB6B41.mkv
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",El hombre de la máscara de hierro (1998)
 https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
@@ -542,10 +544,11 @@ https://www.deadlyblogger.com/NewRelease/guardians2014.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Metropolisposter.jpg" group-title="Peliculas",Metropolis (1927)
 https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNjNGZlNTQtMjRjYi00ZWMyLWE1NGQtMzBjMDdjZDBiMzEzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ocean's Eight no
-https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt5164214_SUBP_HD.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Gravity (2013)
+http://archive.org/download/dz4w-6us4/DZ4W6US4.mkv
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-d4bjbp_31858af1.jpeg" group-title="Peliculas",Robin Hood (1973)
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzY1MDA2OTQ0N15BMl5BanBnXkFtZTgwMTkzNjU2NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mortal Engines (2018)
 https://dl.dropbox.com/s/opl112eqxqorgyf/Mortal.engines.2018.1080p-dual-lat-cinecalidad.is.mp4
@@ -626,28 +629,32 @@ http://archive.org/download/xoye_2mailnext_3/wiimc/3.mp4
 #EXTINF:-1 group-title="Peliculas",Toy Story 4 (2019) 
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 
-#EXTINF:-1 group-title="Peliculas",El robo perfecto 2018 
-#EXTINF:-1 group-title="Peliculas",actos de violencia 2018 
-#EXTINF:-1 group-title="Peliculas",crónicas de Navidad 2018 netflix 
-#EXTINF:-1 group-title="Peliculas",Mi little pony 2017 
-#EXTINF:-1 group-title="Peliculas",olafs una aventura congelada 2017 
-#EXTINF:-1 group-title="Peliculas",A dos metros de ti 2019 
-#EXTINF:-1 group-title="Peliculas",Misión submarino 2018 
-#EXTINF:-1 group-title="Peliculas",escalofríos 2018 
-#EXTINF:-1 group-title="Peliculas",El rehén 2018 
-#EXTINF:-1 group-title="Peliculas",alcanzando tu sueño 2018 
-#EXTINF:-1 group-title="Peliculas",Mi ex es un espía 
-#EXTINF:-1 group-title="Peliculas",super agente canino 2018 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5ZjA5ZjMtZGZlOS00M2U4LTkyOTktYzYyNGZjN2UxYjdkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Addicted To Love (1997)
+http://archive.org/download/20221002_20221002_0815/adictos%20al%20amor.mp4
+https://m.media-amazon.com/images/M/MV5BYzMyMjIwZjktMjhkMi00MzM0LTg4OWEtODYyMjZhYTg4NGU5XkEyXkFqcGdeQXVyOTk4MjA5NjQ@._V1_FMjpg_UX1000_.jpg
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Devils Backbone (2001)
+http://archive.org/download/202210_20221004_0428/el%20espinazo%20del%20diablo.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",crónicas de Navidad 2018 netflix 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi little pony 2017 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",olafs una aventura congelada 2017 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",A dos metros de ti 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Misión submarino 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",escalofríos 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El rehén 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",alcanzando tu sueño 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi ex es un espía 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",super agente canino 2018 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODI4OTk1ODY3N15BMl5BanBnXkFtZTgwMDI1MTcwNjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Alpha 2018                              
-#EXTINF:-1 group-title="Peliculas",La leyenda del gigante en la montaña 2017 
-#EXTINF:-1 group-title="Peliculas",fantasmas del pasado 
-#EXTINF:-1 group-title="Peliculas",El canto del lobo 2019 
-#EXTINF:-1 group-title="Peliculas",La voz de la igualdad 2018 
-#EXTINF:-1 group-title="Peliculas",una vigilante 2019 
-#EXTINF:-1 group-title="Peliculas",una cigueña en apuros 2017
-#EXTINF:-1 group-title="Peliculas",Mi amigo enzo 2019 
-#EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2017
-#EXTINF:-1 group-title="Peliculas",Feliz Dia de Tu Muerte 2019
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La leyenda del gigante en la montaña 2017 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",fantasmas del pasado 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El canto del lobo 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",La voz de la igualdad 2018 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",una vigilante 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",una cigueña en apuros 2017
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi amigo enzo 2019 
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2017
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2019
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhNDhmYzItNDYzNC00YTc1LTkzYTUtMjE4ZDNhZGZkNjRkXkEyXkFqcGdeQXVyNjk3ODU5MDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shut In (2022)
 http://archive.org/download/3C614S6A/1C57LTD7-V2.mkv
@@ -1738,7 +1745,7 @@ https://archive.org/download/highlander-1986-1080p-dual-audio/Mission%20Impossib
 https://archive.org/download/highlander-1986-1080p-dual-audio/The%20Haunting%20In%20Connecticut%20%282009%29%201080p%20-Dual%20Audio-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Intership (2013)
-https://archive.org/download/highlander-1986-1080p-dual-audio/The%20Internship%20%282013%29%201080p%20-Dual%20Audio-.mkv
+http://archive.org/download/20220918_20220918_1952/Aprendices%20fuera%20de%20l%C3%ADnea.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Karate Kid (1984)
 https://archive.org/download/highlander-1986-1080p-dual-audio/The%20Karate%20Kid%20%281984%29%201080p%20-Dual%20Audio-.mkv
