@@ -635,12 +635,24 @@ https://m.media-amazon.com/images/M/MV5BYzMyMjIwZjktMjhkMi00MzM0LTg4OWEtODYyMjZh
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Devils Backbone (2001)
 http://archive.org/download/202210_20221004_0428/el%20espinazo%20del%20diablo.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",crónicas de Navidad 2018 netflix 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi little pony 2017 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",olafs una aventura congelada 2017 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",A dos metros de ti 2019 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Misión submarino 2018 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",escalofríos 2018 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1OTc2ZmUtODU0Yy00NGJiLWJmNmQtODI0MzBjODk3MjI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld (2001)
+http://archive.org/download/20221005_20221005_1106/inframundo%201%20ok.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld Evolution (2006)
+http://archive.org/download/2_20221005_20221005/inframundo%202.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAwNzYzMDQyMzReQTJeQWpwZ15BbWU3MDMyNDA0MjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld Underworld: Rise of the Lycans (2009) 
+http://archive.org/download/3_20221005/inframundo%203.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld: Awakening (2012)
+http://archive.org/download/20221005_20221005_1129/inframundo%204.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld: Blood Wars (2016)
+http://archive.org/download/20221005_20221005_1138/inframundo%205.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJkNDQwNzUtNWE0MC00MGVjLWFjMjEtODMyNTExMTU4ZDRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ironman Rise Of Technovore (2013)
+http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B3n%20de%20Technovore.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",El rehén 2018 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",alcanzando tu sueño 2018 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi ex es un espía 
