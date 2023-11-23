@@ -1061,6 +1061,8 @@ https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%2
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal
 http://ow.ly/FXZ930eWtrs
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal
+https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",VOD FREE: EL MAL DENTRO 2017
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
@@ -1090,20 +1092,16 @@ https://www.deadlyblogger.com/NewRelease/wildwest.mp4
 http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" group-title="Peliculas",Wonder Woman (2017)
-https://deadlyblogger.com/NewRelease/wonderwoman.mp4
 
 #EXTINF:-1 tvg-logo="https://ca.movieposter.com/posters/archive/main/96/MPW-48454" group-title="Peliculas",X Men 2 (2003)
-https://www.deadlyblogger.com/NewRelease/xmen2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X Men Days of Future Past (2014)
-https://deadlyblogger.com/NewRelease/xmenfuture.mp4
-
 
 #EXTINF:-1 tvg-logo="https" group-title="peliculas semanasanta",El Principe de Egipto (1998)
 https://openload.co/embed/NOLm9kh-Yjk/EL_PRINCIPE_DE_EGIPTO.mp4
 
-#EXTINF:-1 group-title="peliculas navidad",El Expreso Polar
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0MTk4MTI1M15BMl5BanBnXkFtZTgwOTIxMDQ0MDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rules Don´t Apply
+https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
 
 #EXTINF:-1 group-title="peliculas navidad",Mi Pobre Angelito
 https://gloria.tv/streaming/Wz8uTUFiGML73ectPsktyp1nA/hls/master.m3u8
@@ -1910,7 +1908,7 @@ https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Anna
 https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Annabelle%20Comes%20Home%20%282019%29%201080p%20-Dual%20Audio-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ant-Man (2015)
-https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Ant-Man.2015.1080p%20-Dual%20Audio-.mp4
+https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ant-Man And The Wasp (2018)
 https://archive.org/download/masters-of-the-universe-1987-1080p-trial-audio/Ant-man.and.the.wasp.2018.1080p-Dual%20Audio-.mp4
@@ -3062,8 +3060,12 @@ https://dl.dropbox.com/scl/fi/ijru8zwirduy0gs7tscih/Dune.-2021-.1080p.dual-lat-c
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUyNTIzNDQtYTZmMi00M2FlLTgyZjUtYWViZWNhMDYzMjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Creator (2023)
 https://dl.dropbox.com/scl/fi/h1abjnq2nz020uujg9ww6/Resistencia-2023-.1080p.dual-lat.cinecalidad.com.mx.mp4?rlkey=o6qr6s6t4q51kagl0xb2i4l2p&dl=0
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGIwMTA2ZGYtYmM3MS00OTBhLTgxYTAtMDA0NWY0NDU3MmNmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",3 Idiotas (2017)
+https://ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
