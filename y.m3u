@@ -211,7 +211,7 @@ https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzMDE3OGYtZDg3Mi00OGU1LWJhMDMtZDJiYzdmMWQ3NTE0XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Universal Soldier Regeneration
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_nwtfpd7u/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mississippi En Llamas (1988)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzMxZTI2NzEtMGE0OC00MTQ3LTk0YjUtODZlMzY4N2U3ZDQwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mississippi Burning (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjBjOTZmYjAtODRlZi00NTMwLTgzYzItNTVmNGRjMjY0MTJhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",El regreso a la laguna azul (1991)
@@ -242,9 +242,6 @@ https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
 http://archive.org/download/3rtb-6b41/3RTB6B41.mkv
-
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",El hombre de la máscara de hierro (1998)
-https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJkYTBlZjktYmYyYi00ZWQ0LTgyMWYtMjQ5Yzg1Y2M3YzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
@@ -1199,8 +1196,8 @@ https://archive.org/download/on-guard-1997-1080p-yts.-mx/The%20Three%20Musketeer
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3OTc2OTM2OF5BMl5BanBnXkFtZTcwMDM1MjU1NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Three Musketeers (2011)
 https://archive.org/download/the-four-musketeers-1974-720p/The%20Three%20Musketeers%20%282011%29%201080p.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Man in the Iron Mask (1998)
-https://archive.org/download/on-guard-1997-1080p-yts.-mx/The%20Man%20In%20The%20Iron%20Mask%20%281998%29%201080p%20-Dual%20Audio-.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM2YzcxMmQtOTc2Mi00YjdhLWFlZjUtNmFmMDQzYzU2YTk5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Man In The Iron Mask (1998)
+https://cdn.jwplayer.com/manifests/YyEbpfZG.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDM0ZWRjZDgtZWI0MS00ZTIzLTg4MWYtZjU5MDEyMDU0ODBjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Count of Monte Cristo (2002)
 https://archive.org/download/the-four-musketeers-1974-720p/The%20Count%20Of%20Monte%20Cristo%20%282002%29%201080p%20-Dual%20Audio-.mkv
