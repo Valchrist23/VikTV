@@ -608,23 +608,23 @@ https://storage.googleapis.com/opportune-mile-250902.appspot.com/tt5779372_LAT_H
 
 -----------------NO-------------------------
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Violet Evergarden (2017) 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",línea mortal al límite 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Violet Evergarden (2018) 
 http://archive.org/download/tt10665338/tt8652818.mp4
 
-#EXTINF:-1 group-title="Peliculas",Up (2009) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Up (2009) 
 http://ia601503.us.archive.org/12/items/sototo_patonce_05/05.mp4
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI4OTk2NWItZmE4My00NTJiLTkxMDMtZWFlNjg5ZTk3MGY2XkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",más halla de esperanza (2019)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Goonies (1989)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNmZDc0ZDEtZjY3Ni00YmVjLTljNWQtMTE3NDAxNWFhMDk4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Goonies (1985)
 http://archive.org/download/John_S-1J_LCD4P/11.avi
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE5OWFkNzMtNmE5Zi00NDFkLWIyMDktZWQ0YjNiNTQ5NzlmXkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wall-E (2008)
 http://archive.org/download/ttjum046/ttjum046.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",línea mortal al límite 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyMDEyOTgtZmUwOS00NTdkLThlNzctNTM1ODQ4M2VhMjdhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Grease (1987)
 http://archive.org/download/John_S-1J_LCD4P/15.avi
@@ -709,10 +709,6 @@ http://archive.org/download/TRIA53P4/FRTDRC17.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Princess Mononoke (1997)
 http://archive.org/download/1997_20220702/La%20Princesa%20Mononoke%201997.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Mi amigo enzo 2019 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2017
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Feliz Dia de Tu Muerte 2019
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhNDhmYzItNDYzNC00YTc1LTkzYTUtMjE4ZDNhZGZkNjRkXkEyXkFqcGdeQXVyNjk3ODU5MDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shut In (2022)
 http://archive.org/download/3C614S6A/1C57LTD7-V2.mkv
 
@@ -743,16 +739,16 @@ http://archive.org/download/jecanif1/Sub1d0_p4r4_5tr34ming_V4r_13/26.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGExMjIxNTMtY2M2NS00YTg0LTgyMDMtZWMyNDZmODZjZTVkXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Lord Of The Rings Animation (1978)
 http://archive.org/download/01_20200301_20200301/Sub1do_p4r4_Str34m_AB5/01.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Descendientes (2015) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA5MTE2Mzc5MjReQTJeQWpwZ15BbWU4MDk0Njg2ODUx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Descendants (2015) 
 http://archive.org/download/99260caa-0c-104b-672293b-4925a-29dde-6-480p/99260caa0c104b672293b4925a29dde6-480p.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Descendiente2 (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5MTA4MTk2N15BMl5BanBnXkFtZTgwNjY2NDUwMjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Descendants 2 (2017)
 http://archive.org/download/f018ad2a1f9b725c52ab5de67d32de7b-480p2/f018ad2a1f9b725c52ab5de67d32de7b-480p2.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Descendiente3 (2019)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM1MTgyNDQyOF5BMl5BanBnXkFtZTgwOTgwMjQ4NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Descendants 3 (2019)
 http://archive.org/download/f018ad2a1f9b725c52ab5de67d32de7b-480p2/sjs862hkGs773jdkm00ekye3.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Death stroke Knights And Dragons (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deathstroke: Knights & Dragons - The Movie (2020)
 http://ia801507.us.archive.org/19/items/00000_202008/0001.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU0MTFlNzItN2NlYS00N2I5LTk2MTktNDFiYmU5NWQ3MTEzXkEyXkFqcGdeQXVyODEwMTc2ODQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Cat (2016) 
@@ -850,7 +846,7 @@ https://dl.dropbox.com/s/0c89sr8oi6dqjhx/Jurassic.world.fallen.kingdom.2018.1080
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Grinch (2018)
 https://dl.dropbox.com/s/t1wo9pil6q9bq0g/The.grinch.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/201119rt/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg"La Forma del Agua SUBTITULADO | R
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/201119rt/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg" group-title="Peliculas",The Shape Of Water (2017) SUB | R
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Shape Of Water (2017)
@@ -866,24 +862,24 @@ http://ia801408.us.archive.org/35/items/08_20200910/08.mp4
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/tt6343314_LAT_HD.mp4
 
 #EXTINF:-1 tvg-logo="https://static.rogerebert.com/uploads/movie/movie_poster/the-polar-express-2004/large_wOrvRSt0pOlQWLBQDAoRryfUrSm.jpg" group-title="Peliculas",The Polar Express (2004)
-https://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
 
-#EXTINF:-1 group-title="Peliculas",seguridad 2017
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI4OGE0MTktOTQ3ZC00ZDlhLTg1OGMtMjRiMTMwNzgzZDIyXkEyXkFqcGdeQXVyNjc4Nzk3NzU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Security (2017)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/2-11-2019/Security.2017.1080p-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas",Oddball y sus pingüinos 2016
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Oddball y sus pingüinos 2016
 https://storage.googleapis.com/pl-storage.appspot.com/PL/8-11-2019/Oddball.and.the.penguins.2015.1080p-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas",El ahogamiento 2016
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",El ahogamiento 2016
 https://storage.googleapis.com/pl-storage.appspot.com/PL/4-11-2019/The.drowning.2016.1080p-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas",Si solo lo pudiera imaginar (2018)
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Si solo lo pudiera imaginar (2018)
 https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/I.can.only.imagine.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 group-title="Peliculas",Bad Santa 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MjE5Mzc4OF5BMl5BanBnXkFtZTgwMjc3NjEyMDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Santa 2
 https://storage.googleapis.com/pl-storage.appspot.com/PL/6-11-2017/Bad.santa.2.2016.1080p.unrated-dual-lat.mp4
 
-#EXTINF:-1 group-title="Peliculas",Una pareja dispareja 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas",Una pareja dispareja 
 https://storage.googleapis.com/pl-storage.appspot.com/PL/7-11-2019/Skiptrace.2016.1080p-dual-lat.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fast And Furios Hobbs And Shaw (2019)
