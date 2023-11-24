@@ -594,9 +594,6 @@ https://storage.googleapis.com/pl-storage.appspot.com/PL-29-10-2019/Love.simon.2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM3MzQwYzItNDA1Ny00MzIyLTg5Y2QtYTAwMzNmMDU2ZDgxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rascacielos 2018
 https://dl.dropbox.com/s/p924vbi4m2rv3u9/Skyscraper.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Frozen (2013)
-https://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2ZWU3N2MtY2JkYy00YjFjLWEyZWQtMjQ0MTU0NDk1ZTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",In the Tall Grass (2019)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/In.the.tall.grass.2019.1080p-dual-lat-cinecalidad.is.mp4
 
@@ -620,7 +617,8 @@ http://archive.org/download/tt10665338/tt8652818.mp4
 #EXTINF:-1 group-title="Peliculas",Up (2009) 
 http://ia601503.us.archive.org/12/items/sototo_patonce_05/05.mp4
 
-#EXTINF:-1 group-title="Peliculas",más halla de esperanza 2019 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmI4OTk2NWItZmE4My00NTJiLTkxMDMtZWFlNjg5ZTk3MGY2XkEyXkFqcGdeQXVyNDA5NTgxNjU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",más halla de esperanza (2019)
 https://storage.googleapis.com/pl-storage.appspot.com/PL/Breakthrough.2019.1080p-dual-lat-MegaCineApp.Com.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",Goonies (1989)
@@ -631,33 +629,34 @@ http://archive.org/download/ttjum046/ttjum046.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",línea mortal al límite 
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Vaseline (1987)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmUyMDEyOTgtZmUwOS00NTdkLThlNzctNTM1ODQ4M2VhMjdhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Grease (1987)
 http://archive.org/download/John_S-1J_LCD4P/15.avi
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Jeepers Creepers 3 (2017) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NzQwNjY4M15BMl5BanBnXkFtZTgwOTM2MzkzMzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jeepers Creepers III (2017) 
 http://archive.org/download/H5E737PD/NMA149M2.mkv
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Jeepers Creepers Reborn (2022)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2E0YzMwZjEtMjllNC00OGY2LTg2NDEtZjE4MzQ4YzY2OTQ3XkEyXkFqcGdeQXVyODE5MDk4NjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jeepers Creepers Reborn (2022)
 http://archive.org/download/H5E737PD/OE8CYY60.mkv
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas",Halloween The Last Night (2022) 
 http://archive.org/download/H5FDK6D1/JA0D66PB.mkv
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story (1996)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM5MTE1MzkwN15BMl5BanBnXkFtZTcwNTk0MjIyNw@@._V1_.jpg" group-title="Peliculas",Toy Story (1995)
 http://archive.org/download/xoye_2mailnext_3/wiimc/1.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 2 (1999) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Toy Story 2 (1999) 
 http://archive.org/download/xoye_2mailnext_3/wiimc/2.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 3 (2010) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Toy Story 3 (2010) 
 http://archive.org/download/xoye_2mailnext_3/wiimc/3.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",Toy Story 4 (2019) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Toy Story 4 (2019) 
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5ZjA5ZjMtZGZlOS00M2U4LTkyOTktYzYyNGZjN2UxYjdkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Addicted To Love (1997)
 http://archive.org/download/20221002_20221002_0815/adictos%20al%20amor.mp4
-https://m.media-amazon.com/images/M/MV5BYzMyMjIwZjktMjhkMi00MzM0LTg4OWEtODYyMjZhYTg4NGU5XkEyXkFqcGdeQXVyOTk4MjA5NjQ@._V1_FMjpg_UX1000_.jpg
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Devils Backbone (2001)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzMyMjIwZjktMjhkMi00MzM0LTg4OWEtODYyMjZhYTg4NGU5XkEyXkFqcGdeQXVyOTk4MjA5NjQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Devils Backbone (2001)
 http://archive.org/download/202210_20221004_0428/el%20espinazo%20del%20diablo.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk1OTc2ZmUtODU0Yy00NGJiLWJmNmQtODI0MzBjODk3MjI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld (2001)
