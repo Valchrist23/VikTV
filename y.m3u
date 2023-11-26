@@ -2647,17 +2647,12 @@ http://ia801408.us.archive.org/25/items/00000_20200528_2157/004.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdmNmI4MzQtZTAzNS00MjhjLWEzOGQtZjI1NDNjZjk4N2JjXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sonic The Hedgehog (2020)
 http://archive.org/download/fabewey2/Sub1d0_p4r4_5tr34ming_A85_50n1c/1.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODRlNTY5ZjktZjE0Ni00YjZhLTk3NTItYzk0ZjYxN2QxMWEzXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sonic The Hedgehog 2 (2022)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Southpaw (2015)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODRlNTY5ZjktZjE0Ni00YjZhLTk3NTItYzk0ZjYxN2QxMWEzXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sonic The Hedgehog 2 (2022)
+http://notabasica.com/909032/Sonic.2.2022.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMyMDc3ODYtODMwZS00MGVjLWJhY2QtYWI1NDM0Y2RjOTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Space Jam A New Legacy (2021)
 http://notabasica.com/909032/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc0MjYyN2EtZGRhMy00NzJiLWI2Y2QtYzhiYTU3NzAxNzg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Speed (1994)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Trek Into Darkness (2013)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc2YThlMTgtN2M3Yi00YzkxLWE4MDQtMWJmYmZiNTNjNjJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Trek Beyond (2016)
 https://archive.org/download/shrek-2001-1080p-dual-audio/Star%20Trek%20Beyond%20%282016%29%20-%20Dual%20Audio-.mp4
@@ -3059,6 +3054,11 @@ http://notabasica.com/909032/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dua
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjcxYTkzOWQtOWNiZi00ZjUzLTgzZjMtZjJjNjdjMmU3MzEwXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Heroe (2017)
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Southpaw (2015)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc0MjYyN2EtZGRhMy00NzJiLWI2Y2QtYzhiYTU3NzAxNzg4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Speed (1994)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Trek Into Darkness (2013)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzM0YmNlZDAtNWRmNi00ZjQ2LTkxOWItNThmYTc1OTRjNDY2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Hunted (1995)
 
