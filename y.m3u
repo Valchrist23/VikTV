@@ -4,10 +4,14 @@
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkOGY2ZmItMjllOS00NDgxLTg1OTItMDU5NjhjYTBjMzdkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Animal (2001)
-https://www.deadlyblogger.com/NewRelease/animal.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Boys (1995)
-https://www.deadlyblogger.com/NewRelease/badboys1.mp4
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/ba%20boys%201.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Boys 2 (2003)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/bad%20boys%202.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Boys For Life (2020)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/bad%20boy%203.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Back_to_the_Future_film_series_logo.png" group-title="Peliculas",Back to the Future (1985)
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
@@ -786,7 +790,8 @@ http://archive.org/download/2011_202209/Rango%202011.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3MTIzMDQxMV5BMl5BanBnXkFtZTYwNTE0Mjg3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Chicken Little (2005)
 https://archive.org/download/videotime-cine-latino/Chicken%20Little.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBkNTRmYjktYmFkNy00NTZlLTk0NzQtYzYzODQ2YjhiYmM0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",101 Dalmatians (1961)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/101%20d%C3%A1lmatas%20%281961%29%20Latino%20720%20%40StreamingLatino.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",
 
@@ -1650,6 +1655,7 @@ https://archive.org/download/la-bella-durmiente-1080p/Frozen%20%282013%29%201080
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Frozen II (2019)
 http://ia601506.us.archive.org/27/items/0_20200218_20200218/301.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWZiY2ZhNzMtMjdiNC00MmY0LTk5ZjUtNzM3MDdkMDc4ZTY1XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hercules (1997)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Hercules%20%282014%29%20Latino%201080%20%40StreamingLatino.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMxODllYTEtN2NmOS00NmE1LWFhMzUtOWRmZmQwZjgwOWM2XkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hook (1991)
 
@@ -1715,31 +1721,30 @@ http://ia801402.us.archive.org/23/items/01_20200905_20200905_1538/sub1d0_p4r4_5t
 https://archive.org/download/rocky-1976-1080p-dual-audio/Rocky%20Balboa%20%282006%29%201080p%20-Dual%20Lat-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo Firstblood (1986)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Rambo%20First%20Blood%20%281982%29%202160p%20-Dual%20Lat-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo Firstblood Part II (1985)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Rambo%202%20%281985%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIwNWJhZDItZmNmOC00M2NkLWIwNDktMTYwZWFlZDVkMmVkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo III (1988)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Rambo%203%20%281988%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",John Rambo (2008)
-https://archive.org/download/rocky-1976-1080p-dual-audio/John%20Rambo%20%282008%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo Lastblood (2019)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Rambo%20Last%20Blood%20%282019%29%201080p%20-Dual%20Audio-.mp4
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Rambo-%20Last%20Blood%40pelisyseriescomolocos.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFiZjYyOGUtNWQ4My00ZTcyLWJkYTMtOGMzZjZjOTE0MDE0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Over The Top (1987)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Over%20The%20Top%20%281987%29%201080p%20-Dual%20Audio-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUzN2VkY2ItYmQ4YS00MjFmLWJhZDQtYWY1NWQ2NTA5NDNlXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Twins (1988)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Twins%20%281988%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBhYjZjNDktZDE5NC00M2I1LWEzYmEtOGU2ZGRlYjdjMmNlXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Tango and Cash (1989)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Tango.and.Cash%20%281989%29%201080p%20-Dual%20Lat-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE0ZjFhYjItMzI5MC00MDllLWE4OGMtMzlhNGQzN2RjN2MwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Commando (1985)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Commando%20%281985%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QwYmFmZTEtNzY2Mi00ZWMyLWEwY2YtMGIyNGZjMWExOWEyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Predator (1987)
 https://archive.org/download/rocky-1976-1080p-dual-audio/Predator.1987.1080p.BluRay.x264%20-Dual%20Audio-.mkv
@@ -1989,6 +1994,8 @@ http://ia601400.us.archive.org/14/items/000_20201114/00016.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wonder Woman (2017)
 http://archive.org/download/2017_202207/Wonder%20Woman%202017.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wonder Woman (2017)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/mujer%20maravilla.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zack Snyder's Justice League (2021)
 
@@ -2142,11 +2149,13 @@ https://archive.org/download/clash-of-the-titans-2010-1080p-br-rip-x-264-dual-au
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EzNWEwNmYtMGE2NC00Y2NiLTk5NGEtZmRlZDE0Y2M0Yzg5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Marlowe (2022)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ1ZWQ3ZjYtMWEzNi00OGYwLThlYTgtY2VlMzc5OGEwZmQ4XkEyXkFqcGdeQXVyNjkwNjQ0NTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Princess Kutulun (2023)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I2Y2I5N2MtMzJhMy00NzE2LThlMzEtNGE0ODA4M2JhOWNiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Power Rangers Movie (1995)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Power%20Rangers%20la%20pelicula%201995.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIwYjVjMDMtOGYxMy00ZTRiLWE0YzktMjIwYmNhOGE4NGQ4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Renfield (2023)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM5NzBmNTItMTk5Ni00NmQzLTg1NmUtMDkyY2E2MDE1ZGZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ruby Gillman, Teenage Kraken (2023)
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Scarface (1983)
 http://ia801406.us.archive.org/7/items/02_20200905/02.mp4
@@ -2469,7 +2478,7 @@ http://archive.org/download/1_20191203/Subid0_p4r4_stream1ng_A85/1.mp4
 https://archive.org/download/videotime-cine-latino/Red.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmYxNjE2M2UtYzJhOC00MzVlLWJhM2ItYzkzZWJkZWFhNTE1L2ltYWdlXkEyXkFqcGdeQXVyMzMyODMwMTI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",The Hunchback Of Notredame (1996)
-
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/El%20Jorobado%20De%20Notredame%20%281996%29%20Latino%201080%20%40StreamingLatino.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc4YzhiN2ItY2Y4NC00YTA0LWEyMjEtNzllNTcxZDdjODhiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pocahontas (1995)
 http://archive.org/download/202209_20220926/Pocahontas.mp4
@@ -2562,12 +2571,16 @@ https://archive.org/download/the-simpson-the-good-the-bart-and-the-loki-2021-108
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mowgli Legend Of The Jungle (2018)
 https://archive.org/download/mulan-1998-1080p-dual-lat/Mowgli%20Legend%20Of%20The%20Jungle%20%282018%29%201080p%20-Dual%20Audio-.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania (2012)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Hotel.Transylvania.2012.latino-e-ingles-subt.mkv
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/hotel%20tras%201.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVhZWM0YTEtM2YxYy00YWUzLWI1YWQtNjk5ZTRhNTJmM2VhXkEyXkFqcGdeQXVyNTk1MTAyODc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania 2 (2015)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Hotel.transylvania.2.2015.1080p-dual-lat.mp4
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/hotel%20transilvania%202.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjA1MzU5MTY3OF5BMl5BanBnXkFtZTgwNTU5MDA3NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hotel Transylvania 3 Summer Vacation (2018)
 http://archive.org/download/yawo_cre3465nisa_14/sub1d0_p0r_arn0ld1985/14.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Incredibles (2004)
 http://archive.org/download/2_20191116_201911/4RTUR0_4P0RT35/2.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Incredibles 2 (2018)
@@ -2729,7 +2742,7 @@ https://archive.org/download/hasta-el-viento-tiene-miedo-azcinema/hasta%20el%20v
 https://archive.org/download/it.-1990.1080p.-blu-ray.x-264-yts.-am/El%20Cisne%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY2MGRkNjgtZDczNi00YWJjLTkwNmUtMTY0NTE5ZDhkZjgwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Edward Scissorhands (1990)
-https://archive.org/download/it.-1990.1080p.-blu-ray.x-264-yts.-am/Edward%20Scissorhands%20%281990%29%201080p%20-Dual%20Audio-.mkv
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Eduardo%20Manostijeras%20HDRip%20www.DivxTotaL.com.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI4MDU0NDUtZTNmZC00YTYwLTk3NzgtMGFmYjg3N2VjODczXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Excalibur (1981)
 https://archive.org/download/it.-1990.1080p.-blu-ray.x-264-yts.-am/Excalibur%20%281981%29%201080p.BluRay%20-Dual%20Audio-.mkv
@@ -2805,6 +2818,7 @@ https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%202.mp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwNDc5NmEtNjVjZS00OTI5LWE5YjctMWM3ZjBiZGYwMGI2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zodiac (2007)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zombieland Double Tap (2019)
+https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Zombieland-%20Mata%20y%20remata%40pelisyseriescomolocos.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zootopia (2016)
 
