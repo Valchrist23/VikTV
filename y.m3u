@@ -557,8 +557,11 @@ https://goo.gl/sFaEVq
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy (2014)
 https://www.deadlyblogger.com/NewRelease/guardians2014.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol2 (2014)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol 2 (2014)
 http://ia601502.us.archive.org/32/items/00000_20200918/0000002.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol 2 (2014)
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Metropolis (1927)
 https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
@@ -988,9 +991,6 @@ http://bit.ly/SAHARAMOVIE
 EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spectre (2015)
 https://goo.gl/3KGMLf
 
-#EXTINF:-1 tvg-logo="https://www.alveo-slovakia.com/photo/4437484/rogue-one-a-star-wars-story-2016-directed-by-gareth-edwards-rogue-one-a-star-wars-story.jpg" group-title="Peliculas",Rogue One: A Star Wars Story (2019)
-https://deadlyblogger.com/NewRelease/rogue1.mp4
-
 EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZmMjAxNjQtZjQzOS00NjU4LWI0NDktZjlkZTgwNjVmNzU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bound by Honor (1993)/ VATOS LACOS
 http://www.deadlyblogger.com/NewRelease/blood.mp4
 
@@ -1344,6 +1344,9 @@ https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%203%20-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rogue One: A Star Wars Story (2016)
 https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Solo: A Star Wars Story (2014)
+https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",John Wick (2014)
 http://ia601408.us.archive.org/20/items/000_20191216/5.mp4
