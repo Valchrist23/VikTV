@@ -479,6 +479,9 @@ https://cdn.jwplayer.com/manifests/KYHkxPE7.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4YmU4NWYtYzZkOC00MTY5LThjMzMtZDQ3ZTMzMTM0ODg2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Distrito B 13 (2004)
 https://cdn.jwplayer.com/manifests/msvxRLvx.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0YjA4ODEtMTZjMC00ODIyLWE5MmQtMzc4M2IzMjE0MWZkXkEyXkFqcGdeQXVyMTUzNDkzNDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Brawl in Cell Block 99 (2017)
+https://archive.org/download/yummy_202105/-%20Prisionero%2099.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI1NjkxM2MtOTU4My00YzQ5LTliNGMtNmFlM2U5NWM3MDY1XkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Transformers (2007)
 https://cdn.jwplayer.com/manifests/5ECkiwIl.m3u8
 
@@ -2124,11 +2127,20 @@ https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost In The Shell (1995)
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2NDhhYjUtODAxMC00MjFjLThlMWMtN2MyZmVjOGI1MzU2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)
+https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYmQ5ZGQtZjQ3MS00MmFiLWEzYTUtNzAwNmEyZWZlNzNkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - 2nd Gig (2006)
+https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMyYjUyM2YtOGExMS00NWQxLTkyYjktNjY4ZmI5MjAyODIzXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Smiley Face Killers (2020)
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZkMjE3NjgtZGRjOS00YzIxLTkyZmMtNGZhNThlOTZiODc5XkEyXkFqcGdeQXVyMTIyNDQxMTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Yummy (2019)
 https://archive.org/download/yummy_202105/Yummy.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE3NGE4YmEtY2EyZS00MDFlLWFmNDctMGUwNjQ2ZmVlNzhmXkEyXkFqcGdeQXVyODYwMDQ5ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Killing Michael Jackson (2019)
+https://archive.org/download/yummy_202105/Killing%20Michael%20Jackson.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghostbusters (1984)
 
