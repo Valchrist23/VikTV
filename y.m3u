@@ -932,22 +932,20 @@ http://bit.ly/THEMINE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="Peliculas",Mine (2016)
 https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
 
-#EXTINF:-1 group-title="Peliculas",LA LEYENDA DE LA NAHUALA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZhMzM3MjUtYzY0Ni00ZTYwLWFjZmMtMGQ4MjU5MzRmZDRiXkEyXkFqcGdeQXVyNjA4MTEzMzQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Legend Quest: The Legend of La Nahuala (2007)
 https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="Peliculas",La Xarxa
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",Evil Within (2017)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
-#EXTINF:-1 group-title="Peliculas",Evil Within  (2017)
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",Evil Within (2017)
 http://bit.ly/EVILWITHIN_MOVIE
 
-#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="Peliculas",SAHARA
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
+http://bit.ly/SAHARAMOVIE
 
-#EXTINF:-1 group-title="Peliculas",Kurt Cobain: Montage of Heck
-https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="Peliculas",SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
 #EXTINF:-1 group-title="Peliculas",La Fuerza De La Ilusion
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
@@ -963,17 +961,11 @@ https://archive.org/download/robo-cop-1987_202205/RoboCop%20%281987%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVlYzU2ZjQtZmNkMi00OTc3LTkwZmYtZDVjNmY4OWFmZGJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Peliculas",Robocop (1987)
 http://ia601506.us.archive.org/26/items/meyize_hurify1_R0b/r0b.mp4
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
-http://bit.ly/MRAQCASTI
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1MjNiYWYtNGQ5MS00MTgzLTlkYjItZDhhNTdlMTkxZGVlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Child's Play
 http://bit.ly/MRAQCCHUCK
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge of Seventeen
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge of Seventeen (2016)
 http://bit.ly/2v16m9z
-
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
-http://bit.ly/SAHARAMOVIE
 
 EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spectre (2015)
 https://goo.gl/3KGMLf
@@ -1025,34 +1017,28 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg" group-title="Peliculas",Redada Asesina
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/pokmon-the-movie-2000-pokmon-the-power-of-one.20955.jpg" group-title="Peliculas",Pokemon: The Movie 2000
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/pokmon-the-movie-2000-pokmon-the-power-of-one.20955.jpg" group-title="Peliculas",Pokemon: The Movie (2000)
 https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%202000%20WGN%2010.22.06.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016)
 http://ow.ly/FXZ930eWtrs
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016)
 https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",VOD FREE: EL MAL DENTRO 2017
-https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-
-#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="Peliculas",SAHARA
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-
-#EXTINF:-1 group-title="Peliculas",Sand Castle
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
 http://cecegeek@goo.gl/FDyHpL
 
-#EXTINF:-1 group-title="Peliculas",Sandy Wexler
-http://cecegeek@goo.gl/kyH56Z
+EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
+http://bit.ly/MRAQCASTI
 
 #EXTINF:-1 group-title="Peliculas",ELLOS SIEMPRE REGRESAN
 https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
 
-#EXTINF:-1 group-title="Peliculas",Sandy Wexler (2017)
-http://bit.ly/MRAQCSAND
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NDIwMjQ1OF5BMl5BanBnXkFtZTgwMzUzMjI4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sandy Wexler (2017)
+http://cecegeek@goo.gl/kyH56Z
 
-#EXTINF:-1 group-title="Peliculas",THE MINE (2017)
-http://bit.ly/THEMINE
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1NDIwMjQ1OF5BMl5BanBnXkFtZTgwMzUzMjI4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQyNTU0MDktYTFkYi00ZjNhLWE2ODctMzBkM2U1ZTk3YTMzXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Luca (2021)
 https://archive.org/download/videotime-cine-latino/Luca.mp4
