@@ -472,6 +472,8 @@ https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Greyhound (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Greyhound (2020)
+https://archive.org/download/superheroicos-720p/Greyhound%20-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Finch (2021)
 https://cdn.jwplayer.com/manifests/nDZNfqR8.m3u8
@@ -616,6 +618,9 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/tom2.
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Tomb Raider (2018)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/tom3.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFlOTI2OGQtMzg0YS00ZGE4LTkwMjEtZDUzYThlOTU5YjQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Godzilla (1998)
+https://archive.org/download/superheroicos-720p/Godzilla%20-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-d4bjbp_31858af1.jpeg" group-title="Peliculas",Robin Hood (1973)
 
@@ -2562,12 +2567,7 @@ http://archive.org/download/202209_20220918_2101/blanca%20nieves.mp4
 http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/2.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Lion King (2019)
-https://archive.org/download/mulan-1998-1080p-dual-lat/The%20Lion%20King%20%282019%29%201080p%20-Dual%20Audio-.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 2 (2013)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%202%20%282013%29%201080p%20-Dual%20Audio-.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 3 (2017)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Despicable%20Me%203%20%282017%29%201080p%20-Dual%20Audio-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4Mjk0NzQwOF5BMl5BanBnXkFtZTgwNjg3MjI2MjI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Ferdinand (2017)
 https://archive.org/download/mulan-1998-1080p-dual-lat/Ferdinand%20%282017%29%201080p%20-Dual%20Audio-.mp4
@@ -2579,14 +2579,18 @@ http://archive.org/download/QW0829B7/K5W4B350.mkv
 https://archive.org/download/mulan-1998-1080p-dual-lat/Mulan%20%281998%29%201080p%20-Dual%20Lat-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzMmIxOGMtY2RhYS00YTFiLThkZmYtMDlmZGJlYzg0NWEzXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg" group-title="peliculas clasicos disney",Mulan 2 (2004)
 http://archive.org/download/2-2004sare/Mulan%202%202004.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdlZjRiYTUtN2NlNC00MDkxLWI0MmItOTUwNTg1YTU4MWUxXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Mulan (2020)
+https://archive.org/download/superheroicos-720p/Mulan%202020%20-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmMyMTY2YmEtZjM2ZS00ZWQ5LWE4YjEtOGMxOGZhY2RlZjJjXkEyXkFqcGdeQXVyNDM2OTEyOTM@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Mulan Rise Of A Warrior (1998)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Mulan.Rise.Of.A.Warrior%282009%29%201080p.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxMTU5MTY4MV5BMl5BanBnXkFtZTcwNzgyNjg2NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Puss In Boots (2011)
 http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/8.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Puss In Boots The Last Wish (2022)
-https://archive.org/download/mulan-1998-1080p-dual-lat/Puss%20In%20Boots%20The%20Last%20Wish%20%282022%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM2NzNjMDAtZTAyMi00NTQzLWFlMTctNTUzMGE1ODE2NDRlXkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Atlantis Lost Empire (2001)
 http://archive.org/download/20220918_20220918_2011/Atlantis%20El%20regreso%20de%20Milo.mp4
@@ -2687,20 +2691,13 @@ http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/7.mk
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDNmYTQzMDEtMmY0MS00OTNjLTk4MjItMDZhMzkzOGI3MzA0XkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",War for the Planet of the Apes (2017)
 http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/8.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MTQwZWYtOWQyMy00ODg1LTk0YjAtMDE0ZGE2Mzk0NDQ5XkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Play Dead (2023)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmZThhMDgtOTMyYy00OTgyLWE3MGQtNTQzMDA1YjJmMjk4XkEyXkFqcGdeQXVyMjM1OTE5ODk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Disquiet (2023)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM5M2FkNzEtNWU3OS00MjEzLTk3Y2MtOTMyZWY5NDBlNzZjXkEyXkFqcGdeQXVyNjAyOTEyMA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ripper's Revenge (2023)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dispecable Me (2010)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Despicable Me (2010)
 http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00001.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dispecable Me 2 (2013)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Despicable Me 2 (2013)
 http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00002.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dispecable Me 3 (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Despicable Me 3 (2017)
 http://ia601507.us.archive.org/1/items/1-n-4-o-4u-3qpw-kmt-qd-3-b-7dagog/00003.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shrek (2001)
 http://archive.org/download/e0be10b1b8a58ca1683b94f291114605-480p/jsiuwuwu.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shrek 2 (2004)
@@ -3277,13 +3274,29 @@ https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20mue
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4ZWZhODQtNWVhNC00NjA1LWJhZjgtZTFkY2JmNWJlYzU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Magic Mike Last Dance (2023)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (2012)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3NDA3MjEyMF5BMl5BanBnXkFtZTcwNzY4NjU1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Halo 4: Forward Unto Dawn (2012)
+https://archive.org/download/superheroicos-720p/Halo%204_%20Forward%20Unto%20Dawn%20Pel%C3%ADcula%20Completa%20Espa%C3%B1ol%20Latino%20HD.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (2015)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2EzNWEwNmYtMGE2NC00Y2NiLTk5NGEtZmRlZDE0Y2M0Yzg5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Marlowe (2022)
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDIwYjVjMDMtOGYxMy00ZTRiLWE0YzktMjIwYmNhOGE4NGQ4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Renfield (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc5NDMzNzEtYWU2NC00MzAwLWIxY2YtODAyOGY3YzZlODViXkEyXkFqcGdeQXVyNTE1MjQzMDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Funeral Home (2020)
+https://archive.org/download/superheroicos-720p/La%20funeraria%20-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU3OGFhZDItMjhlZi00YjQwLWJlOTItYzlhOGEwNGU3NjIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",We Can Be Heroes (2020)
+https://archive.org/download/superheroicos-720p/Superheroicos%20%20%20-720p.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGM5NzBmNTItMTk5Ni00NmQzLTg1NmUtMDkyY2E2MDE1ZGZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ruby Gillman, Teenage Kraken (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2MTQwZWYtOWQyMy00ODg1LTk0YjAtMDE0ZGE2Mzk0NDQ5XkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Play Dead (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGRmZThhMDgtOTMyYy00OTgyLWE3MGQtNTQzMDA1YjJmMjk4XkEyXkFqcGdeQXVyMjM1OTE5ODk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Disquiet (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM5M2FkNzEtNWU3OS00MjEzLTk3Y2MtOTMyZWY5NDBlNzZjXkEyXkFqcGdeQXVyNjAyOTEyMA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ripper's Revenge (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 2 (2013)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_FMjpg_UX1000_.jpg" group-title="peliculas clasicos disney",Despicable Me 3 (2017)
 
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
