@@ -975,9 +975,6 @@ https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg" group-title="Peliculas",Redada Asesina  
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jigsaw (2017)
-https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Angry Birds Movie (2016)
 http://cecegeek@goo.gl/3KGMLf
 
@@ -996,15 +993,13 @@ https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc
 https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",Evil Within (2017)
-https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
-
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="Peliculas",Evil Within (2017)
 http://bit.ly/EVILWITHIN_MOVIE
+
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
 EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
 http://bit.ly/SAHARAMOVIE
 
-#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="Peliculas",SAHARA (2017)
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
 #EXTINF:-1 group-title="Peliculas",La Fuerza De La Ilusion
@@ -1066,10 +1061,12 @@ https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzNmRhNTMtZDI4NC00Zjg1LTgxM2QtMjYxZDQ3OWJlMDRlXkEyXkFqcGdeQXVyNTU5MjkzMTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadpool 2 (2018)
 http://ia801500.us.archive.org/18/items/00000_202009/000000011.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",JIGSAW VIII EN
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jigsaw (2017)
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRiZDM4ZmMtOTVjMi00YTNlLTkyNjMtMjI2OTAxNjgwMWM1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpgg" group-title="Peliculas",JIGSAW VIII ES
+Eng
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg" group-title="Peliculas",Redada Asesina
