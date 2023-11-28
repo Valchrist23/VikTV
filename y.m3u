@@ -269,23 +269,21 @@ https://cdn.jwplayer.com/manifests/jZ52iLy8.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
 https://cdn.jwplayer.com/manifests/HUQB3sIe.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="Peliculas",Titanic (1997) 
+
 http://archive.org/download/3rtb-6b41/3RTB6B41.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJkYTBlZjktYmYyYi00ZWQ0LTgyMWYtMjQ5Yzg1Y2M3YzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",De ladrón a policía (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Perfect Storm (2000)
-https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGU2MWRiYmQtMDY1MS00OTUzLTkzYTktYjE5YTE4MTI0NzRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Perfect Storm (2000)
 https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Caída Del Halcón Negro (2001)
-https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
+https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Caída Del Halcón Negro (2001)
 https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
+
+https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWM0NGUwMTctNzVmYi00Y2RmLTljNWUtZWI2YWFhODczMTBiXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Exit Wounds (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
@@ -320,7 +318,6 @@ https://cdn.jwplayer.com/manifests/1xFr5tdm.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Butterfly Effect (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Butterfly Effect (2004)
 https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shark Tale (2004)
@@ -477,7 +474,7 @@ https://cdn.jwplayer.com/manifests/uZwRAstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Greyhound (2020)
 https://cdn.jwplayer.com/manifests/BAG9ZvTB.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Greyhound (2020)
+
 https://archive.org/download/superheroicos-720p/Greyhound%20-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTMxYjk3MmItMzk1OC00NmRhLThlMjYtNmQyNzA0MzgxMWI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Finch (2021)
@@ -552,9 +549,12 @@ https://archive.org/download/spider-man-sin-camino-a-casa_202201/Top%20Gun%20Mav
 https://cdn.jwplayer.com/manifests/sLuBQOl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Prey (2022)
-https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Prey (2022)
 http://notabasica.com/909032/Predator_Prey_SrRegio.Net.mkv
+
+https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Matrix (1999)
+https://cdn.jwplayer.com/manifests/9oei3qCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Matrix Reloaded (2003)
 https://cdn.jwplayer.com/manifests/NyfN73eV.m3u8
@@ -565,7 +565,7 @@ https://cdn.jwplayer.com/manifests/BdE5Y7qC.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Matrix Resurrections (2021)
 https://cdn.jwplayer.com/manifests/3f2jFMzM.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Animatrix (2020)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRiODljNzUtZDkwOC00N2EwLTllMDAtOGQ4MmQ2YWY2MTBiXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Animatrix (2003)
 http://archive.org/download/20221002_20221002_0821/animatrix.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg" group-title="Peliculas",Spider-Man (2002)
@@ -1310,12 +1310,6 @@ https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
 #EXTINF:-1 group-title="peliculas infantiles" tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg",Guardians of the Galaxy (2014)
 https://goo.gl/sFaEVq
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Matrix (1999)
-http://www.deadlyblogger.com/NewRelease/matrix1.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" group-title="Peliculas",Matrix (1999)
-https://cdn.jwplayer.com/manifests/9oei3qCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMxMTFlMDYtNjIyNS00YzQ4LWJlMDAtNGQwY2RlZGJiMmM1XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Genius (2017)
 https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
