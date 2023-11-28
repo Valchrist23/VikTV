@@ -567,12 +567,6 @@ https://cdn.jwplayer.com/manifests/3f2jFMzM.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRiODljNzUtZDkwOC00N2EwLTllMDAtOGQ4MmQ2YWY2MTBiXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Animatrix (2003)
 http://archive.org/download/20221002_20221002_0821/animatrix.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg" group-title="Peliculas",Spider-Man (2002)
-https://cdn.jwplayer.com/manifests/rO9EwfV6.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man 2 (2004)
-https://cdn.jwplayer.com/manifests/pwT84WCZ.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 https://cdn.jwplayer.com/manifests/aHaMrXAN.m3u8
 
@@ -1565,10 +1559,17 @@ https://archive.org/download/blade-1998-1080p-dual-audio/Captain.america.the.win
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Captain America Civil War (2016)
 http://ia601404.us.archive.org/26/items/00000_20200926/000011.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man (2002)
+https://cdn.jwplayer.com/manifests/rO9EwfV6.m3u8
+
 http://archive.org/download/01_20191213_20191213_1900/heheke/01.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man 2 (2004)
+https://cdn.jwplayer.com/manifests/pwT84WCZ.m3u8
+
 http://archive.org/download/07_20191209/hoiho/05.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man 3 (2007)
 http://archive.org/download/07_20191209/hoiho/03.mp4
 
