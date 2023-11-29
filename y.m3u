@@ -3281,7 +3281,6 @@ https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",It eso (2017) 
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNlNWVjOTMtZjVjYy00MzRjLTg2MmQtNTM3MWVmZjFjYzgwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Freddy VS Jason (2003)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Free Guy (2021)
@@ -3314,10 +3313,14 @@ https://archive.org/download/01-t.-fout.-/06F.Dest.2000-Lat-.mp4
 https://archive.org/download/01-t.-fout.-/09Exor.Bel.2023-DuaLat-.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWUyZjkzNWUtM2U4My00NTRlLWI1OWYtM2Y3YzIyMWVmOTRmXkEyXkFqcGdeQXVyOTA4NDI0NTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Il signor Diavolo (2019)
 https://archive.org/download/01-t.-fout.-/08SDiab2019-DuaLat-.mp4
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwNTc0NTM2NF5BMl5BanBnXkFtZTgwNjkyMjg4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Book Of Henry (2017)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Don't Worry Darling (2022)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2MTIyNjM2MF5BMl5BanBnXkFtZTgwMDE3NDMyNjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Suspiria (2018)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Me Before You (2016)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
