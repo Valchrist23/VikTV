@@ -951,6 +951,8 @@ http://regioflix.club/REGIOFLIX/201119rt/aladin2019SrRegio.mp4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video113/v4/dc/5c/d8/dc5cd867-e794-0386-6f76-0a4e580a2cfe/pr_source.lsr/268x0w.jpg" group-title="Peliculas",Anabelle 3 (2019)
 http://regioflix.club/REGIOFLIX/201119rt/4nn4b3ll3.3.2019.hdrip.720p.latino.mp4
 
+https://archive.org/download/alplani1_202001/bannabelle%203.mp4
+
 #EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg" group-title="Peliculas",La Razon de Estar con Tigo: Un Nuevo Viaje 
 http://regioflix.club/REGIOFLIX/201119rt/4.d0gs.j0urn3y.2019.hdrip.720p.latino.mp4
 
@@ -1418,12 +1420,10 @@ https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQ1ODM5MTMtMjAwYi00ZGUxLTliNTMtN2ZhODAwMjVhMTRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="Peliculas",Big (1988)
 
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcyMjZmNjctNGNhMS00ZmQxLWFkNzQtYTIxYjVkYmU1NmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Billy Madison (1995)
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2ODlmZWMtODEwZS00NTQ0LTk1ZDYtYzk0ZjE3ZGZhMGM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Hot Shots! Part Deux (1993)
-
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIzMjMxOTgzM15BMl5BanBnXkFtZTcwMTAwODM2NA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Overboard (1987)
 
@@ -1799,20 +1799,25 @@ https://archive.org/download/rocky-1976-1080p-dual-audio/Predator.1987.1080p.Blu
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNThjZjI4NTgtZDk4Mi00ZjI1LWExZGUtNTRkOWY1ZTY3M2FlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Predator 2 (1990)
 https://archive.org/download/rocky-1976-1080p-dual-audio/Predator%202%20%281990%29%201080p%20-Dual%20Audio-.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Alien VS. Predator (2004)
+https://archive.org/download/alplani1_202001/bAlien%20vs.%20Predator.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NDY2NDUwM15BMl5BanBnXkFtZTYwNzQxMTA3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Alien VS. Predator Requiem (2007)
+https://archive.org/download/alplani1_202001/bAliens%20vs.%20Predator%202.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFmNDNlMGItMDQxMS00ZWMxLTg4MmQtMTBiNWU3ZDU1Nzk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Predators (2010)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Predators%20%282010%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Prey (2021)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Prey%20%282021%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNlMWQ0NjQtMzc1MC00MGFkLThmMzctNmQ2MTljOTkyY2ZhXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Specialist (1994)
-https://archive.org/download/rocky-1976-1080p-dual-audio/The%20Specialist%20%281994%29%201080p%20-Dual%20Lat-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGMwNTQ4MGYtNTBhMy00MzIxLTkzMzctZjE2M2ZmMWFlZjkzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Timecop (1994)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Timecop.%20Policia%20en%20el%20Tiempo%20%281994%29%201080p%20-Dual%20Lat-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Total Recall (1990)
-https://archive.org/download/rocky-1976-1080p-dual-audio/Total%20Recall%20%281990%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE5ODEzOTMtZmU2ZS00NjUwLWIwMDMtMTVlYjdkOTQ4ZjUzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The 6th Day (2000)
 
@@ -2162,16 +2167,20 @@ http://archive.org/download/FR135LHC/GHSTDO23.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Groundhog Day (1993)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter and the Sorcerers Stone (2001)
-
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20la%20piedra%20filosofal.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Chamber Of Secrets (2002)
-
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20la%20c%C3%A1mara%20secreta.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Prisoner of Azkaban (2004)
-
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20el%20prisionero%20de%20Azkaban.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Goblet of Fire (2005)
-
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20el%20c%C3%A1liz%20de%20fuego.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Half Blood Prince (2009)
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20el%20misterio%20del%20pr%C3%ADncipe.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Deathly Hallows Part.1 (2010)
-
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20las%20reliquias%20de%20la%20muerte%20-%20Parte%201.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harry Potter And The Deathly Hallows Part.2 (2011)
+https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20las%20reliquias%20de%20la%20muerte%20-%20Parte%202.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NjliYzktYzZlNS00OWMzLTg4NzctMDZjM2YxYTBmYjRkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Red Sonja (1985)
 
@@ -2320,37 +2329,39 @@ http://archive.org/download/20220917_20220917_0234/SupermanBatman%20Apocalipsis.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman VS Teenage Mutant Ninja Turtles (2019)
 http://archive.org/download/ceccvas1/5ub1d0_p4ra_str3am1ng_A85/6.mp4
 
+https://archive.org/download/alplani1_202001/Batman%20vs%20las%20tortugas%20Ninja.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2YjI4NTAtMDZiOC00NWQyLTk5ZjctNzQ0NjE5ZTE4NjhkXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman Death in The Family (2020)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman%20Death%20in%20The%20Family%20%282020%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4YjZlZjAtYzljOS00ZjViLWE1NGYtMzlmZDZjZTcxYzRiXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman Soul Of The Dragon (2021)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman%20Soul%20Of%20The%20Dragon%20%282021%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBkYTJjZjgtNDlhNi00ZTE1LWI2NmYtMDBjMDUzOWMwNzQwXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman The Long Halloween Part One (2021)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman%20The%20Long%20Halloween%20Part%201%20%282021%29%201080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOThjY2UzNDUtYWMzZC00MjJlLThmZTktZTY5ZjI1N2FiYTU5XkEyXkFqcGdeQXVyMTAwMjYyMjQ2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman The Long Halloween Part Two (2021)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman.the.long.halloween.part.two%20%282021%29%201080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwZGRlNDYtZDdmYy00MzBjLTg4NmItNTU5NzFiMDRkMDc4XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman & Superman Battle Of The Super Sons (2022)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman%20and%20Superman%20-%20Battle%20of%20the%20Super%20Sons%20%282022%29.1080p%20-dual-lat-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTkyMzE0MzAtYzM2Zi00MjkzLWFkOWQtZTU0Y2VjMDM1MTM1XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman The Doom That Came To Gotham (2023)
-https://archive.org/download/all-star-superman-2011-1080p-dual-audio/Batman%20The%20Doom%20that%20came%20to%20Gotham%20%282023%29%201080p%20-Dual%20Lat-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ZjY4ZGUtY2RiNC00MmUyLWE2ZGYtMTNlNGJmMDU5ZDk4XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman Year One (2011)
-https://archive.org/download/doom-annihilation-2019-1080p-dual-audio/Batman-%20Year%20One%20%282011%29%201080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdkZWFhNzctYmNhNy00NGM5LTg0Y2YtZWM4NmU2MWQ3ODVkXkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Son Of Batman (2014)
-https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat/Son.Of.Batman.2014.1080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU4MzIyZWUtNWQ4Yy00YTU4LTk5NjUtNDBiNDkxZTVlZDgwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Doomsday (2007)
-https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat/Superman%20Doomsday%20%282007%29%201080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ2M2M2OTYtM2Y1ZC00Y2ExLTk0NTQtNDViYWU4YjhjN2I5XkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Man Of Tomorrow (2020)
 http://ia801507.us.archive.org/19/items/00000_202008/00014.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg3NDc5YzEtOTk1My00ZTZhLTlmNjctZTJlNjYzZjE0MTI1XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Red Son (2020)
-https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat/Superman%20Red%20Son%20%282020%29%201080p%20-Dual%20Audio-.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5MjBiNjctMWFjNC00MTI5LTk2NTgtMWY5NjY2MGQ2MGE4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Shazam The Return Of Black Adam (2010)
-https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat/Superman%20Shazam%21%20The%20Return%20Of%20Black%20Adam%20%282010%29%201080p%20-Dual%20Audio-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzcyMjAwYzItNjc0ZS00NzViLWFkNWEtYTk0ODdlY2U0ZTJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman VS. The Elite (2012)
-https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat/Superman%20VS.%20The%20Elite%20%282012%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzMjczODQzMV5BMl5BanBnXkFtZTcwOTIyOTQ0OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Unbound (2013)
 http://archive.org/download/20220917_20220917_0217/Superman%20Sin%20L%C3%ADmites.mp4
@@ -2419,19 +2430,19 @@ http://rebrand.ly/cccaoar
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shazam! Fury Of The Gods (2023)
 http://archive.org/download/UME1K185/SZFDLD23.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTljYmU2NTMtODhhNC00NjlhLWJhZTUtNDllODYyYWM4ZjA5XkEyXkFqcGdeQXVyNjM0ODk5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Battle Of The Sexes (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWZlNTAyNGEtYjMxNS00NTdmLThkZTktYmQ4NzBhMDE5NWQ2XkEyXkFqcGdeQXVyMDc0MzU2OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Belzebuth (2017)
+https://archive.org/download/alplani1_202001/Belzebuth.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Green Book (2018)
+https://archive.org/download/alplani1_202001/Green%20Book.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Big Heroe 6 (2014)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk2YTA1MGYtMGNjMi00YTJlLWI1YjItMjBjOGJlZGIwZmYzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blonde (2022)
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",I Am Mother (2019)
+https://archive.org/download/alplani1_202001/I%20Am%20Mother.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0NTQyNjM0MF5BMl5BanBnXkFtZTgwODQ5MjA1NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blood Brother (2018)
+https://archive.org/download/alplani1_202001/Blood%20Brother%20%282018%29.mp4
 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExOTQzMDUxMTdeQTJeQWpwZ15BbWU4MDY2MDM2NzUz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Boarding School (2018)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTExOTQzMDUxMTdeQTJeQWpwZ15BbWU4MDY2MDM2NzUz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",null(2018)
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bombshell (2019)
