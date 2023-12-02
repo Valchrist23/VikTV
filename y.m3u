@@ -386,9 +386,6 @@ https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_.jpg" group-title="Peliculas",White Chicks (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Constantine (2005)
-https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDc1NzM1OTgtOGYxMS00ZWE1LWEzZWMtNWEyOTI2NDJjOTU2XkEyXkFqcGdeQXVyNjQzNzA2NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zathura: A Space Adventure (2005)
 https://cdn.jwplayer.com/manifests/da5kxY4t.m3u8
 
@@ -2823,7 +2820,9 @@ http://notabasica.com/909032/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzMjM0MTc3MF5BMl5BanBnXkFtZTcwNzU0ODMyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Beowulf (2007)
 http://archive.org/download/202209_20220918_2108/Beowulf.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTczMzczNzctNTFjMi00YTYxLWEwMzYtMWU3ZDEyNGRiNThiXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Constantine (2005)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Constantine (2005)
+https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
+
 http://archive.org/download/202209_20220918_2258/Constantine.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2EzYzAtYzcxYi00MWU2LWFhNmItNGJiZjMyZTUyNTQyXkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Constantine City Of Demons (2018)
 http://ia601505.us.archive.org/17/items/sagifaj_zdenka_03/03.mp4
