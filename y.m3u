@@ -643,6 +643,8 @@ http://ia601502.us.archive.org/32/items/00000_20200918/0000002.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol 3 (2023)
 http://notabasica.com/909032/Guardianes.de.la.galaxia.Vol.3.2023.lati.mp4
 
+http://archive.org/download/1XD112HB/GUDLGAV3.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Metropolis (1927)
 https://archive.org/download/Metropolis1927EnglishVersion/Metropolis_1927_English_Version.mp4
 
@@ -1356,11 +1358,9 @@ https://cdn.jwplayer.com/manifests/qfHB4jAs.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avatar (2009)
 https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avatar The Way Of Water (2022)
 https://archive.org/download/conjuring-the-beyond_202304/avatar%202.mp4
-
-#EXTINF:-1 group-title="peliculas infantiles" tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg",Guardians of the Galaxy (2014)
-https://goo.gl/sFaEVq
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMxMTFlMDYtNjIyNS00YzQ4LWJlMDAtNGQwY2RlZGJiMmM1XkEyXkFqcGdeQXVyNzEyMTA5MTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bad Genius (2017)
 https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
@@ -1368,47 +1368,43 @@ https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0NjUzNjYwOV5BMl5BanBnXkFtZTgwMzY1MDM0NDM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The 15:17 to Paris (2018) 
 https://storage.googleapis.com/micro-harbor-248803.appspot.com/cv6802308lt.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY3ZDNhZjgtYzVhYy00MTgwLWJjYjgtMjQwZGFjNGU1MTBjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harlock: Space Pirate (2013)
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4NjBhZTUtN2MwMy00MzIyLWFhN2ItMmUwYzQ4MWQxODM3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Final Fantasy VII: Advent Children (2005)
 https://archive.org/download/Final.Fantasy.VII.Complete.Dual.Audio.2009.720p.x264Ziki11/Final.Fantasy.VII.Complete.Dual.Audio.2009.720p.x264-ziki11.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzcwNTE5OV5BMl5BanBnXkFtZTcwMTIxNzQ0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",TMNT (2007)
-https://archive.org/download/white-snake-2019-1080p-dual-lat/TMNT%20%282007%29%201080p%20FULL%20Dual.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE2ZGQ0NjctMzRlMy00NmI1LWFhNTUtYTAyNGNmMTk2Njg1XkEyXkFqcGdeQXVyMjExMzEyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",White Snake (2019)
-https://archive.org/download/white-snake-2019-1080p-dual-lat/White%20Snake%20%282019%29%201080p%20-Dual%20Lat-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFlMDc2NGMtYjkyMS00MTlhLTgxNWItMmYxZjc5NzVhMGE0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Batman Ninja (2018)
-https://archive.org/download/white-snake-2019-1080p-dual-lat/Batman.ninja.2018.1080p%20-Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjExMzcwMjU4OV5BMl5BanBnXkFtZTgwNzYzMjU2MTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Barbarella (1968)
-https://archive.org/download/flash-gordon-1980-1080p-dual-lat/Barbarella%20%281968%29%201080p%20-Dual%20Lat-.mkv
+https://archive.org/download/barbarella_202110/Barbarella.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y4ZDBjMjEtZWQ0OS00NzYyLTg0M2ItMmUzYTEwN2RmMGVlXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Flash Gordon (1980)
-https://archive.org/download/flash-gordon-1980-1080p-dual-lat/Flash%20Gordon%20%281980%29%201080p%20-Dual%20Lat-.mkv
+https://archive.org/download/flash-gordon-1980-1980-blu-ray-high-fzmovies.net-6e-008c-06a-38b-9cc-94a-080fd-7139b-0d-67/Flash_Gordon_1980_%281980%29_BluRay_high_%28fzmovies.net%29_6e008c06a38b9cc94a080fd7139b0d67.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Trek into Darkness (2013)
-https://archive.org/download/flash-gordon-1980-1080p-dual-lat/Star%20Trek%20Into%20the%20Darkness%20%282013%29%201080p%20-Dual%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc2YThlMTgtN2M3Yi00YzkxLWE4MDQtMWJmYmZiNTNjNjJlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Trek Beyond (2016)
-https://archive.org/download/flash-gordon-1980-1080p-dual-lat/Star%20Trek%20Beyond%20%282016%29%20-%20Dual%20Audio-.mp4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxMDIxOTg5NzheQTJeQWpwZ15BbWU4MDkyODAwNjAx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Street Fighter Alpha Generations (2005)
-https://archive.org/download/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20Alpha%20Generations%20%282005%29%20720p%20-Tri%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk1MWUwNzMtOWMzZC00YjA3LWI4NGEtNWVjNGMxNGQ2YThkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Street Fighter II: The Animated Movie (1994)
-https://archive.org/download/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20II%20The%20Animated%20Movie%20-%20%281994%29%202160p%20-Multiple%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI1NjljZjUtZDRhZS00ODIwLWFjMTUtNDllZjAwMWEzZDE5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Street Fighter IV: The Ties That Bind (2009)
-https://archive.org/download/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20IV%20The%20Ties%20That%20Bind%20%282009%29%201080p%20-Tri%20Audio-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmUzYjNmM2UtMTY1Zi00YjVmLTlhYjgtNjk5OWRkMTUyOTUzXkEyXkFqcGdeQXVyNjc1ODU3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Street Fighter X Tekken (2012)
-https://archive.org/download/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Street%20Fighter%20X%20Tekken%20%282012%29%20720p.MP4
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ4ZDRmZjEtOGM5MC00NmI0LTgxYzEtYzA1MWJhZWQ0YWYwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Super Street Fighter IV
-https://archive.org/download/street-fighter-ii-the-animated-movie-1994-2160p-multiple-audio/Super%20Street%20Fighter%20IV%20%282010%29%5BBD%20720p%5D%20%5BES%20SUB%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Wars: Episode IV - A New Hope (1977)
 https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%204%20-%20Una%20nueva%20esperanza.mp4
@@ -2459,9 +2455,6 @@ https://archive.org/download/The.Dark.Knight.Rises.2012.1080pWww.compucalitv.com
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzMjczODQzMV5BMl5BanBnXkFtZTcwOTIyOTQ0OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Superman Unbound (2013)
 http://archive.org/download/20220917_20220917_0217/Superman%20Sin%20L%C3%ADmites.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol 3(2023)
-http://archive.org/download/1XD112HB/GUDLGAV3.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2M0ZGEwMGQtNzMxOC00OTU2LWExZmUtMTA5N2RhMDZlY2JiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Indiana Jones And The Dial Of Destiny (2023)
 https://archive.org/download/indiana-jones-and-the-dial-of-destiny-2023.-1080p-dual-lat_202309/Indiana%20Jones%20And%20The%20Dial%20Of%20Destiny%20%282023%29.1080p%20-Dual%20Lat-.mp4
