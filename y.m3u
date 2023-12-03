@@ -800,12 +800,6 @@ http://archive.org/download/20221005_20221005_1138/inframundo%205.mp4
 
 https://archive.org/download/alplani1_202001/Inframundo%205%20Guerras%20de%20Sangre.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ironman (2008)
-http://ia801507.us.archive.org/19/items/00000_202008/00016.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJkNDQwNzUtNWE0MC00MGVjLWFjMjEtODMyNTExMTU4ZDRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ironman Rise Of Technovore (2013)
-http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B3n%20de%20Technovore.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYjIwYzUtNGEwYS00MmFlLTkzMmEtZWVlNjAxMjcyYzY1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",One Piece (2014)
 https://archive.org/download/one-piece-movie-14-stampede_latino/One%20Piece%20Movie%2014%20-%20Stampede%20Latino.mp4
 
@@ -1657,6 +1651,9 @@ https://archive.org/download/pack-5_202008/Cincuenta%20Sombras%20Liberadas%20%28
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE2MmU2MmEtNTVhMS00MTBhLWIyZjAtOGY2MGYxZGZlMDRhXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadwood (2004)
 https://archive.org/download/alplani1_202001/Deadwood.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJkNDQwNzUtNWE0MC00MGVjLWFjMjEtODMyNTExMTU4ZDRhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ironman Rise Of Technovore (2013)
+http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B3n%20de%20Technovore.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Iron Man (2008)
 http://ia801507.us.archive.org/19/items/00000_202008/00016.mp4
 
@@ -1698,8 +1695,6 @@ http://ia600109.us.archive.org/5/items/Saving.Mr.Banks.2013.1080p/El%20Sorprende
 http://ia601503.us.archive.org/2/items/00000_20200930/000006.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man Away From Home (2019)
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/10.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man No Way Home (2021)
-http://archive.org/download/13421321313/Ver%20Spider-Man%20No%20Way%20Home%20%282021%29%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man No Way Home (2021)
 http://notabasica.com/909032/SpiderManNoWayHome2021.SRREGIO.NET.mkv
@@ -1724,14 +1719,17 @@ http://archive.org/download/1_20190828_20190828_1938/atte_sd_sdsad/1.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ultimate Avengers II (2006)
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men (2000)
 http://ia801404.us.archive.org/8/items/00000_20200928/000008.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X2 (2003)
 http://ia601404.us.archive.org/8/items/00000_20200928/000009.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBhNDJiMWEtOTg4Yi00NTYzLWEzOGMtMjNmNjAxNTBlMzY3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men Last Stand (2006)
 http://ia601404.us.archive.org/8/items/00000_20200928/000010.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men Apocalypse (2016)
+http://archive.org/download/07_20191209/hoiho/07.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-men Days Of Future Past (2014)
 
@@ -1739,9 +1737,6 @@ http://ia601404.us.archive.org/8/items/00000_20200928/000010.mp4
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/7.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men First Class (2011)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",X-Men Apocalypse
-http://archive.org/download/07_20191209/hoiho/07.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Logan (2017)
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/11.mp4
