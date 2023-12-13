@@ -520,16 +520,8 @@ https://wifiexpert-1.energeek.cl/energeek/anipop-tv/playlist.m3u8
 
 https://stream.ichibantv.com:3741/live/aniplustvlive.m3u8
 
-#EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://i.imgur.com/ewjJrSf.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime" tvg-shift="0",Kanade TV
-https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Anime",Rakuten Anime TV 
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-
 #EXTINF:-1 tvg-id="Loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime" tvg-shift="0",Loco
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Anime Zone TV" tvg-name="Anime Zone TV" tvg-language="es" tvg-logo="https://azxtv.com/aztv.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime" tvg-shift="0",Anime Zone TV
 
 https://azxtv.com/hls/stream.m3u8 
 
