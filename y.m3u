@@ -1551,9 +1551,6 @@ https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Mask 2 (2005)
 https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Amadeus (1984)
-https://archive.org/download/amadeus-1984-1080p-dual-audio/Amadeus%20%281984%29%201080p%20-Dual%20Audio-.mkv
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM2MGFmMjctM2EyNi00MmI4LTkyYjItMDhjZWQ4MjUyNGJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Casanova (2005)
 https://archive.org/download/22-wtcr-4w-d-4d-s-1ngs-dua-lat/C4s4n0v4.2005-DuaLat-.mkv
 
@@ -2885,8 +2882,6 @@ http://notabasica.com/909032/Hocus.Pocus.2.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc1NTUyMzYtOThiZS00YWYwLWFjYzYtYWIzYjViY2JiYTZhXkEyXkFqcGdeQXVyMTI2MzY1MjM1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Night at the Museum: Kahmunrah Rises Again (2022)
 http://notabasica.com/909032/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Gran Turismo (2023)
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0Mjc5ZjAtZmRjNi00MGY4LWFlNDYtOGVlMjc3YjJiNTk4XkEyXkFqcGdeQXVyMTI3NDk1ODY0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Panama (2023)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTBhMTYxZDYtNjc3MS00MTM2LWFkMzAtOTAyMDJjNjdkNGE1XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Consacration (2023)
@@ -3877,18 +3872,32 @@ https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.Th3.Meg.%2820
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgwODVmMjItMTk4Mi00ZTUxLWE5OTgtYzUxMDJmODBhNmYxXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",27 Dresses (2008)
 https://archive.org/download/360Tv.Adrift.2018WEBDL720pHD1/360Tv.27.Dress3s.%282008%29.LATINO.MP4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1YjFmN2UtOWZhOC00MjkwLTg2ZjgtNDQ5NDQ3YWNmNGRkXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Gran Turismo (2023)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Amadeus (1984)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Mule (2018)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQyNGY5ZGQtN2E1MC00ZDhkLWJiYWMtMTFjODAwMDFmZDRhXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Insidious The Red Door (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2NDMwMTY3MF5BMl5BanBnXkFtZTgwNDg5OTc1NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Escape Room (2019)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzUxNGIyY2MtNDUxZC00YWY1LTg0MzctM2ExNTNmODlhMTRlXkEyXkFqcGdeQXVyMTE4Nzk0MzE4._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Escape Room Tournament Of Champions (2021)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDVkMTk1ZjktYzdiNi00YjcwLWEzNGMtY2NhYjA3MTk3NzJkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Curve (2015)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0ODg3N2EtMmE5NC00MTRiLWExMzAtMDgyNDFjYWZmM2ViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dark Harvest (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",It Follows (2014)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkxNTBmYjgtYjZkYy00MGNhLWFiOGEtZjc0NTllMzUyMmFjXkEyXkFqcGdeQXVyODM0MjI4OTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jikirag (2022)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc3OTJhMzQtMjA0OC00YWViLThmMGUtMjcwOTFiYzRlMTA2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Joy Ride (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhZDczNTUtOWEzZS00ZjEyLTkzODQtOGM1MTZiMGY2ODIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",No One Will Save You (2023)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU3NDk2NDEtM2VjYi00NDA5LTk3YzktZDRjZGNlOGQ3ZDY1XkEyXkFqcGdeQXVyMTk5NTcwNDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Theres Something In The Barn (2023)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
