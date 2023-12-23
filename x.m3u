@@ -1273,10 +1273,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
 
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
