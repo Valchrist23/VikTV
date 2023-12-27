@@ -544,6 +544,8 @@ https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
+https://archive.org/download/altillo1/Rango.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Wolf of Wall Street (2013)
 https://archive.org/download/blextv6/The.wolf.of.wall.street.2013.1080p-dual-lat.mp4
 
@@ -3103,6 +3105,8 @@ http://ia601404.us.archive.org/26/items/00000_20200926/000012.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ratatouille (2007)
 http://archive.org/download/20220625123_202206/Ratatouille.2007.mp4
 
+https://archive.org/download/altillo1/Ratatouille.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Joker (2019)
 http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
 
@@ -4263,14 +4267,23 @@ https://archive.org/download/altillo1/My%20Little%20Pony%20La%20pelicula.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="Peliculas",Monsters University (2013)
 https://archive.org/download/altillo1/Monsters.University.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg" group-title="Peliculas",Oz The Great And Powerful (2013)
+https://archive.org/download/altillo1/Oz%20El%20Poderoso.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="Peliculas",Inside Out (2015)
+https://archive.org/download/altillo1/Intensa%20Mente.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg" group-title="Peliculas",The Book Of Life (2014)
+https://archive.org/download/altillo1/The.Book.of.Life.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/inTKQni4YW8syrfgnXHwzmNeSo4.jpg" group-title="Peliculas",Turbo (2013)
+https://archive.org/download/altillo1/Turbo.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg" group-title="Peliculas",Minions (2015)
+https://archive.org/download/altillo1/Minions.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ys0jZr0quHERDUEoCboGQEKPvgQ.jpg" group-title="Peliculas",Moana (2013)
+https://archive.org/download/altillo1/Moana%20Un%20mar%20de%20aventuras.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
