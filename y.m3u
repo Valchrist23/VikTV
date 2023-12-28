@@ -1372,9 +1372,8 @@ https://archive.org/download/Memento_es/Memento.es.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bird Box (2018) 
 https://archive.org/download/bird-box-a-ciegas/Bird%20Box%20-%20A%20ciegas.mp4
 
-#EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg" group-title="Peliculas",La Razon de Estar con Tigo: Un Nuevo Viaje 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViZWEwOGItMGZlMC00YzE1LTk5ZWItMGYxYjhhMjBmNDMwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg" group-title="Peliculas",Nada Es Privado 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="Peliculas",Paulie (1994)
+https://archive.org/download/paulie_201907/Paulie.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcyMDZlMTktYTIxOC00ZWFhLWJkYzgtNWNiYjAwYTFkNjIyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bram Stoker's Dracula (1992)
 https://archive.org/download/1-l-0-tr-L0R14N/Br4hmDr4cul4.1992-DuaLat-.mkv
@@ -4369,6 +4368,11 @@ https://archive.org/download/ver-el-monstruo-marino-2022-online-gratis-espanol-p
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xRmsqvHnaWmrazJl9bTBqs4LAjp.jpg" group-title="Peliculas",The Lone Ranger (2013)
 https://archive.org/download/peliculas-1990/El%20Llanero%20Solitario.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg" group-title="Peliculas",La Razon de Estar con Tigo: Un Nuevo Viaje 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViZWEwOGItMGZlMC00YzE1LTk5ZWItMGYxYjhhMjBmNDMwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg" group-title="Peliculas",Nada Es Privado 
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
