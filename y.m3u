@@ -680,8 +680,11 @@ https://cdn.jwplayer.com/manifests/9XEgWDvt.m3u8
 
 http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/8.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg" group-title="Peliculas",Little Bird's Big Adventure (2017)
+https://archive.org/download/altillo1/Una%20cigue%C3%B1a%20en%20apuros.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
 
