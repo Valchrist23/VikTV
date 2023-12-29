@@ -3053,13 +3053,9 @@ https://archive.org/download/zeroville-2019-1080p-dual-audio/Zeroville%20%282019
 https://archive.org/download/alplani1_202001/cementerio%20de%20mascotas.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDljOTc4ZWItMmE5YS00OWEwLWFkNGItM2VhZjdhYzkzNGYzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Appendage (2023)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Nun (2018)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE5MmM2ZGEtNTVlNC00M2Q3LTliMjMtMzg5YjUyMjliZWIzXkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Nun II (2023)
-http://notabasica.com/909032/The.Nun.II.2023.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVkODc5NGUtYWExYi00M2VlLWE5YzgtOWM4ZjMzNTY2MWJjXkEyXkFqcGdeQXVyODAxNzcyNTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",One Step From Me (2021)
-http://notabasica.com/909032/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDE0ZjNjMTktYmIwMC00ODZjLWIwNGMtODM3MWZhMGM1NWFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",AD Astra (2019)
 http://ia801406.us.archive.org/4/items/000_20200129_20200129_0445/2.mp4
@@ -4302,13 +4298,21 @@ https://archive.org/download/peliculas-1990/El%20Llanero%20Solitario.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg" group-title="Peliculas",Hitman (2007)
 https://archive.org/download/HI7M4N/HI7M4N.463N7.47-1080-ES.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg" group-title="Peliculas",Shutter Island (2010)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg" group-title="Peliculas",Sherlock Holmes (2009)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg" group-title="Peliculas",Sherlock Holmes A Game Of Shadows (2011)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1KGEyeCNyZFDZVDo1H0S87Re8qT.jpg" group-title="Peliculas",Fullmetal Alchemist (2017)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kHo5yDjgpH5brCT2wCgjW2HdSLq.jpg" group-title="Peliculas",Goemon (2009)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg" group-title="Peliculas",The Nun (2018)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg" group-title="Peliculas",The Nun II (2023)
+
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
