@@ -484,6 +484,8 @@ https://archive.org/download/yummy_202105/-%20Click%20Perdiendo%20el%20control.m
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",I Am Legend (2007)
 https://cdn.jwplayer.com/manifests/Up95l49F.m3u8
 
+https://archive.org/download/1672_20221103/soy%20leyenda.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NTU5MjI2MV5BMl5BanBnXkFtZTcwMTg5NTQzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Michael Clayton (2007)
 https://cdn.jwplayer.com/manifests/3qaTzQpB.m3u8
 
@@ -712,10 +714,15 @@ https://archive.org/download/peliculas-1990/Ver%20Depredador%202%20%28Predator%2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="Peliculas",Prey (2022)
 https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="Peliculas",Alien VS. Predator (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="Peliculas",Aliens VS. Predator (2004)
 https://archive.org/download/alplani1_202001/bAlien%20vs.%20Predator.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Peliculas",Alien VS. Predator Requiem (2007)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="Peliculas",Aliens VS. Predator 2 (2001)
+https://archive.org/download/1672_20221103/Aliens%20vs.%20Predator%202.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="Peliculas",Aliens VS. Predator Requiem (2007)
 https://archive.org/download/alplani1_202001/bAliens%20vs.%20Predator%202.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/54LZIRznS0Zjn7ZDXrsGVe3HXei.jpg" group-title="Peliculas",Predators (2010)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wMq9kQXTeQCHUZOG4fAe5cAxyUA.jpg" group-title="Peliculas",The Predator (2018)
@@ -1339,7 +1346,8 @@ https://archive.org/download/rapido-y-furioso-reto-tokio/R%C3%A1pido%20y%20furio
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fate of the Furious (2017)
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast X ()
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Movies",Fast X (2023)
+https://archive.org/download/1672_20221103/Fast%20%26%20Furious%20X.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Memento (2000)
 https://archive.org/download/Memento_es/Memento.es.mp4
@@ -1454,6 +1462,8 @@ https://archive.org/serve/g.-i-joe-the-movie-1987-full-movie/G.I%20%20Joe%20%20%
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Coco (2017) 
 http://ia801502.us.archive.org/32/items/00000_20200918/000006.mp4
+
+https://archive.org/download/1672_20221103/Coco.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGEwYzk1MjctMmM2YS00NGEzLWE0NzQtNjhhMzMzY2NkYWJiXkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",AINBO: Spirit of the Amazon (2021) 
 https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
@@ -3395,6 +3405,8 @@ https://archive.org/download/los.billetes.de.loteria.perdidos.-2022/Los.billetes
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Equalizer 2 (2018)
 https://archive.org/download/th3.3qu4l1z3r.2.2018.hdrip.720p.latino/th3.3qu4l1z3r.2.2018.hdrip.720p.latino.mp4
 
+https://archive.org/download/1672_20221103/El%20Justiciero%202.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODdiMzM2YjctZmU3ZS00MzUwLWJiYTMtMmI2NzIyMTQyOTQ1XkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Equalizer 3 (2023)
 hhttps://archive.org/download/t-3-musk.-93-d/T3qur3.2023-DL-.mp4
 
@@ -3823,6 +3835,8 @@ https://archive.org/download/04r4c3l1st45h3/35sc4pPuzl0F34r.2020-DuaLat-.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Barbie (2023)
 https://archive.org/download/04r4c3l1st45h3/B4rb.2023-DuaLat-.mp4
 
+https://archive.org/download/1672_20221103/Barbie.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5NTg5ODk4OV5BMl5BanBnXkFtZTgwODc4MTMzMDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Blue Is The Warmest Color (2013)
 https://archive.org/download/04r4c3l1st45h3/Blu1s.TW4rmclr.2013-DuaLat-.mkv
 
@@ -4128,6 +4142,7 @@ https://archive.org/download/t-3-musk.-93-d/T.J3st.223-D-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="Peliculas",Heart of Stone (2023)
 https://archive.org/download/thnt-3-.-995-dl/H3rt05tn.223-DL-.mp4
 
+https://archive.org/download/1672_20221103/Agente%20Stone.mp4
 https://dl.dropbox.com/scl/fi/tk8bazlj0d6x7ldlworn2/Agente-Stone.2023.1080p.dual-lat.cinecalidad.com.mx.mp4?rlkey=jng33vj06g25r8mgy6v4307pg&dl=0
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJjYjVkOTgtNDY1OS00OWQ0LTg5MzYtMDljOGJkZTRiOGZkXkEyXkFqcGdeQXVyNjE4OTY3NTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Kokoro no kizu o iyasu to iu koto (2020)
@@ -4440,6 +4455,8 @@ https://archive.org/download/p-4n-g-4n.-213-dl/V4%20H3g.2004-DL-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zack Snyder's Justice League (2021)
 https://archive.org/download/p-4n-g-4n.-213-dl/Z5nydJL34g.221%20-DL-.mp4
 
+https://archive.org/download/1672_20221103/La%20Liga%20de%20la%20Justicia%20de%20Zack%20Snyder.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg" group-title="Peliculas",X Men Days of Future Past (2014)
 https://archive.org/download/p-4n-g-4n.-213-dl/XD4y0FP45.2014-DL-.mp4
 
@@ -4499,19 +4516,35 @@ https://archive.org/download/p-4n-g-4n.-213-dl/SukPu.2011-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="Peliculas",Watcher (2022)
 https://dl.dropbox.com/scl/fi/wivq26i9p7o3ug22nuprm/Watcher.2022.1080p.dual-lat.cinecalidad.run.mp4?rlkey=1olt4a8n8hrohoz1iq0jj7f2z&dl=0
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Covenant (2023)
+https://archive.org/download/1672_20221103/El%20pacto%20%28The%20Covenant%29.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDdhYzNkOWQtYWNlNi00NDdjLWJlZDMtMjJjZDYyNjAxM2U1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",365 Days (2020)
+https://archive.org/download/1672_20221103/365.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg" group-title="Peliculas",365 Days: This Day (2022)
+https://archive.org/download/1672_20221103/365.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vwxYJyhNBg5uLByXe8fyIdO0YqD.jpg" group-title="Peliculas",OX-Head Village (2022)
+https://archive.org/download/1672_20221103/La%20Aldea%20Siniestra.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg" group-title="Peliculas",Jeepers Creepers Reborn (2022)
+https://archive.org/download/1672_20221103/Jeepers%20Creepers%20Reborn.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qumlmYYopqgAQUdwT9wgVyhxBBb.jpg" group-title="Peliculas",No Abras La Puerta (2022)
+https://archive.org/download/1672_20221103/No%20Abras%20La%20Puerta.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wYyoYAAMPWfPkYwLSrEcd5QpSBW.jpg" group-title="Peliculas",Solar Impact (2019)
+https://archive.org/download/1672_20221103/Solar%20Impact.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="Peliculas",Plane (2023)
+https://archive.org/download/1672_20221103/el%20piloto.mp4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg" group-title="Peliculas",Die Hart 2 (2023)
+https://archive.org/download/1672_20221103/duro%20de%20entrenar%202023.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4glaIcIRw0IVmQKWYVK6CIo0zaU.jpg" group-title="Peliculas",Enough (2002)
+https://archive.org/download/1672_20221103/nunca%20mas.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
