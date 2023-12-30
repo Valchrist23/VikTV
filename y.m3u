@@ -269,7 +269,7 @@ http://archive.org/download/31S646NX/A15M2SD1.mkv
 http://archive.org/download/31S646NX/A15M2SD2.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2RnJ7wgoaS9XPiofoXTLj2KkM20.jpg" group-title="Peliculas",A Nightmare on Elm Street Dream Warriors (1987)
 http://archive.org/download/31S646NX/A15M2SD3.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2IwODlmN2ItOGU5NC00ZTBhLWJhZjItMTdkOTI1NTU4YzdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Nightmare on Elm Street Dream Masters (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/boStYG7jKdoIZTduiOOsUVknD13.jpg" group-title="Peliculas",A Nightmare on Elm Street 4: The Dream Master (1988)
 http://archive.org/download/31S646NX/A15M2SD4.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BU4Uaxhd7zSYusBWyR5CeeBLeb.jpg" group-title="Peliculas",A Nightmare on Elm Street: The Dream Child (1989)
@@ -447,7 +447,7 @@ https://archive.org/download/blextv2/I.Robot.2004.lati.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg" group-title="Peliculas",The Notebook (2004)
 https://cdn.jwplayer.com/manifests/1xFr5tdm.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODNiZmY2MWUtMjFhMy00ZmM2LTg2MjYtNWY1OTY5NGU2MjdjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Butterfly Effect (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg" group-title="Peliculas",The Butterfly Effect (2004)
 https://cdn.jwplayer.com/manifests/T9l8nvXA.m3u8
 
 https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
@@ -526,7 +526,7 @@ https://archive.org/download/blextv6/The.wolf.of.wall.street.2013.1080p-dual-lat
 
 https://cdn.jwplayer.com/manifests/zfUzDIU8.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",In The Heart Of The Sea (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg" group-title="Peliculas",In The Heart Of The Sea (2015)
 https://cdn.jwplayer.com/manifests/ZzJCuyhk.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk1NTRjOTktODExNi00ZjYyLTkwZWYtZmI1NTQ0YTRiYTE5XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mostly Ghostly Have You Met My Ghoulfriend (2014)
@@ -4374,8 +4374,10 @@ https://archive.org/download/videotime-cine-latino/Sing%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg" group-title="Peliculas",Braveheart (1995)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/koXGRfatN0tURFWMA0Keb0p0Gtg.jpg" group-title="Peliculas",American Hustle (2013)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg" group-title="Peliculas",Angel Eyes (2001)
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDE3ODIzMTgtOWM0My00NzI0LTliMTUtMzUxMGNhZTgxZDIzXkEyXkFqcGdeQXVyNjcxMTIwNzU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Chernobyl (2021)
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="Peliculas",Army Of The Dead (2021)
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFmYjBiYzItYjBlOS00NThkLTljMWEtYzQ4NTdlNDlmMjg0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Artemis Fowl (2020)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg" group-title="Peliculas",Collateral (2004)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg" group-title="Peliculas",Inside Man Most Wanted (2019)
