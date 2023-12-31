@@ -309,6 +309,17 @@ https://archive.org/download/1080_tv/1080_129.m3u8
 https://archive.org/download/1080_tv/1080_130.m3u8
 
 
+hasta el 439
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null(null)
+https://archive.org/download/1080_tv/1080_440.m3u8
+
+
+https://archive.org/download/1080_tv/1080_45.m3u8
+hasta el 98
+
+https://archive.org/download/1080_tv/1080_99.m3u8
+
+
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian
 https://live.mycamtv.com/asian.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina
