@@ -308,15 +308,37 @@ https://archive.org/download/1080_tv/1080_129.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null(null)
 https://archive.org/download/1080_tv/1080_130.m3u8
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/1080_tv/1080_400.jpg" group-title="Peliculas",The Tank (null)
+https://archive.org/download/1080_tv/1080_400.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/1080_tv/1080_401.jpg" group-title="Peliculas",Theater camp (2023)
+https://archive.org/download/1080_tv/1080_401.m3u8
+
+https://archive.org/download/1080_tv/1080_402.m3u8
+
+https://archive.org/download/1080_tv/1080_403.m3u8
+
+https://archive.org/download/1080_tv/1080_404.m3u8
+
+https://archive.org/download/1080_tv/1080_405.m3u8
+
+https://archive.org/download/1080_tv/1080_406.m3u8
+
+https://archive.org/download/1080_tv/1080_407.m3u8
+
+https://archive.org/download/1080_tv/1080_408.m3u8
+
+https://archive.org/download/1080_tv/1080_409.m3u8
+
+
 
 hasta el 439
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null(null)
+#EXTINF:-1 tvg-logo="https://archive.org/download/1080_tv/1080_440.jpg" group-title="Peliculas",Zombies (null)
 https://archive.org/download/1080_tv/1080_440.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/1080_tv/1080_45.jpg" group-title="Peliculas",The Dark Knight Rises (null)
 https://archive.org/download/1080_tv/1080_45.m3u8
 hasta el 98
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/1080_tv/1080_99.jpg" group-title="Peliculas",DR. Strange (null)
 https://archive.org/download/1080_tv/1080_99.m3u8
 
 
