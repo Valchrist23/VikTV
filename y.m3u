@@ -1833,6 +1833,8 @@ http://ia601503.us.archive.org/2/items/00000_20200930/000007.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",The Amazing Spider-Man 2 (2014)
 http://ia600109.us.archive.org/5/items/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.mp4
 
+https://archive.org/download/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.avi
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spider-Man Homecoming (2017)
 http://ia601503.us.archive.org/2/items/00000_20200930/000006.mp4
 
@@ -4590,8 +4592,11 @@ https://archive.org/download/troll.-2022./Troll.2022..mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oswZEJav9ymqIc9B1cjA9Pz2tj1.jpg" group-title="Peliculas",Army Of One (2020)
 https://archive.org/download/75fc-857a-094b-4b-4797bc-533e-542ac-68e-480p/75fc857a094b4b4797bc533e542ac68e-480p.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8cj0Q2uFfpTkCw4gMqqcTBpdoqF.jpg" group-title="Peliculas",Biutiful (2010)
+https://archive.org/download/Saving.Mr.Banks.2013.1080p/biutiful.avi
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
