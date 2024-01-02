@@ -2727,6 +2727,9 @@ https://archive.org/download/videotime-cine-latino/Valiente.mp4
 
 https://archive.org/download/altillo1/valiente.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg" group-title="Peliculas",Intersection (2020)
+https://archive.org/download/la.-encrucijada.-2020.1080p-dual-lat/La.Encrucijada.2020.1080p-dual-lat.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Catch Me If You Can (2002)
 https://archive.org/download/4-kngts-t-4l.-2001-dua-lat/C4tchM31fYouC4n.2002-DuaLat-.mkv
 
@@ -2845,7 +2848,7 @@ https://archive.org/download/superheroicos-720p/Mulan%202020%20-720p.mp4
 http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/8.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Peliculas",Puss In Boots The Last Wish (2022)
-
+https://archive.org/download/98760-d-233a-590-0448-4c-60-9a-7d-08cd-2d-0b-0b-58-mwqp-935481-uptobox/98760--d233a590-0448-4c60-9a7d-08cd2d0b0b58--mwqp--935481-uptobox.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg" group-title="Peliculas",Atlantis Lost Empire (2001)
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
@@ -4597,12 +4600,21 @@ https://archive.org/download/75fc-857a-094b-4b-4797bc-533e-542ac-68e-480p/75fc85
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8cj0Q2uFfpTkCw4gMqqcTBpdoqF.jpg" group-title="Peliculas",Biutiful (2010)
 https://archive.org/download/Saving.Mr.Banks.2013.1080p/biutiful.avi
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Lego Batman The Movie (null)
+https://archive.org/download/pack_4_202008/LEGO%20Batman%20-%20The%20MOVIE.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Lego Justice League (null)
+https://archive.org/download/pack_4_202008/LEGO%20DC%20Comics%20Super%20Heroes-%20La%20Liga%20de%20la%20Justicia%20-%20Fuga%20de%20Gotham.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Lego Aquaman (null)
+https://archive.org/download/pack_4_202008/LEGO%20DC%20Super%20Heroes-%20Aquaman-%20la%20ira%20de%20Atlantis.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Lego Ninja Go (null)
+https://archive.org/download/pack_4_202008/LEGO%20Ninjago%20La%20Pel%C3%ADcula.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg" group-title="Peliculas",Miraculous: Ladybug & Cat Noir, the Movie (2023)
+https://archive.org/download/pelicula-lady-bug/Pelicula%20ladyBug.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
