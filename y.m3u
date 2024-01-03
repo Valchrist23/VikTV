@@ -118,6 +118,9 @@ https://archive.org/download/TheFifthElement_201405/The%20Fifth%20Element.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg" group-title="Peliculas",Gattaca (1997)
 https://archive.org/download/Gattaca/Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfhiVU59BSPCdOZwPNs29Z8S23K.jpg" group-title="Peliculas",Saving Mr. Banks (2013)
+https://archive.org/download/Saving.Mr.Banks.2013.1080p/Saving.Mr.Banks.2013.1080p.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xyqsfWcjC9TQZjGn2NLspL5YoJ4.jpg" group-title="Peliculas",Honey (2003)   
 https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
 
@@ -1332,35 +1335,35 @@ https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Jesucristo%20
 #EXTINF:-1 tvg-logo="https://juicyreviewz.files.wordpress.com/2014/06/the-fast-and-the-furious-2001-film-poster-hd-vin-diesel-paul-walker-michelle-rodriguez.jpg" group-title="Peliculas",The Fast and the Furious (2001)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="Movies",The Fast and the Furious (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gqY0ITBgT7A82poL9jv851qdnIb.jpg" group-title="Peliculas",The Fast and the Furious (2001)
 https://archive.org/download/rapidos-y-furiosos-1_202307/RAPIDOS%20Y%20FURIOSOS-%201.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",2 Fast 2 Furious (2003)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",2 Fast 2 Furious (2003)
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fast and the Furious: Tokyo Drift (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Fast and the Furious: Tokyo Drift (2006)
 https://archive.org/download/rapido-y-furioso-reto-tokio/R%C3%A1pido%20y%20furioso%20-%C2%A0Reto%20Tokio.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast & Furious (2009)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQ1ZTMxNzgtZDcxOC00NWY5LTk3ZjAtYzRhMDhlNDZlOWEzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fast & Furious (2009)
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast Five (2011)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fast Five (2011)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Fast & Furious 6 (2013)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Furious 7 (2015)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fast & Furious 6 (2013)
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_FMjpg_UX1000_.jpg" group-title="Movies",The Fate of the Furious (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Furious 7 (2015)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Movies",F9 The Fast Saga (2021)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Fate of the Furious (2017)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas",F9 The Fast Saga (2021)
 https://archive.org/download/archiveA002/archiveA002.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Movies",Fast X (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas",Fast X (2023)
 https://archive.org/download/1672_20221103/Fast%20%26%20Furious%20X.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Memento (2000)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Memento (2000)
 https://archive.org/download/Memento_es/Memento.es.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bird Box (2018) 
@@ -3536,7 +3539,7 @@ https://archive.org/download/superheroicos-720p/Palmer%20-720p.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg3YjA5MGYtYjdiNy00YThjLWJiZDEtN2M1NmE1NTVhMWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Doors (1991)
 https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NGI0NjktZjM5Ny00ZjEwLTliMDItOGE1ZjQzYjRkNzMwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculasy",Tenacious D In The Pick Of Destiny (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc2NGI0NjktZjM5Ny00ZjEwLTliMDItOGE1ZjQzYjRkNzMwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Tenacious D In The Pick Of Destiny (2006)
 https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Black Widow (2021)
