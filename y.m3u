@@ -59,9 +59,6 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/durmi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d2jU7XWkPjRN0LpakwShBH2FLZo.jpg" group-title="Peliculas",Hard Feelings (2023)
 https://archive.org/download/muchas-mas-hormigas-entre-las-piernas-pelicula-alemana-18-espanol-latino-netflix-2023/muchas%20mas%20hormigas%20entre%20las%20piernas%20pelicula%20alemana%20%2B18%20espa%C3%B1ol%20latino%20netflix%202023.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ViNDM1ZTYtMTE3Yy00OTQ0LWJhMTktZDhjYWMwYWE4ZmRjXkEyXkFqcGdeQXVyNTA3MTU4MA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",BD Scream 5 (2013)
-
-
 https://www.movieposter.com/posters/archive/main/40/MPW-20378
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w6n1pu9thpCVHILejsuhKf3tNCV.jpg" group-title="Peliculas",Ferry (2021) 
@@ -177,9 +174,9 @@ https://archive.org/download/videotime-cine-latino/Bichos.mp4
 https://archive.org/download/blextv6/Brahms.the.boy.II.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Men-of-Honor-movie-poster.jpg" group-title="Peliculas",Men of Honor (2000)
-https://archive.org/download/0500-hombres-de-honor-2000-720p-d-s-spa-eng-v_202312/0500-Hombres%20De%20Honor%20%282000%29%20720p%20D%20S%20spa%20eng%20v.mkv
-
 https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
+
+https://archive.org/download/0500-hombres-de-honor-2000-720p-d-s-spa-eng-v_202312/0500-Hombres%20De%20Honor%20%282000%29%20720p%20D%20S%20spa%20eng%20v.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kuPmTKaiAB7HjpZZHGUQWCK6AwD.jpg" group-title="Peliculas",A Christmas Star
 https://2.bp.blogspot.com/zRJE4%5FZ8lCmUyfCQQYw%2DA4XI4Tj26WsXoCqnrZ4Yzsjz%3Dm22
@@ -1208,7 +1205,7 @@ http://bit.ly/EVILWITHIN_MOVIE
 
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
 http://bit.ly/SAHARAMOVIE
 
 https://archive.org/download/altillo1/Sahara.mp4
@@ -1230,13 +1227,11 @@ https://archive.org/download/1990-/Ver%20RoboCop%202%20%281990%29%20Online%20Lat
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Robocop (2014)
 http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/9.mkv
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge of Seventeen (2016)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge of Seventeen (2016)
 http://bit.ly/2v16m9z
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spectre (2015)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spectre (2015)
 https://goo.gl/3KGMLf
-
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZmMjAxNjQtZjQzOS00NjU4LWI0NDktZjlkZTgwNjVmNzU3XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bound by Honor (1993)/ VATOS LACOS
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",In the Heart of the Sea (2015)
 https://goo.gl/4BqODN
@@ -1291,9 +1286,13 @@ https://archive.org/download/PokemonMovie2000WGN10222006/Pokemon%20the%20Movie%2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016) -Dual Lat-
 https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
 
+http://bit.ly/2w5zZIw
+
 http://ow.ly/FXZ930eWtrs
 
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
+http://ow.ly/FXZ930eWtrs
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sand Castle (2017)
 http://bit.ly/MRAQCASTI
 
 http://cecegeek@goo.gl/FDyHpL
@@ -1464,12 +1463,6 @@ https://cdn.jwplayer.com/manifests/RuDUr9p2.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dunkirk (2017)
 https://cdn.jwplayer.com/manifests/VBp30h86.m3u8
-
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016)     
-http://bit.ly/2w5zZIw
-
-EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Colossal (2016)
-http://ow.ly/FXZ930eWtrs
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMyMTMzOTYzOF5BMl5BanBnXkFtZTcwMTE4NTEyMQ@@._V1_.jpg" group-title="Peliculas",G.I. Joe: The Movie (1987)
 https://archive.org/serve/g.-i-joe-the-movie-1987-full-movie/G.I%20%20Joe%20%20%20The%20Movie%20%281987%29%20Full%20Movie.mp4
