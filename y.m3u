@@ -353,9 +353,6 @@ https://archive.org/download/1986-el-castillo-en-el-cielo-trial-audio-zea.mkv/19
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg" group-title="Peliculas",Akira -All Audio Latino (1988)
 https://archive.org/download/akira-1988-doblajes-latino-japones/Akira%20%281988%29%20%28Doblajes%20Latino%20%2B%20Japon%C3%A9s%29.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" group-title="Peliculas",Ghost in The Shell (1995)
-https://ia802500.us.archive.org/7/items/ghost-in-the-shell_202205/Ghost%20In%20The%20Shell%20Full%20Tape.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k7uOoGUk1JiN3gfKefUj2kP3Vu6.jpg" group-title="Peliculas",Vampire Hunter D (1987)
 https://archive.org/download/vampire-hunter-d-english-dubbed-version/Vampire%20Hunter%20D%20English%20Dubbed%20Version.ia.mp4
 
@@ -437,7 +434,7 @@ https://cdn.jwplayer.com/manifests/p9O19DMJ.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxNTQ1MzAyOF5BMl5BanBnXkFtZTYwNDg0ODk4._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",John Q (2002)
 https://cdn.jwplayer.com/manifests/y42yIqqU.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xEE91LvXiqgs7Hmdl44LCzHtFf6.jpg" group-title="Peliculas",Gangs of New York (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lemqKtcCuAano5aqrzxYiKC8kkn.jpg" group-title="Peliculas",Gangs of New York (2002)
 https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5MzY0MjY2MF5BMl5BanBnXkFtZTYwOTc5ODU3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Misterios Del Titanic (2003)
@@ -2477,21 +2474,27 @@ https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1a
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost In The Shell (2017)
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost In The Shell (1995)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg" group-title="Peliculas",Ghost in The Shell (1995)
+https://archive.org/download/ghost-in-the-shell-1008p/Ghost_in_the_Shell_1008p.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE2NDhhYjUtODAxMC00MjFjLThlMWMtN2MyZmVjOGI1MzU2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)
+https://ia802500.us.archive.org/7/items/ghost-in-the-shell_202205/Ghost%20In%20The%20Shell%20Full%20Tape.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1ZJRbLDVr90KLtKdmTT4WZhT26E.jpg" group-title="Peliculas",Ghost In The Shell 2 Innocence (2004)
+https://archive.org/download/2a.-ghost-in-the-shell-2-innocence-2004-720p-dual-audio/2a.%20Ghost%20in%20the%20Shell%202%20-%20Innocence%20%282004%20-%20720p%20DUAL%20Audio%29.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6FQboZCHxIRYF4TIJZ1gxZ4XqpR.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - The Laughing Man (2005)
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWJjYmQ5ZGQtZjQ3MS00MmFiLWEzYTUtNzAwNmEyZWZlNzNkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - 2nd Gig (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uXT8XDWZwGax4FqmEQGjpajzcKO.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - 2nd Gig (2006)
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWMyYjUyM2YtOGExMS00NWQxLTkyYjktNjY4ZmI5MjAyODIzXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Smiley Face Killers (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uF2S5BJg418TdpwDSfx5hyTsaHR.jpg" group-title="Peliculas",Smiley Face Killers (2020)
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZkMjE3NjgtZGRjOS00YzIxLTkyZmMtNGZhNThlOTZiODc5XkEyXkFqcGdeQXVyMTIyNDQxMTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Yummy (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9U80sW0NNOenmfxWWlPoo8TokJ5.jpg" group-title="Peliculas",Yummy (2019)
 https://archive.org/download/yummy_202105/Yummy.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE3NGE4YmEtY2EyZS00MDFlLWFmNDctMGUwNjQ2ZmVlNzhmXkEyXkFqcGdeQXVyODYwMDQ5ODA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Killing Michael Jackson (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/efKB7PTHCUSESMyGRSRUNiMkK8d.jpg" group-title="Peliculas",Killing Michael Jackson (2019)
 https://archive.org/download/yummy_202105/Killing%20Michael%20Jackson.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg" group-title="Peliculas",Ghostbusters (1984)
