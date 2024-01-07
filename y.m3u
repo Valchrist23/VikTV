@@ -3112,6 +3112,9 @@ https://archive.org/download/NIMHTriAudio/El%20Secreto%20de%20NIMH%20TriAudio%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4Pvcc669wrLCkZ7Jl9t12ELY7b.jpg" group-title="Peliculas",The Rocketeer (1991)
 https://tvinnov.online/PELICULAS%202023/The%20Rocketeer/The%20RocketeerLAT.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg" group-title="Peliculas",Malena (2000)
+https://tvinnov.online/PELICULAS%202023/Malena/MalenaLAT.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQ4OGU3NjUtOGRiNS00NmFkLWE4MmMtODhiNmJjMjBmZWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Secret Garden (1998)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2NTkzNDA4N15BMl5BanBnXkFtZTgwMDI2NjU4MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",7 Witches (2017)
@@ -4979,8 +4982,12 @@ https://tvinnov.online/PEDIDO_CLIENTES/Prisoners_LAT.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg" group-title="Peliculas",Inception (2010)
 https://tvinnov.online/PELICULAS%202023/Inception.2010/Inception.2010.1080p.BluRay.Dual.Latino%20(1).mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg" group-title="Peliculas",Léon: The Professional (1994)
+https://tvinnov.online/PELICULAS%202023/L%c3%a9on%20The%20Professional/L%c3%a9on%20The%20Professionallat.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mM6h4jMqC4q5IaFgBIGKQDLnRU.jpg" group-title="Peliculas",Swordfish (2001)
+https://tvinnov.online/PELICULAS%202023/Swordfish%202001/Swordfish.2001.1080p.BluRay.Dual.Latino.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
