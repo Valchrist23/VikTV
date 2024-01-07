@@ -2977,7 +2977,6 @@ https://cdn.jwplayer.com/manifests/NTCpg8mg.m3u8
 
 http://archive.org/download/01_20200304/Sub1do_p4r4_Str34m_AB5/01.mp4
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg" group-title="Peliculas",Forrest Gump (1994)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9INcC14WZjCMKGE360VXmklCLdZ.jpg" group-title="Peliculas",Lolita (1997)
@@ -4936,11 +4935,15 @@ https://tvinnov.online/PELICULAS%202023/Luther%20The%20Fallen%20Sun/Luther%20The
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg" group-title="Peliculas",Napoleon (2023)
 https://tvinnov.online/PELICULAS%202023/Napole%c3%b3n/N98086%201080p%20WEBRip.LAT.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qmSpHC0CSNyNll9WhlwWYuwoQ28.jpg" group-title="Peliculas",Nerve (2016)
+https://tvinnov.online/PELICULAS%202023/Nerve/Nervelat.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg" group-title="Peliculas",Play Dead (2022)
+https://tvinnov.online/PELICULAS%202023/Play%20Dead/Play%20DeadLAT.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg" group-title="Peliculas",Spy Game (2001)
+https://tvinnov.online/PELICULAS%202023/Spy%20Game/Spy%20Gamelat.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
