@@ -1314,9 +1314,12 @@ https://v3.playerlatino.live/stream/m3u8/179
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png" group-title="Movies",SEO TV
+
 https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png" group-title="Movies",SEO TV Kids
+https://live.seo.tv.bo/live/SEO-2.m3u8
+
 https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png" group-title="Movies",SEO Peliculas
