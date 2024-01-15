@@ -1826,6 +1826,7 @@ https://archive.org/download/alplani1_202001/Blade%20II%20%282002%29.mp4
 https://archive.org/download/alplani1_202001/Blade%20Trinity%20%282004%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg" group-title="Peliculas",The Wolverine (2013)
+http://158.69.158.102/Peliculas/Listo/30122022_1233/the_wolverine_2013.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg" group-title="Peliculas",Captain America The First Avenger (2011)
 http://ia601404.us.archive.org/26/items/00000_20200926/000006.mp4
@@ -3680,6 +3681,8 @@ https://archive.org/download/4r4c3l1-5t45h-DL-/G0df4d3r2.174-L-.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg" group-title="Peliculas",The Godfather III (1992)
 https://archive.org/download/peliculas-1990/Ver%20El%20Padrino-%20Parte%20III%20%281990%29%20Online%20Latino%20HD%20-.mp4
 
+http://158.69.158.102/Peliculas/Listo/The.Godfather.Part.III.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI3MDQ0NTk5NV5BMl5BanBnXkFtZTgwMTUwNzc4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Destroyer (2018)
 https://archive.org/download/alplani1_202001/Destrucci%C3%B3n.mp4
 
@@ -5101,13 +5104,22 @@ http://158.69.158.102/Peliculas/Listo/30122022_0431/Thirteen.Lives.2022.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="Peliculas",The Adam Project (2022)
 http://158.69.158.102/Peliculas/Listo/The.Adam.Project.2022.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7OfTWTQEvPcwPrOdeLH0F3h6GRZ.jpg" group-title="Peliculas",I Know What Your Did Last Summer (1997)
+http://158.69.158.102/Peliculas/Listo/30122022_1402/i_know_what_you_did_last_summer.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i66G50wATMmPrvpP95f0XP6ZdVS.jpg" group-title="Peliculas",Sin City (2005)
+http://158.69.158.102/Peliculas/Listo/30122022_1338/sin_city.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg" group-title="Peliculas",Step Up (2006)
+http://158.69.158.102/Peliculas/Listo/30122022_1253/step_up.mkv
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg" group-title="Peliculas",Hidden Figures (2016)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
