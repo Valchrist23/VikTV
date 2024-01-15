@@ -5089,8 +5089,12 @@ http://158.69.158.102/Peliculas/Listo/30122022_1233/far_and_away.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eYi2Kje8rfuoHzm5zkqa9nX5q8L.jpg" group-title="Peliculas",K-911 (1999)
 http://pilarika.no-ip.org/Cine/Cine_10/066_-_Super_Agente_K-911.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gfdrkBZAyUUXJJ2iLQe03SAYRD3.jpg" group-title="Peliculas",Paranormal Activity 2 (2010)
+http://158.69.158.102/Peliculas/Listo/30122022_0431/Actividad_Paranormal_2.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nYranPiWdNmbD5PRPPSL7VUFTS.jpg" group-title="Peliculas",Paranormal Activity 3 (2011)
+http://158.69.158.102/Peliculas/Listo/30122022_0431/Actividad_paranormal_3.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
