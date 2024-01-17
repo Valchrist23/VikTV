@@ -117,7 +117,7 @@ https://panel.dattalive.com/8250/8250/chunklist_w835067006.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="Entretenimiento +",TVP Pacifico Obregon 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-chno="31" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i0.wp.com/diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="MX",Canal 10 Cancun 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i0.wp.com/diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="MX",Canal 10 Cancun 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
@@ -222,7 +222,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Estrella_TV_2020_Logo.svg/1200px-Estrella_TV_2020_Logo.svg.png" group-title="Entretenimiento +",Estrella TV 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-chno="61" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
+#EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
 
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT5OZ4jHGmyMvfOsHBmAwqIBsLKRvxZ7jgqDInWm0x1E)/dm/3/x7v76vf/s/live-1.m3u8
 
