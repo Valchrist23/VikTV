@@ -566,7 +566,11 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Anime",Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0" group-title="Anime",Magic Kids Tv
+
+#EXTINF:-1 tvg-id="ACS Network" tvg-name="ACS Network" tvg-language="es" tvg-logo="https://play-lh.googleusercontent.com/PY_gyhVYlhbJsUpRAMTZdNJbnM4-oUnjH3gIg-WAvQMSfOzBY-4ZdWtNfcKygKjJw64=w240-h480-rw" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w841089325.m3u8
+
+#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
 https://kali.vdopanel.com:3070/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a" tvg-name="RetroCrush" tvg-language="es" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Anime" tvg-shift="0",RetroCrush
