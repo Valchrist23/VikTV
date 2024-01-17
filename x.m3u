@@ -1054,9 +1054,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",4Music
+
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
 
 #EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",The Box
+
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/ 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
@@ -1085,6 +1087,8 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Music",1Muz 
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
@@ -1263,11 +1267,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00594-groupninemediai-popsugar-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=L5nSDEMpYfzaGH16TF7X&channelId=605a309dc5acdc002c7a20ac
 
 #EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTV.com" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV 2
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w1171022903_b1896000.m3u8
 
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1910764712_b1896000.m3u8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiamiTV.com" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV 2
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist_w1737542744_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
@@ -1280,9 +1285,6 @@ http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 -----------------------------------------Series---------------------------------------------
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s271788/images/logod.jpg?t=637847679770000000" group-title="MX",MorroTV
-https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
 
 -----------------------------------------Movie Channels---------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
@@ -1331,9 +1333,6 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies UK Comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/240px-Sony_Channel_Logo.png" group-title="Entretenimiento +",Sony Channel
-https://v3.playerlatino.live/stream/m3u8/498
 
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8 
