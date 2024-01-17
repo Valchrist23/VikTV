@@ -423,7 +423,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="LAT",E!
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LAT", Canal 26 Argentina
-http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy 
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -857,7 +856,7 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
-
+https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
 
@@ -886,6 +885,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.
 https://dust-int-samsungau.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea71269c-4145-480f-bd68-051cdff1e7f3/0.m3u8
 
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
@@ -894,6 +894,7 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/cad587c9-6026-410e-b2c8-36d5ff00c993/3.m3u8
 
 https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 
