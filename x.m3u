@@ -184,10 +184,10 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal
-
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal
-
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RuntimeMexico.us" tvg-country="US" tvg-language="" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_1920x1080.jpg" group-title="Cine/Series",Runtime Cine y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=fd3c2800b72b5fd3a37959d353c41c32&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450423&id=2964&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=tiKerCW0Y7dCZwfBRv11wVvcU5zGfg3MNmtdHPY0hV8%3D
@@ -278,6 +278,8 @@ si
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8 
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",Hola TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-id="¡HOLA! Play" tvg-name="¡HOLA! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",¡HOLA! Play
@@ -433,6 +435,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 -----------------------------------------Entertainment---------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="LAT",E!
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LAT", Canal 26 Argentina
 
@@ -475,11 +478,13 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA",Discovery ID
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="US",Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/2019/09/logo-discovery-hd.png" group-title="US",Discovery Channel
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="US",Discovery World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="US",Discovery Science
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",AyE
 
@@ -548,6 +553,8 @@ https://azxtv.com/hls/stream.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Anime
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/436-4362370_yamato-logo-png-transparent-logo-yamato-png-png.png" group-title="Anime",Yamato Animation
@@ -732,7 +739,7 @@ https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 
 #EXTINF:-1 tvg-id="WB tv" tvg-name="WB tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/250px-Warner2018LA.png" group-title="Entretenimiento +",WB tv
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/warner.m3u8
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/378px-SpaceLogo.svg.png" group-title="Entretenimiento +",Space
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
@@ -1070,6 +1077,9 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://195.24.89.82/VH1_SD/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV Europe" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/512px-MTV_Hits_2017_logo.svg.png" tvg-country="US" tvg-url="" group-title="Music",MTV Hits
 http://187.95.95.243/mtv/mono.m3u8 
 
 http://195.24.89.82/MTV_SD/index.m3u8
@@ -1088,7 +1098,8 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/ 
 
-#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",The Box
+#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="Music",Xite
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/ 
 
@@ -1120,6 +1131,12 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Music",1Muz 
 http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-name="XITE80sFLASHBLACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="MUSIC",XITE 80s FLASHBLACK 
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="MUSIC",XITE 90s THROWBACK 
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
