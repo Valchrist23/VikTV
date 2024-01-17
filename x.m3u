@@ -857,6 +857,8 @@ https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 54
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 7 Los Angeles
