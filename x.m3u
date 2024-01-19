@@ -51,17 +51,16 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",TV UNAM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
 
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist.m3u8?DVR=
 
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w840707836_DVR.m3u8
+https://5ca3e84a76d30.streamlock.net:1936/tvunam/videotvunam/playlist.m3u8
 
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w2002240792_DVR_28610.m3u8
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w840707836_DVR.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDI0IDQ6Mjc6NTYgQU0maGFzaF92YWx1ZT13M0V0MzUxMGYxcUZkNlRzcTVNdTJnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1069417030_sleng.m3u8
 
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
-https://5ca3e84a76d30.streamlock.net:1936/tvunam/tvunam/playlist.m3u8
+https://5ca3e84a76d30.streamlock.net:1935/tvunam/tvunam/playlist.m3u8
 
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w1069417030_DVR_12555.m3u
 
@@ -470,7 +469,7 @@ no
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="US",TLC 
-https://v3.playerlatino.live/stream/m3u8/87
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="US",Pluto TV History
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
