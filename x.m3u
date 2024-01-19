@@ -4,6 +4,8 @@
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV 
+
+
 https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
  https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.
@@ -47,8 +49,13 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",TV UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w840707836_DVR.m3u8
+
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w840707836_DVR.m3u8
+
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w1069417030_DVR_12555.m3u
 
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w840707836_DVR.m3u8
 
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w2002240792_DVR_28610.m3u8
 
