@@ -524,12 +524,12 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 #EXTINF:-1 tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/preview/KS_KidFlix2_KF2_PS_Logo.jpg" group-title="Infantil",KidsFlix 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Infantil",Cartoon Network Clasico
+#EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Infantil",Cartoon Network Clasico
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito 
 
-#EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",Fanpop TV
+#EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",EnerGeek Retro
