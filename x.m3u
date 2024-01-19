@@ -531,7 +531,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.m3u8?
 
-#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://pbs.twimg.com/profile_images/1542951683663269888/2UHYRzKx_400x400.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
+#EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
 https://wifiexpert-1.energeek.cl/energeek/anipop-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
@@ -762,7 +762,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0",Pluto TV Sci-Fi 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +", tvg-shift="0",SYFY
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",SYFY
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 yes
 https://v3.playerlatino.live/stream/m3u8/151
@@ -938,7 +938,7 @@ https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
 https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento +"National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento +",National Geographic
 https://ythls.onrender.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Entretenimiento +",Pluto TV Animals 
@@ -947,10 +947,10 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="Pluto TV Animales" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml" group-title="Doc",Pluto TV Animales 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png" group-title="Entretenimiento +",Comedy Central MX
+#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png" group-title="Entretenimiento +",Comedy Central MX
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Entretenimiento +",Comedy Central en español 
+#EXTINF:-1 tvg-id="5cf96dad1652631e36d43320" tvg-name="Comedy Central en español" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png" group-title="Entretenimiento +",Comedy Central en español 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="Entretenimiento +",Comedy Central Pluto TV 
@@ -965,7 +965,7 @@ https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-793390810.png" group-title="US",This 
 https://cdn.igocast.com/channel11_hls/channel11_profile1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.soda.com/wp-content/uploads/2017/04/TVLand_live_stream.jpg" group-title="US",TV Land Sitcoms 
+#EXTINF:-1 tvg-id="" tvg-name="TV Land Sitcoms " tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",TV Land Sitcoms 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",Funny AF 
@@ -1142,10 +1142,10 @@ https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="MUSIC",XITE 90s THROWBACK 
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo 80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo 80s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
 
-#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="Vevo 90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo 90s
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
