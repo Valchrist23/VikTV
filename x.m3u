@@ -29,7 +29,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c1
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
 
 
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN 40
+#EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN40 
