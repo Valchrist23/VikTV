@@ -544,6 +544,8 @@ https://cdn.jwplayer.com/manifests/Y3zmTE15.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="Peliculas",Yes Man (2008)
 https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 
+http://158.69.158.102/Peliculas/Listo/30122022_1253/yes_man.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYzMjNiMGQtN2RlNS00NWJlLTg2NzUtZjMyNWMxZjQyNjhlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Meet the Spartans (2008)
 https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
 
@@ -5349,9 +5351,11 @@ https://archive.org/download/dentro-del-laberinto/Dentro%20del%20laberinto.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7gXPtMckzLAFOA8V2niy54HqQ4e.jpg" group-title="Peliculas",Ehrengard: The Art of Seduction (2023)
 https://tvinnov.online/PELICULAS%202023/EHRENGARD%20EL%20ARTE%20DE%20LA%20SEDUCCION/Ehrengard%20El%20arte%20de%20la%20seducci%c3%b3n.2023.WEB-DL.1080p.Latino.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cwNeP2fz0vqNhmKIcSgLD0xc6g2.jpg" group-title="Peliculas",The Rundown (2003)
+http://158.69.158.102/Peliculas/Listo/30122022_1253/the_rundown.mkv
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
