@@ -612,7 +612,7 @@ https://cdn.jwplayer.com/manifests/otzMAZgi.m3u8
 https://archive.org/download/EnriqueIglesiasBailandoKaraoke/Watch%20r3pl3c4s%202018%20hdrip%20720p%20latino%20mp4.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2MzUxMTM3M15BMl5BanBnXkFtZTgwMzA2NzkxMDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Machete Kills (2013)
-https://archive.org/download/machete-kills-720p-dual-id-106747/Machete%20Kills%20720p%20DUAL%20id_106747.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg" group-title="Peliculas",Misery (1981)
 https://archive.org/download/misery_20220618_1901/Misery.mp4
@@ -820,8 +820,6 @@ https://cdn.jwplayer.com/manifests/nbrJ066D.m3u8
 https://cdn.jwplayer.com/manifests/0axWMZRM.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5YzRmYTEtMTZiNi00MmNhLWI4YWMtZjkwNTIzNjA2YjBkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians of the galaxy (2004)
-https://goo.gl/sFaEVq
-
 https://archive.org/download/Rvngdresg/wt%20Gu4d4n3s%20d33%20la%20Gw4lr4xi4%20vl1.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guardians Of The Galaxy Vol 2 (2014)
@@ -971,12 +969,6 @@ https://archive.org/download/alplani1_202001/Inframundo%205%20Guerras%20de%20San
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWViYjIwYzUtNGEwYS00MmFlLTkzMmEtZWVlNjAxMjcyYzY1XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",One Piece (2014)
 https://archive.org/download/one-piece-movie-14-stampede_latino/One%20Piece%20Movie%2014%20-%20Stampede%20Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAwOTY0Y2UtOGRjYi00ZmE1LTk2MmUtYjQyYjA0Mzc4OTFkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rose Red Part 1 (2002) 
-http://archive.org/download/20221003_20221003_1020/rose%20red.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAwOTY0Y2UtOGRjYi00ZmE1LTk2MmUtYjQyYjA0Mzc4OTFkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rose Red Part 2 (2002)
-http://archive.org/download/20221003_20221003_1029/rose%20red%202.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Plane (2023)
 https://archive.org/download/conjuring-the-beyond_202304/alerta.extrema.dual.2023.mp4
 
@@ -995,13 +987,14 @@ http://archive.org/download/2022_202209_20220927/Tren%20Bala%202022.mp4
 https://archive.org/download/p-4n-g-4n.-213-dl/BTr4n.222-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0NjE2ODM2OV5BMl5BanBnXkFtZTgwMjQyNDUzNzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ugly Dolls (2019)
-http://archive.org/download/1_20221005_202210/extraordinariamente%20feos.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Journey 2: The Mysterious Island (2012)
 http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Spirited Away (2001) 
-http://www.mediafire.com/file/l7wr3fhbz8toozs/L454V3N7UR45D35H1H1R0.mp4/file
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWM4NWZmMzQtNmI3OS00ZDExLWEwNTYtM2QyMzIzNjEwZmI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fairy Tail (2017)
 http://archive.org/download/TRIA53P4/FRTDRC17.mkv
@@ -1124,11 +1117,8 @@ https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Mal
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIyZjQ3NmEtZTE1Ni00YjkyLThiOTEtNTYzYTRlNDViMjJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Leprechaun 2 (1994)
 https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Maldito%202%201080p%20Latino.MP4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Edge Of Seventeen (2016)
-http://bit.ly/2v16m9z
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bridget Jones's Diary (2001)
-https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fantastic Four (2015)
 https://archive.org/download/los-4-fantasticos_2005/Los%204%20fant%C3%A1sticos.mp4
