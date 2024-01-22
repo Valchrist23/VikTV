@@ -842,9 +842,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="Syfy Latino" tvg-name="Syfy Latino" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Syfy Latino
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Syfy
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-yes
+
+nope
 https://v3.playerlatino.live/stream/m3u8/151
 
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg" group-title="Movies",Electric Now 
@@ -869,7 +870,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5591
 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1732 
 
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="Movies",Canela Friends 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/799px-Friends_logo.svg.png" group-title="Movies",Canela Friends 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5580
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/thumbh_20200930_060553.jpg" group-title="Movies",Canela TV 
