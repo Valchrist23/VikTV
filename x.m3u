@@ -3,11 +3,10 @@
 #EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-chno="1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0" group-title="Basico",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Electric Now 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5521
+#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
+https://www.youtube.com/watch?v=0WJesT5fMCE
 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-
+no
  https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.
 
 #EXTINF:-1 tvg-id="Mexiquense TV" tvg-name="Mexiquense TV" tvg-chno="2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Mexiquense TV
@@ -70,9 +69,7 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w1069417030_DVR_12
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
-
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpM9svto_yxzbhB3vy-r_GBIQr1f0I2SrKzj9wv7jAbn)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh3n_A-MSTI33yAkto3asEmnGFrNrKaxc_RLHIC8dCTS)/dm/3/x82z4if/d/live-3.m3u8
+https://www.youtube.com/watch?v=-pWOU95pguk
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
 
@@ -96,14 +93,24 @@ old
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 4 
-no
-https://ythls.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+https://www.youtube.com/watch?v=ynApQuNMzWM
+si
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706095769/ei/OaCwZe_OBMCIsfIP4P-ykAQ/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/ynApQuNMzWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxsRshzddvAykza60tITbQQ6J7EAshK38MliHl7D3ksxnxqjY_HfAUnh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGwnb6B3K9P-Myo71umLFMAoC_FJtX2DVPLdG-3KL-bgCICeaoDTmxttxScBM7zHG8p6F4YbJiXRRkzCYMf8azgIi/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
+https://www.youtube.com/watch?v=79b9lf9jAm0
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706096375/ei/l6KwZZ-tAYSIsfIPxuyqyAM/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/79b9lf9jAm0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3SAyMlPjh9zcdnCyOiuLIDRbCQb7wko9mtqzBis-4Fs-gNCw1D84mmo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMHn_l7CGWjuzf6p1bOBabS2_jlkPuRh2X-SKZsmUdUwCIGQubCMdF4F67lfl_Md47a4ekqVMlSZMHnuXQTTI7bGU/file/index.m3u8
+
 no
+https://www.youtube.com/watch?v=1oh9IEwBbFY
+
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="Basico",Canal 23
+https://www.youtube.com/watch?v=VwlWt4WcYpI
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706096228/ei/BKKwZamqBq2csfIPqr6FKA/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/VwlWt4WcYpI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0mb3O3BkM-NfNOderEYwO-ojXG_OJYRXWqCUVIUVIvKJnrmZu1jS-lZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJdaXfcNN3-_VShpi0zq9W6ocb3qJpAFENZnvTERhuhzAiAnHkcz8FastZxo-aadHCk5jtBb9NBvGuS6yFlnJ8auqw%3D%3D/file/index.m3u8
 no
 https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
@@ -111,9 +118,12 @@ https://ythls.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XHILA" tvg-name="Canal 66" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-XHILA-TDT.png" tvg-country="Lat" tvg-url="" group-title="Basico",Canal 66
-https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w1507112297_b1428000_sleng.m3u8
+https://www.youtube.com/watch?v=3LalW-79Mp8
 
-https://ythls.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+si
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706096095/ei/f6GwZerCINOR2_gPtamgqA8/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/3LalW-79Mp8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0k5QOFwj9-CGjY1MbXVWNMDWN77Y_8DDAJoEdHruArHjCiFBuskm_hQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDHpyyK4a0AzOsTPML2RR_dRZfsz-o4F0L4mGny2MKv0CIG9palMxE2i6GHKjaQR7c64iAPn3LtKjVwBEnwL-mSxh/file/index.m3u8
+viejo
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w1507112297_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Noticias",Jalisco TV 
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
@@ -483,6 +493,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LAT", Canal 26 Argentina
+https://www.youtube.com/watch?v=RnTmtVFTSf0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy 
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
@@ -849,6 +860,10 @@ http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 
 nope
 https://v3.playerlatino.live/stream/m3u8/151
+
+
+#EXTINF:-1 tvg-id="Electric Now" tvg-name="Electric Now" tvg-language="es" tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg",Electric Now 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5521
 
 #EXTINF:-1 tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg" group-title="Movies",Electric Now 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8 
