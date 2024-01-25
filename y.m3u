@@ -5915,7 +5915,9 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Studio.666.2022.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg" group-title="Peliculas",The Mystery Of Marilyn Monroe the Unheard Tapes (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Mystery.of.Marilyn.Monroe.The.Unheard.Tapes.2022.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg" group-title="Peliculas",X (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/X.2022.Dual.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
