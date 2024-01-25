@@ -771,8 +771,9 @@ https://archive.org/download/e.-t.-el-extraterrestre-1982/Top%20Gun%20-%201986.m
 http://158.69.158.102/Peliculas/Listo/30122022_1233/pasion_y_gloria.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="Peliculas",Top gun: Maverick (2022)
-https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Top.Gun.Maverick.2022.mp4
 
+https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/Top%20Gun%20Maverick.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg" group-title="Peliculas",Eyes Wide Shut (1986)
@@ -1477,6 +1478,7 @@ https://archive.org/download/PelNavvVariass/Watch%20The%20Polar%20Express%202004
 
  #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBjY2M0ZjYtYjYxZC00NjhiLWIxZWUtOTc5YTU1NTlmMDNlXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",On Guard (1997)
 https://archive.org/download/1-l-0-tr-L0R14N/0nGu4rd.1997-SubLat-.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQwNmI0MDctYzA5Yy00NmJkLWIxNGMtYzgyMDBjMTU0N2IyXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Three Musketeers (1973)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTcwNjM3NGUtYjRlYy00ODNjLTliYzMtMzkzOTBhNGJjMTZhXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Four Musketeers (1974)
@@ -1484,6 +1486,9 @@ https://archive.org/download/1-l-0-tr-L0R14N/0nGu4rd.1997-SubLat-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzc4OTJlMTgtMWE5MC00MDRlLWE2MDQtYTI4ZTAzNzUyZjM2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Three Musketeers (1993)
 https://archive.org/download/t-3-musk.-93-d/T3Musk.93-D-.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zDgvlxVCq5doyAaQHOPuMScokoe.jpg" group-title="Peliculas",The Fourth Musketeer (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Fourth.Musketeer.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3OTc2OTM2OF5BMl5BanBnXkFtZTcwMDM1MjU1NQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Three Musketeers (2011)
 https://archive.org/download/t-4k-3-tl-34d.-206-dl/TT3%20Mu5s.211-SL-.mkv
@@ -3271,6 +3276,7 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Knights.of.the.Zodiac.202
 https://tvinnov.online/PELICULAS%202023/Saint%20Seiya%20Knights%20of%20the%20Zodiac/Los%20Caballeros%20del%20Zodiaco-%201080p%20WEB-DL%20Lat.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="Peliculas",Hocus Pocus 2 (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Hocus.Pocus.2.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg" group-title="Peliculas",Night at the Museum (2006)
 https://archive.org/download/altillo1/Una%20Noche%20en%20el%20Museo.mp4
@@ -4346,8 +4352,14 @@ https://tvinnov.online/PELICULAS%202023/The%20Last%20Voyage%20of%20the%20Demeter
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uolYbaXaY1VV0G7vJuYHMBV9yJ.jpg" group-title="Peliculas",The Last Samurai (2003)
 https://archive.org/download/4r4c3l1l0v3/TL45tS4r41.2003%20-DuaLat-.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI3NjI3NDQtY2RmYS00NTJjLWI0YTQtNTE4NmZiN2UzMWJjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Werewolf (2022)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg" group-title="Peliculas",Werewolf By Night (2022)
 https://archive.org/download/0k4wy.-218/W3rW0lByN1t.223-DL-.mp4
+
+nocolor
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Werewolf.By.Night.2022.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZDEzM2MtOTAyMS00NGYwLThjMTYtZDc4OGZkYjU0NTg5XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Belle Et La Bete (2014)
 https://archive.org/download/4r4c3l1l0v3/L4B3ll33tl4B3t3.%202014-DuaLat-.mp4
@@ -4561,9 +4573,15 @@ https://archive.org/download/1672_20221103/juegos%20del%20hambre%202012%20.mp4
 https://archive.org/download/t-3-musk.-93-d/THungrG4m5TB4ll0S0nB1r55n4k3.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg" group-title="Peliculas",Uncharted (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Uncharted.2022.mp4
+
 https://archive.org/download/t-3-musk.-93-d/Unch.222-D-.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="Peliculas",The Batman (2022)
 https://archive.org/download/t-3-musk.-93-d/TB4.222-D-.mp4
+
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Batman.2022.Dual.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDcyYzRiZmItMTliMS00M2JkLWE0MGMtOWFkMDJmOTAzY2IzXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Jester (2023)
 https://archive.org/download/t-3-musk.-93-d/T.J3st.223-D-.mkv
 
@@ -4777,6 +4795,8 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2018/Nun.2021.mp4
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/The.Nun.II.2023.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Texas Chainsaw Massacre (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Texas.Chainsaw.Massacre.2022.Dual.mp4
+
 https://archive.org/download/t-4k-3-tl-34d.-206-dl/TxCh4s4w%20M4ss.221-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Don't Worry Darling (2022)
@@ -4831,7 +4851,7 @@ https://archive.org/download/p-4n-g-4n.-213-dl/L1kF4trL1kS0.187-SL-.mkv
 https://tvinnov.online/PELICULAS%202023/Eradication%202022/Eradication.2022.720p.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzMjhiOWQtZDkzMy00NmNiLWE1ZTEtYTJmNDIzMzhmZGQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Last Day Of American Crime (2020)
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGExZTUzYWQtYWJjZi00OTI4LTk4OGYtNTA2YzcwMmNiZTMxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Last Duel (2021)
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Card Counter (2021)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Spawn (1997)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg" group-title="Peliculas",¡Hombre Al Agua! (2018)
@@ -4891,7 +4911,11 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Street.Flow.2.2023.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWYyZWU5NzctYjY4Zi00MzYyLTgxZTMtZjBmYWE2NGMwYTllXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="Peliculas",Teen Wolf (2023)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Teen.Wolf.The.Movie.2023.Dual.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Wrath Of Man (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXTybIXrytekB4TeN4xrqeI1f8G.jpg" group-title="Peliculas",The Wrath Of God (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Wrath.of.God.2022.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY3YjU0NTMtOTgzMC00YzlmLWI2ZDAtNzRkYTIwMDQwM2NkXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Finnick (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Finnick.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRjMmUzMTEtMWJiMC00MDUwLWExOGQtNDU2ZTU0Y2RmY2YzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dangerous Lies (2020)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNlNjEzMzQtZDM0MS00YzhiLTk0MGUtYTdmNDZiZGVjNTk0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Death Note (2006)
@@ -4899,7 +4923,8 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Teen.Wolf.The.Movie.2023.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkzNjA4MjgyMl5BMl5BanBnXkFtZTgwMTE1ODIyMDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Death Race 2050 (2017)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Nightmare Before Christmas (1993)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2YTNmYzctMGMzYi00N2UwLThiNTItMGZmNmQ3NWFmY2Y4XkEyXkFqcGdeQXVyNjA4NDA4MjQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fallen Angels Murder Club Friends To Die (2022)
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjY3YjU0NTMtOTgzMC00YzlmLWI2ZDAtNzRkYTIwMDQwM2NkXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Finnick (2022)
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/evgEvYCUGidCyUCxA77EUJiWpVQ.jpg" group-title="Peliculas",Poison (2023)
 
 
@@ -4922,6 +4947,7 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Minions.The.Rise.of.Gru.2
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Lightyear.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0YzhmZDktOGMxMy00YmUxLWE1YmUtZTZhOWQyMzI1OTA2XkEyXkFqcGdeQXVyNzU4NzMwMjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jack In The Box Awakening (2022) 
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Jack.In.The.Box.Awakening.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxYTU5MzctY2MzNS00MTRhLWEwM2UtY2Q5Mzk3OTAzMzcwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Clifford the Big Red Dog (2021)
 https://tvinnov.online/Peliculas/Clifford,%20el%20gran%20perro%20rojo%20LAT.mp4
@@ -4930,8 +4956,10 @@ https://tvinnov.online/Peliculas/Clifford,%20el%20gran%20perro%20rojo%20LAT.mp4
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Father.Stu.2022.Sub.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI5N2FhNzktZjZlNi00MmRjLWE1MmUtNjRlNzQyOGMzYjNhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Memory (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Memory.2022.Dual.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgxMGQ2ZDctYWY4Yy00YTI4LWIxMmYtOWViMGI5ZDIwMmFiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fresh (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Fresh.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg" group-title="Peliculas",La Razon de Estar con Tigo: Un Nuevo Viaje 
 
@@ -4969,7 +4997,7 @@ https://archive.org/download/p-4n-g-4n.-213-dl/XD4y0FP45.2014-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg" group-title="Peliculas",Clash Of The Titans (2009)
 https://archive.org/download/clash-of-the-titans-2010-1080p-br-rip-x-264-dual-audio/Clash%20Of%20The%20Titans%20%282010%29%201080p%20BrRip%20x264%20-%20Dual%20Audio-.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg" group-title="Peliculas",Wrath Of The Titans 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg" group-title="Peliculas",Wrath Of The Titans (2012)
 https://archive.org/download/p-4n-g-4n.-213-dl/Wr40fTT1ts.212-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg" group-title="Peliculas",The Stranger (2022)
@@ -5034,6 +5062,8 @@ https://archive.org/download/p-4n-g-4n.-213-dl/SukPu.2011-DL-.mkv
 https://tvinnov.online/PEDIDO_CLIENTES/Sucker%20Punch.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="Peliculas",Watcher (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Watcher.2022.mp4
+
 https://archive.org/download/fdvgh65VHS99.222-DL-/TW4c.222.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Covenant (2023)
@@ -5316,6 +5346,8 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/The.Monkey.King.2023.mkv
 https://tvinnov.online/PELICULAS%202023/The%20Monkey%20King/El%20Rey%20Mono.2023.WEB-DL.1080p.Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="Peliculas",The Magic Flute (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Magic.Flute.2022.mp4
+
 https://tvinnov.online/PELICULAS%202023/The%20Magic%20Flute/The%20Magic%20Flute%20(2022)%201080p%20WEB-DL%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i83Ykng2HVY5EF043zMmeQdLUQY.jpg" group-title="Peliculas",White Men Cant Jump (2023)
@@ -5452,6 +5484,8 @@ http://158.69.158.102/Peliculas/Listo/30122022_0431/Actividad_paranormal_3.mp4
 http://158.69.158.102/Peliculas/Listo/30122022_0431/Thirteen.Lives.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="Peliculas",The Adam Project (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Adam.Project.2022.mp4
+
 http://158.69.158.102/Peliculas/Listo/The.Adam.Project.2022.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7OfTWTQEvPcwPrOdeLH0F3h6GRZ.jpg" group-title="Peliculas",I Know What Your Did Last Summer (1997)
@@ -5875,8 +5909,12 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Last.Seen.Alive.2022.Dual
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ng4lnPnTK43dOWT3dGvOuIiLJKT.jpg" group-title="Peliculas",Speak No Evil (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Speak.No.Evil.2022.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg" group-title="Peliculas",Studio 666 (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Studio.666.2022.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ab3MEngH2sWK8uydGBFfgZDB4z.jpg" group-title="Peliculas",The Mystery Of Marilyn Monroe the Unheard Tapes (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Mystery.of.Marilyn.Monroe.The.Unheard.Tapes.2022.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
