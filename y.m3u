@@ -3023,6 +3023,8 @@ http://archive.org/download/1_20191203/Subid0_p4r4_stream1ng_A85/1.mp4
 https://archive.org/download/Exorcistadelpapa/The.Popes.Exorcist.2023.1080p.Latino.Mega1080p.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg5NzI3NWYtOGVmMi00OGQxLTgwNmQtNTcxMzgwMjBhMzg4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wire Room (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Wire.Room.2022.mp4
+
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/Wire%20Room%20%5Bcinecalidad%5D%5Bfembed%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE1ZTc1ZDQtZTlhNy00ZmI4LTkzOTQtMTFkNWU5OTdmNDM5XkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ashfall (2019)
@@ -5918,9 +5920,15 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Mystery.of.Marilyn.Mo
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg" group-title="Peliculas",X (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/X.2022.Dual.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qVRADANU3JpMyapKjV3eM41VlDG.jpg" group-title="Peliculas",You Wont Be Alone (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/You.Wont.Be.Alone.2022.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="Peliculas",Ticket Tp Paradise (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Ticket.to.Paradise.2022.Dual.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="Peliculas",The School For Good And Evil (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.School.for.Good.and.Evil.2022.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
