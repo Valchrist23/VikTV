@@ -5932,7 +5932,9 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Ticket.to.Paradise.2022.D
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="Peliculas",The School For Good And Evil (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.School.for.Good.and.Evil.2022.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg" group-title="Peliculas",The Moderator (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Moderator.2022.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
