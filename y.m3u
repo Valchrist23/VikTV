@@ -5955,7 +5955,9 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2009/The.New.Daughter.2009.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="Peliculas",Moonfall (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Moonfall.2022.Dual.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="Peliculas",Ouija Warehouse (2021)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Ouija.Warehouse.2021.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
