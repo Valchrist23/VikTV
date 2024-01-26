@@ -30,9 +30,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008
 si
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
-
-
 #EXTINF:-1 tvg-id="ADN40" tvg-name="ADN40" tvg-chno="8" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
@@ -199,7 +196,11 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="A Mas" tvg-name="A Mas" tvg-language="es" tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Unicable
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
