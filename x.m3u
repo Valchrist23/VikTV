@@ -65,14 +65,22 @@ https://5ca3e84a76d30.streamlock.net:1935/tvunam/tvunam/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w1069417030_DVR_12555.m3u
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",El Nueve
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+
+si
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
 no
 https://ythls.onrender.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
+
 no
 https://www.youtube.com/watch?v=-pWOU95pguk
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
+
 no
 https ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
@@ -123,6 +131,11 @@ https://www.youtube.com/watch?v=3LalW-79Mp8
 
 si
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706096095/ei/f6GwZerCINOR2_gPtamgqA8/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/3LalW-79Mp8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f0k5QOFwj9-CGjY1MbXVWNMDWN77Y_8DDAJoEdHruArHjCiFBuskm_hQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgDHpyyK4a0AzOsTPML2RR_dRZfsz-o4F0L4mGny2MKv0CIG9palMxE2i6GHKjaQR7c64iAPn3LtKjVwBEnwL-mSxh/file/index.m3u8
+
+https://5f1af61612fb5.streamlock.net:1936/canal66/canal66/playlist.m3u8
+
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w792170676_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI0IDc6MDg6NTAgUE0maGFzaF92YWx1ZT0rZ0hOQmg5ekZqR3pPTXE2ZzcvVkJnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
 
 viejo
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/chunklist_w1507112297_b1428000_sleng.m3u8
@@ -770,6 +783,8 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="xtremacartoon.ar" tvg-name="" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/06/xtreme-sport-vector-logo.png" group-title="Cartoon",Xtrema Retro Cartoons
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Junior-Logo.svg/1354px-Junior-Logo.svg.png" group-title="Cartoon",TG Junior
