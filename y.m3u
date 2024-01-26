@@ -110,6 +110,9 @@ https://archive.org/download/xxdutyxx_20170614/The.Bourne.Supremacy.2004.720p.Br
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="Peliculas",The Bourne Legacy (2012)
 https://archive.org/download/alplani1_202001/El%20mito%20de%20Bourne.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NbXn1NMdfGM491V3EFjZADR9SX.jpg" group-title="Peliculas",The Squid And The Whale (2005)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2005/The.Squid.and.the.Whale.2005.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg" group-title="Peliculas",28 Days Later (2002)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2002/Exterminio.2002.mp4
 
@@ -517,9 +520,9 @@ https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
 https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Collateral (2004)
-https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
-
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2004/Collateral.2004.mp4
+
+https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_.jpg" group-title="Peliculas",White Chicks (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
@@ -5219,6 +5222,8 @@ https://tvinnov.online/PELICULAS%202023/The%20Handmaiden%202016/The.Handmaiden.2
 https://archive.org/download/fdvgh65VHS99.222-DL-/B1tco.224-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg" group-title="Peliculas",Doctor Strange in the Multiverse of Madness (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.mp4
+
 https://archive.org/download/fdvgh65VHS99.222-DL-/D05tr4ngMul0M4dss.222.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3syWckCgiAcsJUjDoC4Skj3Qg2F.jpg" group-title="Peliculas",The Haunting of the Tower of London (2022)
@@ -5935,13 +5940,21 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.School.for.Good.and.E
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg" group-title="Peliculas",The Moderator (2022)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/The.Moderator.2022.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4RYZSHM3eaxXAnjbgNiVaqmekL8.jpg" group-title="Peliculas",Forgive Us Our Trespasses (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Forgive.Us.Our.Trespasses.2022.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg" group-title="Peliculas",Coach Carter (2005)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2005/Coach.Carter.2005.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="Peliculas",Solomon Kane (2009)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2009/salomon.kane.2009.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y2dAEmo6j8U5TtGT3iagckZQZNE.jpg" group-title="Peliculas",The New Daughter (2009)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2009/The.New.Daughter.2009.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="Peliculas",Moonfall (2022)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Moonfall.2022.Dual.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
