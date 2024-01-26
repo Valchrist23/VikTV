@@ -8,6 +8,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
+
+
+#EXTINF:-1 tvg-id="Miembros Al Aire" tvg-name="Miembros Al Aire" tvg-language="es" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1280",Miembros Al Aire
 https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
 
 no
@@ -1080,6 +1083,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
+https://linear-432.frequency.stream/mt/studio/432/hls/master/playlist.m3u8
 
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8 
 
@@ -1088,8 +1092,13 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 
 https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
+https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
 https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+
+https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento +",National Geographic
 
