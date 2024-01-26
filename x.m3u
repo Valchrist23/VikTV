@@ -360,10 +360,14 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 #EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo California 
-https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/611fcb59-f4ec-43ad-9110-32b44f0260a0/1.m3u8
+#EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Al Dia 
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/5488e207-a1fd-4b3a-ba72-c8f2d3ec1604/5.m3u8
+
 no
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D 
+
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo California
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/611fcb59-f4ec-43ad-9110-32b44f0260a0/1.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
@@ -519,6 +523,8 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/34222267-081e-4141-8c9f-45ca557d552d/3.m3u8
 
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="General",H2
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/dda8760a-3ed3-4018-980c-2aba1ce77f8b/5.m3u8
+
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="US",True History 
