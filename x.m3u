@@ -111,7 +111,9 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CssEq0y5pZTdePIUGFF8Ly_hv50
 old
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Mexicali
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+
 https://www.youtube.com/watch?v=ynApQuNMzWM
 no
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706095769/ei/OaCwZe_OBMCIsfIP4P-ykAQ/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/ynApQuNMzWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxsRshzddvAykza60tITbQQ6J7EAshK38MliHl7D3ksxnxqjY_HfAUnh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGwnb6B3K9P-Myo71umLFMAoC_FJtX2DVPLdG-3KL-bgCICeaoDTmxttxScBM7zHG8p6F4YbJiXRRkzCYMf8azgIi/file/index.m3u8
@@ -1100,6 +1102,9 @@ https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 
 https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/1920px-MGM_2021.svg.png" group-title="Entretenimiento +",MGM Presents Crime
+https://linear-719.frequency.stream/mt/studio/719/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento +",National Geographic
 
 no
@@ -1561,6 +1566,9 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies UK Comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="Cine Sony One" tvg-logo="https://sonyone.com.mx/themes/custom/responsive_sony_one/logo.svg" group-title="Movies",Sony One Thriller TV
+https://linear-755.frequency.stream/mt/studio/755/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Cine Sony 
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8 
