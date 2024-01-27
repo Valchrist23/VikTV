@@ -644,6 +644,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Anime",BitMe
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",Fanpop TV
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
@@ -1080,8 +1083,8 @@ https://69c5398a50774cad9a6adceb3f65f2cd.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="AWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/AWE_Logo_(platinum).jpg/1200px-AWE_Logo_(platinum).jpg" group-title="USA",AWE 
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN RePlay 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN 
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d2feb4d8-21b7-11eb-9bad-0242ac110002&deviceId=32ff2af8-9c43-4409-a920-a0861c1d8e6f&deviceVersion=69.2.0.1713&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&deviceDNT=0&userId=&advertisingId=&deviceLat=25.7738&deviceLon=-80.3584&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
