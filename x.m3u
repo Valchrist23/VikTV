@@ -185,6 +185,12 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision Noticias 24/7
+https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
+
+no
 https://linear-306.frequency.stream/dist/vix/306/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW En Español" tvg-name="DW En Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",DW En Español
@@ -223,17 +229,21 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Unicable
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Golden" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+si
 https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden
-https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="es" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Lat",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
@@ -359,6 +369,8 @@ https://www.tdtchannels.com/stream/tevecat.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="ES",A3Cine 
+http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Cine
 
 no
