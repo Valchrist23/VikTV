@@ -114,6 +114,12 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 
+
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8 
+
+
+https://5f1af61612fb5.streamlock.net:1936/canal66/canal66/playlist.m3u8
+
 https://www.youtube.com/watch?v=ynApQuNMzWM
 no
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706095769/ei/OaCwZe_OBMCIsfIP4P-ykAQ/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/ynApQuNMzWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxsRshzddvAykza60tITbQQ6J7EAshK38MliHl7D3ksxnxqjY_HfAUnh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGwnb6B3K9P-Myo71umLFMAoC_FJtX2DVPLdG-3KL-bgCICeaoDTmxttxScBM7zHG8p6F4YbJiXRRkzCYMf8azgIi/file/index.m3u8
