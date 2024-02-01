@@ -1105,9 +1105,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="Noticias",KVVB-TV 33 
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo="https://sciencefiction.com/wp-content/uploads/2019/09/dustx-logo-e1568245013783.jpg" group-title="Entretenimiento +",DUST 
-https://dust-int-samsungau.amagi.tv/playlist.m3u8 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ea71269c-4145-480f-bd68-051cdff1e7f3/0.m3u8
 
@@ -1202,6 +1199,9 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8 
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="Entretenimiento+",Gravitas
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de7e0b3f5003f5d9f8e/variant.m3u8?url=223e6cc1e9d5e5a99c2aafdf62a3e852-ed9fa9f0770dfbd1de08e3a9797778c6545674483a610bbba50e73f2c4055baac332e8317f982bfcddd2db7d3d44c072f72a3e072ce3a2e0b09bb04511be162a5ef6129544dcfcbd06e420466a4b4aa3f5b0ffabef1d6d6d4e82005e4c6b10de356e555586a1277cded056a6d35bcf75ab47690eb907d59663c2e24140cc06e20cb3d6ff5d89baa64ba77dde5be79de04bc55c7e06cadbee98bf3cb76a00593648fd6f2bd48e5e068bf019db549990be2446209c0ab00a960a405eb2f2e5b41e44b713334a68791d494ab505a7bad4f7&x-plex-token=RxG1xtayLm3zBXrieuof&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1706821153
+
+no
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="Art",Classic Arts Showcase 
@@ -1211,6 +1211,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/c3/c3286c34dbeed56f5708c4b935fcfa58.jpeg" group-title="Entretenimiento+",Pop TV
+no
 http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="Entretenimiento+",BET Pluto TV
