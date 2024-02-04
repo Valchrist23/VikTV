@@ -561,11 +561,6 @@ https://cdn.jwplayer.com/manifests/FhWKxI2s.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shark Tale (2004)
 https://cdn.jwplayer.com/manifests/OWY4QHmV.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Collateral (2004)
-http://89.187.179.11:88/Latino/Movies/Dual_Movies/2004/Collateral.2004.mp4
-
-https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_.jpg" group-title="Peliculas",White Chicks (2004)
 https://cdn.jwplayer.com/manifests/7Eu0eQCZ.m3u8
 
@@ -4446,7 +4441,8 @@ https://archive.org/download/0k4wy.-218/W3rW0lByN1t.223-DL-.mp4
 nocolor
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Werewolf.By.Night.2022.mp4
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pVIAPiIvHcitgXV8BA7uTyCcEuk.jpg" group-title="Peliculas",Collateral Beauty (2016)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Collateral.beauty.2016.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhiZDEzM2MtOTAyMS00NGYwLThjMTYtZDc4OGZkYjU0NTg5XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Belle Et La Bete (2014)
 https://archive.org/download/4r4c3l1l0v3/L4B3ll33tl4B3t3.%202014-DuaLat-.mp4
@@ -5117,6 +5113,11 @@ https://archive.org/download/The.Dark.Knight.Rises.2012.1080pWww.compucalitv.com
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg" group-title="Peliculas",Collateral (2004)
 https://archive.org/download/p-4n-g-4n.-213-dl/C0ll.204-DL-.mkv
+
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2004/Collateral.2004.mp4
+
+https://cdn.jwplayer.com/manifests/wbEcUjsI.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg" group-title="Peliculas",Naked Singularity (2021)
 https://archive.org/download/hoteltransilvania_202201/5fnake%20sigularityf00eee2057a9f2e56a40e1f4b4c904-720p.mp4
 
