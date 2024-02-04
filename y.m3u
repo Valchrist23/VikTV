@@ -110,6 +110,9 @@ https://archive.org/download/xxdutyxx_20170614/The.Bourne.Supremacy.2004.720p.Br
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="Peliculas",The Bourne Legacy (2012)
 https://archive.org/download/alplani1_202001/El%20mito%20de%20Bourne.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xA7N41glw17MBQtcWSm2eBlBRuG.jpg" group-title="Peliculas",Jason Bourne (2016)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Jason.bourne.2016.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9NbXn1NMdfGM491V3EFjZADR9SX.jpg" group-title="Peliculas",The Squid And The Whale (2005)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2005/The.Squid.and.the.Whale.2005.mp4
 
@@ -886,6 +889,8 @@ http://archive.org/download/dz4w-6us4/DZ4W6US4.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTgzMjU1NDUwMl5BMl5BanBnXkFtZTgwODg1NjY0ODE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Money Monster (2016)
 https://archive.org/download/M0N3Y.M0/M0N3Y.M0N5739-EN-1080..mp4
+
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Money.monster.2016.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUzNTg0MzM3NF5BMl5BanBnXkFtZTgwNDg3NTY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mr. Turner (2014)
 https://archive.org/download/MrTurner2014720pxBDRipLATiNOENGX264AC3DTS/Mr.Turner.2014.720p.BDRip.LATiNO.ENG.x264.AC3.DTS.mkv
@@ -2691,6 +2696,9 @@ https://archive.org/download/e.-t.-el-extraterrestre-1982/Moonwalker%20-%201988.
 https://archive.org/download/p-4n-g-4n.-213-dl/JR34ch.212-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg" group-title="Peliculas",Jack Reacher Never Go Back (2016)
 https://archive.org/download/alplani1_201912/Jack%20Reacher%20Sin%20regreso.mp4
+
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Jack.reacher.never.go.back.2016.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg" group-title="Peliculas",Harry Potter and the Sorcerers Stone (2001)
 https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20la%20piedra%20filosofal.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="Peliculas",Harry Potter And The Chamber Of Secrets (2002)
@@ -5736,6 +5744,9 @@ https://tvinnov.online/PEDIDO_CLIENTES/The.Tourist.2010.1080p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fDAEJr4WLZLJQmckA2JZNICt0u3.jpg" group-title="Peliculas",The Mechanic (2011)
 https://tvinnov.online/PEDIDO_CLIENTES/the_mechanic_latino_el_especialista.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h651SE7s5z9hbKDiwn38Iubkz5w.jpg" group-title="Peliculas",Mechanic Resurrection (2016)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Mechanic.Resurrection.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg" group-title="Peliculas",Vivarium (2019)
 https://tvinnov.online/PEDIDO_CLIENTES/vivarium.dvdrip.latino.mp4
 
@@ -6033,10 +6044,18 @@ https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20En
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/67x9NJyjK4u02NpISnChDMKzCUr.jpg" group-title="Peliculas",What If (2013)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Solo%20Amigos.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Life (2017)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Life.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u6c5xkR0eIzlnxcQoMBlySH6ann.jpg" group-title="Peliculas",DeepWater Horizon (2016)
+http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Deepwater.Horizon.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dpdmO3PNKwCOzf68y8J4Gu19i3r.jpg" group-title="Peliculas",Headshot (2016)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Headshot%20%282016%29%20720p.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
