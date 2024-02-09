@@ -12,6 +12,8 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
 
+#EXTINF:-1 tvg-id="NRT Internacional" tvg-name="NRT Internacional" tvg-language="es" tvg-logo="https://nowmedia.tv/wp-content/uploads/2022/07/1.jpg",NRT Internacional
+https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Miembros Al Aire" tvg-name="Miembros Al Aire" tvg-language="es" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1280",Miembros Al Aire
 https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
@@ -662,7 +664,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anipop
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
-no
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
@@ -1023,6 +1024,7 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" roup-title="Entretenimiento +",Star Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/260px-FXX_Logo.svg.png" roup-title="Entretenimiento +",FXX
 
@@ -1036,7 +1038,7 @@ https://livevideo01.fox43.com/hls/live/2011656/elvs/live.m3u8
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 54
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+https://lnc-wxmi.tubi.video/playlist.m3u8
 
 https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8
 
@@ -1055,7 +1057,13 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC LX 
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC New York https://v-ny.mybtv.net/live/548.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 26 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC Ethiopia https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8
 
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
+https://lnc-wdsu.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
+https://lnc-ktvh.tubi.video/playlist.m3u8
+
 https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://img.new.livestream.com/accounts/00000000017eb8f0/39405900-788a-4ff6-bad9-755051187000.png" tvg-country="US" tvg-url="" group-title="Local",KUSI 
@@ -1074,10 +1082,13 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 
 https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC West
+http://170.254.18.106/AMC/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",Stories By AMC 
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/a3c70a7e-b8cc-41f0-97c8-18f62e940555/3.m3u8
 
-es East 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC East 
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" tvg-name="AMC en español" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",AMC en español
@@ -1108,6 +1119,9 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
 https://linear-432.frequency.stream/mt/studio/432/hls/master/playlist.m3u8
 
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8 
@@ -1116,6 +1130,9 @@ https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 https://linear-463.frequency.stream/dist/vix/463/hls/master/playlist.m3u8
 
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/c9edda72-4baf-4b59-a0c9-3321654950c2/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
 https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
@@ -1615,6 +1632,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Movies",Toonami Movies 
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/KPYX_Pix_Plus_44_Cable_12.svg/799px-KPYX_Pix_Plus_44_Cable_12.svg.png" group-title="Movies",PIX 
+https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Movies",Orbit TV 
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8 
