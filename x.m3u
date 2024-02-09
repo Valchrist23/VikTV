@@ -7,6 +7,9 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="Claro Vision" tvg-name="Claro Vision TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1920px-Claro_TV_wordmark.svg.png",Clarovision
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
 
 
@@ -57,20 +60,15 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",TV UNAM
+http://192.100.186.53:8090/hls/live.stream.m3u8
+
 no
-
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
-
 https://5ca3e84a76d30.streamlock.net:1936/tvunam/videotvunam/playlist.m3u8
-
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w840707836_DVR.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOS8yMDI0IDQ6Mjc6NTYgQU0maGFzaF92YWx1ZT13M0V0MzUxMGYxcUZkNlRzcTVNdTJnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
-
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1069417030_sleng.m3u8
-
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
-
 https://5ca3e84a76d30.streamlock.net:1935/tvunam/tvunam/playlist.m3u8
-
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/media_w1069417030_DVR_12555.m3u
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",El Nueve
@@ -96,6 +94,7 @@ https ythls.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
 
 #EXTINF:-1 tvg-id="Imagen TV Radio" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.imagentv.com/resources/defaults/v2/imagen_default300.png" group-title="Basico",Imagen TV Radio 
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 no
 ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
@@ -111,7 +110,10 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CssEq0y5pZTdePIUGFF8Ly_hv50
 old
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Mexicali 
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Guadalajara
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
 
 
@@ -120,14 +122,13 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
 
 https://5f1af61612fb5.streamlock.net:1936/canal66/canal66/playlist.m3u8
 
-
-
 https://www.youtube.com/watch?v=ynApQuNMzWM
 no
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706095769/ei/OaCwZe_OBMCIsfIP4P-ykAQ/ip/2806%3A290%3Ac80a%3A6a40%3A39a9%3A21a3%3Aae92%3A4efe/id/ynApQuNMzWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxsRshzddvAykza60tITbQQ6J7EAshK38MliHl7D3ksxnxqjY_HfAUnh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGwnb6B3K9P-Myo71umLFMAoC_FJtX2DVPLdG-3KL-bgCICeaoDTmxttxScBM7zHG8p6F4YbJiXRRkzCYMf8azgIi/file/index.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706134341/ei/5TaxZeqEGLrssfIPoaG86A0/ip/2806%3A290%3Ac80a%3A6a40%3A14f4%3A3cb0%3Ab65e%3A3313/id/ynApQuNMzWM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f4u4j4LvbKEUjuAyPYvYszeq1SclKbKL25vwhcHklhSc-mX4MrnOMaZW/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPPyMfQtPbGIXx7McREdcNtjTQsaujXMy4EJ0T7-erKjAiAGOTIFweAp31OcqLE6V8ADWZcucueaHRC4YybauKhyqg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 no
 https://www.youtube.com/watch?v=79b9lf9jAm0
@@ -183,9 +184,18 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1600px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",14 de Mexico
@@ -441,6 +451,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u
 
 #EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France 24 Espanol" tvg-lang="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" tvg-country="Lat" tvg-url="http://www.telered.com.ar" group-title="Noticias",France 24 Espanol
 http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8 
+
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 8 
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
@@ -727,6 +739,9 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w841089325.
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
 https://kali.vdopanel.com:3070/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Anime",Play Television
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a" tvg-name="RetroCrush" tvg-language="es" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Anime",RetroCrush
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5963
 
@@ -955,6 +970,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL 
+
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png" group-title="Movies",Tu Cine 
 
@@ -1634,6 +1651,12 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/dantv.jpg" group-title="Movies",Dan TV 
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="AION" tvg-name="AION" tvg-language="es" tvg-logo="https://aiontelevision.com/wp-content/uploads/2017/12/logo.png",AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
+https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="Movies",Wow TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
 
@@ -1648,6 +1671,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",GenTV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV 
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
