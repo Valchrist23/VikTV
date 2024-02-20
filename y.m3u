@@ -1046,6 +1046,7 @@ http://archive.org/download/3_20221005/inframundo%203.mp4
 http://archive.org/download/20221005_20221005_1129/inframundo%204.mp4
 
 https://archive.org/download/alplani1_202001/Inframundo%204%20El%20Despertar.mp4
+http://148.103.150.202/peliculas%20Accion/Underworld%204%20-%20Awakening.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underworld: Blood Wars (2016)
 http://archive.org/download/20221005_20221005_1138/inframundo%205.mp4
@@ -6142,8 +6143,12 @@ http://148.103.150.202/peliculas%20Accion/Mr%20And%20Mrs%20Smith.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aCDrPEfvxcPNRynd2uZyXql7aj.jpg" group-title="Peliculas",Valerian and the City of a Thousand Planets (2017)
 http://148.103.150.202/peliculas%20Accion/Valerian%20and%20the%20City%20of%20a%20Thousand%20Planets.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg" group-title="Peliculas",Fury (2014)
+http://148.103.150.202/peliculas%20Accion/Fury.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lWtftwehOukt2YIrBqoUj0VplkW.jpg" group-title="Peliculas",Gutshot Straight (2014)
+http://148.103.150.202/peliculas%20Accion/Gutshot%20Straight.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
