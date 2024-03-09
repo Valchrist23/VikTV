@@ -558,7 +558,7 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 no
 https://www.youtube.com/watch?v=RnTmtVFTSf0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1xPogK.png" group-title="ARGENTINA",Canal 2 Jujuy 
+#EXTINF:-1 tvg-logo="https://canal2jujuy.com/canal2/wp-content/uploads/2020/01/C2-8.png" group-title="ARGENTINA",Canal 2 Jujuy 
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png/800px-Logo_Canal_4_La_Mejor_Televisi%C3%B3n.png" group-title="ARGENTINA",Canal 4 Jujuy 
