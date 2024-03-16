@@ -6074,11 +6074,6 @@ https://archive.org/download/r-4dcl.-223-dl/T.5p3ctN0w.213-DL-.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",The Surrogates (null)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",Cowboy VS Aliens (null)
-
-
-https://fina.dyndns.tv/Peliculas/Cowboys%20vs%20Aliens.mkv
-
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Exodus Gods And Knights (null)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M4NjEyY2YtYmUwOS00YmUzLWFhMmUtN2E2YzZhMmZkMjg1XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_.jpg" group-title="Peliculas",Peppermint (2018)
@@ -6112,9 +6107,17 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Dog.Gone.2023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uR03YFvc7rZg8Yb1uOKekIS084A.jpg" group-title="Peliculas",Chicken Run Dawn Of The Nugget (2023)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/Chicken.Run.Dawn.of.the.Nugget.2023.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="Peliculas",The Beekeeper (2024)
+https://archive.org/download/b-33kpr.-224-dl/B33kpr.224-DL-.mkv
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg" group-title="Peliculas",Cowboy VS Aliens (2011)
+https://archive.org/download/b-33kpr.-224-dl/C0wb.n.4li.211.mkv
+
+https://fina.dyndns.tv/Peliculas/Cowboys%20vs%20Aliens.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sMp34cNKjIb18UBOCoAv4DpCxwY.jpg" group-title="Peliculas",Damsel (2024)
+https://archive.org/download/b-33kpr.-224-dl/D4m5.224-SL-.mkv
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
