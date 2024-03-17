@@ -6055,8 +6055,6 @@ https://archive.org/download/r-4dcl.-223-dl/T.5p3ctN0w.213-DL-.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",The Host (null)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",The Hateful Eight (null)
-
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Unbroken (null)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Unfriend Dark (2020)
@@ -6144,11 +6142,19 @@ https://archive.org/download/w-1l.-c-4rd.-215.-dl/W1l.C4rd.215.-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNkIONc4Rgmzo23ph7qWp9QfVnW.jpg" group-title="Peliculas",Mr. Nobody (2009)
 https://archive.org/download/lasvidasposiblesdemr.nobody2009jacovandormael/Las%20vidas%20posibles%20de%20Mr.%20Nobody%20%282009%29%20-%20Jaco%20Van%20Dormael.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg" group-title="Peliculas",Mean Girls (2024)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg" group-title="Peliculas",The Hateful Eight (null)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg" group-title="Peliculas"Code 8 Part II (2024)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n2maVLIfJ8Q5qcRou0tSdDgmeSy.jpg" group-title="Peliculas",The Kiss List (2023)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jYBEX4ed6NBeDYbqC5Rd0xVzblO.jpg" group-title="Peliculas",Ghost Project (2023)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
