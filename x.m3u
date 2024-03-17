@@ -543,6 +543,8 @@ https://wifispeed.trapemn.tv:1936/Cartoon/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.m3u8?
 
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anipop
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
@@ -670,6 +672,9 @@ https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
 
