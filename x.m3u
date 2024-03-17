@@ -1502,6 +1502,9 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w193512155.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/340px-Logo_tvmax.png" group-title="Movies",TV Max
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://img1.static-ottera.com/prod/oly/video/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" group-title="Movies",Free TV Familia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=bszvuqHWPXQZ2Uuior1p&channelId=60240f57676235002df19f49&device_id_type=&ifa_type=ppid&url=app.plex.tv&app_name=plex&app_bundle=com.plexapp.android&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&gdpr=0&gdpr_consent=0&coppa=0&ua=okhttp%2F4.9.0&ip=185.236.200.172&brand_name=&device_model=&device_type=handset&w=&h=&partner_id=SELVID1S1E38
+
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Entretenimiento+" ,Investiga
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
