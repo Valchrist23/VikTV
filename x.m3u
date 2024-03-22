@@ -1365,6 +1365,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3h4N81B2KBxsIa-9gtKM5IRapBxSHxlOvCRJKk5uvCo03eA-8cw5&usqp=CAE&s" group-title="Movies",MovieSphere by Lionsgate
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="64a3d96f060e830008af6745" tvg-name="MovieSphere by Lionsgate" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="",Scream Factory TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8fe6eee8-e887-11ee-aac3-8659105ff2ba&deviceId=1dcc17cd-4f04-4f89-9034-73715166fa30&deviceVersion=120.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=43.650001525878906&deviceLon=-79.36000061035156&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 
