@@ -1742,8 +1742,6 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2019/Overboard.2018.1080p-dual
 
 https://archive.org/download/th3.3qu4l1z3r.2.2018.hdrip.720p.latino/0v3rb04rd.2018.hdrip.720p.latino.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA2OTNiZWQtNTBlNi00OGNjLTkzMzgtOTZiZDY2ZWIyNTY1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Man Who Knew Too Little (1997)
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg4ZjUzMzMtYzlmYi00YTcwLTlkOWUtYWFmY2RhNjliODQzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Babe (1995)
 https://archive.org/download/videotime-cine-latino/Babe%20el%20cerdito%20valiente.mp4
 
@@ -6182,11 +6180,18 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2019/The.laundromat.2019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="Peliculas",The Domestics (2018)
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2019/The.domestics.2018.1080p-dual-lat-cinecalidad.to.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yVlIZa0u6CTN5LudxGX77Fk46iz.jpg" group-title="Peliculas",The Man Who Knew Too Little (1997)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg" group-title="Peliculas",Groundhog Day (1993)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fAERrD6vvmznDoL99wlgjhSfPcH.jpg" group-title="Peliculas",Addicted (2014)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uUeLr12fYHvVPyjI3Hjr2fZ7NaK.jpg" group-title="Peliculas",Poker Face (2022)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTfsJkplZPe47xw147KV3qutqpm.jpg" group-title="Peliculas",Nameless Days (2022)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qmj0pt8wpvPTY251cvkK4zm9n8p.jpg" group-title="Peliculas",A Janitor (2021)
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
