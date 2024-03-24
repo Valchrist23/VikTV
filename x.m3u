@@ -467,7 +467,7 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA",Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
-#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV Now" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV
+#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV NOW" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="General",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="Entretenimiento +",History
@@ -640,7 +640,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Anime",Anime All Ages 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Anime",Asiancrush (720p) 
+#EXTINF:-1 tvg-id="Asiancrush.us" tvg-name="Asiancrush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tmtdwdU.png" group-title="Anime",Asiancrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb5639007a7464909ccf2164d1f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa5ffe25a468c69a3ac4e41917e58e683179cc94dbb85d0469845867ef01598c6f088d71488bdab57fe03f2267b3b481cc9da08f9a348a5e58a7b308a702b5f6c368cc2c3a43d56ea40474ceac0c8b06bec16c09d57e20a56eb32ab25f0583eaf7868d78034c2899e9d25663cb6c95a6f3ed294cae8de004371e266c093bb56698bf9047d3da927b8706f50389cbada3cfc03b9700aa5cd01d144fa95ded9bdf8eecaa59f458c2085e5f18a314b4059c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3d72094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386c2d3d0d0ceabeee5ace051ebe137bbd7f077bf494926/17/640x360_1057680/index.m3u8
 
 #EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Anime",One Piece 
@@ -785,7 +785,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-title="Entretenimiento +",My KCWX TV 
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",My Time Movie Network 
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="Entretenimiento +",My Time Movie Network Latinoamerica 
@@ -860,11 +860,8 @@ https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="CHARGE" tvg-name="CHARGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/799px-Charge%21_Logo_2020.svg.png" group-title="USA",CHARGE
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder (1080p) 
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="Insight TV" tvg-name="Insight TV" tvg-country="UK" tvg-language="English" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c6/84/6a/c6846a16-c258-f7df-015a-1ac902a4ae7a/source/256x256bb.jpg" group-title="",Insigth TV 
-https://insighttv-vizio.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png",WGN News
 https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
@@ -1202,7 +1199,7 @@ http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225
 #EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=publish" group-title="Sports",SportsGrid
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="EdgeSports(Germany)(English).de" tvg-name="Edge Sport" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",Edge Sport 
+#EXTINF:-1 tvg-id="EdgeSports(Germany)(English).de" tvg-name="Edge Sport" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg" group-title="Sports",Edge Sport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Pac-12_Network_logo.png" tvg-country="US" tvg-url="" group-title="Sports",Pac-12 Insider
