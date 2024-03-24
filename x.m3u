@@ -1392,7 +1392,7 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Comedias - Rakuten TV
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Cine Sony One" tvg-logo="https://sonyone.com.mx/themes/custom/responsive_sony_one/logo.svg" group-title="Movies",Sony One Thriller TV
+#EXTINF:-1 tvg-id="Cine Sony One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_One_logo_2016.jpg" group-title="Movies",Sony One Thriller TV
 https://linear-755.frequency.stream/mt/studio/755/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Cine Sony 
