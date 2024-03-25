@@ -125,7 +125,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i0.wp.com/diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="MX",Canal 10 Cancun 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Las Estrellas -2" tvg-name="Las Estrellas -2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas -2
+#EXTINF:-1 tvg-id="Las Estrellas -1" tvg-name="Las Estrellas -1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas -1
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
@@ -1213,7 +1213,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u
 #EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="Sports",beIN SPORTS XTRA en español 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=376ab1a0-1f46-11ec-b907-0242ac110003&deviceId=e06a8d5f-8c14-47c6-9cbd-8fef4b8d4fe0&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Real Madrid" tvg-name="Real Madrid" tvg-logo="https://i1.wp.com/www.footballa45giri.it/wp-content/uploads/2015/07/champions-league-logo.jpg" group-title="Sports",Real Madrid
+#EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="Real Madrid TV Mexico" tvg-logo="https://i1.wp.com/www.footballa45giri.it/wp-content/uploads/2015/07/champions-league-logo.jpg" group-title="Sports",Real Madrid TV Mexico
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1741
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/210px-National_Basketball_Association_logo.svg.png?20221026000552" group-title="Sports",NBA TV
