@@ -12,9 +12,6 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="NRT Internacional" tvg-name="NRT Internacional" tvg-language="es" tvg-logo="https://nowmedia.tv/wp-content/uploads/2022/07/1.jpg",NRT Internacional
 https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Miembros Al Aire" tvg-name="Miembros Al Aire" tvg-language="es" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1280",Miembros Al Aire
-https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nuestra Vision" tvg-name="Nuestra Vision" tvg-language="es" tvg-logo="https://nuestravision.tv/wp-content/uploads/2019/08/NV_App_LandingPage_Logo_20190822.png",Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
@@ -193,6 +190,9 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Unicable MX
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miembros Al Aire" tvg-name="Miembros Al Aire" tvg-language="es" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1280",Miembros Al Aire
+https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -531,7 +531,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b474
 #EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/08/RED-TV-ok.png" group-title="US",Red TV 
+#EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/08/RED-TV-ok.png" group-title="US",La Red Chile
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://d347bo4ltvvnaz.cloudfront.net/images/preview/KS_KidFlix2_KF2_PS_Logo.jpg" group-title="Cartoon",KidsFlix 
