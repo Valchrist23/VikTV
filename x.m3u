@@ -651,6 +651,9 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Anime",Crunchyroll
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
 
 #EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/featuredImage.jpg?auto=&fit=fill&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Anime",Death Note 
@@ -718,10 +721,10 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg" group-title="Gaming",Pluto TV E-Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN 
+#EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-name="IGN" tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/levelup-com-logo-vector-xs.png" group-title="Gaming",Pluto TV E-Sports
+#EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="http://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg" group-title="Gaming",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=31.8815&deviceLon=-116.5925&deviceDNT=TARGETOPT&deviceId=3aa2edec-d65e-4ae3-ac76-e4fc9d398d67&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://presetsgratis.com/wp-content/uploads/2021/10/retro-play-apk.png.webp" group-title="Gaming",Retro Play
@@ -733,10 +736,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718a
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rightnowtv.png" group-title="USA",Right Now TV 
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8 
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! TV
+#EXTINF:-1 tvg-id="Shout! TV" tvg-name="Shout! TV" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! TV
 https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/cb553e1f7d6c648c92d43e6ed4ef41a1da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55b10893da0b04a41887d4cefd15fc8d549ee9ddc0d98469b70f315cb96a6ddd743d6d59201f96d9a5c88f3bf1fe3e24ca08b3083d4937d3c98311b521f41e3b0e186245ea86633917c62a9c508d11cdc9d2dc1413abe12914c854aea21ca5be189c6c7dc381ab9e57924e67b18bf93666571ef0d93f709daafeccf7a7f98b937704eca6cdf2d11f5f197c4398bd91c9aba22cae1274d7888a64c9599bd94fcf0a37edc749a89a4c37d75476d5256dd1dbacc399269fc68b8c21616594f6fa48e1a91d58e1063340fceab76e03e37f59b878ad40b7bed651851e72999780d7ec3396933b47fa9d46c22d9685ac5063cfd5927890da9eb7bbbf48d977351dfe9ce4cfb60f8a64a83a670ce43081953e3bc7c2506261bf7e1690a3c7cb935c7dbd8ee7a0c40a1b7faf7ce5737102a5535288ef1ec64949eca4a4c41954b4765cc1a6e77ef8a73fd2f89ed68930a5a/174/1920x1080_5058864/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/featuredImage.jpg" group-title="USA",Spike Pluto TV 
+#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-name="Spike Pluto TV " tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/featuredImage.jpg" group-title="USA",Spike Pluto TV 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="5d8d11baeb31c5a43b77bf59" tvg-name="Spike ¡extremo!" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/featuredImage.jpg" group-title="USA",Spike ¡extremo! 
@@ -752,15 +755,15 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a5
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
+#EXTINF:-1 tvg-id="628e685ba3811100070551a8" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies & More
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="Entretenimiento+",Hallmark en Español
+#EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Hallmark en Español" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="Entretenimiento+",Hallmark en Español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Channel HD 
 
-#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-name="COMET" tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Movies",COMET 
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-name="Comet" tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Movies",Comet 
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml
 
@@ -813,7 +816,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/playlist.m3u8?us
 #EXTINF:-1 tvg-id="FreeTV Acción" tvg-name="FreeTV Acción" tvg-logo="https://img2.static-ottera.com/prod/oly/video/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="Movies",FreeTV Acción
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",Cine AR
+#EXTINF:-1 tvg-id="Cine AR" tvg-name="Cine AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-cine-romantico.jpg" group-title="LAT",Cine Romantico 
@@ -1285,7 +1288,7 @@ https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="Music",~ 24/7 Adult Swim Geo-Blocked ~
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="Cine/Series",Flicks of Fury
+#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="Cine/Series",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hiyah/logos/buybox-logo_rar._SY35_FMpng_.png" group-title="Cine/Series",Hi-Yah!
@@ -1336,16 +1339,11 @@ http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 
 -----------------------------------------Movie Channels---------------------------------------------
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT Sur
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3h4N81B2KBxsIa-9gtKM5IRapBxSHxlOvCRJKk5uvCo03eA-8cw5&usqp=CAE&s" group-title="Movies",MovieSphere by Lionsgate
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1--- 
-
+#EXTINF:-1 tvg-id="TNT Sur" tvg-name="TNT Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT Sur
 
 #EXTINF:-1 tvg-id="64a3d96f060e830008af6745" tvg-name="MovieSphere by Lionsgate" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Movies",MovieSphere by Lionsgate
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8fe6eee8-e887-11ee-aac3-8659105ff2ba&deviceId=1dcc17cd-4f04-4f89-9034-73715166fa30&deviceVersion=120.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=43.650001525878906&deviceLon=-79.36000061035156&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
