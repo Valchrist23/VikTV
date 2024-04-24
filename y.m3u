@@ -6336,10 +6336,18 @@ https://archive.org/download/alplani1_201912/Esto%20recien%20comienza.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rKRrdZXXsQD2v7jKTeea5GJG7ml.jpg" group-title="Peliculas",Los Inquilinos (2022)
 https://archive.org/download/alplani1_201912/Inquilinos.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" group-title="Peliculas",Interstellar (2014)
+https://archive.org/download/alplani1_201912/Interestelar.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg" group-title="Peliculas",The Finest Hours (2016)
+https://archive.org/download/alplani1_201912/Horas%20contadas.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg" group-title="Peliculas",Blackhat (2015)
+https://archive.org/download/alplani1_201912/HACKER%20AMENAZA%20EN%20LA%20RED.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kMA0IalnEEa0PaHRUzzjpTu5xXQ.jpg" group-title="Peliculas",Future World (2018)
+https://archive.org/download/alplani1_201912/Guerreros%20del%20futuro.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
