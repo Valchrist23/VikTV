@@ -1151,6 +1151,8 @@ http://archive.org/download/2021_20220917/Rabbids%20la%20invasi%C3%B3n%20Especia
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rampage (2018)
 http://archive.org/download/202209_20220926_0924/Rampage.mp4
 
+https://archive.org/download/alplani1_201912/Rampage%20Devastaci%C3%B3n.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rango (2011)
 http://archive.org/download/2011_202209/Rango%202011.mp4
 
@@ -6382,9 +6384,15 @@ https://archive.org/download/alplani1_201912/PRISIONERO%2099.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbrzHlnE8dNpllLWEe9bwDGNzLe.jpg" group-title="Peliculas",Professor Marston & the Wonder Women (2017)
 https://archive.org/download/alplani1_201912/PROFESSOR%20MARSTON%20Y%20LA%20MUJER%20MARAVILLA.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rS0kByPD4YF8pQ85KjzMdGiu7Xf.jpg" group-title="Peliculas",R.I.D. (2013)
+https://archive.org/download/alplani1_201912/R.I.P.D.%20Departamento%20de%20Polic%C3%ADa%20Mortal.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rEU5U8ztBQnOS2BMD8ohdGtqKgo.jpg" group-title="Peliculas",Incident in a Ghostland (2018)
+https://archive.org/download/alplani1_201912/Pesadilla%20en%20el%20infierno.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg" group-title="Peliculas",The Open House (2018)
+https://archive.org/download/alplani1_201912/Puertas%20abiertas.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
