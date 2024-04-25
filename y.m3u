@@ -767,10 +767,11 @@ http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/8.mk
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg" group-title="Peliculas",Little Bird's Big Adventure (2017)
 https://archive.org/download/altillo1/Una%20cigue%C3%B1a%20en%20apuros.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg" group-title="Peliculas",Bushwick (2017)
+https://archive.org/download/alplani1_201912/Peligro%20en%20Bushwick.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6yoghtyTpznpBik8EngEmJskVUO.jpg" group-title="Peliculas",Se7en (1995)
+https://archive.org/download/alplani1_201912/PECADOS%20CAPITALES.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Independence Day (1996)
 https://archive.org/download/independence.day.-1996.1080p-dual-lat/Independence.day.1996.1080p-dual-lat.mp4
@@ -2628,6 +2629,9 @@ https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alo
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uXT8XDWZwGax4FqmEQGjpajzcKO.jpg" group-title="Peliculas",Ghost in the Shell: Stand Alone Complex - 2nd Gig (2006)
 https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/muN1Gf5SnGz8Il2ViqsIX4pkfxA.jpg" group-title="Peliculas",Mazinger Z Infinity (2017)
+https://archive.org/download/alplani1_201912/Mazinger%20Z%20Infinity.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uF2S5BJg418TdpwDSfx5hyTsaHR.jpg" group-title="Peliculas",Smiley Face Killers (2020)
 https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
@@ -6393,7 +6397,9 @@ https://archive.org/download/alplani1_201912/Pesadilla%20en%20el%20infierno.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7JwdoLcbFWaeUBxKaoFulRVK8Ja.jpg" group-title="Peliculas",The Open House (2018)
 https://archive.org/download/alplani1_201912/Puertas%20abiertas.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/253Bw5I3Zj3e2thCThjO7byEUCL.jpg" group-title="Peliculas",Braven (2018)
+https://archive.org/download/alplani1_201912/Peligro%20en%20la%20monta%C3%B1a.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
