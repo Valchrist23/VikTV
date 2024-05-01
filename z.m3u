@@ -1,6 +1,21 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E01
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E01%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E02
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E02%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E03
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E03%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E04
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men.97.S01E04.720p.WEBRip.Dual.Latino%20(1).mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E05
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E05%20WEB-DL%201080p%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E06
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men.97.S01E06.720p.WEBRip.lat.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E07
+https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%2097%20S01E07%20WEB-DL%201080p%20Latino.mp4
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/281662-1.jpg" group-title="TVSeries",DareDevil S01E01
 https://tvnettv.space/contenido/series/Daredevil/1/Daredevil1.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/281662-1.jpg" group-title="TVSeries",DareDevil S01E02
@@ -4487,16 +4502,6 @@ https://archive.org/download/see-1/see-1x07.mp4
 https://archive.org/download/see-1/see-1x08.mp4
 
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E01
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E01%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E02
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E02%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E03
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E03%20WEB-DL%201080p%20Latino.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E04
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men.97.S01E04.720p.WEBRip.Dual.Latino%20(1).mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E05
-https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E05%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/396876/posters/6047a5e3d1c52.jpg" group-title="TVSeries",Shadow House S01E01
 https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S1E01.mp4
