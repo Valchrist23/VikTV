@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1917827/posters/6166f85c58b7b.jpg" group-title="TVSeries",Chucky S01E01
 https://tvnettv.space/contenido/series/CHUCKY/1/g4t0nchck1.1.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1917827/posters/6166f85c58b7b.jpg" group-title="TVSeries",Chucky S01E02
@@ -46,7 +47,6 @@ https://tvnettv.space/contenido/series/CHUCKY/3/g4t0nchck3.4.mp4
 https://tvnettv.space/contenido/series/CHUCKY/3/Chucky.S03E05.720p.WEBRip.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1917827/posters/6166f85c58b7b.jpg" group-title="TVSeries",Chucky S03E06
 https://tvnettv.space/contenido/series/CHUCKY/3/Chucky.S03E06.720p.WEBRip.mp4
-
 
 
 
@@ -4895,15 +4895,30 @@ https://moodle1.myyschool.xyz/saint-seiya-lost-canvas/VDRkNHRhT251QXBjQ2dhL0UxTG
 https://moodle1.myyschool.xyz/saint-seiya-lost-canvas/VDRkNHRhT251QXBjQ2dhL0UxTGhXMWxQQkhyWWNQZjE2dGR1dGtFYzhuVT0.m3u8
 
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E01
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E01.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E02
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E02.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E03
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E03.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E04
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E04.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E05
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E05.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E06
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E06.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E07
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E07.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E08
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E08.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E09
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E09.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E10
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E10.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E11
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E11.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/393189/posters/63236ab18adc9.jpg" group-title="TVSeries",Star Wars Andor S01E12
+http://149.202.66.6:8080/Star.Wars.Andor.S01/Star.Wars.Andor.S01E12.mp4
 
 
 
