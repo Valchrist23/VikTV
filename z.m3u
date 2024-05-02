@@ -4680,6 +4680,16 @@ https://archive.org/download/see-1/see-1x08.mp4
 
 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S02E05
+https://archive.org/download/see-temporada-2/see%2002x05.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S02E06
+https://archive.org/download/see-temporada-2/see%2002x06.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S02E07
+https://archive.org/download/see-temporada-2/see%2002x07.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S02E08
+https://archive.org/download/see-temporada-2/see%2002x08.mp4
+
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/396876/posters/6047a5e3d1c52.jpg" group-title="TVSeries",Shadow House S01E01
 https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S1E01.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/396876/posters/6047a5e3d1c52.jpg" group-title="TVSeries",Shadow House S01E02
@@ -4897,7 +4907,18 @@ https://moodle1.myyschool.xyz/saint-seiya-lost-canvas/VDRkNHRhT251QXBjQ2dhL0UxTG
 
 
 
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E01
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E01.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E02
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E02.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E03
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E03.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E04
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E04.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E05
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E05.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",The Mandalorian S03E06
+http://149.202.66.6:8080/The.Mandalorian.S03/The.Mandalorian.S03E06.mp4
 
 
 
