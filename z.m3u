@@ -1,5 +1,37 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751cfeb87d.jpg" group-title="TVSeries",Game Of Thrones S01E01
+https://archive.org/download/juego-tronos-temporada-2-capitulo-10-1080p-espanol-by-pelis-1-click-hd/Game%20of%20Thronos%20Temporada%201/GoT%201x01%20-%20Winter%20Is%20Coming%201080p%20LAT.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751cfeb87d.jpg" group-title="TVSeries",Game Of Thrones S01E02
+https://archive.org/download/juego-tronos-temporada-2-capitulo-10-1080p-espanol-by-pelis-1-click-hd/Game%20of%20Thronos%20Temporada%201/GoT%201x02%20-%20The%20Kingsroad%201080p%20LAT.mkv
+
+
+
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E01
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E01.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E02
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E02.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E03
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E03.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E04
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E04.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E05
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E05.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E06
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E06.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E07
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E07.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E08
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E08.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E09
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E09.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/5cc751f2f3b33.jpg" group-title="TVSeries",Game Of Thrones S02E10
+https://archive.org/download/JUEGODETRONOSS02E10/JUEGO%20DE%20TRONOS%20S02E10.mkv
+
+
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/523143/posters/6308675e1eaf1.jpg" group-title="TVSeries",Peaky Blinders S01E01
 https://archive.org/download/p-34ky.-bl-1nd-3rs.-1x-04.-lat.-series-carpetas/P34ky.Bl1nd3rs.1x01.Lat.%28seriescarpeta%29.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/523143/posters/6308675e1eaf1.jpg" group-title="TVSeries",Peaky Blinders S01E02
