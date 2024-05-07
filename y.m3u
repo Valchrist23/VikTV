@@ -5522,9 +5522,6 @@ https://dl.dropbox.com/scl/fi/xc1yq3zmyhlwixry5r3uk/M1raF0mH34v.216-D.mp4?rlkey=
 ingles
 https://archive.org/download/t-4k-3-tl-34d.-206-dl/M1r4c.F.H34v.216.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg" group-title="Peliculas",Downsizing (2017)
-https://archive.org/download/independence.day.-1996.1080p-dual-lat/Downsizing.2017.1080p-dual-lat~1.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhYTE0OWEtNTUxMC00NTYyLTliZGYtYWQzODRjZGViOGJlXkEyXkFqcGdeQXVyMTI5MDk4Njk5._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Mira (2022)
 https://dl.dropbox.com/scl/fi/hhg0fhm36qkojebeky2w7/Mira.2022.720-SL.mkv?rlkey=acda89942yzy0c61oqvc42g38&dl=0
 
@@ -6569,10 +6566,21 @@ https://archive.org/download/alplani1_201912/Escape%20imposible%202%20Hades.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg" group-title="Peliculas",The Circle (2017)
 https://archive.org/download/alplani1_201912/El%20c%C3%ADrculo.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg" group-title="Peliculas",Only The Brave (2017)
+https://archive.org/download/UnaAventuraSinMedida2017/Solo%20los%20valientes%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5uwWpRIBKGaztOw5mbfItVAqn1y.jpg" group-title="Peliculas",Forgotten (2017)
+https://archive.org/download/UnaAventuraSinMedida2017/Olvidado%202017.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oPqzTaS905V3ZUbc5297YrWEPAd.jpg" group-title="Peliculas",Love Beats Rhymes (2017)
+https://archive.org/download/UnaAventuraSinMedida2017/Love%20beats%20rhymes.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg" group-title="Peliculas",Downsizing (2017)
+https://archive.org/download/UnaAventuraSinMedida2017/Una%20aventura%20sin%20medida%202017.mp4
+
+https://archive.org/download/independence.day.-1996.1080p-dual-lat/Downsizing.2017.1080p-dual-lat~1.mp4
+
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
