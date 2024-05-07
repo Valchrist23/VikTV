@@ -1,5 +1,11 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
+http://142.4.217.162/Peliculas/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino.mkv
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg" group-title="Peliculas",Austin Powers The Spy Who Shagged Me (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
@@ -1460,8 +1466,13 @@ https://archive.org/download/sagarf/Fast%20and%20Furious%207%20LAT.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="Peliculas",The Fate of the Furious (2017)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="Peliculas",Fast & Furious Presents: Hobbs & Shaw (2019)
+https://archive.org/download/vid-20210922-095241-910/VID_20210922_095241_910.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas",F9 The Fast Saga (2021)
 https://archive.org/download/sagarf/Fast%20and%20Furious%209%20LATINO.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas",Fast X (2023)
 no
@@ -6589,8 +6600,12 @@ https://archive.org/download/independence.day.-1996.1080p-dual-lat/Downsizing.20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iYrcnrxv80L9JbV9YfVv45VpNM2.jpg" group-title="Peliculas",El Angel (2018)
 https://archive.org/download/el-angel-2018/El%20Angel%20%282018%29.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc2NTE0NzE4N15BMl5BanBnXkFtZTgwMDQ5MzgwMzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates Of Sillicone Valley (1999)
+https://archive.org/download/1999-piratas-sillicon-valley-doblada/1999%20piratas%20sillicon%20valley%20%28doblada%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="Peliculas",Jungle Cruise (2021)
+https://archive.org/download/vid-20210823-125849-238/VID_20210823_125849_238.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
