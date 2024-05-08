@@ -1494,6 +1494,8 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/260px-HBO_Family.svg.png" group-title="Movies",HBO Family
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",Box Hits
+
+nope
 http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies",Rock Entertainment
@@ -1512,6 +1514,11 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w193512155.m3u8
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/600px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png" group-title="Movies",TVN
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
+
+
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Movies",Genios TV
