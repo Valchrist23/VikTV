@@ -474,9 +474,6 @@ https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="Peliculas",The Super Mario Bros. Movie (2023)
 https://archive.org/download/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg" group-title="Peliculas",Bullet To The Head (2012)
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg" group-title="Peliculas",Universal Soldier (1992)
 http://158.69.158.102/Peliculas/Listo/30122022_1253/universal_soldier.mkv
 
@@ -713,8 +710,6 @@ https://cdn.jwplayer.com/manifests/nxvEs8Ok.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Lighthouse (2019)
 https://cdn.jwplayer.com/manifests/wSAVQWw1.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Irishman (2019)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="Peliculas",Hellboy (2019)
 https://archive.org/download/tn-3-gu.-202-dl/H3B0y219-DL-.mp4
@@ -746,18 +741,20 @@ https://cdn.jwplayer.com/manifests/qCR3UtKp.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIwYzA4YTAtYTMwYy00NzA3LWFmZGQtYWY3MTNlMGM3NDc5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Against The Ice (2022)
 https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Northman (2022)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Irishman (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg" group-title="Peliculas",Bullet To The Head (2012)
 
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Run Ever (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rise of the Planet of the Apes (2011)
 https://cdn.jwplayer.com/manifests/3V1cKv16.m3u8
-
 
 https://tvnettv.space/contenido/peliculas/El%20Origen%20Del%20Planeta%20De%20Los%20Simios/El%20Origen%20Del%20Planeta%20De%20Los%20Simios%20lat.mp4
 http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/6.mkv
@@ -1209,6 +1206,9 @@ https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Mal
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIyZjQ3NmEtZTE1Ni00YjkyLThiOTEtNTYzYTRlNDViMjJmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Leprechaun 2 (1994)
 https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Maldito%202%201080p%20Latino.MP4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="Peliculas",Leprechaun Returns (2018)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06167/t8dalp83q4z8_n/master.m3u8?t=dMNBke5WfTM8WBnax8IRRiiyYUATZUhZnNIxCPRC5Y0&s=1716332332&e=43200&f=30835074&srv=17&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bridget Jones's Diary (2001)
 
 
@@ -1434,7 +1434,7 @@ https://archive.org/download/videotime-cine-latino/Luca.mp4
 http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNjMjgyNmMtNWMzZC00YjI4LWI1NmUtMTY0ZTA0ZDQ4Y2EwXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_FMjpg_UX1000_.jpg" group-title="peliculas semanasanta",The Prince Of Egypt (1998)
-
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06153/tg91pgq35o0y_h/master.m3u8?t=Q2XeI8N6-PdocfsvFSqNtuQOGI9RQreH8008tzOpT7M&s=1716334888&e=43200&f=30766642&srv=38&asn=8151&sp=4000
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0MTk4MTI1M15BMl5BanBnXkFtZTgwOTIxMDQ0MDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rules Don´t Apply
 https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
@@ -3516,6 +3516,7 @@ http://archive.org/download/2017_20220912/Emoji%20La%20pel%C3%ADcula%202017.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUxYzliZjUtZTcyZS00NjQ2LTkxZWMtMzg5OWUxZGZkODFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Patriot (2000)
 http://archive.org/download/202209_20220918_1307/El%20patriota.mp4
 
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/05831/0vuzwlit8vyq_h/master.m3u8?t=SOt5RgG4L6YIvs0Q27_lrkz40XwysJ1ffhsDku04e2I&s=1716331108&e=43200&f=29155768&srv=14&asn=8151&sp=4000
 https://fina.dyndns.tv/Peliculas/El%20Patriota.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Elemental (2023)
@@ -4775,7 +4776,10 @@ https://archive.org/download/videotime-cine-latino/Sing%202.mp4
 https://archive.org/download/p-4n-g-4n.-213-dl/T3G4m.197-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg" group-title="Peliculas",The Blind Side (2009)
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/06104/izwg2zvup84x_h/master.m3u8?t=eJoVMfoYYCIOLIG1L46NLNTHvoGU0H5jIQO0C0YPPXU&s=1716334319&e=43200&f=30524323&srv=11&asn=8151&sp=4000
+
 http://158.69.158.102/Peliculas/Listo/30122022_1233/the_blind_side.mkv
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFmZDY3NzYtNjZkNy00MTg5LTgzOGItZDMyM2M2ZGNiZWY3XkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Like Father Like Son (1987)
 https://archive.org/download/p-4n-g-4n.-213-dl/L1kF4trL1kS0.187-SL-.mkv
@@ -5154,6 +5158,8 @@ https://dl.dropbox.com/scl/fi/zjbocwzkb5v87p7rmzx3i/Cacer-a-en-Venecia-2023-.108
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3cWnCG5NyXJYARO2hmNqfbbgrMA.jpg" group-title="Peliculas",Max Payne (2008)
 https://archive.org/download/fdvgh65VHS99.222-DL-/M4%20P4yn.207.mp4
 
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/05266/gnm0asszav1l_h/master.m3u8?t=escXWOXyD9w751lSKxALwHltolckwRE9hdiolse7Tno&s=1716332591&e=43200&f=26330185&srv=51&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vScJdcqXHyupdeO3wkTqT92ew85.jpg" group-title="Peliculas",Gantz (2016)
 https://archive.org/download/GantzO_201904/Gantz%20O%20%5B2016%5D%20%5BDual%5D.mp4
 
@@ -5367,14 +5373,14 @@ http://158.69.158.102/Peliculas/Listo/30122022_0431/Pil.2021.720p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="Peliculas",Justice League: Crisis on Infinite Earths - Part One (2024)
 https://archive.org/download/fdvgh65VHS99.222-DL-/JusCr1s1nf34rtsP1%20.224.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g8ak4QAGLZpqMs3CpnFHWWfIzJQ.jpg" group-title="Peliculas",Justice League: Crisis on Infinite Earths - Part Two (2024)
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/05968/d4aod2lqyblf_h/master.m3u8?t=5Km7hFCUCBhBKRbEprZnOMBKCGkRs-qLxlgthMpg6NM&s=1716333011&e=43200&f=29843575&srv=36&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg" group-title="Peliculas",Hidden Figures (2016)
 https://archive.org/download/fdvgh65VHS99.222-DL-/H1ddF1gs.216.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrTHLNNjejHgoVVkJUowkTpndI0.jpg" group-title="Peliculas",Helter Skelter (2012)
 https://archive.org/download/fdvgh65VHS99.222-DL-/H3lt%20Sk3ltr.2012-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg" group-title="Peliculas",Aquaman And The Lost Kingdom (2023)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/csu16eLYUDvyX64UdqHtwBwAd21.jpg" group-title="Peliculas",Out Of My League (2020)
 https://archive.org/download/5t-1l-0utmy-l-34gu-3.221-d/0utMyL34g.220-D-.mkv
@@ -5423,7 +5429,8 @@ https://archive.org/download/alplani1_201912/Robin%20Hood.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzMjgwNTk5NV5BMl5BanBnXkFtZTcwMjMzMjM1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underground (2007)
 https://archive.org/download/casa-en-el-lago/Pu%C3%B1os.de.Sangre.2020.DVDrip-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrGyjoCsRLVbzmsaeFCueOnGOKL.jpg" group-title="Peliculas",Alice (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//pQN3LEZBRAvqOxlDBehNyP4RPQD.jpg" group-title="Peliculas",Alice (2022)
+https://delivery-node-8ffn7nirlw5eg20s.voe-network.net/engine/hls2/01/08965/2qebrrdznbzg_,n,.urlset/master.m3u8?t=qmrkkqqiaVwIwQTtNcIdJYAm5Kaqu5lriDil_EPKOhY&s=1716333204&e=14400&f=44825688&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="Peliculas",Bendita Suegra (2023)
 
@@ -5479,8 +5486,11 @@ https://archive.org/download/0k4wy.-218/TM4n.f.u.n.c.l.3.215.D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iX93YdBrZA1EpGbphmjf4ARj1Za.jpg" group-title="Peliculas",Oldboy (2013)
 https://archive.org/download/0k4wy.-218/0lb0y.213-SL-.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="Peliculas",Wonka (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg" group-title="Peliculas",Aquaman And The Lost Kingdom (2023)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05393/mtuf3jgqepnt_h/master.m3u8?t=u9tL7hmrV0gWVe_DPgb_uEaUVZzVm9FmAc-xJJW5b8M&s=1716333112&e=43200&f=28794981&srv=22&asn=8151&sp=4000
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="Peliculas",Wonka (2023)
+https://ds7xkoqsmef8.sw-cdnstreamwish.com/hls2/01/02860/1498fzthw5c3_n/master.m3u8?t=tsGcpP8885-HiktiXYKL8S0M2PMpxXqMjWnYj4sfK_E&s=1716333399&e=129600&f=16886405&srv=txmraegnjpog&i=0.4&sp=500&p1=txmraegnjpog&p2=txmraegnjpog&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg" group-title="Peliculas",The Tourist (2010)
 http://149.202.66.6:8080/The.Tourist.2010.mp4
@@ -5902,6 +5912,7 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/H4un0TQ33n%20M4r.223-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wKCKKur7LyGFaUHmNhvy7FhIjmC.jpg" group-title="Peliculas",Millers Girl (2024)
 https://tvnettv.space/contenido/peliculas/Miller%20s%20Girl/La%20chica%20de%20Miller%20(2024)%201080p%20WEB-DL%20Latino.mp4
 
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/06048/7xavab19c7h6_h/master.m3u8?t=ZbHKGDpQ0ZdhA69NgOpxY-LIG9RzlN8CRQt6dmuF9Vg&s=1716330817&e=43200&f=30242645&srv=18&asn=8151&sp=4000
 https://archive.org/download/m-4rr-0b-0n.-217-dl/M1l5.G1l.224-SL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg" group-title="Peliculas",The Social Network (2010)
@@ -5926,6 +5937,8 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/S0rd4r0nl1nPr0gv%20-%205ch3rz0%
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p4fJyH7mMbasiFYwiw2nE7D6pMY.jpg" group-title="Peliculas",The Messenger (2019)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg" group-title="Peliculas",Speed (1994)
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/05808/9hn7sdgpovbo_,h,o,.urlset/master.m3u8?t=jckkpSJJeClo3IC-j7u9cAFahrfS11z6snnYtXZCp7Q&s=1716331155&e=43200&f=29040610&srv=15&asn=8151&sp=4000
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f4p18CwxidvznZYMA6m4qv5FCvp.jpg" group-title="Peliculas",Speed Kills (2019)
 https://archive.org/download/alplani1_201912/Velocidad%20mortal.mp4
@@ -6035,6 +6048,7 @@ https://tvnettv.space/contenido/peliculas/Snack%20Shack/14664.Snack.Shack.2024.1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8KWiZKDYpAgh8n27lanvTuDquyX.jpg" group-title="Peliculas",Jade (2024)
 https://tvnettv.space/contenido/peliculas/Jade/Jade%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
 
+https://be4242.rcr52.ams03.cdn112.com/hls2/02/05831/0hghx3za0b5x_h/master.m3u8?t=pgEFUH_BvHHJcZPU7K3LzkUPck-BCjMh1urG9weKhM4&s=1716331288&e=43200&f=29155887&srv=31&asn=8151&sp=4000
 https://archive.org/download/glt-0r.-992-dl/J4d.224-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmIxODliYmItNmU2OS00NzU2LTkwZWMtZTc4ZDRmOGRhYWI3XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bubble (2022)
@@ -6044,6 +6058,8 @@ https://archive.org/download/glt-0r.-992-dl/C0n5t.4.H050My5t.222-DL-.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/czV7JRPPPGk9bqUsnJuJUYn34mM.jpg" group-title="Peliculas",The American Society Of Magical Negroes (2024)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05831/hhs4dxd2v9rz_,h,o,.urlset/master.m3u8?t=TtmIBs40SqnOzysNvz18c1uv4bGX2JJkvujEvHt5vQc&s=1716331249&e=43200&f=29156174&srv=14&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z0JUBNk4BTBmeMOudrRH9GnOmK0.jpg" group-title="Peliculas",A Man Apart (2003)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Vice (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Warm Bodies (2013)
@@ -6238,18 +6254,21 @@ https://archive.org/download/tn-3-gu.-202-dl/C0ns3cs.220-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg" group-title="Peliculas",Nightcrawler (2014)
 https://archive.org/download/tn-3-gu.-202-dl/N1tcr4wr214-DL-.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Peliculas",Star Trek into Darkness (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="Peliculas",Star Trek Beyond (2013)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05780/vvvqdilyjdch_,h,o,.urlset/master.m3u8?t=JMMtZAq_QLheVPlAwABbydcWbKapRm_iyasJSinEn8c&s=1716331912&e=43200&f=30894849&srv=40&asn=8151&sp=4000
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="Peliculas",Star Trek Beyond (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Peliculas",Star Trek into Darkness (2016)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg" group-title="Peliculas",Past Lives (2023)
+https://dulisv62.sw-cdnstreamwish.com/hls2/01/03314/eid8wy96u3d7_n/master.m3u8?t=QWqPARnOZwCrKvExECjCnNcoTRtd-PvOSg2PFKTaGP0&s=1716332032&e=129600&f=16571366&srv=zbkl1erbkxirukt0&i=0.4&sp=500&p1=zbkl1erbkxirukt0&p2=zbkl1erbkxirukt0&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4l68KHxnPSow8MvnGUpjqLzJtLJ.jpg" group-title="Peliculas",Concrete Utopia (2023)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/05423/e8xv2eutgit7_h/master.m3u8?t=2XlV1VipQgRVYBqeV3E_uaZ1CHwRlccoeThAJcXlQoA&s=1716332098&e=43200&f=27117671&srv=21&asn=8151&sp=4000
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg" group-title="Peliculas",The Wages Of Fear (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="Peliculas",Lisa Frankenstein (2024)
-
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/05808/19xvwwacjrv4_h/master.m3u8?t=PCv3vamdv-hfEcE5Vyf5YS-ZfGXDDGAy2MQ-HH0sT7c&s=1716331327&e=43200&f=29040358&srv=53&asn=8151&sp=4000
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="Peliculas",Luther The Fallen Sun (2023)
 https://archive.org/download/ltr.-tf-4ln-sn.-223-dl/Ltr.TF4lnSn.223-DL-.mp4
@@ -6313,8 +6332,12 @@ https://tvnettv.space/contenido/peliculas/Rebel%20Moon/Rebel%20Moon%20(Parte%20d
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="Peliculas",Knung Fu Panda 4 (2024)
 https://tvnettv.space/contenido/peliculas/Kung%20Fu%20Panda/Kung%20Fu%20Panda%204%20(2024)%201080p%20WEB-DL%20Latino.mp4
 
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/05883/c9zvanrrhljq_h/master.m3u8?t=p8zED0K69tiANP_gdtQ3YNksrwBbYAnIlG91bwchwLg&s=1716331034&e=43200&f=29417277&srv=09&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg" group-title="Peliculas",Land Of Bad (2024)
 https://tvnettv.space/contenido/peliculas/Land%20Of%20Bad%20SUB/3938.Land.Of.Bad.2024.1080p.WEBRip.mp4
+
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/05883/nqrymlbgskjf_h/master.m3u8?t=oqBz_m5E8yZIco9LOxEEW3qr08iwtOKDG-ggm0zrB4k&s=1716334078&e=43200&f=29417490&srv=16&asn=8151&sp=4000
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ycBwDgJJ40dTE52fWBliqQKFD43.jpg" group-title="Peliculas",La Ultima Noche de Sandra M. (2023)
 https://archive.org/download/c-4p-h-4rk-4d.-182-dl/54ndr4.L.N1ght.2023-S-.mp4
@@ -6604,9 +6627,13 @@ https://archive.org/download/1999-piratas-sillicon-valley-doblada/1999%20piratas
 https://archive.org/download/vid-20210823-125849-238/VID_20210823_125849_238.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6faYaQyiBPhqAizldJKq21mIVaE.jpg" group-title="Peliculas",Ghostbusters Frozen Empire (2024)
+https://be4242.rcr52.ams03.cdn112.com/hls2/07/06078/uo9wdzainduj_h/master.m3u8?t=zZeKaSx_Ieb8qVuGMJB9OrkVnbMjL8PJICeV3bC2-HE&s=1716333835&e=43200&f=30392151&srv=53&asn=8151&sp=4000
+
 https://tvnettv.space/contenido/peliculas/Ghostbusters%20Apocalipsis%20fantasma/Ghostbusters%20Apocalipsis%20fantasma%20(2024)%201080p%20WEB-DL%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg" group-title="Peliculas",Godzilla X Kong: The New Empire (2024)
+https://jkdapll4.sw-cdnstreamwish.com/hls2/01/03828/9juspnkxbeii_n/master.m3u8?t=CUsZbd4-Tu6yOzgp3EBxi22muICR7_T1c4NQkWBUvps&s=1716333997&e=129600&f=19143898&srv=mnnx3x8e5xk&i=0.4&sp=500&p1=mnnx3x8e5xk&p2=mnnx3x8e5xk&asn=8151
+
 https://tvnettv.space/contenido/peliculas/Godzilla%20x%20Kong%20The%20New%20Empire/Godzilla.x.Kong.The.New.Empire.2024.1080p.WEBRip.Dual.Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b4d90lpmSTLoCP9tkBU7QAQOhh0.jpg" group-title="Peliculas",Sleep (2023)
@@ -6645,19 +6672,40 @@ https://be6721.rcr72.waw04.cdn112.com/hls2/01/06182/mzgviprxhxy4_x/master.m3u8?t
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uxkb2U8Z0HVyt5CQZXrCwLFtZNN.jpg" group-title="Peliculas",Mama Cruz (2023)
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/05619/nks3v6putjwv_x/index-v1-a1.m3u8?t=54hUN3pWrXb_NsS1BvQLkNgkyyVHSRBVwwLDpEVi01U&s=1716328329&e=43200&f=28198050&srv=09&asn=8151&sp=5500
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="Peliculas",The Shawshank Redemption (1994)
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/06104/y35ycm82y5z2_h/master.m3u8?t=mlWiBC_2p7yJy5aa-7gAzXP4dWj2w9c9lo9n71aNKKY&s=1716330660&e=43200&f=30523965&srv=11&asn=8151&sp=4000
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kQs6keheMwCxJxrzV83VUwFtHkB.jpg" group-title="Peliculas",Anatomy Of A Fall (2023)
+https://be4242.rcr52.ams03.cdn112.com/hls2/03/05736/p8gntfrjm97c_h/master.m3u8?t=aSJJjogmg1AIg9fqDUjdAWWNUBMxjYIxrJNQ-9vcp4E&s=1716331453&e=43200&f=28680285&srv=53&asn=8151&sp=4000
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o89snIeueVAH0m56vM15v0RjpEz.jpg" group-title="Peliculas",The One Hudred (2022)
+https://be6224.rcr92.lim01.cdn112.com/hls2/02/05646/5fe7a16ytjw6_h/master.m3u8?t=3p9kbvRusYpkYc73JxdypcgVGh2O9RGKdF_R0OCGO64&s=1716331569&e=43200&f=28232327&srv=26&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" group-title="Peliculas",Manodrome (2023)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05471/l9w0bbwu561r_x/master.m3u8?t=hTCMeCa2916Qh2vS3M6lcSCJwNVB0gt_fE6HsuG7eUI&s=1716331788&e=43200&f=27358121&srv=20&asn=8151&sp=5500
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Peliculas",Lift (2024)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/05329/9m48t4malf8y_h/master.m3u8?t=xQ16D1FPs4XaFRILVKSbsjRsfhTnHZQPMkCw6YxgmHA&s=1716333734&e=43200&f=26648658&srv=52&asn=8151&sp=4000
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="Peliculas",Wanted Man (2024)
+https://be6721.rcr72.waw04.cdn112.com/hls2/03/06140/yeofuz0n49bf_h/master.m3u8?t=yoCI35SmHGFxAyIiZBjIDfb_B7y58OERY4XVk24M5xQ&s=1716334243&e=43200&f=30703060&srv=52&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qxG0zyt29BI0IzFDfsps62kbQi.jpg" group-title="Peliculas",Abigail (2024)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06078/q43njkh2p07t_h/master.m3u8?t=naAjEefVaNSwJN2WYY5uszZgZ-REDoWwTYxie1dGUbU&s=1716334470&e=43200&f=30392028&srv=10&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sw4M0jLT04FM1p3C2XQ3il50wgV.jpg" group-title="Peliculas",Force of Nature: The Dry 2 (2024)
+https://be6224.rcr92.lim01.cdn112.com/hls2/01/06140/q68chjent4na_h/master.m3u8?t=AB0CS3x51Dc0kxSE38dN_eS0zVP64_UrmIhXs5fBv-c&s=1716334539&e=43200&f=30702979&srv=07&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lFsJJjnGcNhewSIM9XBTaHsI2et.jpg" group-title="Peliculas",Gone in Sixty Seconds (2000)
+https://be6224.rcr92.lim01.cdn112.com/hls2/07/06113/cih7jb4i1plg_h/master.m3u8?t=xNLxjj86R4BDl4R3aXxQguQFl0n_viqq3dJ1KSp69Tw&s=1716334612&e=43200&f=30568472&srv=53&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zlEhsNfOKhbnfs5NTJ6zOZtoLBb.jpg" group-title="Peliculas",Birth/ Rebirth (2023)
+https://be6721.rcr72.waw04.cdn112.com/hls2/02/06160/jrp2p813wuql_h/master.m3u8?t=6SLdtke60chGc3dDG6-DWGLDj81FDf2N9-jKRQMwB9M&s=1716334729&e=43200&f=30801071&srv=52&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/esLooowdB92I3dVI3ENlPPpTuWT.jpg" group-title="Peliculas",Challengers (2024)
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/06165/6tmqiy2nrr4x_h/master.m3u8?t=Zl73_iPXdPd9I6m_4hQMmXce0gbZmqFzwPHo3oG454g&s=1716334824&e=43200&f=30825025&srv=06&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
