@@ -348,6 +348,9 @@ https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_z38d
 #EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Kite Libertator
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_n3ao0o7f/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_65oibalg,1_spaloudg,1_1rpgwqwl,1_gvzb6oqz,1_p5iyi58k,1_yhvybnxo,1_hmea32e5/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="MOVIES",Youjo Senki 
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/05645/8bxjwkowqm71_h/master.m3u8?t=ode1thOEyAMOOQJBf7DOi10Vaq5GlPS2pIuDKQAXZ7k&s=1716321843&e=43200&f=29139056&srv=26&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Mazinkaiser
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdxwe0w/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
