@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
 http://142.4.217.162/Peliculas/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg" group-title="Peliculas",The Bodyguard (1992)
+https://delivery-node-fkm7kxj6cbajfzl9.voe-network.net/engine/hls2/01/08682/9dgc2ghg0e0n_,n,.urlset/master.m3u8?t=xvjK0r2sw1Mj8hvhBk35et1hnZ1ll-c-jqpX3EemAzY&s=1716407505&e=14400&f=43413082&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg" group-title="Peliculas",Austin Powers The Spy Who Shagged Me (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 
@@ -452,7 +455,10 @@ https://archive.org/download/stargate-puerta-a-las-estrellas-1994/Fenomeno%20Alg
 https://archive.org/download/stargate-puerta-a-las-estrellas-1994/Stargate%2CPuerta%20A%20Las%20Estrellas%20-%201994.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg" group-title="Peliculas",The Fly (1986)
+https://delivery-node-fhttlmsj2uektk7t.voe-network.net/engine/hls2/01/10610/mbwxcj8bbgrd_,l,.urlset/master.m3u8?t=9t0qwALSqKe9klRFRKz5TIZHsHZu8Ltq7_LBjDALnAI&s=1716407707&e=14400&f=53051960&node=delivery-node-fhttlmsj2uektk7t.voe-network.net&i=189.222&sp=2500&asn=8151
+
 https://archive.org/download/the-fly-1986/The.Fly.1986.720p.BluRay.999MB.HQ.x265.10bit-GalaxyRG.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gORksEPahEgO409HYJOZlNVyEpe.jpg" group-title="Peliculas",The Fly II (1989)
 https://archive.org/download/the-fly-ii-1989/The%20Fly%20II%281989%29.mp4
 
@@ -1490,6 +1496,8 @@ no
 https://archive.org/download/1672_20221103/Fast%20%26%20Furious%20X.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Memento (2000)
+https://delivery-node-wtt7ssqrz63kgguk.voe-network.net/engine/hls2-c/01/08721/sc6ouhvrhzmp_,n,.urlset/master.m3u8?t=8rQDM-sbbZ8AXxXQYjAI-0eY-TLe8P-6MR7dm2qpdq0&s=1716407632&e=14400&f=43608343&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=189.222&sp=2500&asn=8151
+
 https://archive.org/download/Memento_es/Memento.es.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bird Box (2018) 
@@ -1605,6 +1613,8 @@ https://archive.org/download/1672_20221103/Coco.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGEwYzk1MjctMmM2YS00NGEzLWE0NzQtNjhhMzMzY2NkYWJiXkEyXkFqcGdeQXVyMzY3MzcyNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",AINBO: Spirit of the Amazon (2021) 
 https://archive.org/download/como-me-converti-en-superheroe/Ainbo%20La%20guerrera%20del%20Amazonas%202021.mp4
+
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/04185/vk3uo3vftg4h_x/master.m3u8?t=XkdFZZB78ZLX_dOeNDSgwDiTyHOKvd2vkwDhZeDFcms&s=1716406846&e=43200&f=20927020&srv=21&asn=8151&sp=5500
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFlNDViM2QtOTk1ZC00ZDk3LWFhODctZjAwYjdiZDgyNzE2XkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Villainess (2017)
 https://archive.org/download/alplani1_201912/La%20villana.mp4
@@ -3986,6 +3996,8 @@ https://archive.org/download/alplani1_202001/Gonjiam%20Hospital%20maldito%20%282
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Peliculas",M3GAN (2022)
 https://archive.org/download/m-3-gan.-2022.720p/M3GAN.2022.720p.mp4
 
+https://delivery-node-x0i0mnamsg4z43ee.voe-network.net/engine/hls2-c/01/11202/zfyhi32tjifk_,n,.urlset/master.m3u8?t=FBZursB0EiGHarsyAosBNKTfBhRMUgExbS7jSb-8YnQ&s=1716407291&e=14400&f=56010871&node=delivery-node-v9vzzan7a5hoqxxr.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fi7yCzIPFek5tLY4coe4178SANJ.jpg" group-title="Peliculas",Cucuy The Boogeyman (2018)
 https://archive.org/download/alplani1_202001/Cucuy%20The%20Boogeyman.mp4
 
@@ -4082,9 +4094,10 @@ https://archive.org/download/alplani1/Cazadora%20de%20gigantes.mp4
 https://archive.org/download/alplani1/Duro%20de%20cuidar.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg" group-title="Peliculas",The Mummy (1999)
+https://delivery-node-shpnoshi6yqv0sbe.voe-network.net/engine/hls2-c/01/09029/u7whyytkthl8_,n,.urlset/master.m3u8?t=Xnq7WixYlriBE_QK0qshK9ZczGTD4w24j8AsK15ToGA&s=1716405906&e=14400&f=45148850&node=delivery-node-9n7xachkzhb0jc9x.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg" group-title="Peliculas",The Mummy Returns (2001)
-
+https://delivery-node-girmnrmb2ev1lay6.voe-network.net/engine/hls2-c/01/08748/4ifm4o99s2cn_,n,.urlset/master.m3u8?t=sFSd1NWpYIikEa-rACqd5SFTrWd2-HorNXfYScENing&s=1716405987&e=14400&f=43741299&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwMTgwODAxMl5BMl5BanBnXkFtZTgwNTEwNTQ3MDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Mummy (2017)
 https://archive.org/download/alplani1_201912/La%20momia.mp4
@@ -5179,6 +5192,7 @@ https://archive.org/download/fdvgh65VHS99.222-DL-/T4kL1v5.204-DL-.mkv
 https://archive.org/download/fdvgh65VHS99.222-DL-/TF4nt1c.219-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8BquGK22zCcsmBWiaIakaaPpSZb.jpg" group-title="Peliculas",The Untouchables (1987)
+https://delivery-node-e4srqqyuolvqfr5r.voe-network.net/engine/hls2/01/09004/7o0dbssqirl3_,n,.urlset/master.m3u8?t=X9SDFNTgaQwqv9BaAZtbvqyXsxdrqN1p-oNTwQo7kiA&s=1716406113&e=14400&f=45020332&node=delivery-node-e4srqqyuolvqfr5r.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sjN9IZHmRHZmpxvQYYYFNQ22Pch.jpg" group-title="Peliculas",The Warriors (1979)
 
@@ -6497,6 +6511,7 @@ https://vdgfzxrytoql.sw-cdnstreamwish.com/hls2/01/02898/nkxxml22udzr_n/master.m3
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg" group-title="Peliculas",Play Dead (2022)
+https://delivery-node-gfhwnzsavv8aeplx.voe-network.net/engine/hls2/01/09056/rnfobpbdd4hs_,n,.urlset/master.m3u8?t=Xk6aC6aWdQM7sJ2l92fvhBucvLaUWvrzd6kUBnaveHw&s=1716405794&e=14400&f=45283891&node=delivery-node-gfhwnzsavv8aeplx.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg" group-title="Peliculas",Moderator (2022)
 
@@ -6853,12 +6868,24 @@ https://delivery-node-hmnxqlpq2hopaiet.voe-network.net/engine/hls2-c/01/09238/yj
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gcr3t71KmeXINemMrhaGBGVJPwW.jpg" group-title="Peliculas",The One (2001)
 https://delivery-node-mj12nr4idybiuhrg.voe-network.net/engine/hls2/01/09095/tfx2ciekaklb_,n,.urlset/master.m3u8?t=rxAXGEQlFuzBwnNoXW5vT5KUhE1VcqihJAVRYuG8LKk&s=1716405036&e=14400&f=45478890&node=delivery-node-mj12nr4idybiuhrg.voe-network.net&i=189.222&sp=2500&asn=8151
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a0pepZNFCjggc7Na9gEwbTI1f46.jpg" group-title="Peliculas",She's All That (1999)
+https://delivery-node-hed8bmrmydbllaqt.voe-network.net/engine/hls2-c/01/09063/nl2qo23azfly_,n,.urlset/master.m3u8?t=eTMsmgyLU2yWWDkT2KcHaP61PvoPNrQNSVe6ShU739U&s=1716405672&e=14400&f=45316785&node=delivery-node-eegpnfut1s580fm4.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg" group-title="Peliculas",Project Gemini (2022)
+https://delivery-node-34ppf4n1zgx9ubgc.voe-network.net/engine/hls2/01/08873/ghkqjoph620r_,n,.urlset/master.m3u8?t=YC-DU_-BQh-PSc3NVLge6DMtyA9vxoubcANmtINZ63A&s=1716406513&e=14400&f=44365412&node=delivery-node-34ppf4n1zgx9ubgc.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKS1Vuqj7OQpOumfs6ArC0TICTN.jpg" group-title="Peliculas",Stigmata (1999)
+https://delivery-node-64by4o3ydkva40vc.voe-network.net/engine/hls2-c/01/09184/7erfluib9zpp_,n,.urlset/master.m3u8?t=q_tH494434bCMx5kHoIRsDOPqH-DEmGsRW1ovz8cvGQ&s=1716407047&e=14400&f=45922698&node=delivery-node-nfqz3bu1ar88sxrw.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aLjBcVUfw3eT5csKi28pvs0V8he.jpg" group-title="Peliculas",Romeo Must Die (2000)
+https://delivery-node-whh8pllqgmrm5zzi.voe-network.net/engine/hls2-c/01/10646/ocjvmbpimf0i_,n,.urlset/master.m3u8?t=Ps96-weItO6Ai2GLnC-IHcOUJJhlZCqh49pTQDTSO2A&s=1716407136&e=14400&f=53230792&node=delivery-node-uc5khvddsowstrhc.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scFc8RD4sFxB2x0eIOaymphMnYh.jpg" group-title="Peliculas",War (2007)
+https://delivery-node-naj24um2xcrh0tg4.voe-network.net/engine/hls2-c/01/11085/ros153yhtuns_,n,.urlset/master.m3u8?t=SgXf2mT_6JMrD0WeEOVDKNPF6R1Wyljc5nMPrUqedeQ&s=1716407333&e=14400&f=55426259&node=delivery-node-kjhkd2xtdr8ud0rt.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg" group-title="Peliculas",The Last Thing That Mary Saw (2021)
+https://delivery-node-gi44ckdfnm99vidr.voe-network.net/engine/hls2/01/08381/2as04amf4djy_,n,.urlset/master.m3u8?t=nVEl41_FvfysIBrrbHd-i5oL6JykivbQiSbCiBQ9xp4&s=1716408227&e=14400&f=41908049&node=delivery-node-gi44ckdfnm99vidr.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
