@@ -820,6 +820,9 @@ https://cdn.jwplayer.com/manifests/HpfBPbEM.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDFhYjc2NmUtNDBlOC00NDE5LTk5YWYtYmM4ZmMxNTUxMGNjXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Expend4bles (2023)
 https://dl.dropbox.com/scl/fi/zd1yzc0pvs93x0hcs7t0o/Los-indestructibles-4-2023-.1080p.dual-lat.cinecalidad.com.mx.mp4?rlkey=6qsmxfmukknjx1uv3leidwbz6&dl=0
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i9a4vbkzausnAzH07IOusX3ToTv.jpg" group-title="Peliculas",The Firm (1993)
+https://w5yj349nt2gf.sw-cdnstreamwish.com/hls2/01/03494/bp0c2zhcdj54_,n,h,x,.urlset/master.m3u8?t=T-XFNHVH4nVAe7TWBGs1Am0CQBd-F6FaPWWfnj5xaVc&s=1716420532&e=129600&f=17474957&srv=trfvxvxdjiuc&i=0.0&sp=500&p1=trfvxvxdjiuc&p2=trfvxvxdjiuc&asn=8151
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" group-title="Peliculas",Top gun pasión y gloria (1986)
 https://cdn.jwplayer.com/manifests/YZhLuXO7.m3u8
 
@@ -2332,6 +2335,8 @@ https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE5ODEzOTMtZmU2ZS00NjUwLWIwMDMtMTVlYjdkOTQ4ZjUzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The 6th Day (2000)
 https://archive.org/download/st-f-1gr-45s-5sin-f-15t.-214-d/T6D.200-D.mkv
+
+https://delivery-node-jiy9zlzwdiiewfw2.voe-network.net/engine/hls2/01/10528/qlp88qqiv8bn_,n,.urlset/master.m3u8?t=Jtke3Vhp_qvMTu9flrxrWjnYQ-Nf51JSA8H0tVNiZIo&s=1716420470&e=14400&f=52642042&node=delivery-node-jiy9zlzwdiiewfw2.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Terminator (1984)
 https://archive.org/download/TheTerminator-1984/The%20Terminator%20%281984%29.mkv
@@ -5022,10 +5027,10 @@ https://archive.org/download/1672_20221103/El%20pacto%20%28The%20Covenant%29.mp4
 
 no
 https://archive.org/download/1672_20221103/365.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg" group-title="Peliculas",365 Days: This Day (2022)
 
-no
-https://archive.org/download/1672_20221103/365.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg" group-title="Peliculas",365 Days: This Day (2022)
+https://delivery-node-sq0tgp6zzeel6axe.voe-network.net/engine/hls2/01/08098/nhd4a54k1ve5_,n,.urlset/master.m3u8?t=ZQum1C09EPGDflgIYnvYXJVh6Y7nt8A8FCMpvVzsOnw&s=1716420344&e=14400&f=40491879&node=delivery-node-sq0tgp6zzeel6axe.voe-network.net&i=189.222&sp=2500&asn=8151
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vwxYJyhNBg5uLByXe8fyIdO0YqD.jpg" group-title="Peliculas",OX-Head Village (2022)
 
@@ -6598,7 +6603,9 @@ https://be4235.rcr32.ams02.cdn112.com/hls2/01/05369/5cy0d0q61rhg_,h,o,.urlset/ma
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1ma5b9XLCziCHzQP0Zy1Y1PqNyM.jpg" group-title="Peliculas",Poseidon (2006)
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wqwt2DKcQV6EeSwXuYTk7pkLFii.jpg" group-title="Peliculas",El Crimen del Padre Amaro (2002)
+https://delivery-node-nt5q8bhsmd7gldjj.voe-network.net/engine/hls2-c/01/08156/tszp5y89qovy_,n,.urlset/master.m3u8?t=HXuBL4HuP3NvWnVsu09Aw08wnPOJiyiduw6QOJ6JZl0&s=1716419995&e=14400&f=40781947&node=delivery-node-yuqd9xktudja8zcj.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDczYjU4MDMtY2RjMy00Y2UyLWE2MmMtZjliYWUwNzQ3YjExXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",A Goofy Movie (1995)
@@ -6711,6 +6718,9 @@ https://be4235.rcr32.ams02.cdn112.com/hls2/01/05369/5cy0d0q61rhg_,h,o,.urlset/ma
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8F0r5ng9Fp60OhzQfR5v33fppq.jpg" group-title="Peliculas",Never Let Me Go (2010)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aVzlVwal128Q3mtGOBOC9W2XYcH.jpg" group-title="Peliculas",Meteor Storm (2010)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tVMddOS5bi3YPVPgTPlEw0TOWoF.jpg" group-title="Peliculas",Meteor (2021)
+https://delivery-node-gfhwnzsavv8aeplx.voe-network.net/engine/hls2/01/08139/0ttdx03v18z0_,n,.urlset/master.m3u8?t=RZMAwA40hFvyYU7VD0vdFbn4_rrw8fmK_iwVE2AMv5A&s=1716420227&e=14400&f=40699037&node=delivery-node-gfhwnzsavv8aeplx.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg" group-title="Peliculas",Whats Your Number (2011)
 
@@ -6896,10 +6906,18 @@ https://delivery-node-p85gf9aoh6mefgdf.voe-network.net/engine/hls2-c/01/08292/s8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg" group-title="Peliculas",The Crush (1993)
 https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/08682/m0cr9fg7a38f_,n,.urlset/master.m3u8?t=M1W4RHiqBc81HPyvMpLMM5KT3w3qboNu6LeGU-uDYIE&s=1716409523&e=14400&f=43410972&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=189.222&sp=2500&asn=8151
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4JyNWkryifWbWXJyxcWh3pVya6N.jpg" group-title="Peliculas",Purple Hearts (2022)
+https://delivery-node-hbcea1msd43hebw9.voe-network.net/engine/hls2/01/08047/eph93jaxpzxf_,n,.urlset/master.m3u8?t=gzT2LEMzqTxnHH6bRaOfRnsRIjOnCy-5-p12Qtsi9Ok&s=1716420833&e=14400&f=40239500&node=delivery-node-hbcea1msd43hebw9.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg" group-title="Peliculas",The Highwayman (2022)
+https://delivery-node-vqq6cx8upcduzhxe.voe-network.net/engine/hls2/01/08042/jmpt48tgupfh_,n,.urlset/master.m3u8?t=WOUzfLB1pNxY4BgOOr1JeWg2ynYE7vMljSg8kmXFfaQ&s=1716420913&e=14400&f=40214422&node=delivery-node-vqq6cx8upcduzhxe.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kzAKJAdknTtBfT0l60h9uBQaKRc.jpg" group-title="Peliculas",Shattered Earth Cloudy Mountain (2021)
+https://delivery-node-dxpdxatbb5gs9ftl.voe-network.net/engine/hls2/01/08033/8hfsxletqevv_,n,.urlset/master.m3u8?t=PfLwPXH7jsX85GZVmfY4-5aO0OaVEYrPDiTMOPISEg0&s=1716421017&e=14400&f=40167100&node=delivery-node-dxpdxatbb5gs9ftl.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sA1fDBJdwEXaLv1UYLI2LQwH0oo.jpg" group-title="Peliculas",My Daughters Killer (2022)
+https://delivery-node-i2srjqfsvhiwctrz.voe-network.net/engine/hls2/01/07995/15di1894vg8t_,n,.urlset/master.m3u8?t=jCnutr7tWysnrikLKHnxUO5p8nscB6bv_tx6RIXwHdQ&s=1716421330&e=14400&f=39978874&node=delivery-node-i2srjqfsvhiwctrz.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
