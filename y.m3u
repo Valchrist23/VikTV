@@ -67,6 +67,10 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nOspcG8HP6KPdMvzezavRbzYCEw.jpg" group-title="Peliculas",Cyborg (1980)
+https://be4235.rcr32.ams02.cdn112.com/hls2/02/05302/rq9efnumf4s3_h/master.m3u8?t=ggI19T3IHMRvJY3Ezf955QNyoBcRol2hYHB_vtJZnuU&s=1716350090&e=43200&f=26513748&srv=31&asn=8151&sp=4000
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg" group-title="Peliculas",Ferris Buellers Day Off (1986)
 https://tvnettv.space/contenido/peliculas/Ferris%20Buellers%20Day%20Off/Ferris.Buellers.Day.Off.1986.1080p.BluRay.mp4
 
@@ -3921,7 +3925,9 @@ https://archive.org/download/alplani1_202001/El%20silencio.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzYzMTQ4NDYtNWRkZi00NTYxLThlZDItMzI1MmU1MmU5ZWQ3XkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Family Man (2000)
 https://archive.org/download/PelNavvVariass/Watch%20Family%20Man%20720%20bdrip%20lat%20mp4.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViMTFiODAtN2QzZC00ZWFlLTg1ZjUtMTMyNjVjNDVhYjczXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",White Men Can't Jump (1992)
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/03909/4ua8gm49xtr9_x/master.m3u8?t=VzKJJIP2_bLC92RHu5vKMBa3MgZAYiLwhBIP7Q3w0RQ&s=1716350004&e=43200&f=19546718&srv=21&asn=8151&sp=5500
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jWBDz6Mf9aQVBiUS76JQsEhvoJl.jpg" group-title="Peliculas",Money Train (1995)
 https://archive.org/download/28asaltoalbf-2037d-42c-92891df-6e-1df-20dc-7eee-1080p/28asaltoalbf2037d42c92891df6e1df20dc7eee-1080p.mp4
@@ -6785,9 +6791,15 @@ https://be4235.rcr32.ams02.cdn112.com/hls2/10/05709/1q5th4fxe990_h/master.m3u8?t
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h9DYic4zo3Oweb11009FmqZBxN4.jpg" group-title="Peliculas",Fun size (2012)
 https://be6224.rcr92.lim01.cdn112.com/hls2/01/04080/u71uhksul625_x/master.m3u8?t=Zas98Z0B28ZSTKlLnt9UbMlfj69C52gPuOjcePcc4xU&s=1716347940&e=43200&f=20401122&srv=02&asn=8151&sp=5500
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg" group-title="Peliculas",Parker (2013)
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/05827/nvihyur5appt_n/master.m3u8?t=gO_s0I7iObKaQUEEd26bBP01QQMzM07pyiVyqje2U3M&s=1716350203&e=43200&f=29139502&srv=31&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzML477yx9CAwg5UqkRqobz0TrJ.jpg" group-title="Peliculas",The Nomad (2023)
+https://be6224.rcr92.lim01.cdn112.com/hls2/02/05352/r8hvkn0lpk36_h/master.m3u8?t=AZ8h43HIphrcBqa2zFoQPOP1f3cxTHNAhTZ-2wb-c9U&s=1716350332&e=43200&f=26761761&srv=29&asn=8151&sp=4000
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3jdBOApDt1DXlJtdzUtp76DhmmP.jpg" group-title="Peliculas",The Reckoning (2021)
+https://delivery-node-p4vhugiomocmgeh3.voe-network.net/engine/hls2/01/07861/w3tsxdacatuj_,n,.urlset/master.m3u8?t=yNgb62d74dkR2Y0SHaKV066LwenkWW2HSsC6fd6wP34&s=1716350656&e=14400&f=39307679&node=delivery-node-p4vhugiomocmgeh3.voe-network.net&i=189.222&sp=2500&asn=8151
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 
