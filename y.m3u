@@ -1,10 +1,15 @@
 #EXTM3U 
 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
 http://142.4.217.162/Peliculas/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg" group-title="Peliculas",The Bodyguard (1992)
 https://delivery-node-fkm7kxj6cbajfzl9.voe-network.net/engine/hls2/01/08682/9dgc2ghg0e0n_,n,.urlset/master.m3u8?t=xvjK0r2sw1Mj8hvhBk35et1hnZ1ll-c-jqpX3EemAzY&s=1716407505&e=14400&f=43413082&node=delivery-node-fkm7kxj6cbajfzl9.voe-network.net&i=189.222&sp=2500&asn=8151
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg" group-title="Peliculas",Under Siege (1992)
+https://delivery-node-iurolyzyhfcxnbpg.voe-network.net/engine/hls2-c/01/11387/hakxir05z0vk_,n,.urlset/master.m3u8?t=L2u5hH2xg2_bUUHnX-uMs9ZwACTtDAyWTWSZx5LHL-0&s=1716429069&e=14400&f=56939463&node=delivery-node-p4vhugiomocmgeh3.voe-network.net&i=189.222&sp=2500&asn=8151
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg" group-title="Peliculas",Austin Powers The Spy Who Shagged Me (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
