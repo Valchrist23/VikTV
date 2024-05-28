@@ -510,6 +510,9 @@ https://archive.org/download/tu-nombre-espanol-latino-cinema-movies/TU%20NOMBRE%
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 http://ia601507.us.archive.org/26/items/Youhdhsbsme_201902/your%20name.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg" group-title="Peliculas",Weathering With You (2019)
+https://archive.org/download/tiempo-contigo/TiempoContigo.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hWyBwsjMgtuZL2i1QBWQY0OCh0M.jpg" group-title="Peliculas",Children Who Chase Lost Voices (2011)
 https://archive.org/download/viaje-a-agartha-2011-720-p-hd/Viaje%20a%20Agartha%202011%28720P_HD%29.mp4
 
@@ -3132,6 +3135,8 @@ https://be7713.rcr82.waw05.cdn112.com/hls2/03/04508/lzstur9iixti_h/master.m3u8?t
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg" group-title="Peliculas",Forrest Gump (1994)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2MDI0NDYxNl5BMl5BanBnXkFtZTgwMDAxOTQxMjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Polaroid (2019)
+https://archive.org/download/polaroid-720p/Polaroid%20%5B720p%5D.mp4
+
 https://archive.org/download/pel149b83b3a93u/Polaroid.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tZIMe2pYug1cS9e7AZnd1bTTidM.jpg" group-title="Peliculas",Constantine City Of Demons (2018)
@@ -3479,6 +3484,7 @@ http://archive.org/download/202209_20220918_2108/Beowulf.mp4
 https://cdn.jwplayer.com/manifests/03q5ktEp.m3u8
 
 http://archive.org/download/202209_20220918_2258/Constantine.mp4
+https://archive.org/download/constantine.-2005.720p.-br-rip.x-264.-yify/Constantine.2005.720p.BrRip.x264.YIFY.mp4
 
 http://ia601505.us.archive.org/17/items/sagifaj_zdenka_03/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4jeFXQYytChdZYE9JYO7Un87IlW.jpg" group-title="Peliculas",Coraline (2009)
@@ -3540,7 +3546,7 @@ https://archive.org/download/NIMHTriAudio/El%20Secreto%20de%20NIMH%20TriAudio%20
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg" group-title="Peliculas",Malena (2000)
-
+https://archive.org/download/malena_202111/Mal%C3%A8na.avi
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="Peliculas",Donnie Brasco (1998)
 https://archive.org/download/donnie-brasco-1997-spanish-subtitles/Donnie%20Brasco%201997%20%28Spanish%20Subtitles%29.mp4
@@ -3610,8 +3616,8 @@ https://archive.org/download/dragon-ball-z-la-resurreccion-de-freezer/Dragon%20B
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjhhMDU5Y2QtMzcyZS00ZGE1LTg3ZjMtMTYyOTM0OTFlYTRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dragonball Super: Broly (2018)
 http://archive.org/download/ariga37/Sub1d0_p4r4_5tr34ming_A85_PA/2.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZmYmRjYTctM2Q5OS00MjdlLWI5NTEtYzQ1M2M5MzdhMTcwXkEyXkFqcGdeQXVyMjExMzI0OTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Zeroville (2019)
-
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBlNTBhYWQtMzg5Yi00NDA2LWJmMjYtZmM0ODhiYzkwYmY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pet Sematary (1989)
+https://archive.org/download/tauklv20210928pelicula1989petsematarymarylambert/Pelicula/%281989%29%20Pet%20Sematary%20%28Mary%20Lambert%29/%281989%29%20Pet%20Sematary%20%28Mary%20Lambert%29.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc0OWY0YzgtNDU1MS00ZjNiLWFiZjctMDNmNThlMTM4NDVkXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Pet Sematary Bloodlines (2023)
 https://archive.org/download/alplani1_202001/cementerio%20de%20mascotas.mp4
@@ -5540,10 +5546,8 @@ https://archive.org/download/alplani1_201912/Robin%20Hood.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMzMjgwNTk5NV5BMl5BanBnXkFtZTcwMjMzMjM1MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Underground (2007)
 https://archive.org/download/casa-en-el-lago/Pu%C3%B1os.de.Sangre.2020.DVDrip-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//pQN3LEZBRAvqOxlDBehNyP4RPQD.jpg" group-title="Peliculas",Alice (2022)
-https://delivery-node-8ffn7nirlw5eg20s.voe-network.net/engine/hls2/01/08965/2qebrrdznbzg_,n,.urlset/master.m3u8?t=qmrkkqqiaVwIwQTtNcIdJYAm5Kaqu5lriDil_EPKOhY&s=1716333204&e=14400&f=44825688&node=delivery-node-8ffn7nirlw5eg20s.voe-network.net&i=189.222&sp=2500&asn=8151
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="Peliculas",Bendita Suegra (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4g043PWVXkjHkxEEsEfwuAxlM8i.jpg" group-title="Peliculas",Alice Through the Looking Glass (2016)
+https://archive.org/download/alice.through.the.looking.glass.audiolatino/alice.through.the.looking.glass.audiolatino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/MvYpKlpFukTivnlBhizGbkAe3v.jpg" group-title="Peliculas",Ocean's Eight (2018)
 https://archive.org/download/alplani1_201912/Ocean%27s%208%20Las%20estafadoras.mp4
@@ -5710,6 +5714,9 @@ https://dl.dropbox.com/scl/fi/5y1aw0xexqd380cbarp2j/Orphan-2009-1080p-DuaLat.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg" group-title="Peliculas",Orphan First Kill (2022)
 https://archive.org/download/conjuring-the-beyond_202304/La%20hu%C3%A9rfana-%20Primer%20asesinato.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg" group-title="Peliculas",Notre-Dame on Fire (2022)
+https://archive.org/download/conjuring-the-beyond_202304/Arde%20Notre%20Dame%20%282022%29%20Online.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5NDM4OWEtOTEyMy00MmM0LTkxYzEtMDFhYjk3M2FlMzQzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",La Llorona (2019)
 https://archive.org/download/0446-l-4lr-0n-4.219.dl/0446L4lr0n4.219.dl.mkv
 
@@ -5755,6 +5762,9 @@ https://archive.org/download/blextv2/The.Conjuring.2013.bluray-latino-e-ingles.m
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg" group-title="Peliculas",The Conjuring 2 (2016) -Dual Lat-
 https://archive.org/download/pp-174-pp/T.c0nj.2.216-DL-.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/icNT5zfTsS8rZKaViOzQ9PmLpOh.jpg" group-title="Peliculas",Conjuring The Beyond (2022)
+https://archive.org/download/conjuring-the-beyond_202304/Conjuring%20The%20Beyond.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="Peliculas",The Conjuring The Devil Made Me Do It (2021) -Dual Lat-
 https://archive.org/download/pp-174-pp/T.C0nj.T.D.M4d3%20M.D0%20I.221.DL.mp4
@@ -6624,6 +6634,9 @@ https://archive.org/download/eees-mi-h-1j0-dvdrip-1382471/Eees_mi_h1j%E2%81%B0_D
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wWpqG3zrrPZhvNLflYJdbW1NgY3.jpg" group-title="Peliculas",Just My Luck (2006)
 https://archive.org/download/Devuelveme.Mi.Suerte.DVDRipLatino.2006/Devuelveme.Mi.Suerte.DVDRip-Latino.2006.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Peliculas",Detective Knight Independence (2023)
+https://archive.org/download/conjuring-the-beyond_202304/Detective%20Knight.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg" group-title="Peliculas",Real Steel (2011)
 
@@ -6969,8 +6982,6 @@ https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="Peliculas",The Domestics (2018)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jSSMXBKwoTXGVOiy2WsGOUlOzv6.jpg" group-title="Peliculas",Not Safe For Work (2014)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4g043PWVXkjHkxEEsEfwuAxlM8i.jpg" group-title="Peliculas",Alice Through the Looking Glass (2016)
-
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",The Host (null)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Unbroken (null)
@@ -7062,12 +7073,13 @@ https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="Peliculas",Meg2 The Trench (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qw7FkjLxsDj5vmBk04L2dkiJopo.jpg" group-title="Peliculas",Mercy (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//pQN3LEZBRAvqOxlDBehNyP4RPQD.jpg" group-title="Peliculas",Alice (2022)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="Peliculas",Bendita Suegra (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg" group-title="Peliculas",Missing (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2VxEtwgzOUukatl2IKGn4borpgE.jpg" group-title="Peliculas",The Tank (2023)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Peliculas",Detective Knight Independence (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="Peliculas",Day Shift (2022)
 
