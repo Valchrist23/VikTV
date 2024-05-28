@@ -2,7 +2,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
-http://142.4.217.162/Peliculas/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino/007%20-%20Casino%20Royale%20(2006)%204K%20HDR%20Latino.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg" group-title="Peliculas",Coyote Ugly (2000)
 https://archive.org/download/coyote-ugly-1080p/coyote-ugly-1080p.MP4
@@ -1274,13 +1273,6 @@ https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Mal
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg" group-title="Peliculas",Leprechaun Origins (2014)
 https://delivery-node-r8tciajiuxjrx3pr.voe-network.net/engine/hls2/01/10782/hbl0tuj6uq3g_,n,.urlset/master.m3u8?t=Uh15YLeh6Y3xgNLzJJug0pm_-OhsnP-sqXT7BNkEig4&s=1716426312&e=14400&f=53911825&node=delivery-node-r8tciajiuxjrx3pr.voe-network.net&i=189.222&sp=2500&asn=8151
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="Peliculas",Leprechaun Returns (2018)
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/06167/t8dalp83q4z8_n/master.m3u8?t=dMNBke5WfTM8WBnax8IRRiiyYUATZUhZnNIxCPRC5Y0&s=1716332332&e=43200&f=30835074&srv=17&asn=8151&sp=4000
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bridget Jones's Diary (2001)
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fantastic Four (2015)
 https://archive.org/download/los-4-fantasticos_2005/Los%204%20fant%C3%A1sticos.mp4
 
@@ -1451,12 +1443,11 @@ https://tvnettv.space/contenido/peliculas/The%20Cloverfield%20Paradox/14879.The.
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg" group-title="Peliculas",Terminus (2015)
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadpool (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg" group-title="Peliculas",Deadpool (2016)
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkzNmRhNTMtZDI4NC00Zjg1LTgxM2QtMjYxZDQ3OWJlMDRlXkEyXkFqcGdeQXVyNTU5MjkzMTU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Deadpool 2 (2018)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg" group-title="Peliculas",Deadpool 2 (2018)
 http://ia801500.us.archive.org/18/items/00000_202009/000000011.mp4
-
 
 https://archive.org/download/alplani1/DEADPOOL%202.mp4
 
@@ -1882,7 +1873,7 @@ https://archive.org/download/The.Dark.Knight.Rises.2012.1080pWww.compucalitv.com
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU4YmExZGItNDdkMC00MjJjLWI3MDAtNmQzMDZkMjRkZDlhXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Resident Evil Death Island (2023)
 https://archive.org/download/resident-evil-isla-de-la-muerte-2023-espanol-latino/Resident.Evil.Death.Island.2023.1080P-Dual-Lat.mp4
 
-https://hfs284.serversicuro.cc/hls/,dnzpftyz37g4a3gyvd7x5n3trpija5bagqq7ismlt5g2ymqcx6bzcusp6yja,.urlset/master.m3u8
+https://archive.org/download/resident-evil-isla-de-la-muerte-2023/Resident%20evil%20Isla%20de%20la%20Muerte%202023.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTZjNzRjMTMtZDMzNy00Y2ZjLTg0OTAtZjVhNzYyZmJjOTljXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",21 Jump Street
 https://archive.org/download/4-kngts-t-4l.-2001-dua-lat/21J5trt.2012-DuaLat-.mkv
@@ -4933,9 +4924,7 @@ https://archive.org/download/t-4k-3-tl-34d.-206-dl/TNun.2018-DL-.mp4
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg" group-title="Peliculas",The Nun II (2023)
-https://delivery-node-vppcaciyqhsbvyrg.voe-network.net/engine/hls2/01/09641/s4irvwunqomt_,n,.urlset/master.m3u8?t=ghXRsvYZzyHgndC51Mkf0glUFE0OsT92RMR1W1Sg2tQ&s=1716402303&e=14400&f=48206897&node=delivery-node-vppcaciyqhsbvyrg.voe-network.net&i=189.222&sp=2500&asn=8151
-
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/04734/2qp7s7avivyr_h/master.m3u8?t=6cR7gDc8DlYJDutp6PT5k5APgtL1JMORiD9wu3MVqhs&s=1716402228&e=43200&f=23673919&srv=41&asn=8151&sp=4000
+https://archive.org/download/la-monja-2/La%20monja%202.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Texas Chainsaw Massacre (2022)
 https://archive.org/download/t-4k-3-tl-34d.-206-dl/TxCh4s4w%20M4ss.221-DL-.mp4
@@ -6813,6 +6802,10 @@ https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h9DYic4zo3Oweb11009FmqZBxN4.jpg" group-title="Peliculas",Fun size (2012)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg" group-title="Peliculas",Parker (2013)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="Peliculas",Leprechaun Returns (2018)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjc3NjU1ZTEtNmNjNi00YzNiLWI3OWQtMTJmYTRkZDc1NDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Bridget Jones's Diary (2001)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzML477yx9CAwg5UqkRqobz0TrJ.jpg" group-title="Peliculas",The Nomad (2023)
 
