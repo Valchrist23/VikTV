@@ -4,9 +4,6 @@
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 type="stream" tvg-id="unimas" tvg-name="unimas" tvg-logo="https://archive.org/download/chmps/chmps.jpg" group-title="",3300.AYM SPORTS
-https://archive.org/download/1121.-unimas-20240410-125758/1121.UNIMAS-20240410-125758.ts
-
 #EXTINF:-1 tvg-id="Claro Vision" tvg-name="Claro Vision TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1920px-Claro_TV_wordmark.svg.png",Clarovision
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 
