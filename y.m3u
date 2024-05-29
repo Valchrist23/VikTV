@@ -1,6 +1,5 @@
 #EXTM3U 
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg" group-title="Peliculas",Coyote Ugly (2000)
@@ -13,6 +12,12 @@ https://archive.org/download/bf244233dc31e8522d02999ef28459e6/bf244233dc31e8522d
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg" group-title="Peliculas",Austin Powers The Spy Who Shagged Me (1999)
 https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7VMscq0659xKmcXzd86de1DGV4W.jpg" group-title="Peliculas",The Amityville Horror (1979)
+https://archive.org/download/pelicula-online-3_202311/Pel%C3%ADcula_Online_3.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4QK3JsMlA5uLZzSsh2Ld4kiQFPs.jpg" group-title="Peliculas",Amityville Horror (2005)
+https://archive.org/download/pelicula-online_20231110/Pel%C3%ADcula_Online.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="Peliculas",La Bamba (1987)
 
@@ -1793,6 +1798,8 @@ http://ia601504.us.archive.org/13/items/000_20191225/1.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg" group-title="Peliculas",John Wick: Chapter 4 (2023)
 http://archive.org/download/NX0F33EZ/JWCP4023.mkv
+
+https://archive.org/download/john.-wick.-4.2023.-ts.-720p.-latino.-line.-mega-1080p/John.Wick.4.2023.Ts.720p.Latino.LINE.Mega1080p.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Son of the Mask (1994)
 https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
@@ -4712,6 +4719,8 @@ https://archive.org/download/t-3-musk.-93-d/THungrG4m5TB4ll0S0nB1r55n4k3.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg" group-title="Peliculas",Uncharted (2022)
 https://archive.org/download/t-3-musk.-93-d/Unch.222-D-.mp4
 
+https://archive.org/download/uncharted-2022-spanish/Uncharted%202022%20Spanish.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="Peliculas",The Batman (2022)
 https://archive.org/download/t-3-musk.-93-d/TB4.222-D-.mp4
 
@@ -5055,10 +5064,6 @@ https://be6224.rcr92.lim01.cdn112.com/hls2/03/05419/y0irh6vc20sw_,h,o,.urlset/ma
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxYTU5MzctY2MzNS00MTRhLWEwM2UtY2Q5Mzk3OTAzMzcwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Clifford the Big Red Dog (2021)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGYwOTI1MTUtYmY0Mi00OTAxLTkwNDEtOTI5YTkyZTVhN2JiXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Father Stu (2022)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI5N2FhNzktZjZlNi00MmRjLWE1MmUtNjRlNzQyOGMzYjNhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Memory (2022)
-https://delivery-node-3ps6hllpqglekwne.voe-network.net/engine/hls2/01/07815/3ugll1rwo4wk_,n,.urlset/master.m3u8?t=cb7QBfNzqhBsS3mxX4jOs8bIBmwlOs_PiTHnC_n76YE&s=1716422842&e=14400&f=39376763&node=delivery-node-3ps6hllpqglekwne.voe-network.net&i=189.222&sp=2500&asn=8151
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgxMGQ2ZDctYWY4Yy00YTI4LWIxMmYtOWViMGI5ZDIwMmFiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fresh (2022)
 
@@ -5781,6 +5786,7 @@ http://fina.dyndns.tv/Peliculas/Dracula%20Untold.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" group-title="Peliculas",The Last Voyage Of The Demeter (2023)
 https://archive.org/download/4r4c3l1l0v3/TL4stV0y4g30D3m3tr.2023-DuaLat-.mp4
 
+https://archive.org/download/dracula-mar-de-sangre_202311/Dr%C3%A1cula%20Mar%20de%20sangre.mp4
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2023/The.Last.Voyage.of.the.Demeter.2023.mkv
 
 https://tvinnov.online/PELICULAS%202023/The%20Last%20Voyage%20of%20the%20Demeter/Dr%c3%a1cula%20Mar%20de%20sangre%20(2023)%201080p%20WEB-DL%20Latino.mp4
@@ -6115,6 +6121,9 @@ https://archive.org/download/p-0or-th-1.223-dl/S4mXOr.221-DL-.mp4
 https://archive.org/download/p-0or-th-1.223-dl/B0ttm5.223-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg" group-title="Peliculas",Freelance (2023)
 https://archive.org/download/p-0or-th-1.223-dl/Fr3elnc.223-DL-.mp4
+
+https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx/Freelance%20%282023%29%20%5B2160p%5D%20%5B4K%5D%20%5BWEB%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Freelance.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg" group-title="Peliculas",Mirrors (2008)
 https://archive.org/download/p-0or-th-1.223-dl/M1rr5.208-DL-.mp4
 
@@ -6626,6 +6635,31 @@ https://archive.org/download/Devuelveme.Mi.Suerte.DVDRipLatino.2006/Devuelveme.M
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Peliculas",Detective Knight Independence (2023)
 https://archive.org/download/conjuring-the-beyond_202304/Detective%20Knight.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bUZiZjWBxuyU1OkKdIGUCldHqm3.jpg" group-title="Peliculas",Bender: The Final Hustle (2021)
+https://archive.org/download/75308-99e-8b-94d-2cc-5-4578-bcce-bc-948bc-34497-qvkn-687643-streamlare/75308--99e8b94d-2cc5-4578-bcce-bc948bc34497--qvkn--687643-streamlare.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg" group-title="Peliculas",Samaritan (2022)
+https://archive.org/download/2022.-du-4l.-14-tin-0.1080.n-3m-3s-1s/2022.Du4l.14Tin0.1080.n3m3s1s.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI5N2FhNzktZjZlNi00MmRjLWE1MmUtNjRlNzQyOGMzYjNhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Memory (2022)
+https://archive.org/download/27848-c-36f-2432-6638-435b-bdff-c-6248db-0444f-rwuw-247390-streamsb/27848--c36f2432-6638-435b-bdff-c6248db0444f--rwuw--247390-streamsb.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg" group-title="Peliculas",Godrmothered (2020)
+https://archive.org/download/056_20201208/053.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oQvUq7UmumBTcAnvgFLFvegY47d.jpg" group-title="Peliculas",Little Monsters (2017)
+https://archive.org/download/056_20201208/055.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z3YyfWhzqvYqdd8YV6eixFEZJ3X.jpg" group-title="Peliculas",Survive The Night (2020)
+https://archive.org/download/survive-the-night-2020-dvdrip-latino/Survive%20the%20Night%202020%20dvdrip%20latino.mp4
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg" group-title="Peliculas",Real Steel (2011)
 
@@ -6724,9 +6758,6 @@ https://archive.org/download/conjuring-the-beyond_202304/Detective%20Knight.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="Peliculas",Rosaline (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg" group-title="Peliculas",Art Of Love (2024)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg" group-title="Peliculas",Freelance (2023)
-https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx/Freelance%20%282023%29%20%5B2160p%5D%20%5B4K%5D%20%5BWEB%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Freelance.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg" group-title="Peliculas",Thanksgiving (2023)
 
@@ -6860,6 +6891,7 @@ https://archive.org/download/freelance-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg" group-title="Peliculas",The Tutor (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jdRaPS2ShVQK2GurkT5mrlXJpzP.jpg" group-title="Peliculas",Lottery Ticket (2010)
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q1OTFkZTYtYWI2Yy00ODFiLWE2OTctODE0MmE4N2U5NDk2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="Peliculas",The List (2023)
 
