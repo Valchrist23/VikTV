@@ -199,6 +199,9 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+
+no
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Unicable MX
@@ -1048,6 +1051,8 @@ https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://www.midnightpulp.com/images/midnightpulp/midnightpulp_logo_image.png?imwidth=256" group-title="Entretenimiento +",Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/cb5639007a74649098ca3d78d4f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5bad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa1abe00b10de69a7ac481cc12758e683179cc94eb986d6469912d022f81dcc94a1ddd64188a7ab59ec14dd241b51347c9a990bf0a33ce680f1035d9b7538546c368cc2c3a43d56ea40474ceac0c8b06bec16c09d57e20a56eb32ab25f0583eaf7868d78034c2899e9d25663cb6c95a6f3ed294cae8de004371e266c093bb56698bf9047d3da927b8706f50389cbada3cfc03b9700aa5cd01d144fa95ded9bdf8eecaa59f458c2085e5f18a314b4059c963ec528f9577d225d179e79b5d711c0573a49451cb91ca1e1e560fd7d01084485b8ed285d58b557bd2364f13a841c94b0969fb316e57ec39b6cf6f3bc7755cc57d16d36c18ac0ebcb425fea29bc20338bed18e02dc67fdba07d7b953fb3d72094ce3bc7c1f764d7bd1fc6f42652a940bb785b8941d6337e5f9c9f1d740785669653522bfa2b620d5deba6a7770e65c296778156de627de7bd00d4c40638929daa20d7b9215634ac2a22c564e6386c2d3d0deceabe67c894c0dc06957120f6ef4cb4d9001/19/848x480_1686360/index.m3u8
+
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dove" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Dove_Channel_%28streaming_service%29_logo.png" group-title="Entretenimiento+",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8 
