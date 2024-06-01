@@ -2865,7 +2865,9 @@ http://89.187.179.11:88/Latino/Movies/Dual_Movies/2016/Jack.reacher.never.go.bac
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg" group-title="Peliculas",Harry Potter and the Sorcerers Stone (2001)
 https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20la%20piedra%20filosofal.mp4
 
-https://archive.org/download/potter.-01/POTTER.01.mkv
+
+#EXTINF:-1 tvg-logo="https://mataflix.com/wp-content/uploads/2024/04/7xXJ15VEf7G9GdAuV1dO769yC73-193x288.jpg" group-title="Peliculas",Harry Potter and the Philosopher's Stone (2001)
+https://x76kg5uzb8nq.sw-cdnstreamwish.com/v/01/03483/8sk7sr5yiddn_x/Harry_Potter_1_y_la_piedra_filosofal_(2001)_(2).mkv.mp4?t=GiuqG9H-UtepBl36b6AWIDaQ4bBC-ts_DAqsWyIM3RE&s=1717283588&e=129600&f=17416919&sp=400&i=0.0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="Peliculas",Harry Potter And The Chamber Of Secrets (2002)
 https://archive.org/download/alplani1_202001/Harry%20Potter%20y%20la%20c%C3%A1mara%20secreta.mp4
