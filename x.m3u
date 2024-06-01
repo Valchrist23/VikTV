@@ -611,11 +611,16 @@ no
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+
+no
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",EnerGeek Retro
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.m3u8?
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
+No
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.m3u8?
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anipop
@@ -680,6 +685,9 @@ http://radio.7chan.org:8000/CH7.m3u
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Entretenimiento +",VariedTV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
+
+No
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic" tvg-name="Magic" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Anime",Magic
