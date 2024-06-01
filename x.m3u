@@ -626,19 +626,33 @@ Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
+
+ya no
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="Loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
+
+no
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-language="es" tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Latino Kids Tv
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
+
+https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
 no se
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Anime
+no
+
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV Cine Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1867949726.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/436-4362370_yamato-logo-png-transparent-logo-yamato-png-png.png" group-title="Anime",Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
