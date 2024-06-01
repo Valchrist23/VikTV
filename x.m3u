@@ -656,6 +656,9 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
 
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV General
+https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w369696033.m3u8
+
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/chunklist_w1181377274.m3u8
 
@@ -786,9 +789,15 @@ https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1950766089.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
+
+no
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
 
+https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w1786162115.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
+
+no
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
