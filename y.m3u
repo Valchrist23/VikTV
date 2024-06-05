@@ -830,6 +830,8 @@ https://cdn.jwplayer.com/manifests/nU9zWYHw.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg" group-title="Peliculas",Bullet To The Head (2012)
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="Peliculas",The Forgotten Battle (2020)
+https://archive.org/download/la-batalla-olvidada/The.Forgotten.Battle.2020.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="Peliculas",The Greatest Beer Run Ever (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
@@ -4299,6 +4301,9 @@ https://archive.org/download/alplani1/Cazadora%20de%20gigantes.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg" group-title="Peliculas",The Hitman's Bodyguard (2017)
 https://archive.org/download/alplani1/Duro%20de%20cuidar.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg" group-title="Peliculas",Hitman's Wife's Bodyguard (2021)
+http://archive.org/download/duro-de-cuidar-2./CUIDAR.2..mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg" group-title="Peliculas",The Mummy (1999)
 
 
@@ -6937,7 +6942,8 @@ https://archive.org/download/ElDespertarDelDiablo2006/El%20despertar%20del%20dia
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gUilTInQpzoK7iCkPjysamiVmjS.jpg" group-title="Peliculas",The Gatreway (2021)
 https://archive.org/download/cruzando-la-linea/The.Gateway.2021.lati.mp4
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oIxGqt2XKTLEKLHVffIv9hUlW0T.jpg" group-title="Peliculas",The F**k-It List (2020)
+http://archive.org/download/la-lista-de-al-carajo_202007/La%20Lista%20De%20Al%20Carajo.mp4
 
 
 
