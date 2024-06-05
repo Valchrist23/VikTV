@@ -2623,11 +2623,7 @@ http://ia801405.us.archive.org/0/items/ver-karate-kid-ii-1986-online-latino-hd-p
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bHjLC5GuBfeyW6ZE07x6TalKj19.jpg" group-title="Peliculas",The Karate Kid (2010)
 http://158.69.158.102/Peliculas/Listo/30122022_1253/the_karate_kid.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpgg" group-title="Peliculas",The Last Duel (2021)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg" group-title="Peliculas",True Lies (1994)
-https://delivery-node-ntkoesa8nfcqya9q.voe-network.net/engine/hls2-c/01/09280/gyc8j6xnnags_,n,.urlset/master.m3u8?t=2mWWG7fuqvp9PLOFOQla4n7yn87_LToJoAV1uQ0Rny8&s=1716404449&e=14400&f=46400558&node=delivery-node-tyrpwrfsotxcpbf4.voe-network.net&i=189.222&sp=2500&asn=8151
-
 https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas~1.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" group-title="Peliculas",The Hobbit An Unexpected Journey (2012)
@@ -3147,6 +3143,8 @@ http://archive.org/download/20220916_20220916_1057/Linterna%20Verde%20Caballeros
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzc3ZWIwYjktZWE1ZC00MTRlLWE1NzUtYTYzYjJlNmMyYTZhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Doom Anihilation (2019)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Fight Club (1999)
+https://archive.org/download/p-Fight_Club319/p-Fight_Club319.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTEwMTU1YjMtMjc0OS00NjZiLTk1MGMtNzhkODI0ZDFjNGI2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Weird Science (1985)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUyZWE5YmMtNDA2ZC00NzFlLTg0MzktOTgzYjA2ZWE3NmIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",What Women Want (2000)
 
@@ -3178,6 +3176,7 @@ https://archive.org/download/pel149b83b3a93u/Polaroid.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5Va1WXDX6nZElVirPrGxf6w99B.jpg" group-title="Peliculas",Taken (2008)
 http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%201.mp4
 
+si
 https://archive.org/download/pelis-rmvb/B%C3%BAsqueda%20Implacable.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg" group-title="Peliculas",Taken 2 (2012)
@@ -3370,8 +3369,11 @@ https://archive.org/download/alplani1_201912/Mal%C3%A9fica.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="Peliculas",Maleficent Mistress Of Evil (2019)
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4NmQyNGUtMDg4NS00ZTZkLWI3ODQtMGJmYThiYjQxNGRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Simpsons Movie (2007)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpgg" group-title="Peliculas",The Last Duel (2021)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4NmQyNGUtMDg4NS00ZTZkLWI3ODQtMGJmYThiYjQxNGRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Simpsons Movie (2007)
+https://download1638.mediafire.com/phunkwm6y5lgilTKJGDHb2DGmXGQNVlV5NbmmrcPKck0uSkEiZGiXcz23zdgV6ZQ-xc2DVbZnw-NN7_Mv45hwN2Ie9prtslxzKOhdu6m6-H1bI3bu4GLp0TSraJIYLdGV8bduddemUagd4OsMz4FguFilBvvSLjAllH0ZVtr8P03ft4/1q2c1a4zniugg0d/T5impM0v207-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI1NTM0NmYtNzZmMy00ZWJkLTliNDUtZmExMjRlY2ViNmM3XkEyXkFqcGdeQXVyMjMxOTcxOTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Good The Bart And The Loki (2021)
 https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
@@ -4385,6 +4387,9 @@ https://archive.org/download/0k4wy.-218/T5k1L1v1n.211.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="Peliculas",Killers of the Flower Moon (2023)
 https://archive.org/download/19-suspiria/K1llrs0fFlowrM0on.2023-DuaLat-.mp4
+
+si
+https://archive.org/download/los-asesinos-de-la-luna-2023-bluray-espwolfmax-4k.com/Los%20asesinos%20de%20la%20luna%20%282023%29%20%5BBluray%5D%5BEsp%5D%28wolfmax4k.com%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hvwB4LdMCLzqXsk5ZjR77vzPkGk.jpg" group-title="Peliculas",Voces Inocentes (2004)
 https://archive.org/download/Voces.Inocentes/Voces.Inocentes.avi
@@ -6852,11 +6857,11 @@ https://download1587.mediafire.com/3xfmiko3u6fgj7fjaQTBBdDfBx8uf2GSaAq4SaKb2ZbiZ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg" group-title="Peliculas",Crank (2006)
 https://archive.org/download/l-1s.-fr-4nkn.-224-dl/Crnk%20V3nbl00d.206DL.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iR1bVfURbN7r1C46WHFbwCkVve.jpg" group-title="Peliculas",Crank Venganceblood (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eh004yF4wv8pBJ8mw8yVy1rMm4M.jpg" group-title="Peliculas",El Infierno (2010)
+https://archive.org/download/el-infierno-2010_202401/El%20Infierno2010.mp4
 
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="Peliculas",The Shawshank Redemption (1994)
+https://download1072.mediafire.com/nbv17f6j5hrgek7sULdqLDJ0JcqNvOkZjwV-QUjVqAojylzij0yDjHtoB8D_IElesT7VqsvfKtuZD61AcJI8P53DgsJmvW5jw1zGNxG3GNXsl1mbMDtsJE8npYD9o7DtNq1Viy2f9Xth0-dULT37aNTNRCL9S7TW1a9BuuUSm9Tw4OU/0a5pnhvhtr1kwvb/TSh4w5hR3d994-DL-.mkv
 
 
 
@@ -6985,7 +6990,6 @@ https://archive.org/download/l-1s.-fr-4nkn.-224-dl/Crnk%20V3nbl00d.206DL.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uxkb2U8Z0HVyt5CQZXrCwLFtZNN.jpg" group-title="Peliculas",Mama Cruz (2023)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg" group-title="Peliculas",The Shawshank Redemption (1994)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="Peliculas",Wanted Man (2024)
 
