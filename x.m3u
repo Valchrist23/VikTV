@@ -1286,7 +1286,17 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280
 
 -----------------------------------------Sports----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="Sports",ClaroSports
+
+#EXTINF:-1 tvg-id="Ligue Centro" tvg-name="Ligue Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="Sports",Ligue Centro
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148950
+
+#EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/800px-NBC_Universo_logo.svg.png" group-title="Sports",NBC Universo
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148951
+
+#EXTINF:-1 tvg-id="NBC Universo" tvg-name="NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/261px-Logo_de_FUTV.svg.png" group-title="Sports",FUTV
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148952
+
+#EXTINF:-1 tvg-id="FUTV" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/261px-Logo_de_FUTV.svg.png" group-title="Sports",Clarosport
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=publish" group-title="Sports",SportsGrid
