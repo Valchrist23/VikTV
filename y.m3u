@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gP9yviboTGWGolqUZKIB1UkF1C2.jpg" group-title="Peliculas",Lamb (2021)
+https://archive.org/download/l-4m-221-sl/L4m221-SL-.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aj0pgKR4dWlRRb1Q05JGQtwxHbj.jpg" group-title="Peliculas",Lamb (2000)
 https://archive.org/download/c-5t-4wy-200-dl/L4m215-SL-.mkv
 
@@ -1975,13 +1978,19 @@ https://archive.org/download/10010010/10010010.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_.jpg" group-title="Peliculas",Ted 2 (2015)
 https://archive.org/download/ted-2-2015-soy-antonioofc/Ted%202%20%282015%29%20%CB%A2%E1%B5%92%CA%B8%E1%AD%84ANTONIO%E1%AD%84%E1%B5%92%E1%B6%A0%E1%B6%9C%F0%9F%87%B2%F0%9F%87%BD.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUxNmYwMTgtYjAyZi00NjdlLWI2ZjMtNzIyMjIzZTg0NDAwXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Resident Evil Degeneration (2008)
-https://archive.org/download/resident-evil-degeneration-dvd-2008/Resident%20Evil-%20Degeneration-J1_t00.mkv
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUxNmYwMTgtYjAyZi00NjdlLWI2ZjMtNzIyMjIzZTg0NDAwXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Resident Evil Extinction (2007)
+https://archive.org/download/l-4m-221-sl/R33xt207-DL-.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUxNmYwMTgtYjAyZi00NjdlLWI2ZjMtNzIyMjIzZTg0NDAwXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Resident Evil Degeneration (2008)
+https://archive.org/download/l-4m-221-sl/R3D3g208-DL-.mp4
+
+si
+https://archive.org/download/resident-evil-degeneration-dvd-2008/Resident%20Evil-%20Degeneration-J1_t00.mkv
 https://archive.org/download/resident-evil-degeneration-dvd-2008/Resident%20Evil%20Degeneration.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY2M2RkMmMtNGY3Yy00MTg0LWJmMmItNjEzODJjYTViZjA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Resident Evil Damnation (2012)
-
+https://archive.org/download/l-4m-221-sl/R3D4mn212-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg0OTQ0ODY1N15BMl5BanBnXkFtZTgwNjkxNjI4MTI@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Resident Evil Vendetta (2017)
 https://archive.org/download/The.Dark.Knight.Rises.2012.1080pWww.compucalitv.com/RESIDENT%20EVIL%20VENDETTA.mp4
@@ -2503,10 +2512,10 @@ http://ia601508.us.archive.org/16/items/02_20200909_202009/sub1d0_p4r4_5tr34ming
 https://archive.org/download/Rambo1/Rambo.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo Firstblood Part II (1985)
-
+https://archive.org/download/l-4m-221-sl/R42985-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIwNWJhZDItZmNmOC00M2NkLWIwNDktMTYwZWFlZDVkMmVkL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rambo III (1988)
-
+https://archive.org/download/l-4m-221-sl/R43988-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",John Rambo (2008)
 https://download1325.mediafire.com/h8kubzuo1bagaAeysvoZN0RLAMPKL3O0-f4hRQ-COvlriJ0G9rtuASwCxADRj72GcMjKsluUy6me4h4RGuzFgFPEscd_BHnfmeFhqGarjRns9_8s7dHXY9aCTFcLqJciXpo7Wd86Mja4SE--6i4jgxHVeV3L9dE_HxfPF_4WtcDHSFo/whz7ases42fk9pk/J0nR4m208-DL-.mkv
@@ -3559,6 +3568,9 @@ si
 http://archive.org/download/01_20200304/Sub1do_p4r4_Str34m_AB5/01.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9INcC14WZjCMKGE360VXmklCLdZ.jpg" group-title="Peliculas",Lolita (1997)
+https://archive.org/download/l-4m-221-sl/L0l997-DL-.mkv
+
+no
 https://download941.mediafire.com/0zjh272w7bpgfsTXlMAw7lumDkqqUVGPvqPb4S0drH8Srt6j1CNF3OSr60bSf1NRbxfGJnuU69E6GOZTxEDa8BcNPkqtnQlqgRYSD27YqVpRfFcdg5Rf0hsnT5CYYuQ43MExF8HsGlhFQq0BDXvPN7hnRSsyG1DFJqWs8-KnxAA5rxg/aj1uu81tgqig2v1/04L0l197-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MGQD4yXokufNlW1AyRXdiy7ytP.jpg" group-title="Peliculas",Lord Of War (2005)
@@ -6848,7 +6860,8 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Traum
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gmTLorYhXJZgdzUsUhvm1ZkRTl0.jpg" group-title="Peliculas",The Fighter (2010)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Vencedor%40cine%2Bcine.mp4
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c7JzcVK4OZY1u7HYiFBOASkKPP5.jpg" group-title="Peliculas",Ride Or Die (2021)
+https://archive.org/download/l-4m-221-sl/R10D1221-DL-.mp4
 
 
 
@@ -7286,8 +7299,8 @@ https://archive.org/download/camino-hacia-el-terror-5_202404/camino%20hacia%20el
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg" group-title="Peliculas",A Christmas Prince: The Royal Wedding (2018)
 https://archive.org/download/PelNavvVariass/Watch%20chr1stm4s%20pr1nc3%20th3%20r0y4l%20w3dd1ng%202018%20hdrip%20720p%20latino%20mp4.mp4
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/briDKf5nrLzox2zcI6pquKeqWz8.jpg" group-title="Peliculas",Repomen (2010)
+https://archive.org/download/l-4m-221-sl/R3pmn210-DL-.mkv
 
 
 
@@ -8000,7 +8013,6 @@ https://archive.org/download/PelNavvVariass/Watch%20chr1stm4s%20pr1nc3%20th3%20r
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8jIyu2UfEsCYlxg2vFUaHeALeoD.jpg" group-title="Peliculas",Blacklight (2022)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c7JzcVK4OZY1u7HYiFBOASkKPP5.jpg" group-title="Peliculas",Ride Or Die (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mFukGiFZaVYoXIR8nrE95LlfbHG.jpg" group-title="Peliculas",Hex (2018)
 
