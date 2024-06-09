@@ -111,6 +111,10 @@ https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg" group-title="Peliculas",An American Werewolf In London (1981)
+https://archive.org/download/KiSec7/Un%20Hombre%20Lobo%20Americano%20en%20Londres%20%281981%29/Un%20Hombre%20Lobo%20Americano%20en%20Londres.Title1.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="Peliculas",Dirty Harry (1976)
 http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
 
@@ -119,6 +123,12 @@ https://archive.org/download/el-fantasma-del-paraiso-brian-de-palma-1974/El%20fa
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nOspcG8HP6KPdMvzezavRbzYCEw.jpg" group-title="Peliculas",Cyborg (1980)
 https://archive.org/download/c-5t-4wy-200-dl/Cy0989-DL-.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xMDo0ewl6XMZei44UNGMfho6eBq.jpg" group-title="Peliculas",The Quest (1996)
+https://archive.org/download/la-busqueda-the-quest-jean-claude-van-damme-en-espan-ol-latinoamericano-360-p/LA%20BUSQUEDA%20%20%28THE%20QUEST%20%29%20JEAN%20CLAUDE%20VAN%20DAMME%20EN%20ESPA%C3%91OL%20LATINOAMERICANO%20______%28360P%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg" group-title="Peliculas",Working Girl (1988)
+https://archive.org/download/KiSec7/Secretaria%20ejecutiva%20%281988%29%20Dual%201080p/Secretaria%20ejecutiva%20%281988%29%20Dual%201080p.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg" group-title="Peliculas",Ferris Buellers Day Off (1986)
 https://tvnettv.space/contenido/peliculas/Ferris%20Buellers%20Day%20Off/Ferris.Buellers.Day.Off.1986.1080p.BluRay.mp4
@@ -3613,6 +3623,9 @@ http://archive.org/download/K4HT516J/BLBET023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg" group-title="Peliculas",Knights Of The Zodiac (2023)
 https://archive.org/download/kb-1-v-2204-dl/CDZ223-DL-.mp4
 
+si
+http://pilarika.no-ip.org/Cine/Cine_03/025_-_Los_Caballeros_Del_Zodiaco_La_leyenda_Del_Santuario.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="Peliculas",Hocus Pocus 2 (2022)
 
 
@@ -4045,6 +4058,9 @@ https://archive.org/download/t-3-musk.-93-d/El.Cambio.220-D-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Babysitter (2017)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/La%20Ni%C3%B1era.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg" group-title="Peliculas",Ghost (1990)
+http://pilarika.no-ip.org/Cine/Cine_07/088_-_Ghost,_m%c3%a1s_all%c3%a1_del_amor.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3NTA4NDIwMF5BMl5BanBnXkFtZTYwNTc4NDE3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ghost Ship (2002)
 https://archive.org/download/barco-fantasma-hd-720p-1091306/Barco_fantasma_HD__720p___1091306.mp4
@@ -7271,7 +7287,8 @@ https://archive.org/download/l-4m-221-sl/R3pmn210-DL-.mkv
 https://archive.org/download/jurassic-world-dominion_202207/Everything%20Everywhere%20All%20at%20Once.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg" group-title="Peliculas",Hancock (2008)
+http://pilarika.no-ip.org/Cine/Cine_03/008_-_Hancock.mp4
 
 
 
@@ -7958,8 +7975,6 @@ https://archive.org/download/jurassic-world-dominion_202207/Everything%20Everywh
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg" group-title="Peliculas",The Highwayman (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kzAKJAdknTtBfT0l60h9uBQaKRc.jpg" group-title="Peliculas",Shattered Earth Cloudy Mountain (2021)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg" group-title="Peliculas",Hancock (2008)
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/165870/posters/61240a46673c0.jpg" group-title="Peliculas",No Man Of God (2021)
 
