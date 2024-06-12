@@ -1199,6 +1199,12 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Toy%2
 si
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" group-title="Peliculas",Lilo & Stitch (2002) 
+https://archive.org/download/Peliculas-wii/Lilo%20y%20Stitch%201.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg" group-title="Peliculas",Lilo & Stitch 2: Stitch Has a Glitch (2005) 
+https://archive.org/download/Peliculas-wii/Lilo%20y%20Stitch%202.mp4
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5ZjA5ZjMtZGZlOS00M2U4LTkyOTktYzYyNGZjN2UxYjdkXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Addicted To Love (1997)
 http://archive.org/download/20221002_20221002_0815/adictos%20al%20amor.mp4
 
@@ -1259,6 +1265,9 @@ https://archive.org/download/p-4n-g-4n.-213-dl/BTr4n.222-DL-.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5MTE1MjQyNV5BMl5BanBnXkFtZTcwODI4NDMwNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Journey 2: The Mysterious Island (2012)
 http://archive.org/download/20220926_20220926_1052/Viaje%20al%20Centro%20de%20la%20Tierra%202.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg" group-title="Peliculas",Ocean Waves (1993)
+https://archive.org/download/Peliculas-wii/Puedo%20oir%20el%20mar.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg" group-title="Peliculas",Whispers Of The Heart (1995)
 https://archive.org/download/Peliculas-wii/Susurros%20del%20Corazon.mp4
 
@@ -1272,6 +1281,7 @@ http://archive.org/download/TRIA53P4/FRTDRC17.mkv
 https://archive.org/download/la-princesa-mononoke-1997-doblaje-latino-original-extras/La%20Princesa%20Mononoke%20%281997%29%20%28Doblaje%20Latino%20Original%20%2B%20Extras%29.mkv
 
 si
+https://archive.org/download/Peliculas-wii/La%20princesa%20Mononoke.mp4
 http://archive.org/download/1997_20220702/La%20Princesa%20Mononoke%201997.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRhNDhmYzItNDYzNC00YTc1LTkzYTUtMjE4ZDNhZGZkNjRkXkEyXkFqcGdeQXVyNjk3ODU5MDY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Shut In (2022)
@@ -1933,6 +1943,9 @@ https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20histo
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Solo: A Star Wars Story (2014)
 https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+
+si
+https://archive.org/download/Peliculas-wii/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJiYTMyMGEtNjE0Zi00MzczLWI3ZWYtMmFkMDk0NWVjZGYzXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Star Wars The Clone Wars (2008)
 https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Las%20guerras%20clonicas.mp4
@@ -6929,7 +6942,6 @@ https://archive.org/download/videoplayback_20200904_1918/videoplayback.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg" group-title="Peliculas",Hit Man (2024)
 https://archive.org/download/t-40-y-0-v-1205-dl/H1Mn224%20-DL-.mkv
-
 
 
 
