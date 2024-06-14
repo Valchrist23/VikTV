@@ -126,6 +126,9 @@ https://archive.org/download/american-pie-8-el-reencuentro-2012/American%20Pie%2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg" group-title="Peliculas",An American Werewolf In London (1981)
 https://archive.org/download/KiSec7/Un%20Hombre%20Lobo%20Americano%20en%20Londres%20%281981%29/Un%20Hombre%20Lobo%20Americano%20en%20Londres.Title1.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg" group-title="Peliculas",V For Vendetta (2005)
+http://158.69.158.102/Peliculas/Listo/30122022_0228/V_d2e_V7en6gan4za2.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="Peliculas",Dirty Harry (1976)
 http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
 
@@ -3103,6 +3106,7 @@ http://158.69.158.102/Peliculas/Listo/30122022_1402/scarface.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kVpq68NxChzynK7otaymRSaWR8p.jpg" group-title="Peliculas",Shaolin Soccer (2001)
 http://158.69.158.102/Peliculas/Listo/30122022_1402/shaolin_soccer.mkv
 
+si
 http://archive.org/download/ttjum044/ttjum044.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg" group-title="Peliculas",The Devil's Advocate (1997)
@@ -3428,6 +3432,9 @@ https://archive.org/download/pelis-rmvb/127-Hours.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZhZjUxZGUtMzM1OC00MjdmLWIzZjUtZTUzODc2ZTI2YzQzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Monkey King (2023)
 https://archive.org/download/1-l-0-tr-L0R14N/3lR3y%20M0n0.2023-DuaLat-.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="Peliculas",Superman Returns (2006)
+http://158.69.158.102/Peliculas/Listo/30122022_1253/superman_regresa.mkv
 
 https://delivery-node-wtatahculkalrcev.voe-network.net/engine/hls2/01/09413/tkhrtsmahp98_,n,.urlset/master.m3u8?t=TzbJXR920IeKbI54MdtIvchN3bTeXDef7VPIMenLDVI&s=1716403539&e=14400&f=47069284&node=delivery-node-wtatahculkalrcev.voe-network.net&i=189.222&sp=2500&asn=8151
 
@@ -4196,7 +4203,7 @@ https://archive.org/download/ExMachina20151080pBDRipLATENGX264DTS/Ex.Machina.201
 https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Easy A (2010)
-
+http://158.69.158.102/Peliculas/Listo/30122022_1402/easy_a.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBlNzM4ZjAtYWZlNC00NzgwLTg0ODItYzE3ZjZlODk1MzE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Wrong Place (2022)
 https://archive.org/download/conjuring-the-beyond_202304/Wrong%20Place.mp4
@@ -5500,6 +5507,7 @@ https://archive.org/download/fdvgh65VHS99.222-DL-/TF4nt1c.219-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8BquGK22zCcsmBWiaIakaaPpSZb.jpg" group-title="Peliculas",The Untouchables (1987)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sjN9IZHmRHZmpxvQYYYFNQ22Pch.jpg" group-title="Peliculas",The Warriors (1979)
+http://158.69.158.102/Peliculas/Listo/30122022_1253/the_warriors.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="Peliculas",Winter Witch (2022)
 https://archive.org/download/fdvgh65VHS99.222-DL-/W1t3rWch.22.mp4
@@ -7417,7 +7425,8 @@ https://archive.org/download/Peliculas-wii/Suzume.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wOBU3SLjQ9358Km9YWYasPZyebp.jpg" group-title="Peliculas",The Red turtle (2016)
 https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="Peliculas",Pil's Adventures (2021)
+http://158.69.158.102/Peliculas/Listo/30122022_0431/Pil.2021.720p.mp4
 
 
 
@@ -7496,7 +7505,7 @@ https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Peliculas",8-Bit Christmas (2021)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="Peliculas",Pil's Adventures (2021)
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="Peliculas",The Adam Project (2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2bHCUqQp8CoSVvwPc6sW6TIBXbN.jpg" group-title="Peliculas",Cobweb (2023)
 
