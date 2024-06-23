@@ -951,6 +951,9 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
+si
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
+
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="CHARGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/799px-Charge%21_Logo_2020.svg.png" group-title="USA",CHARGE 
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
@@ -1063,12 +1066,17 @@ https://linear-432.frequency.stream/mt/studio/432/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 
+si
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
 https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
 https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 
+
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
 https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/1920px-MGM_2021.svg.png" group-title="Entretenimiento +",MGM Presents Crime
@@ -1207,6 +1215,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
+si
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pcmag.com/imagery/articles/078lgLwZOcCyGzBRw0uOpyz-2.fit_lim.size_1600x900.v1581954468.png" group-title="Movies",Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 
@@ -1325,6 +1336,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007
 
 #EXTINF:-1 tvg-id="RealMadridTV.mx" tvg-name="Real Madrid TV Mexico" tvg-logo="https://i1.wp.com/www.footballa45giri.it/wp-content/uploads/2015/07/champions-league-logo.jpg" group-title="Sports",Real Madrid TV Mexico
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1741
+
+si
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/210px-National_Basketball_Association_logo.svg.png?20221026000552" group-title="Sports",NBA TV
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62076
