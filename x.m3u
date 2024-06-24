@@ -412,9 +412,18 @@ no
 http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 8 
+https://streamingamericaservice.info:19360/telenord8/telenord8.m3u8
+
+no
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 10 
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
+https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+
+no
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento +",TeleSUR
@@ -424,12 +433,21 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UC
 https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Entretenimiento +",Tves
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+
+no
 https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Deportes/Esports",eSports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="Entretenimiento +",Telepacifico
+https://live-edge-ams-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-1080/index.m3u8
+
+si
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+no
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="Entretenimiento +",Ant Television
