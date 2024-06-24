@@ -728,6 +728,9 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 No
 https://kali.vdopanel.com:3070/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic 
+https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b_output_0.m3u8?session=NosLySnm2NN7w5JdCbcTUZ
+
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Anime",Play Television
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
