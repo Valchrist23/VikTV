@@ -995,7 +995,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,V
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="CHARGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/799px-Charge%21_Logo_2020.svg.png" group-title="USA",CHARGE 
-https://content-ausw1.uplynk.com/channel/37eb732888614810b512fdd82604244e/e.m3u8?pbs=dc1c4baf5ba3400eaf5d55c2aa823e6d
 
 no
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -1298,10 +1297,10 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus
-https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w791536791.m3u8
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1606594505.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo=w240-h480-rw" group-title="Music",Retro Plus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w89394082.m3u8
+no
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w791536791.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image82141696383.jpg" group-title="Music",Music Retro 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8 
@@ -1342,13 +1341,10 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280
 
 
 #EXTINF:-1 tvg-id="Ligue Centro" tvg-name="Ligue Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="Sports",Ligue Centro
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148950
 
 #EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/800px-NBC_Universo_logo.svg.png" group-title="Sports",NBC Universo
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148951
 
 #EXTINF:-1 tvg-id="NBC Universo" tvg-name="NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/261px-Logo_de_FUTV.svg.png" group-title="Sports",FUTV
-http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/148952
 
 #EXTINF:-1 tvg-id="FUTV" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/261px-Logo_de_FUTV.svg.png" group-title="Sports",Clarosport
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
@@ -1508,9 +1504,6 @@ https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:-1 tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LiveJasmin_logo.svg/1280px-LiveJasmin_logo.svg.png" tvg-country="US" tvg-url="" group-title="ART",Jasmin. TV
-http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8 
-
------------------------------------------Series---------------------------------------------
 
 
 -----------------------------------------Movie Channels---------------------------------------------
@@ -1524,7 +1517,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8fe6eee8-e887-11ee-aac3-8659105ff2ba&deviceId=1dcc17cd-4f04-4f89-9034-73715166fa30&deviceVersion=120.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=43.650001525878906&deviceLon=-79.36000061035156&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax Mexico 
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 
