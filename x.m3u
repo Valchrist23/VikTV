@@ -420,6 +420,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 10 
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
 https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
 
@@ -439,6 +441,11 @@ no
 https://ls.tves.gob.ve/hls/tves.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Deportes/Esports",eSports Max
+https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
+
+si
+https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w1690700502.m3u8
+no
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png" group-title="Entretenimiento +",Telepacifico
