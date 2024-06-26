@@ -91,3 +91,5 @@ https://cdn.adultiptv.net/russian.m3u8
 https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us",AdultIPTV.net Threesome (720p)
 https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us",Visit X
+http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1911927332.m3u8
