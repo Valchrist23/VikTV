@@ -109,9 +109,6 @@ https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 #EXTINF:-1 tvg-id="VA +" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaplus-tv-mx.png" group-title="Noticias",VA +
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w590809501_b1428000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Canal6" tvg-name="Canal6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/466px-Canal_6_TCS.png" group-title="Noticias",Canal 6
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="MX",SintesisTV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
@@ -153,9 +150,6 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MVS TV" tvg-name="MVS TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" tvg-country="MX" group-title="Entretenimiento +",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
-#EXTINF:-1 tvg-id="Multivision" tvg-name="Multivision" tvg-language="es" tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-FEDERAL.png" tvg-country="MX" group-title="Entretenimiento +",Multivision
-https://panel.dattalive.com/8250/8250/chunklist_w835067006.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="Entretenimiento +",TVP Pacifico Obregon 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
@@ -291,8 +285,8 @@ https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT5OZ4jHGmyMvfOsHB
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="Entretenimiento +",Turistik TV 
 https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=146361
 
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w1303397998.m3u8
-
 https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=99970
 
 #EXTINF:-1 tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Entretenimiento +",This is Bulgaria HD
@@ -350,9 +344,9 @@ https://www.tdtchannels.com/stream/tevecat.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entretenimiento +",A3Cine 
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 
 no
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Cine
@@ -976,6 +970,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-juntos-plex/playlist.m3u8?us
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="Cine AR" tvg-name="Cine AR" tvg-logo="https://www.m3u.cl/logo/208_CINE_AR.png",Cine AR
+
+no
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/linear-cine-romantico.jpg" group-title="LAT",Cine Romantico 
