@@ -360,8 +360,9 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 #EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3 Series
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento +",TVE
-http://streaming.procergs.com.br:1935/tve/stve/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/220px-TV3CAT.svg.png" group-title="Entretenimiento +",TV3CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 no
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
@@ -397,6 +398,8 @@ NO
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/96f9ace9-649a-4962-96b7-06d7e6990514/5.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
+no
+
 https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
@@ -670,11 +673,13 @@ Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 ya no
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-id="Loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 
 no
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
