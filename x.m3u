@@ -283,11 +283,15 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_14
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT5OZ4jHGmyMvfOsHBmAwqIBsLKRvxZ7jgqDInWm0x1E)/dm/3/x81cvsk/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="Entretenimiento +",Turistik TV 
-https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=146361
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
+no
+https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=79571
+https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=99970
+https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=146361
 https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/8030/8030/chunklist_w1303397998.m3u8
-https://cdn1.cef-technology.com/stream_web/turistik/chunks.m3u8?nimblesessionid=99970
+
 
 #EXTINF:-1 tvg-logo="https://hd.traveltv.bg/wp-content/uploads/sites/3/2018/12/ThisIsBG.HDTV_.TV_-500x73.png" group-title="Entretenimiento +",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
