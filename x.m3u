@@ -229,9 +229,6 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 no
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Miembros Al Aire" tvg-name="Miembros Al Aire" tvg-language="es" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1280",Miembros Al Aire
-https://linear-483.frequency.stream/dist/vix/483/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
@@ -363,10 +360,10 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 1
-https://bit.ly/48Xf5t6?profile=inspirationFreeTV.m3u8
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 2
-https://bit.ly/3u1GriR?profile=inspirationFreeTV.m3u8
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai=SSSLIVE
 
 si
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
