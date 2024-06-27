@@ -1594,7 +1594,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Sony Movies
+same
 https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
