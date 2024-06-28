@@ -286,11 +286,15 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
+https://live-c.cf.dmcdn.net/sec2(byQjHoKnj3PJcmPt9loTh15OWSHNnW-EJaGdJrPV7KRqz6urEPcGItGYaJ2YtKVmIsAuQoDX74GqctTPQRF3AgI4dJUlPjG65GilrW_1k5A)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+
+no
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w2103526755.m3u8
-
-
+https://5ca9af4645e15.streamlock.net/videomexicotravel/videomexicotravel/playlist.m3u8
 ?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDQ6Mzc6MjQgUE0maGFzaF92YWx1ZT1DZEkwckZIQmZ6R0d1bzc5dmlxRmV3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT5OZ4jHGmyMvfOsHBmAwqIBsLKRvxZ7jgqDInWm0x1E)/dm/3/x81cvsk/s/live-1.m3u8#cell=lnyc
+si
+https://live-c.cf.dmcdn.net/sec2(byQjHoKnj3PJcmPt9loTh15OWSHNnW-EJaGdJrPV7KRqz6urEPcGItGYaJ2YtKVmIsAuQoDX74GqctTPQRF3AgI4dJUlPjG65GilrW_1k5A)/dm/3/x7v76vf/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="Entretenimiento +",Turistik TV 
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
