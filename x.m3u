@@ -286,7 +286,10 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w2103526755.m3u8
 
+
+?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDQ6Mzc6MjQgUE0maGFzaF92YWx1ZT1DZEkwckZIQmZ6R0d1bzc5dmlxRmV3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT5OZ4jHGmyMvfOsHBmAwqIBsLKRvxZ7jgqDInWm0x1E)/dm/3/x81cvsk/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://turistiktv.com.mx/wp-content/uploads/2021/12/cropped-LOGO-TURISTIK-300-BLANCO-165x86.png" group-title="Entretenimiento +",Turistik TV 
@@ -556,7 +559,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 -----------------------------------------Entertainment---------------------------------------------
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E!
-
+http://181.78.105.146:2000/play/a03i/index.m3u8
 no
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
@@ -569,14 +572,10 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflix
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="Entretenimiento +",History
-
-no
-http://fpt.vthanhtivi.pw/history/index.m3u8
+http://181.78.105.146:2000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Entretenimiento +",H2
-
-no
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/dda8760a-3ed3-4018-980c-2aba1ce77f8b/5.m3u8
+http://181.78.105.146:2000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="Entretenimiento +",True History 
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
