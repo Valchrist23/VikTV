@@ -1101,6 +1101,9 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/334px-Universal_TV_logo.svg.png" group-title="US",Studio Universal
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+
+no
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
@@ -1568,6 +1571,9 @@ https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 -----------------------------------------Movie Channels---------------------------------------------
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+
+no
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
 #EXTINF:-1 tvg-id="TNT Sur" tvg-name="TNT Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT Sur
