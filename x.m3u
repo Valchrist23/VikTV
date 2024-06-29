@@ -291,9 +291,10 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellanews-xumoA/CDN/768x432_1425600/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Mexico Travel Chanel" tvg-name="Mexico Travel Chanel" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2022/06/cropped-mexico-travel-channel-logo-1260x416-px-transparente-1200x396.png" group-title="Entretenimiento +",Mexico Travel Chanel
-https://live-c.cf.dmcdn.net/sec2(byQjHoKnj3PJcmPt9loTh15OWSHNnW-EJaGdJrPV7KRqz6urEPcGItGYaJ2YtKVmIsAuQoDX74GqctTPQRF3AgI4dJUlPjG65GilrW_1k5A)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+
 
 no
+https://live-c.cf.dmcdn.net/sec2(byQjHoKnj3PJcmPt9loTh15OWSHNnW-EJaGdJrPV7KRqz6urEPcGItGYaJ2YtKVmIsAuQoDX74GqctTPQRF3AgI4dJUlPjG65GilrW_1k5A)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/chunklist_w2103526755.m3u8
 https://5ca9af4645e15.streamlock.net/videomexicotravel/videomexicotravel/playlist.m3u8
 ?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDQ6Mzc6MjQgUE0maGFzaF92YWx1ZT1DZEkwckZIQmZ6R0d1bzc5dmlxRmV3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
@@ -384,10 +385,6 @@ http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento +",TVE
 
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/220px-TV3CAT.svg.png" group-title="Entretenimiento +",TV3CAT
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-no
-http://210.210.155.37/uq2663/h/h158/index2.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -985,7 +982,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 https://stream.kirachan.tech/memfs/fbde2b07-7634-4e6a-906c-ef6aeabdff18_output_0.m3u8?session=PfcrXdaR4DDenCp8p9GcYx
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA
-http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Electric Now" tvg-name="Electric Now" tvg-language="es" tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg",Electric Now 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5521
@@ -1155,7 +1152,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82547b6
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Noticias",CNN 
-https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entretenimiento +",ION
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453f30085df200085883d8livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1220,9 +1217,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",Funny AF 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-id="" tvg-name="Flash Fashion" tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART",Flash Fashion
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART",Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
@@ -1244,6 +1238,9 @@ https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/
 https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Dove" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Dove_Channel_%28streaming_service%29_logo.png" group-title="Entretenimiento+",Dove
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/cb5739007a74649098c83a78d2f24882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffe108178b6da7b7014b907b4cfa83439c8201b381d2598310d374a511cf9af8888719d68cb2599500e6241b67217297937c9ddd2fd5b0fb3963e81b42530d6af6b19ae84f3f9f3525369caef2914ba57ca4e124857379bc04885df653e00afa53d38b27a1a9a891454437b6c129064dc5cea98ee87569d60c9fa5edcd610efa9c75281dbe07a8232f2bdefacf0496fc1699b83080ba7d6f5baaf015c1ebd8efeeb49e049d35daf8fa9930473c056e668252b49f37a343b379acdd5d344f7254bf9343c585c02c56082bd7b970fa4955d3b58a87cc403ada702458fd6edd57001eb05e1674f139e9896623c6311d927b39f44e30834afdb622f0ab95f11061c5b4ae43fb7ca1b605c2e603db0e563852e9b5463844486e9efb74014205a93fecc7def164534fa3e0dae98e5737113c145a0d85ece27cd59ad673497ca65222733a141e92769f039816401211de1bd1f50f7586052228b6a1690c0d69cecde885df8ecb45e7798a9bab3a2b6c5d35bc696b4c09d2b29e17f9365f0c1937e15e5670d77332f62e47a895f8fa0ceab926cd1f67066ec4fe0e33783811463feb5cec4a3c98f538ac89c54cc995ed5825d778cba971ef1e6453eec247ee6f76f8662b23630c91078f1e08d205db3b8d9d52dda2590f12068d29a88179f045b0d396c664cf62fd0f4b49e376bf93f4a0964862a7c01a7d63521520765c207857f8c28330493bcdac37ea58d1ee57824b407c6a1489cc5308c6a05c34a818522ce5acc280a88a2415c965fb3c89430bb458002bae9d6abacde2bdaac93f1433d8b0aa5eb2eeddd29b9899700c7e065aacc8515178cf35b0dd5793ca3348afd8dbab8a14d41f8412b48bb122e146d0e8b41ca19d98beb63720575453f3d6e4b873ffb9194eaf74cb474e49cddcfc95859a436499ab8cad59d1739caac58d2bf739ba3a9b0b3c/116/1280x720_3000140/index.m3u8
+
+no
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8 
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="Entretenimiento+",Gravitas
@@ -1429,6 +1426,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-name="ACCDN" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="Sports",ACCDN
+
+no
 https://lnc-ACCDN.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://lirp.cdn-website.com/2d80bfd0/dms3rep/multi/opt/New+Website+Bottom+Logo-af515097-375w.png" group-title="Sports",LSN Sports
