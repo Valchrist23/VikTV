@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://akamai2.tubi.video/be3e1714-f6a9-4db8-a8aa-880ac5c64dd1/vylh26er.mp4"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,AUDIO="URI"
-https://akamai2.tubi.video/be3e1714-f6a9-4db8-a8aa-880ac5c64dd1/qrbwpq71.mp4
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
-https://akamai2.tubi.video/be3e1714-f6a9-4db8-a8aa-880ac5c64dd1/qrbwpq71.mp4
-
-
