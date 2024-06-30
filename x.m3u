@@ -641,6 +641,9 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=a29cf0882e4429be925376f97afe321d-f264da8967e3093504a8ef568020f80245ea4f129d19309a32d58b90dbb7613d85839f0232a90cb93dcd6b7f0f101a29b5f9508ccc5808af53c7b583d558bdaa539c02078d7343c0bcc7e2a2518c7c68922b95f8a8c900178b2011f28a2e42803d134488ef5a96c0a9af1c1b31427aca&x-plex-token=G5fgWbjsnSc4yxy-grVe&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719725135
+
+no
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediadaily.biz/wp-content/uploads/2020/08/RED-TV-ok.png" group-title="US",La Red Chile
