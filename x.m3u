@@ -110,9 +110,13 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunkli
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Mexicali 
+
+no
 https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Queretaro
+
+no
 https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Guerrero
