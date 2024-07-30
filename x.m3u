@@ -1773,11 +1773,13 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="Filmrise Free Movies & TV" tvg-name="Filmrise Free Movies & TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1920px-Filmrise.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Entretenimiento +",Filmrise Free Movies & TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5963
 
-
 #EXTINF:-1 tvg-id="& Prive" tvg-name="& Prive" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/220px-%26priv%C3%A9_HD.svg.png" tvg-country="" group-title="Entretenimiento +",& Prive
-http://starshare.live:8080/live/9826816920/8625825719/98840.m3u8
+
 #EXTINF:-1 tvg-id="& Flix" tvg-name="& Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%26flix.svg/220px-%26flix.svg.png" tvg-country="" group-title="Entretenimiento +",& Flix
-http://starshare.live:8080/live/9826816920/8625825719/98841.m3u8
+
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
 
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Pop Flix
 https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/8e270b7d-03b6-4897-b055-f00e9cf35e40/0.m3u8
