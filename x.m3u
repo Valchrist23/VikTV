@@ -642,6 +642,8 @@ https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Pop_Max_logo_2017.svg/220px-Pop_Max_logo_2017.svg.png" group-title="Cartoon",POP max 
+
+np
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Clasico
@@ -896,6 +898,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718a
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8 
 
 #EXTINF:-1 tvg-id="Shout! TV" tvg-name="Shout! TV" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.38NoyZBRu8vlrFDCyFUSKAAAAA&pid=Api&P=0&w=215&h=158" group-title="USA",Shout! TV
+
+no
 https://amg00163-shoutfactory-shoutfactorytv-zype-psuhs.amagi.tv/playlist/amg00163-shoutfactory-shoutfactorytv-zype/cb553e1f7d6c648c92d43e6ed4ef41a1da243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c59e0a957f378bbdbe306f2c180680585ee2be5da5edf55b10893da0b04a41887d4cefd15fc8d549ee9ddc0d98469b70f315cb96a6ddd743d6d59201f96d9a5c88f3bf1fe3e24ca08b3083d4937d3c98311b521f41e3b0e186245ea86633917c62a9c508d11cdc9d2dc1413abe12914c854aea21ca5be189c6c7dc381ab9e57924e67b18bf93666571ef0d93f709daafeccf7a7f98b937704eca6cdf2d11f5f197c4398bd91c9aba22cae1274d7888a64c9599bd94fcf0a37edc749a89a4c37d75476d5256dd1dbacc399269fc68b8c21616594f6fa48e1a91d58e1063340fceab76e03e37f59b878ad40b7bed651851e72999780d7ec3396933b47fa9d46c22d9685ac5063cfd5927890da9eb7bbbf48d977351dfe9ce4cfb60f8a64a83a670ce43081953e3bc7c2506261bf7e1690a3c7cb935c7dbd8ee7a0c40a1b7faf7ce5737102a5535288ef1ec64949eca4a4c41954b4765cc1a6e77ef8a73fd2f89ed68930a5a/174/1920x1080_5058864/index.m3u8
 
 #EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-name="Spike Pluto TV " tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/featuredImage.jpg" group-title="USA",Spike Pluto TV 
