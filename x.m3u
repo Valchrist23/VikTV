@@ -380,6 +380,10 @@ no
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="A3Player Multicine" group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
+
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Cine
 
 #EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3 Series
@@ -440,7 +444,7 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
 
 #EXTINF:-1 tvg-id="Noticiario France 24" tvg-name="Noticiario France 24" tvg-lang="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" tvg-country="Lat" tvg-url="http://www.telered.com.ar" group-title="Noticias",Noticiario France 24
-
+https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 8 
@@ -576,6 +580,8 @@ https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/TLC.m3u
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
+
+https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 no
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 
