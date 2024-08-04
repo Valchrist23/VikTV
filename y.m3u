@@ -5562,14 +5562,6 @@ https://archive.org/download/th-4ngvr.-209-dl/TH4ngvr.209-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg" group-title="Peliculas",The Hangover Part III (2013)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="Peliculas",Chupa (2023)
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZhZjUxZGUtMzM1OC00MjdmLWIzZjUtZTUzODc2ZTI2YzQzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Monkey King (2023)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="Peliculas",The Magic Flute (2022)
-
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p70dq1YxabemdZDm5K6Q8G10wSn.jpg" group-title="Peliculas",The Great Wall (2016)
 http://158.69.158.102/Peliculas/Listo/30122022_0431/La_Gran_Muralla.mp4
@@ -6988,8 +6980,6 @@ https://dn720306.ca.archive.org/0/items/la-vida-es-bella/EUS.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2iQoSPyAGHseY5NhMM28orLkxjq.jpg" group-title="Peliculas",Noche de Bodas (2024)
 https://archive.org/download/C1N3M4-8UC4N3R0/Noche%20de%20Bodas%20%282024%291080p.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI3YWQ3OTMtOGQ4Yi00OGNmLThjNmEtMWYyMjVkMTU0ZDllXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg" group-title="Peliculas",Inmaculate (2024)
-https://archive.org/download/4t-45.224-dl/1nm4ct.224-DL-.mkv
 
 
 
@@ -7061,10 +7051,12 @@ https://archive.org/download/4t-45.224-dl/1nm4ct.224-DL-.mkv
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="Peliculas",Chupa (2023)
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZhZjUxZGUtMzM1OC00MjdmLWIzZjUtZTUzODc2ZTI2YzQzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Monkey King (2023)
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="Peliculas",The Magic Flute (2022)
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hLBY8JBpHLxnLyHX9DzzQoeqpOX.jpg" group-title="Peliculas",While We Sleep (2021)
@@ -7090,7 +7082,6 @@ https://archive.org/download/4t-45.224-dl/1nm4ct.224-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg" group-title="Peliculas",Inception (2010)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg" group-title="Peliculas",The Fall Guy (2024)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="Peliculas",Run (2020)
 
@@ -7482,6 +7473,9 @@ https://archive.org/download/4t-45.224-dl/4t45.224-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VmbJsxJZgVjp69zxMFBL2OlkRr.jpg" group-title="Peliculas",Dead Sea (2024)
 https://archive.org/download/4t-45.224-dl/D3d53.224-DL-.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmI3YWQ3OTMtOGQ4Yi00OGNmLThjNmEtMWYyMjVkMTU0ZDllXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg" group-title="Peliculas",Inmaculate (2024)
+https://archive.org/download/4t-45.224-dl/1nm4ct.224-DL-.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/etbHJxil0wHvYOCmibzFLsMcl2C.jpg" group-title="Peliculas",Baki Hannma VS. Kengan Ashura (2024)
 https://archive.org/download/4t-45.224-dl/B4ki.H4nm.V5.Kng4n.A5hr.224-DL-.mkv
