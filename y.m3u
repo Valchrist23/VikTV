@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Peliculas",E.T (1982)
+https://archive.org/download/Peliculas-wii/E.T.%20El%20Extraterrestre.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gP9yviboTGWGolqUZKIB1UkF1C2.jpg" group-title="Peliculas",Lamb (2021)
 https://archive.org/download/l-4m-221-sl/L4m221-SL-.mkv
 
@@ -229,6 +232,10 @@ https://archive.org/download/pel149b83b3a93u/28%20semanas%20despu%C3%A9s.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1kiCqFizPPpULUR1YhAkp8bO9Jo.jpg" group-title="Peliculas",The Legion (2020)
 https://archive.org/download/pel149b83b3a93u/The%20Legion.mp4
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg" group-title="Peliculas",Twilight (2008)
+https://archive.org/download/crep_20210506/Crepusculo%201.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j5jM5pq78ObAXX1WhTsb115EkLl.jpg" group-title="Peliculas",Twilight New Moon (2009)
 https://archive.org/download/twilight-saga-new-moon-2009.torrent/Twilight.Saga.the.2009.720p.BrRip.x264.YIFY.mp4
