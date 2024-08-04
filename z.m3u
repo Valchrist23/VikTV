@@ -461,7 +461,9 @@ https://archive.org/download/peliculas-studio-ghibli-latino/El%20increible%20cas
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/mononoke_hime-598406013-large.jpg",z La princesa Mononoke
 https://archive.org/download/la-princesa-mononoke_202207/La%20princesa%20Mononoke.mp4
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg",z Ponyo en el acantilado
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg",Ponyo (2008)
+https://archive.org/download/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
+
 https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20acantilado.mp4
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg",z La tumba de las Luciernagas
