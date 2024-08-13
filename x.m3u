@@ -14,6 +14,8 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w18287
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
 #EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-name="N+" tvg-chno="3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/220px-Logo-nmas.png" tvg-country="MX" group-title="Basico",N+
+
+no
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
@@ -71,9 +73,11 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAut
 
 
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TV UNAM
-https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
+http://181.78.105.146:2000/play/a045/index.m3u8
 
 no es
+
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
 http://181.78.105.146:2000/play/a045/index.m3u8
