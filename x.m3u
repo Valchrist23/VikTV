@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
 
 #EXTINF:-1 tvg-id="NRT Internacional" tvg-name="NRT Internacional" tvg-language="es" tvg-logo="https://nowmedia.tv/wp-content/uploads/2022/07/1.jpg",NRT Internacional
+
+no
 https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense TV" tvg-name="Mexiquense TV" tvg-chno="2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Mexiquense TV
@@ -185,6 +187,9 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1600px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",14 de Mexico
+https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
+
+no
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVMás" tvg-name="TVMás" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entretenimiento +",TVMás   
@@ -627,9 +632,6 @@ https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/
 same
 https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Moonbug2ndLogo.png/1920px-Moonbug2ndLogo.png" group-title="Entretenimiento +",Moonbug 
-https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",WTTWDT 
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8 
 
@@ -767,8 +769,6 @@ https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 No
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Magic" tvg-name="Magic" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Anime",Magic
-https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico"  tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Anime",Retro Magico
 
@@ -781,6 +781,7 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w841089325.
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
 No
 https://kali.vdopanel.com:3070/stream/play.m3u8
 
@@ -865,6 +866,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1972
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 
 #EXTINF:-1 tvg-id="Anime Time" tvg-name="Anime Time" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Cartoon",Anime Time
+
+no
 https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_122/HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",PlanetaTV Kids
@@ -878,8 +881,6 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8
 https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w1786162115.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="Cartoon",Planeta TV
-
-no
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
@@ -896,14 +897,14 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2101&live=1&app
 #EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://i.imgur.com/EnujIY2.png" group-title="SPAIN",Rakuten TV Familia 
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg" group-title="Gaming",Pluto TV E-Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="561c5f613286e48904fb2677" tvg-name="IGN" tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="Gaming",IGN 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-name="Pluto TV E-Sports" tvg-logo="http://images.pluto.tv/channels/5ff3934600d4c7000733ff49/featuredImage.jpg" group-title="Gaming",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=31.8815&deviceLon=-116.5925&deviceDNT=TARGETOPT&deviceId=3aa2edec-d65e-4ae3-ac76-e4fc9d398d67&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+si
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://presetsgratis.com/wp-content/uploads/2021/10/retro-play-apk.png.webp" group-title="Gaming",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
