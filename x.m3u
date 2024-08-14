@@ -464,6 +464,7 @@ https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 8 
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
 no sirven
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
@@ -472,9 +473,10 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
-https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
 no
+https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento +",TeleSUR
