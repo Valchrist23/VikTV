@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 #EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-name="N+" tvg-chno="3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/220px-Logo-nmas.png" tvg-country="MX" group-title="Basico",N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
 
-no
+no 
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
 
 ?hdntl=exp=1723665670~acl=/*~data=hdntl~hmac=a4adb146dfef50d511931f27376f8871561e1fb646bdc960164cdb0e5c1a56e7&
