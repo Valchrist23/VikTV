@@ -1425,6 +1425,9 @@ https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
 https://dai.google.com/linear/hls/pa/event/3EEsfZhASryigfuSpHdfKg/stream/687d1ad9-2ac5-47f5-ab3a-5f7a31ebca9d:TUL/variant/71a72fe9da418d831848f2efdce41944/bandwidth/7140000.m3u8
 
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
+
+no
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
