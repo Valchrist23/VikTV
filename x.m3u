@@ -1804,6 +1804,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5963
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
 
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Pop Flix
+
+ya no
 https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/8e270b7d-03b6-4897-b055-f00e9cf35e40/0.m3u8
 
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Popcorn Flix
