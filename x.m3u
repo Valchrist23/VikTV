@@ -736,6 +736,11 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/HIDIVE_Logo.png/220px-HIDIVE_Logo.png" group-title="Anime",ANIME HIDIVE
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?url=58714b65d385e23544b4b3e618a6a8c3-7010fe4a6c0b511e4b304382c7f7ddf577664f51bc2d8f1d3a7870bd909ca8cf42e8e66cc19782ae5e301653c2d1dcd60174b89a72c1b831a23207304dac29c23fc4ef9cd3cd38b9d5c06622433bfaddcf6669933e48cbff96b16c803ea6df342d8c8bd6c48fae78125c17032379c9772868345865ac45e15457b082e193c405cf33f6a215f0b081c5a5e1a4c057f66841d1324a3398ae7936e7bab9bf35f47a06a1aec054fa6d21df0c901d844aa49fc0e103c31f47ee63ad13a2148fb673c2&x-plex-token=xpyy-nsJ3KcExf8FMneE&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723603093&autoPreview=0
 
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?url=58714b65d385e23544b4b3e618a6a8c3-7010fe4a6c0b511e4b304382c7f7ddf577664f51bc2d8f1d3a7870bd909ca8cf42e8e66cc19782ae5e301653c2d1dcd60174b89a72c1b831a23207304dac29c23fc4ef9cd3cd38b9d5c06622433bfaddcf6669933e48cbff96b16c803ea6df342d8c8bd6c48fae78125c17032379c9772868345865ac45e15457b082e193c405cf33f6a215f0b081c5a5e1a4c057f66841d1324a3398ae7936e7bab9bf35f47a06a1aec054fa6d21df0c901d844aa49fc0e103c31f47ee63ad13a2148fb673c2&x-plex-token=Pp6URaToSDwZtYNd7X-G&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723663985&autoPreview=0
+                                                                                                          
+check
+https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/8e270b7d-03b6-4897-b055-f00e9cf35e40/0.m3u8
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Cartoons
@@ -1618,12 +1623,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 https://d37qvay98eimbp.cloudfront.net/hls/samsungtvplus_es_darkmatter_001.m3u8?ads.xumo_channelId=9992561&ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.networkName=tricoastsstves
 
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="Cine/Series",Local Now Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="Cine/Series",Local Now Adrenaline Rush
-https://linear-133.frequency.stream/dist/vix/133/hls/master/playlist.m3u8 
-
 -----------------------------------------Adult---------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART",Fasion TV Midnight Haute
@@ -1836,17 +1835,12 @@ si
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
 
-#EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Pop Flix
-
-ya no
-https://af4689b464b143c89c08aab63ce4718d.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Popflix/8e270b7d-03b6-4897-b055-f00e9cf35e40/0.m3u8
-
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Popcorn Flix
-https://bit.ly/3ReWm4Y?profile=inspirationlivetv.m3u8
+https://amg00540-crackleplusllc-popcornflix-tcl-f6ilk.amagi.tv/playlist/amg00540-crackleplusllc-popcornflix-tcl/cb573d167c6c648692d43a67cef04882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e05b4cda68a9e5014dc37c16fa83439c8201ea85d3528344d374a346999ba5d8d312d1e42b5293768acb9acb4307fbad41d1af70b3c2936a36ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb0e5f72e20b2ef657be62a01ca6ef4fe2d6d31bbed458d6a7794209da8a828bf134739e67f7abefd2617290f75e1f2dac3f8a737b6ec2b8a360f55bb7927c23c194496462323a5ab3d68f23a5dfac479937c3c4f5d7094b4476050c87676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730850e4bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca816e367b22f9c87b3cc8f05a99e46eda86bbffdc3a7a0c455a7c913/26/1920x1080_6046040/index.m3u8
+
 
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Entretenimiento +" ,Investiga
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
