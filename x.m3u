@@ -44,7 +44,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e922db4b0470008
 
 si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=42fa6759-e881-11ee-9cc2-0e8c4bf95ab2&deviceId=e6b812df-4d10-414e-bcc6-d0bc39672e21&deviceVersion=123.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
 #EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Teleformula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -254,9 +254,13 @@ no
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
+
+no
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden MPX" tvg-name="Golden MPX" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden MPX
+
+no
 https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golden" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden
@@ -266,6 +270,8 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="es" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Lat",Golden Premier
+
+no
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Lat",Golden Edge
