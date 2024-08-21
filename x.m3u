@@ -473,7 +473,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u
 https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://us.las-terrenas-live.com/upload/logo-telenord.jpg" group-title="Entretenimiento +",Telenord 8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 8 
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
 
 no sirven
@@ -546,7 +546,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-name="Hell's Kitchen en español" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Cooking",Hell's Kitchen en español
+#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-name="Hells Kitchen en español" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Cooking",Hell's Kitchen en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 si
@@ -592,7 +592,7 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="Entretenimiento +",Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
-#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV NOW" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Entretenimiento +",AXS TV NOW
+#EXTINF:-1 tvg-id="AXSTVNow.us" tvg-name="AXS TV NOW" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/300px-AXS_TV_logo.svg.png" group-title="Entretenimiento +",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="Entretenimiento +",History
@@ -705,7 +705,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 no
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosenvivo.net/wp-content/uploads/2022/04/radio_energeek-1024x576.png" group-title="Anime",EnerGeek Retro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/800px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
 No
@@ -764,7 +764,7 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/chunklist_w
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Entretenimiento+",XtremaTV Cine Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/chunklist_w1867949726.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/436-4362370_yamato-logo-png-transparent-logo-yamato-png-png.png" group-title="Anime",Yamato Animation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Logoyamatovideo.svg/200px-Logoyamatovideo.svg.png" group-title="Anime",Yamato Animation
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/card_img/1771373522197315584/xO4sjJPE?format=jpg&name=small" group-title="Anime",Max Anime
@@ -789,7 +789,7 @@ http://radio.7chan.org:8000/CH7.m3u
 #EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Anime",Anime TV 
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://i.imgur.com/nDyVqMP.png" group-title="Entretenimiento +",VariedTV
+#EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png" group-title="Entretenimiento +",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 No
