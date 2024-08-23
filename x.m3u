@@ -147,6 +147,9 @@ https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="Basico",Canal 23
 https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
+
+https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYB9GDVAO3tk7_HrkLTl1Df3ZYJvUIkgUYZfOkAd31sQ&s" group-title="Basico",Canal 33
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w2051560459.m3u8
 
@@ -176,21 +179,25 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas
-https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+no
 
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1600px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",14 de Mexico
-https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 no
+https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVMás" tvg-name="TVMás" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entretenimiento +",TVMás   
@@ -1688,6 +1695,8 @@ https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Cine Sony One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_One_logo_2016.jpg" group-title="Movies",Sony One Thriller TV
+
+no
 https://linear-755.frequency.stream/mt/studio/755/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest/scale-to-width-down/200?cb=20210222022500&path-prefix=es" group-title="Movies",Cine Sony 
@@ -1720,6 +1729,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AION" tvg-name="AION" tvg-language="es" tvg-logo="https://aiontelevision.com/wp-content/uploads/2017/12/logo.png",AION TV
+
+no
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
