@@ -18,12 +18,13 @@ si
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
-https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8 
-
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg" group-title="Basico",C4 TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
+https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8 
+
+no
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
