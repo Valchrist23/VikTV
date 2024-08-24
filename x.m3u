@@ -18,25 +18,12 @@ si
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-name="N+" tvg-chno="3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/220px-Logo-nmas.png" tvg-country="MX" group-title="Basico",N+
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
-
-no 
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
-
-?hdntl=exp=1723665670~acl=/*~data=hdntl~hmac=a4adb146dfef50d511931f27376f8871561e1fb646bdc960164cdb0e5c1a56e7&
-
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8 
-
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
 https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8 
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg" group-title="Basico",C4 TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
-
-no
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
@@ -51,6 +38,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
 #EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Teleformula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="TeleFórmula" tvg-chno="7" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",TeleFórmula
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -112,6 +101,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008
 http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
+https://ythls-v3.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
+no
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
