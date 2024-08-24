@@ -13,6 +13,9 @@ https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense TV" tvg-name="Mexiquense TV" tvg-chno="2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1828739488.m3u8
+
+si
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
 #EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-name="N+" tvg-chno="3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/220px-Logo-nmas.png" tvg-country="MX" group-title="Basico",N+
@@ -85,7 +88,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAut
 http://181.78.105.146:2000/play/a045/index.m3u8
 
 no es
-
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
@@ -123,15 +126,13 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunkli
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Mexicali 
+https://ythls-v3.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
 no
-
-https://ythls.armelin.one/channel/UClHsawK2OPl-j6oxUoONKuQ.m3u8
-
 https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Queretaro
-
+https://ythls-v3.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 no
 https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
@@ -143,31 +144,34 @@ https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Sinaloa
-
+https://ythls-v3.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 no
 https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 
 #EXTINF:-1 tvg-id="4 de Monterrey" tvg-name="4 de Monterrey" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",4 de Guadalajara
+https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452530/ei/UrrIZsviDIz2sfIP5aKUsAk/ip/187.188.51.18/id/d1XqPhqD66g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/maxh/4320/maudio/1/siu/1/spc/Mv1m9nLJZui66a9NhE6G5DpaYdGz93cketah6PRvQQrpfm8xCEa6vroFrNi5zkcPj-QRsXVfIhmD/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdr4DjkQpgfbbQmIs91MF8GmY93wNUOaEik1R-260NiECIHzYf0zp56xfu-yUshPhy5-JH5BEqfq-Lgn4Zkkn8Pzy/file/index.m3u8
 
 no
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724457728/ei/oM7IZubYLJzxsfIP4rGS8AE/ip/187.188.51.18/id/Q3BrgO4r6u4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qmvW23pBmjxZTrHNZK0ULODZ-h-vD9jn_5qyEv5GDF-dtHOIxKdJUo59PtUIbx_zqdA6gVv/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALhdhuX7ZbibHEzeozj3YeEO6zwGs9VA-KZCtUg-GRP-AiEA4hs3tGd5bZGtXLc7K_eU0Vb1lastixoSECw3KVgUlnA%3D/file/index.
-
+https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 no
 https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724457728/ei/oM7IZubYLJzxsfIP4rGS8AE/ip/187.188.51.18/id/Q3BrgO4r6u4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qmvW23pBmjxZTrHNZK0ULODZ-h-vD9jn_5qyEv5GDF-dtHOIxKdJUo59PtUIbx_zqdA6gVv/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALhdhuX7ZbibHEzeozj3YeEO6zwGs9VA-KZCtUg-GRP-AiEA4hs3tGd5bZGtXLc7K_eU0Vb1lastixoSECw3KVgUlnA%3D/file/index.
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Canal-23-Televisa-Ensenada-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="Basico",Canal 23
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452368/ei/sLnIZv6PNtWAi9oPifKI2As/ip/86.107.43.88/id/mhongzZTxCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9sZhg1LjPECTO6dOIjmrEnnrdh2BhAf_FQusCkSVY5wzM40aRQjq9OGnSiw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaPAw4ZcYkgSeXyRtxq5sFZZdUxonLH_vUP1bn8x3UB0CIQCC8EohTPHLefXzsF3ow0vBwoZFM0HVN4G41Y46MlsBoQ%3D%3D/file/index.m3u8
-
+https://ythls-v3.onrender.com/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 
 no
 https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452368/ei/sLnIZv6PNtWAi9oPifKI2As/ip/86.107.43.88/id/mhongzZTxCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9sZhg1LjPECTO6dOIjmrEnnrdh2BhAf_FQusCkSVY5wzM40aRQjq9OGnSiw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaPAw4ZcYkgSeXyRtxq5sFZZdUxonLH_vUP1bn8x3UB0CIQCC8EohTPHLefXzsF3ow0vBwoZFM0HVN4G41Y46MlsBoQ%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYB9GDVAO3tk7_HrkLTl1Df3ZYJvUIkgUYZfOkAd31sQ&s" group-title="Basico",Canal 33
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w2051560459.m3u8
@@ -180,6 +184,7 @@ https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
 
 si
 https://ythls.armelin.one/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
+https://ythls-v3.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Noticias",Jalisco TV 
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
@@ -216,6 +221,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 no
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
@@ -322,6 +328,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&avod=1&coppa=0&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 no
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=c6c7713bd924a73bea0756a03f57c603&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450873&id=4680&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=SODXUy%2Bb0uRhY0tINIYmJEd50E3T%2BWI7IrEI%2FlUz%2B24%3D 
+
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="Runtime" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_thriller.jpg" group-title="Cine/Series",Runtime Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="Runtime" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_thriller.jpg" group-title="Cine/Series",Runtime Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
+
+original
+https://stream.ads.ottera.tv/cl/240824cr50uk5hg25inaingt70/1280x720_3071200_0_f.m3u8?i=728_6120
 
 #EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Cine/Series", Runtime 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
