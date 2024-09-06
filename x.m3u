@@ -152,12 +152,13 @@ no
 https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
-https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-
-
 https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
+
 no
+https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724457728/ei/oM7IZubYLJzxsfIP4rGS8AE/ip/187.188.51.18/id/Q3BrgO4r6u4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qmvW23pBmjxZTrHNZK0ULODZ-h-vD9jn_5qyEv5GDF-dtHOIxKdJUo59PtUIbx_zqdA6gVv/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALhdhuX7ZbibHEzeozj3YeEO6zwGs9VA-KZCtUg-GRP-AiEA4hs3tGd5bZGtXLc7K_eU0Vb1lastixoSECw3KVgUlnA%3D/file/index.
 
@@ -515,8 +516,11 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
 
 #EXTINF:-1 tvg-id="Noticiario France 24" tvg-name="Noticiario France 24" tvg-lang="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" tvg-country="Lat" tvg-url="http://www.telered.com.ar" group-title="Noticias",Noticiario France 24
-https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
+no
+https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u
+https://ythls-v3.onrender.com/channel/UClHsawK2OPl-j6oxUoONKuQ.m3u8
+https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 8 
 https://rdn.essastream.com:3170/live/telenord8live.m3u8
