@@ -1822,8 +1822,10 @@ same
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Movies",Guaymate 
-https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w751923359.m3u8
+https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
 
+no
+https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w751923359.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Movies",Peliculas 
@@ -1876,9 +1878,11 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/600px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png" group-title="Movies",TVN
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
 
 nose
+
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
