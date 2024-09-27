@@ -538,6 +538,9 @@ no
 https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_actual_de_Orbita_TV.png" group-title="Entretenimiento +",Orbita TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento +",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
