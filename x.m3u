@@ -1255,6 +1255,8 @@ https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 7 Los Angeles
 https://c.mjh.nz/abc-nt.m3u8
