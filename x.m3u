@@ -222,12 +222,12 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 #EXTINF:-1 tvg-id="14 de Mexico" tvg-name="14 de Mexico" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1600px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",14 de Mexico
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 no
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 
 #EXTINF:-1 tvg-id="TVMás" tvg-name="TVMás" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entretenimiento +",TVMás   
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
@@ -505,8 +505,9 @@ NO
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
-no
+nel
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Pacifico" tvg-name="Telemundo Pacifico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo Pacifico
@@ -798,16 +799,22 @@ no se
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w1226318685.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/HIDIVE_Logo.png/220px-HIDIVE_Logo.png" group-title="Anime",ANIME HIDIVE
-https://raw.githubusercontent.com/azgaresncf/strm2hls/refs/heads/main/streams/pandamaxlive.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?url=58714b65d385e23544b4b3e618a6a8c3-7010fe4a6c0b511e4b304382c7f7ddf577664f51bc2d8f1d3a7870bd909ca8cf42e8e66cc19782ae5e301653c2d1dcd60174b89a72c1b831a23207304dac29c23fc4ef9cd3cd38b9d5c06622433bfaddcf6669933e48cbff96b16c803ea6df342d8c8bd6c48fae78125c17032379c9772868345865ac45e15457b082e193c405cf33f6a215f0b081c5a5e1a4c057f66841d1324a3398ae7936e7bab9bf35f47a06a1aec054fa6d21df0c901d844aa49fc0e103c31f47ee63ad13a2148fb673c2&x-plex-token=xpyy-nsJ3KcExf8FMneE&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723603093&autoPreview=0
+
 
 check this one
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?url=58714b65d385e23544b4b3e618a6a8c3-7010fe4a6c0b511e4b304382c7f7ddf577664f51bc2d8f1d3a7870bd909ca8cf42e8e66cc19782ae5e301653c2d1dcd60174b89a72c1b831a23207304dac29c23fc4ef9cd3cd38b9d5c06622433bfaddcf6669933e48cbff96b16c803ea6df342d8c8bd6c48fae78125c17032379c9772868345865ac45e15457b082e193c405cf33f6a215f0b081c5a5e1a4c057f66841d1324a3398ae7936e7bab9bf35f47a06a1aec054fa6d21df0c901d844aa49fc0e103c31f47ee63ad13a2148fb673c2&x-plex-token=xpyy-nsJ3KcExf8FMneE&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723603093&autoPreview=0
-check
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=G9fGFntRhYDkh-sP8wgs&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724913206&autoPreview=0
 
 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=bg7NxzYxPVQy1sQcLvM-
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?url=58714b65d385e23544b4b3e618a6a8c3-7010fe4a6c0b511e4b304382c7f7ddf577664f51bc2d8f1d3a7870bd909ca8cf42e8e66cc19782ae5e301653c2d1dcd60174b89a72c1b831a23207304dac29c23fc4ef9cd3cd38b9d5c06622433bfaddcf6669933e48cbff96b16c803ea6df342d8c8bd6c48fae78125c17032379c9772868345865ac45e15457b082e193c405cf33f6a215f0b081c5a5e1a4c057f66841d1324a3398ae7936e7bab9bf35f47a06a1aec054fa6d21df0c901d844aa49fc0e103c31f47ee63ad13a2148fb673c2&x-plex-token=Pp6URaToSDwZtYNd7X-G&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723663985&autoPreview=0
+
+check
+
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" group-title="Anime",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV General
 https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/chunklist_w9347131.m3u8
@@ -1938,3 +1945,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f680008
 
 #EXTINF:-1 channel-id="pluto-Douyu Movie" tvg-id="Douyu Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png" group-title="Entretenimiento +",Douyu Movie 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+e&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
