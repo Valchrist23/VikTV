@@ -769,6 +769,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/800px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=mfpaA8mBSyqAxYAZutBFHJ
 
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65/playlist.m3u8
 No
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0_32406.ts?session=mfpaA8mBSyqAxYAZutBFHJ
 
@@ -777,6 +778,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anipop
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
 
@@ -962,6 +964,9 @@ https://062e9d49eb79462380d2933b845412cc.mediatailor.us-east-1.amazonaws.com/v1/
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-language="es" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Infantil",Dreiko TV
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
+
+nop
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logotipo-jpg-1-.jpg/1600px-Logotipo-jpg-1-.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Infantil",Zaz TV
