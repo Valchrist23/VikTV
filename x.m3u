@@ -75,8 +75,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX Nuestro Cine" tvg-name="MX Nuestro Cine" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz37TxvcrCBtMBVvH0lVmAxxmt3Gm8aLr8CA&s" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDU6NDg6MzYgQU0maGFzaF92YWx1ZT1tVFNMT3QvaHpDbXdvZHBlaks1bHF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPQ%3D%3D
-
-ni
+                                                                                     
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w388068882.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9 
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
@@ -84,13 +83,18 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TV UNAM
 http://181.78.105.146:2000/play/a045/index.m3u8
 
+
+#EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TV UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDU6NDg6MzYgQU0maGFzaF92YWx1ZT1tVFNMT3QvaHpDbXdvZHBlaks1bHF3PT0mdmFsaWRtaW51dGVzPTIwJmlkPQ%3D%3D
+
 no es
 http://181.78.105.146:2000/play/a045/index.m3u8
 
 https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
-http://181.78.105.146:2000/play/a045/index.m3u8
+http://181.78.105.146:2000/play/a045/index.m3u8      
+
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml
 
