@@ -779,6 +779,9 @@ https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 http://138.59.177.34:8000/play/a025/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Cartoon",Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png/revision/latest?cb=20171029094343&path-prefix=es" group-title="Cartoon",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
@@ -786,6 +789,9 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 no
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CocoTV" tvg-name="CocoTV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlPfZhmcg_Bx9o1ukRve74gmehrhUWKhMow&s" group-title="Anime",CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png" group-title="Anime",Animax
 https://wag.ika.lat/stream/870547344
@@ -1274,14 +1280,14 @@ https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" roup-title="Entretenimiento +",Star Channel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-
-yeah
 https://streamer1.nexgen.bz/FX/index.m3u8
 
+no
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" roup-title="Entretenimiento +",FYI
 http://fl2.moveonjoy.com/FYI/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/260px-FXX_Logo.svg.png" roup-title="Entretenimiento +",FXX
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png" group-title="Entretenimiento +",FOX 
@@ -1347,6 +1353,9 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
 http://181.78.105.146:2000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
+https://wag.ika.lat/stream/2084767267
 
 no
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
@@ -1764,6 +1773,8 @@ https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6319f06067a3ee000708af95/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="Screambox TV" tvg-name="Screambox TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.pcmag.com/imagery/reviews/05lTV8zpzdxJCNUNOQq4h4i-9.fit_scale.size_1028x578.v1665758383.png" group-title="Movies",Screambox TV
+
+no
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8 
 
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="24/7",Rick and Morty
@@ -1797,6 +1808,12 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Matter TV 
 https://dai.google.com/linear/hls/event/9G5GTqAzQWuD6AsOodx5hw/master.m3u8 
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Matter TV 
+
+
+#EXTINF:-1 tvg-id="5e843d849109b700075d5ada" tvg-name="Darkmatter" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Movies",Darkmatter 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc837e55-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e48d5986-39a2-47d4-9afe-ac05401cc5b8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Matter TV Samsung
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D 
@@ -1861,21 +1878,33 @@ https://seo.tv.bo/tv/STV4_HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV shows 1
+
+no
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Películas Top - Rakuten TV
+
+no
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies UK
+
+no
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Acción - Rakuten TV 
+
+no
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Acción - Rakuten TV 
+
+no
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Comedias - Rakuten TV
+
+no
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Cine Sony One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_One_logo_2016.jpg" group-title="Movies",Sony One Thriller TV
@@ -1892,6 +1921,8 @@ same
 https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
+
+no
 https://lnc-tubi-originals.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
@@ -1903,21 +1934,14 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Movies",Toonami Movies 
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Movies",Orbit TV 
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="Movies",FMTV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies",13MAX | HD 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AION" tvg-name="AION" tvg-language="es" tvg-logo="https://aiontelevision.com/wp-content/uploads/2017/12/logo.png",AION TV
 
 no
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
+
+no
 https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
 
 no
@@ -1956,6 +1980,15 @@ https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
 no
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w751923359.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
+
+#EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Movies",Orbit TV 
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="Movies",FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies",13MAX HD 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Movies",Peliculas 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1731
@@ -2025,6 +2058,9 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Claro Vision" tvg-name="Claro Vision TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1920px-Claro_TV_wordmark.svg.png",Clarovision
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
 
+si
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Movies",Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
@@ -2035,6 +2071,8 @@ https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lYUpdDI-gPTg11pVGwCEN85O8lfyaYDqJEeEU5LH2LVpkPgG3nQJ6kmkcax-aYCgu54=w526-h296-rw" group-title="Entretenimiento +",Impacto TV
+
+nel puro stich
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 juice tv
@@ -2061,9 +2099,11 @@ https://raw.githubusercontent.com/Valchrist23/VikTV/master/DMAX.m3u8
 SI
 https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/13_Max_Digital_%28Logo_2015%29.png/616px-13_Max_Digital_%28Logo_2015%29.png" group-title="Noticias",13 Max
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Life" tvg-name="Cine Life" tvg-language="es" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" tvg-country="" group-title="Entretenimiento +",Cine Life
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
+si pero fullurl
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb553d16726c678c99d43d64d5ef42a0d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c59e0a957f378bbdbe306f2c180680585ee2be5da5edf50843d86bf5b41e4888264ce7815fc8d549ed9ddd599d459b23a447c896f2de8745d4d4c3011266884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dd46856e91051f8038f07b4e440a1a9ba9d3929fd58513a134482c68ef0941732b767bb81e8d17a7a96e41a7146830ab247796ac8af9b46c1ab70e71c17247cada367e0e8a5b342affea78d2d00f304c7c2e6913e4301570d08935cac9b571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f0f0b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829da8214edb389e24c4dc40f5ef2982b393a4e0e8393e52192485df/125/1920x1080_5058864/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
