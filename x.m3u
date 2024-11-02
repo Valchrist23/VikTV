@@ -216,8 +216,9 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas
-no
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+no
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -787,8 +788,9 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 https://wag.ika.lat/stream/870547344
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 no
@@ -882,6 +884,8 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/card_img/1771373522197315584/xO4sjJPE?format=jpg&name=small" group-title="Anime",Max Anime
 https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w1007349705.m3u8
 
+si
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 no
 https://streamyes.alsolnet.com/maxanime/live/chunklist_w1710767503.m3u8
 
@@ -1163,6 +1167,9 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento +",Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="Entretenimiento +",My Time Movie Network Latinoamerica 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
@@ -1622,10 +1629,12 @@ https://dai.google.com/linear/hls/pa/event/3EEsfZhASryigfuSpHdfKg/stream/687d1ad
 
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
 no
+
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Classic Rock Network
+#EXTINF:-1 tvg-id="RockRadio" tvg-name="RockRadio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Classic Rock Network
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
@@ -1954,10 +1963,14 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/298px-HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png" group-title="Movies",Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/270px-HBO_Signature.svg.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/699px-Showtime_2.svg.png?20200720022346" group-title="Movies",Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/260px-HBO_Family.svg.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/674px-Showtime_Next.svg.png?20160605082517" group-title="Movies",Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",Box Hits
 
@@ -1970,7 +1983,7 @@ no
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",Rock Action
-
+https://wag.ika.lat/stream/507371538
 no
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
