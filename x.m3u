@@ -512,13 +512,15 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Al Dia 
-NO
+
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+yes
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 nel
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
@@ -773,6 +775,9 @@ https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 http://138.59.177.34:8000/play/a025/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png/revision/latest?cb=20171029094343&path-prefix=es" group-title="Cartoon",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Anime",BitMe
 
 no
@@ -857,6 +862,9 @@ https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/chunklist_w9347131.m3u8
 
 no
 https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w369696033.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
 no
@@ -1685,7 +1693,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports Premium
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports Premium
+#EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sports",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
 
 #EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",FOX Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId= 
