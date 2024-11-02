@@ -1068,13 +1068,16 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bcc823
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
 
 #EXTINF:-1 tvg-id="5f988934a507de00075d9ae7" tvg-name="Showtime Selects" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/featuredImage.jpg" group-title="USA",Showtime Selects
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
-
-
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
 
 si
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=7efea9c6-aa34-4c2e-9f5c-3cc26c6782e6&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-name="Pluto 00Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/featuredImage.jpg" group-title="USA",Pluto Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
+
+si
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 
 #EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries" tvg-name="Hallmark Movies &amp; Mysteries" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies &amp; Mysteries
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
