@@ -133,38 +133,8 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 4 Mexicali 
 https://ythls-v3.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 
-no
+si
 https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Queretaro
-https://ythls-v3.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-no
-https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Guerrero
-https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
-
-no
-https://ythls-v3.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
-https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
-https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
-
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Sinaloa
-https://ythls-v3.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
-no
-https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
-
-#EXTINF:-1 tvg-id="4 de Mexicali" tvg-name="4 de Mexicali" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",4 de Mexicali
-https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-
-#EXTINF:-1 tvg-id="4 de Monterrey" tvg-name="4 de Monterrey" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",4 de Guadalajara
-https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452530/ei/UrrIZsviDIz2sfIP5aKUsAk/ip/187.188.51.18/id/d1XqPhqD66g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/maxh/4320/maudio/1/siu/1/spc/Mv1m9nLJZui66a9NhE6G5DpaYdGz93cketah6PRvQQrpfm8xCEa6vroFrNi5zkcPj-QRsXVfIhmD/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdr4DjkQpgfbbQmIs91MF8GmY93wNUOaEik1R-260NiECIHzYf0zp56xfu-yUshPhy5-JH5BEqfq-Lgn4Zkkn8Pzy/file/index.m3u8
-
-no
-https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
 https://ythls-v3.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
@@ -185,7 +155,6 @@ https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
 https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452368/ei/sLnIZv6PNtWAi9oPifKI2As/ip/86.107.43.88/id/mhongzZTxCM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9sZhg1LjPECTO6dOIjmrEnnrdh2BhAf_FQusCkSVY5wzM40aRQjq9OGnSiw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaPAw4ZcYkgSeXyRtxq5sFZZdUxonLH_vUP1bn8x3UB0CIQCC8EohTPHLefXzsF3ow0vBwoZFM0HVN4G41Y46MlsBoQ%3D%3D/file/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYB9GDVAO3tk7_HrkLTl1Df3ZYJvUIkgUYZfOkAd31sQ&s" group-title="Basico",Canal 33
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w2051560459.m3u8
 
@@ -199,14 +168,40 @@ si
 https://ythls.armelin.one/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 https://ythls-v3.onrender.com/channel/UCgu4v4HAioB0N5K6aq_H-WQ.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Queretaro
+https://ythls-v3.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+no
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Guerrero
+https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+
+no
+https://ythls-v3.onrender.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Monterrey
+https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Sinaloa
+https://ythls-v3.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+no
+https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+
+#EXTINF:-1 tvg-id="4 de Monterrey" tvg-name="4 de Monterrey" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",4 de Guadalajara
+https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452530/ei/UrrIZsviDIz2sfIP5aKUsAk/ip/187.188.51.18/id/d1XqPhqD66g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/maxh/4320/maudio/1/siu/1/spc/Mv1m9nLJZui66a9NhE6G5DpaYdGz93cketah6PRvQQrpfm8xCEa6vroFrNi5zkcPj-QRsXVfIhmD/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdr4DjkQpgfbbQmIs91MF8GmY93wNUOaEik1R-260NiECIHzYf0zp56xfu-yUshPhy5-JH5BEqfq-Lgn4Zkkn8Pzy/file/index.m3u8
+
+no
+https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Noticias",Jalisco TV 
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 no
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo_de_Grupo_Televisa.svg/1920px-Logo_de_Grupo_Televisa.svg.png" group-title="Basico",Televisa Monterrey
-https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 
 #EXTINF:-1 tvg-id="MVS TV" tvg-name="MVS TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" tvg-country="MX" group-title="Entretenimiento +",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -546,25 +541,6 @@ no
 https://ythls-v3.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u
 https://ythls-v3.onrender.com/channel/UClHsawK2OPl-j6oxUoONKuQ.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 8 
-https://rdn.essastream.com:3170/live/telenord8live.m3u8
-
-no sirven
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 10 
-https://rdn.essastream.com:3676/live/telenord10live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
-https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
-
-no
-https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_actual_de_Orbita_TV.png" group-title="Entretenimiento +",Orbita TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento +",TeleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
@@ -1871,13 +1847,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="Movies",Crackle
-https://crackle-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/seo-tv-bo.png" group-title="Movies",SEO Peliculas
-https://seo.tv.bo/tv/SEO-TV-1.m3u8
 
 no
-https://seo.tv.bo/tv/STV4_HD.m3u8
+https://crackle-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV shows 1
@@ -1986,6 +1958,26 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="Movies",Orbit TV 
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1625501623.m3u8 
+
+si
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_actual_de_Orbita_TV.png
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 8 
+https://rdn.essastream.com:3170/live/telenord8live.m3u8
+
+no sirven
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w1657511577.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 10 
+https://rdn.essastream.com:3676/live/telenord10live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
+https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
+
+no
+https://streamingamericaservice.info:19360/telenord12/telenord12.m3u8
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w1016686322.m3u8 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="Movies",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
