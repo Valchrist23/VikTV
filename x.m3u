@@ -764,6 +764,9 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Cartoon",Disney XD
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney JR
+http://168.181.122.234:8000/play/a037/index.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Clasico
 
 no
@@ -2056,12 +2059,14 @@ http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Claro Vision" tvg-name="Claro Vision TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1920px-Claro_TV_wordmark.svg.png",Clarovision
-https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-
-si
 https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 
+si
+https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Movies",Genios TV
+
+no
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Next_hd.png" group-title="Movies",Next HD
