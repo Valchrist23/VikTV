@@ -1779,6 +1779,8 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hiyah/logos/buybox-logo_rar._SY35_FMpng_.png" group-title="Cine/Series",Hi-Yah!
+
+no
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-Yah!" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" tvg-country="US" tvg-url="" group-title="Cine/Series",Hi-Yah!
