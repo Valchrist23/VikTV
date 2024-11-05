@@ -1758,18 +1758,32 @@ no
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8 
 
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="24/7",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
+
+old
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="24/7",Adult Swim Live Action
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8 
 
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_1.m3u8
+
+old
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_5.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 
 #EXTINF:-1 tvg-id="DailyAnimated" tvg-name="DailyAnimated" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Adult-Swim-Logo.png" tvg-country="US" tvg-url="" group-title="24/7",DailyAnimated
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_6.m3u8
+
+old
 https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8 
 
 #EXTINF:-1 tvg-id="Korgoth The Barbarian" tvg-name="Korgoth The Barbarian" tvg-language="English"tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMDNjZWUtYzM4Ny00ODM3LWI2OWYtMjQyZGM5ZjhlNzY2XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_FMjpg_UX1000_.jpg" group-title="24/7",Korgoth The Barbarian
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_6.m3u8
+
+old
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="Music",~ 24/7 Adult Swim Geo-Blocked ~
