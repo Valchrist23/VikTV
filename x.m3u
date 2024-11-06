@@ -1758,23 +1758,33 @@ no
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8 
 
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="24/7",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
+
+no
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
 
 old
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="24/7",Adult Swim Live Action
+
+no
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8 
 
 #EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_1.m3u8
+
+no
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_4.m3u8
 
 old
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_1.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_5.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 
 #EXTINF:-1 tvg-id="DailyAnimated" tvg-name="DailyAnimated" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Adult-Swim-Logo.png" tvg-country="US" tvg-url="" group-title="24/7",DailyAnimated
+
+no
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_6.m3u8
 
 old
@@ -1793,6 +1803,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hiyah/logos/buybox-logo_rar._SY35_FMpng_.png" group-title="Cine/Series",Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/96023306-a2b2-4bbb-9ba6-8fc2ea01833f/5.m3u8
 
 no
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8 
