@@ -1964,10 +1964,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Movies",CincoTV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",GenTV 
+#EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV 
+#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV 
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV 
