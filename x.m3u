@@ -820,10 +820,11 @@ Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
-http://85.239.54.197:81/live/loco_hi/index.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 ya no
 http://51.222.85.85:81/hls/loco/index.m3u8
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="Loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
@@ -1101,9 +1102,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812bcc823
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
 
 #EXTINF:-1 tvg-id="5f988934a507de00075d9ae7" tvg-name="Showtime Selects" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/featuredImage.jpg" group-title="USA",Showtime Selects
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
 
-si
+showtime selects no more
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=af339885-2a33-11ec-b5cc-0242ac110003&deviceId=a0be0f1a-0b15-4e17-89d9-22c0912649f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=7efea9c6-aa34-4c2e-9f5c-3cc26c6782e6&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-name="Pluto 00Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/featuredImage.jpg" group-title="USA",Pluto Replay
