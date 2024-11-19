@@ -771,7 +771,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 http://138.59.177.34:8000/play/a025/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Anime",Boing Espana
+#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Anime",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png/revision/latest?cb=20171029094343&path-prefix=es" group-title="Cartoon",Next HD
@@ -856,7 +856,7 @@ check
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 no
@@ -868,7 +868,7 @@ https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/chunklist_w9347131.m3u8
 no
 https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w369696033.m3u8
 
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg" group-title="Anime",XtremaTV Accion
+#EXTINF:-1 tvg-id="XtremaTV Accion" tvg-name="XtremaTV Accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg" group-title="Anime",XtremaTV Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
@@ -888,6 +888,7 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w1007349705.m3u8
 
 si
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 no
 https://streamyes.alsolnet.com/maxanime/live/chunklist_w1710767503.m3u8
