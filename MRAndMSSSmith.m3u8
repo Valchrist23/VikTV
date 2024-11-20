@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="English",AUTOSELECT=YES,DEFAULT=YES,URI="https://akamai2.tubi.video/ce493a38-efc3-415d-b099-81e5d0a29adf/vowv4nui.mp4"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,AUDIO="URI"
-https://akamai2.tubi.video/ce493a38-efc3-415d-b099-81e5d0a29adf/hni0u20h.mp4
