@@ -1967,10 +1967,10 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",Gen TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV 
+#EXTINF:-1 tvg-id="Neox TV" tvg-name="Neox TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV 
+#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1" group-title="Movies",Bayres TV 
@@ -2080,14 +2080,8 @@ http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="MiTV" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/800px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="Movies",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Claro Vision" tvg-name="Claro Vision TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1920px-Claro_TV_wordmark.svg.png",Clarovision
-https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
-
-si
-https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Movies",Genios TV
-
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/playlist.m3u8
 no
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
