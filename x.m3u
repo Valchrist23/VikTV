@@ -518,6 +518,7 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Antena 3
 
+no
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 #EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",RT en español
@@ -720,17 +721,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",KPBS Baltimore
-https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-
 #EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-name="The Asylum" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="US",The Asylum
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
-
-ing
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
+
+esp
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobrossspanish-lgus/playlist.m3u8
 
 ya no
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=7db21dfa2d7a540324e5040744c0de1a-6d728df036efdb3e4da763ce95dbbf14b0f7dfe860de9a20375b7f2b8ffaf1ec8c72385c59ccbd5307fc9828e969543ee8661d4890e91a6cfe989ef1885c3d2c7f3ffd8eef08bf2ada94d43ff6fe65a14703fe7941b67f66c4069409054ba68e081fae6ae8a5d1a9f76a51176ddc56477f7411a1edd33e2df012ac162524f2f9f490dc3f5e4bacb1ef76c16321429449abfe7bb0fb5809a0c4ce92d6e889b7a392ed9821733734f3d89fa0117e52128495346f7b0ff40472e74667736385a2f3b37822f478fe83ecbd3936f05e9b5a579b6d1a8db59b3baf530ed8fc473604532114d851804d52665237c172d3945291970a94adead363e1f0cc3dabbaddec1c9204f86ea797b32af9b9e44d92bbbeff1fd5de6e1e918b117985dc91ad2a3341216562feedf17e4e927e8e312919926e487cb521ad33fdc0497c271fc09dcead07ce810bb16c1dfda757e2ca82c8963dfd34b6e4168b623f02b24fe380eb0f1e7e0b1ce9d013bd015100d1f50a08abf22fb148198fb81bc2cba0da6be0af1dbf019cb017f59f546a2780f72d3109ffc038a9e64fd007a713f2c59e53908c2dbb07ed9d954e5ad6db4d6302491b41c7f71f4680c146704c373e7457045f8d24bc689c796ec9fb7d19e3cacc734c06bea410a87c2178a311b674aa9d3f82ea75a621928309f84996323f949b38ee1c2e58db5d2a1ad13fad206c5b941f6f897e1a703c2d17edff006bb4d8b516f84acba092d46a40738e05b3b7262ea16f1109261b853ae9a5d4a6f98b6c1e9b8b7300b061238c3ce9bcaabc057ae0c7c998e3836737990d6aebae702f67774a17e3e54e1f7063f9a353dc3222d4e041510ad40a9db734ccbd7ed807b078b1bd8d28a807ddb9c89e836ff599ff763213265cd97b5198118f646d5eae5afa19a42ce22c6d0838a327e2f126c2ed4d535b91e03f0a263911db6c9fb91491e1ab787fdb971b0d36148565aa211538a0963a1d02b6a4a38bdfa15ea839ae13ff2ac78325f6a54384a66dce3db190af368abc1a670a03d86ee08d0192460e49d10b39525b42bf60640c2b75097732a7c6445fa1bd2a6cd500b70fd5bc13ba9fdafdee28da49039d462ddbc18c51e09c41f30d7c8cee3078657594aef2903387e97d9e24a33faeafb0b522fd8112844b577b47e09e17b09b452e88c3b0c274d5130be3305d009873cd1ed9c28a9b365fb6a07b06453ad45862130bd59e9febc12264440913e5bf59cf46f6a25f9e3c3ce04a59398effaf4a55ebcf1aa4e20bd929adc8cb7e1dfa0e332cde2140d4df7e716965624a3d9169c4ed97c4655cf6c4f12d2da7e7033fee094c13388a52f16ba8a9904e0c82ef1eabd473e6fa214b22abdab80ddd40a53fd58032c4c84ee0ed8621bab8fb346307322bf58272028eb8f31f524d320e93ac644ca31a488f125c5f5eaf273b762a8054995a4b7a8cf3ccd1e65eb75fead6025d79dd8dc04225ad8936a199813750587cda511f535b5801c4ac7e88cf2c10e0de0af01a3882a2688ad126d4e9dcacee1d459c9964fc9398576ed4f2228f7047d8f74df21b782cc590b97827e2ea897f797357ef85c19ebf197c35b5342999d85f777d3b3ece2c1870432d5de2ac7dae4a4bf968ef7bccf876e71535dd5930c3f53f140a0c32fb8afaad72b1766136ab2dbf4f6f32fd8022be4ed31afb9797c739312a9f6f9414da0db51fbb900de5c37ca7458b933f453cbd0dd7d8716a6c71e6462356b8706d361ced3c238cc1df0566ae288a34baea4b60ca7f99d1d801929d163d220128523a7d7fc093460c5c0b213ba0c2652d6c5f515254eba633c0fd6f83d74fcd6f33f900c549232e0e4ef2801176c8b5c464635e85c29f04cfdd53a8f581d7782b2ef30d8b7e1acee88f52a41cb18fca61814ff059867af7ec92108d15a4bec49d08b04761c6c1cc7fad82a92c6c67602deb620413260c33193c402fe8b3b822a07a8ed3d641d55c359c41eac26d6cb8450a124564b01dfecd5e139a7526742ff3b85f76eb40e9424a98143ebefb8bc3749c7cef36578af9263146d98627032f2af68a57a4025d84be54143430bab8ab967c3db5e581f248ebeb256b9afc3110b5d43b9b501ac760297e&x-plex-token=Pp6URaToSDwZtYNd7X-G&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723663985&autoPreview=0
@@ -771,7 +769,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 http://138.59.177.34:8000/play/a025/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Anime",Boing
+#EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Cartoon",Boing Espana
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png/revision/latest?cb=20171029094343&path-prefix=es" group-title="Cartoon",Next HD
@@ -868,7 +866,7 @@ https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/chunklist_w9347131.m3u8
 no
 https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w369696033.m3u8
 
-#EXTINF:-1 tvg-id="XtremaTV Accion" tvg-name="XtremaTV Accion" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg" group-title="Anime",XtremaTV Accion
+#EXTINF:-1 tvg-id="XtremaTV Accion" tvg-name="XtremaTV Accion" tvg-logo="tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
@@ -1189,6 +1187,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA
+
+
+#EXTINF:-1 tvg-id="4 Fun TV" tvg-name="4 Fun TV" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/4fun.tv_Logo_%282017%29.svg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="Electric Now" tvg-name="Electric Now" tvg-language="es" tvg-logo="https://worldscreen.com/tvusa/wp-content/uploads/sites/18/2017/07/Electric-Now-logo-1019.jpg",Electric Now 
@@ -1261,6 +1262,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,V
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="CHARGE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/799px-Charge%21_Logo_2020.svg.png" group-title="USA",CHARGE 
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 no
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -2130,7 +2132,7 @@ https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oand
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
 
 #EXTINF:-1 tvg-id="Best Thriller Movies" tvg-name="Best Thriller Movies" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Best Thriller Movies
-https://lte.wiseplayout.com/WiseM3U8_17/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Popcorn Flix
 
