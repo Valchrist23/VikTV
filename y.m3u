@@ -30,8 +30,6 @@ https://archive.org/download/la-vida-es-bella/La%20vida%20es%20bella.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg" group-title="Peliculas",Chain Reaction (1996)
 http://158.69.158.102/Peliculas/Listo/30122022_0228/87485586.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg" group-title="Peliculas",2001 Space Odyssey (1968)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg" group-title="Peliculas",Coyote Ugly (2000)Ffuriosa
@@ -46,6 +44,21 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wCb2msgoZPK01WIqry24M4xsM73.jpg" group-title="Peliculas",007 The World Is Not Enough (1999)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/20.EL%20MUNDO%20NUNCA%20ES%20SUFICIENTE%20%281999%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Peliculas",007 Casino Royale (2006)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/22.CASINO%20ROYALE%20%282006%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" group-title="Peliculas",007 Quantum Of Solace (2008)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/23.QUANTUM%20OF%20SOLACE%20%282008%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg" group-title="Peliculas",007 Skyfall (2012)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/24.SKYFALL%20%282012%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="Peliculas",007 Spectre (2012)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/25.SPECTRE%20%282015%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="Peliculas",007 No Time To Die (2021)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/26.%20SIN%20TIEMPO%20PARA%20MORIR%20%282021%29%20%E2%9C%94.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/myHxm9p8fhEsXyaLO6DawYJKolg.jpg" group-title="Peliculas",Under Siege (1992)
 
