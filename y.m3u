@@ -1136,6 +1136,7 @@ https://archive.org/download/e.-t.-el-extraterrestre-1982/Top%20Gun%20-%201986.m
 https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/Top%20Gun%20Maverick.mp4
+https://archive.org/download/linkmultimediacine/Top%20Gun%20Maverick.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg" group-title="Peliculas",Eyes Wide Shut (1986)
 https://archive.org/download/ojos-bien-cerrados-1999/Ojos%20Bien%20Cerrados%20-%201999.mp4
@@ -2102,6 +2103,8 @@ https://cdn.jwplayer.com/manifests/jpaugSDb.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Avatar The Way Of Water (2022)
 https://archive.org/download/conjuring-the-beyond_202304/avatar%202.mp4
+si
+https://archive.org/download/linkmultimediacine/Avatar%202%20el%20camino%20del%20agua.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mgyvwqn5SYKhfg5kofZDfgH8R0q.jpg" group-title="Peliculas",Bad Genius (2017)
 https://cdn.jwplayer.com/manifests/ezFvnRQD.m3u8
@@ -2516,6 +2519,7 @@ https://archive.org/download/Rvngdresg/wt%20T1h0r%20rgnrk.mp4
 https://archive.org/download/c-5t-4wy-200-dl/TL0v4Tun.222-DL-.mp4
 
 si
+https://archive.org/download/linkmultimediacine/Thor%20Love%20and%20Thunder.mp4
 https://archive.org/download/01245654664/Thor.Love.and.Thunder.2022.IMAX.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-SMURF.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ant-Man (2015)
@@ -2655,8 +2659,8 @@ https://archive.org/download/conjuring-the-beyond_202304/Conjuring%20The%20Beyon
 
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2022/Conjuring.the.Beyond.2022.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hN8w1ftoH7yyfwgE9VBdGRkipbZ.jpg" group-title="Peliculas",Dead Zone (2022)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j9WoGb6UPHM6th7b4H0pjD5ZLZj.jpg" group-title="Peliculas",Tsunami (2021)
+https://archive.org/download/linkmultimediacine/TSUNAMI%20%20ESTRENO%202021.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Cinderella (2015)
 
@@ -2716,6 +2720,9 @@ http://archive.org/download/H13L1EO200643A1K32MSND/H13L1EO200643A.mp4
 https://archive.org/download/la-era-de-hielo-4_202207/%20La%20Era%20de%20Hielo%204.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ice Age Collision Course (2016)
 http://archive.org/download/2me2n31n3SMnqNMME23O392420/242me2nSWMESSNDEBH13L1EO392420M.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="Peliculas",Ice Age The Adventures In Buck Wild (2022)
+https://archive.org/download/linkmultimediacine/The%20Ice%20Age%20Adventures%20of%20Buck%20Wild.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkxOGU4MmMtMTIyOC00NWNlLTk4MDgtNThkZTdkYzUzNjE3XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_FMjpg_UX1000_.jpg"group-title="Peliculas",Sleeping Beauty (1959)
 http://bit.ly/LABELLAMOVIE
@@ -4270,11 +4277,6 @@ http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
 
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Joker%40cine%2Bcine.mp4
 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Encanto (2016)
-
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Tangled (2010)
 https://archive.org/download/Enredados.2010.ENREDADOS.720pBak0r/Enredados.2010.ENREDADOS.720p%20bak0r.mp4
 
@@ -4783,6 +4785,9 @@ https://archive.org/download/kb-1-v-2204-dl/DW4t222-DL-.mp4
 si
 https://archive.org/download/aguas-profundas-2022/Aguas%20profundas%20%282022%29.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="Peliculas",Elvis (2022)
+https://archive.org/download/linkmultimediacine/Elvis.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",It eso (1990) 
 https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/IT%2C720p.mp4
 
@@ -4913,6 +4918,8 @@ https://archive.org/download/alplani1/Buscando..mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg" group-title="Peliculas",Gods Of Egypt (2016)
 https://archive.org/download/alplani1/Dioses%20de%20Egipto.mp4
+si
+https://archive.org/download/linkmultimediacine/THE%20EGIPTO%20GOODS.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg" group-title="Peliculas",I kill Giants (2017)
 https://archive.org/download/alplani1/Cazadora%20de%20gigantes.mp4
@@ -4951,6 +4958,9 @@ https://archive.org/download/180934-539a-60DE-F-5EF-482B-A-589-EB-2478B-7B-846-F
 https://archive.org/download/EnriqueIglesiasBailandoKaraoke/Un%20paseo%20por%20las%20nubes.mp4
 
 https://archive.org/download/EnriqueIglesiasBailandoKaraoke/UnP4s3oNu83s.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xHP6mYLQKbJY9pg99PGoGKmmBZX.jpg" group-title="Peliculas",Veronica (2017)
+https://archive.org/download/linkmultimediacine/Veronica.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI0NzcyMjM5Ml5BMl5BanBnXkFtZTgwMzk2NzAyNTM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Upgrade (2018)
 https://archive.org/download/EnriqueIglesiasBailandoKaraoke/Upgrade%20M%C3%A1quina%20Asesina.mp4
@@ -5418,6 +5428,7 @@ https://archive.org/download/t-3-musk.-93-d/THungrG4m5TB4ll0S0nB1r55n4k3.mp4
 https://archive.org/download/t-3-musk.-93-d/Unch.222-D-.mp4
 
 si
+https://archive.org/download/linkmultimediacine/Uncharted%20ESTRENO%202022.mp4
 https://archive.org/download/uncharted-2022-spanish/Uncharted%202022%20Spanish.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="Peliculas",The Batman (2022)
@@ -6294,8 +6305,9 @@ https://akamai2.tubi.video/ce493a38-efc3-415d-b099-81e5d0a29adf/vowv4nui.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aCDrPEfvxcPNRynd2uZyXql7aj.jpg" group-title="Peliculas",Valerian and the City of a Thousand Planets (2017)
 https://archive.org/download/vl-3ran-y-l-cudd-d-3-l-0s-ml-plnets/V%40l3r%21an_Y_L%40%20C%21ud%40d%20D3%20L0s%20M%21l%20Pl%40net%40s.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aITIsX20tACn6jgtyDcCYpRT216.jpg" group-title="Peliculas",The Scorpion King (2002)
- 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qEM80vqREgfjk7YhIbl4AgfZ47S.jpg" group-title="Peliculas",The Little Mermaid (2018)
+https://archive.org/download/linkmultimediacine/LA%20sirenita%202018.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" group-title="Peliculas",The Little Mermaid (2019)
 https://archive.org/download/pp-174-pp/T.L.M3rmd.223-DL-.mkv
 
@@ -6640,6 +6652,8 @@ https://archive.org/download/4d-1c.-214-dl/Dev.exrs.221-dl-.mp4
 https://archive.org/download/brh-34rt-195-dl/3y3.216-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mYDKm9HxImm8PRru3KbkHAe1cmk.jpg" group-title="Peliculas",Life Of Pi (2012)
 https://archive.org/download/brh-34rt-195-dl/L0Pi.212.-DL-.mkv
+si
+https://archive.org/download/una-aventura-extrahordinaria/una%20aventura%20extrahordinaria.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg" group-title="Peliculas",This Means War (2012)
 https://archive.org/download/brh-34rt-195-dl/T.M34n5.Wr.212-DL-.mkv
@@ -7650,6 +7664,9 @@ https://archive.org/download/Peliculas-wii/Lightyear.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="Peliculas",Encanto (2021)
 https://archive.org/download/Peliculas-wii/Encanto.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o3eKgsZARPMrCoMZbPa3SI0La6H.jpg" group-title="Peliculas",Sgt. Stubby: An American Hero (2018)
+https://archive.org/download/linkmultimediacine/ENCANTO.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vgJZSqKMXWDDx09iSIStGKfHMku.jpg" group-title="Peliculas",Wish (2023)
 https://archive.org/download/Peliculas-wii/Wish%20-%20El%20poder%20de%20los%20deseos.mp4
 
@@ -8561,8 +8578,6 @@ https://archive.org/download/pel149b83b3a93u/Altered%20Carbon%20Reefundados.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="Peliculas",Day Shift (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg" group-title="Peliculas",Crimes Of The Future (2022)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="Peliculas",Elvis (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="Peliculas",Eraser Reborn (2022)
 
