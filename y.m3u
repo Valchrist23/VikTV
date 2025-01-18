@@ -7949,11 +7949,14 @@ https://archive.org/download/w-31d-s-13c-3-985-dl/Vnm.L5t.D4nC.224-DL-.mkv
 https://archive.org/download/w-31d-s-13c-3-985-dl/R3.0n.224-DL-.mkv
 
 
-
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/268/posters/5fa34689776bf.jpg" group-title="Peliculas",Seven (1995)
+http://127.0.0.1:11470/8fb661972950c43824242e3c7c37135e0187a2ca/5
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg" group-title="Peliculas",Hitch (2014)
 http://127.0.0.1:11470/8694e7a30b10a6f3eede58fa2eae78b64cff089f/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ilHG4EayOVoYeKqslspY3pR4wzC.jpg" group-title="Peliculas",Run (2020)
 http://127.0.0.1:11470/d8f3bed1d5c6a01d32984111877b3049562c076d/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="Peliculas",Rosaline (2022)
+http://127.0.0.1:11470/f740a54e88fbcd8003d3ca15331947200a2948fd/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="Peliculas",The Magic Flute (2022)
 http://127.0.0.1:11470/7502d7e780b3233ac0996ad0a4f8b366971d9643/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="Peliculas",A Man Called Otto (2022)
@@ -7968,6 +7971,12 @@ http://127.0.0.1:11470/71befb270528c4886e9e7180c593a6773d1b5c49/2
 http://127.0.0.1:11470/0c5af5274a684e31860d62d5fd6f80ddf880e8fc/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg" group-title="Peliculas",Black Friday (2021)
 http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg" group-title="Peliculas",Chevalier (2023)
+http://127.0.0.1:11470/c1161c775dbf4d80144b5bb2aed3769aa88ebc7b/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i83Ykng2HVY5EF043zMmeQdLUQY.jpg" group-title="Peliculas",White Men Cant Jump (2023)
+http://127.0.0.1:11470/4f05afa0a6780687fa5d2dbe0cffb439a10437f7/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg" group-title="Peliculas",Jack In The Box 3 (2024)
+http://127.0.0.1:11470/4813579e064a8aa3be21f97abf1f802416c86f93/0
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/5048/posters/5048.jpg" group-title="Peliculas",Kung Fu Jungle (2014)
 
@@ -8057,7 +8066,6 @@ http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9wgDyz5aWWqttK73WXSqB1dpFTy.jpg" group-title="Peliculas",Color Of Night (1994)
 
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/268/posters/5fa34689776bf.jpg" group-title="Peliculas",Seven (1995)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="Peliculas",Pearl Harbor (2001)
 
@@ -8154,7 +8162,6 @@ http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/esLooowdB92I3dVI3ENlPPpTuWT.jpg" group-title="Peliculas",Challengers (2024)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/i83Ykng2HVY5EF043zMmeQdLUQY.jpg" group-title="Peliculas",White Men Cant Jump (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg" group-title="Peliculas",The Mother (2023)
 
@@ -8175,7 +8182,6 @@ http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="Peliculas",Damaged (2024)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg" group-title="Peliculas",Chevalier (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg" group-title="Peliculas",Obi-wan Kenobi A Jedis Return (2024)
 
@@ -8220,7 +8226,6 @@ http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eBSl9nGymidAyEBdJGADnnm7JKt.jpg" group-title="Peliculas",Jugaremos en el bosque (2024)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="Peliculas",Rosaline (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg" group-title="Peliculas",Art Of Love (2024)
 
@@ -8330,6 +8335,7 @@ http://127.0.0.1:11470/fb70f9b3c8c824afba3c8ac1e6bb2c78b17175a1/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jdRaPS2ShVQK2GurkT5mrlXJpzP.jpg" group-title="Peliculas",Lottery Ticket (2010)
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0YzhmZDktOGMxMy00YmUxLWE1YmUtZTZhOWQyMzI1OTA2XkEyXkFqcGdeQXVyNzU4NzMwMjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jack In The Box Awakening (2022) 
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTAzMjhiOWQtZDkzMy00NmNiLWE1ZTEtYTJmNDIzMzhmZGQyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Last Day Of American Crime (2020)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Card Counter (2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41Rzkgo9y7n6BNGD6O8j0LVs8Yu.jpg" group-title="Peliculas",¡Hombre Al Agua! (2018)
