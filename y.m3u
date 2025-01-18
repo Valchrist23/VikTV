@@ -1344,6 +1344,8 @@ https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20str
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/El%20hoyo.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fwSonK8WrAEqWY7sqjvGRCgzIij.jpg" group-title="Peliculas",Violet Evergarden (2018) 
+http://127.0.0.1:11470/9a22394bcb61c2a61baff353e1b08f20a078998f/0
+no
 https://moodle1.myyschool.xyz/OEw0TlFFTzdGWUxwNDNvNUFqQVdiMEdRT2EyaU9XRDIyaGc2dTlQMDdLYz0.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzEwMGY2OTItYTljMC00NTVkLWE1NGUtNGQ2ZmY3ODlkMmYzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dante's Inferno: An Animated Epic (2010) 
@@ -1624,6 +1626,8 @@ https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Mal
 https://archive.org/download/360Tv.Gr4ndes.Hroes.2014.Latino/360Tv.El.Duende.Maldito%202%201080p%20Latino.MP4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg" group-title="Peliculas",Leprechaun Origins (2014)
+http://127.0.0.1:11470/8aa50b618e3943e170aeece855d792a42daf5d34/0
+si
 https://archive.org/download/alvasaa-_20181031/El%20Duende%20Maldito%20El%20Origen%5BTerror%5D.avi
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Fantastic Four (2015)
@@ -2988,6 +2992,8 @@ https://archive.org/download/the-order-2001/The%20Order%20%282001%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRHaPGBBmQhUVgYofPoaqTEdUWq.jpg" group-title="Peliculas",Welcome To The Jungle (2013)
 https://archive.org/download/bienvenido-a-la-jungla-2013/Bienvenido%20a%20la%20Jungla%20%282013%29.mkv
+si
+http://127.0.0.1:11470/b4a42c8b3995c1a38ff8e94fe0f707092bf9313c/1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5njeDzYgcFV8wyVnytKPc3U62Cc.jpg" group-title="Peliculas",Enemies Closer (2013)
 https://archive.org/download/enemies-closer-2013/Enemies%20Closer%20-%202013.mkv
@@ -7933,6 +7939,11 @@ https://archive.org/download/el-cuervo-2024/El%20cuervo%20%282024%29.mp4
 si
 https://archive.org/download/the-crow-el-cuervo-2024/The%20Crow%20%28El%20cuervo%29%20%282024%29.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tBVvKxmAfKVV2nd7sb2fCW83WDF.jpg" group-title="Peliculas",Yu-Gi-Oh La Plicula (2000)
+https://archive.org/download/pel149b83b3a93u/Yu-Gi-Oh%21%20La%20Pel%C3%ADcula.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vlIYzx7cc4Wvaoh7ShjF2HZG45.jpg" group-title="Peliculas",Altered Carbon: Resleeved (2020)
+https://archive.org/download/pel149b83b3a93u/Altered%20Carbon%20Reefundados.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1iWGGxHEwswZGvPSoMZlLFf0PNq.jpg" group-title="Peliculas",Something In The Water (2024)
 https://archive.org/download/something-in-the-water-2024_202408/SOMETHING%20IN%20THE%20WATER%20%282024%29.mp4
 
@@ -7952,6 +7963,8 @@ https://archive.org/download/w-31d-s-13c-3-985-dl/Vnm.L5t.D4nC.224-DL-.mkv
 https://archive.org/download/w-31d-s-13c-3-985-dl/R3.0n.224-DL-.mkv
 
 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/352667/posters/658f61fb2179d.jpg" group-title="Peliculas",Lord Of Misrule (2023)
+http://127.0.0.1:11470/f9149e9eaac57f03a3c258621cfe23bcff1282bb/0
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/268/posters/5fa34689776bf.jpg" group-title="Peliculas",Seven (1995)
 http://127.0.0.1:11470/8fb661972950c43824242e3c7c37135e0187a2ca/5
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg" group-title="Peliculas",Hitch (2014)
@@ -7994,7 +8007,12 @@ http://127.0.0.1:11470/54a2cb83374fc4f786c45a20349e40a53f4f73d5/0
 http://127.0.0.1:11470/4813579e064a8aa3be21f97abf1f802416c86f93/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Peliculas",Lift (2024)
 http://127.0.0.1:11470/a5025e51aa77911f6d92cd7827fddefa57f9e307/0
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" group-title="Peliculas",Monkey Man (2024)
+http://127.0.0.1:11470/372c921699d3bef8bd82dc2d5ebe5b5393c21639/0
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/358321/posters/66e8d4e442a1b.jpg" group-title="Peliculas",Subservience (2024)
+http://127.0.0.1:11470/9fbd1d6c98416f41f3ffd3793ac0301747cc8aed/0
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/31384/posters/60b6193b972db.jpg" group-title="Peliculas",Psycho-Pass: Sinners of the System - Case.3 In the Realm Beyond Is (2019)
+http://127.0.0.1:11470/501852775bc40228c4d1b5e8ef9e1117b794cb75/0
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/5048/posters/5048.jpg" group-title="Peliculas",Kung Fu Jungle (2014)
 
@@ -8206,8 +8224,6 @@ http://127.0.0.1:11470/a5025e51aa77911f6d92cd7827fddefa57f9e307/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg" group-title="Peliculas",The Marvels (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" group-title="Peliculas",The Idea Of You (2024)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" group-title="Peliculas",Monkey Man (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="Peliculas",Venus (2022)
 
@@ -8533,10 +8549,6 @@ http://127.0.0.1:11470/a5025e51aa77911f6d92cd7827fddefa57f9e307/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg" group-title="Peliculas",Rocketman (2019)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tBVvKxmAfKVV2nd7sb2fCW83WDF.jpg" group-title="Peliculas",Yu-Gi-Oh La Plicula (2000)
-https://archive.org/download/pel149b83b3a93u/Yu-Gi-Oh%21%20La%20Pel%C3%ADcula.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vlIYzx7cc4Wvaoh7ShjF2HZG45.jpg" group-title="Peliculas",Altered Carbon: Resleeved (2020)
-https://archive.org/download/pel149b83b3a93u/Altered%20Carbon%20Reefundados.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cYlHTdKFnhjNsJ0jvHMsJCIFG0l.jpg" group-title="Peliculas",Witches In The Woods (2019)
 
@@ -8611,7 +8623,6 @@ https://archive.org/download/pel149b83b3a93u/Altered%20Carbon%20Reefundados.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="Peliculas",Meg2 The Trench (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qw7FkjLxsDj5vmBk04L2dkiJopo.jpg" group-title="Peliculas",Mercy (2023)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//pQN3LEZBRAvqOxlDBehNyP4RPQD.jpg" group-title="Peliculas",Alice (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5xupm2thQic5GzYi6nim6URMZOY.jpg" group-title="Peliculas",Bendita Suegra (2023)
 
@@ -8730,7 +8741,9 @@ https://archive.org/download/pel149b83b3a93u/Altered%20Carbon%20Reefundados.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tVMddOS5bi3YPVPgTPlEw0TOWoF.jpg" group-title="Peliculas",Meteor (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg" group-title="Peliculas",The Witch Part 1 The Subversion (2018)
-
+http://127.0.0.1:11470/1e608ac165c7e68df47c4d2e4488ea19c9909026/0
+si
+magnet:?xt=urn:btih:1e608ac165c7e68df47c4d2e4488ea19c9909026&dn=The.Witch.2018.1080P-Dual-Lat&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 #EXTINF:-1 tvg-logo="https://thetvdb.com/movies/justice-league-crisis-on-infinite-earths-part-three" group-title="Peliculas",Justice League Crisis On Infinite Earths Part 3 (2024)
 http://127.0.0.1:11470/25fbfb3dca5216964520a5d69a03bb98eef21efb/0
@@ -8757,11 +8770,16 @@ http://127.0.0.1:11470/518a65d559470dc6354f0b0d83d01efdf922d16a/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg" group-title="Peliculas",The Platform 2 (2024)
 http://127.0.0.1:11470/18ec0189f39bf54f9ccde0bb7d86d9879dd6afc9/0
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/359732/posters/66da219b53839.jpg" group-title="Peliculas",Pedro Paramo (2024)
+http://127.0.0.1:11470/dc296a617bdb2a7ed673a6a4cc8b5c0a6a5b794b/0
 
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
-#EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/158132/posters/66a34e0aa5e3a.jpg" group-title="Peliculas",Transformers One (2024)
+http://127.0.0.1:11470/2cf789792a18c915b845d63880a67d806c17179d/0
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/349288/posters/67693044974ed.jpg" group-title="Peliculas",Alien Romulus (2024)
+http://127.0.0.1:11470/347ba6004bf334f2d1ba29a14797a61b6cd3ec9c/0
+
+
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",null (null)
