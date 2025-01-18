@@ -7992,7 +7992,8 @@ http://127.0.0.1:11470/96b57d197a5334b764f9f9bff153a285bb83ad6e/0
 http://127.0.0.1:11470/54a2cb83374fc4f786c45a20349e40a53f4f73d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg" group-title="Peliculas",Jack In The Box 3 (2024)
 http://127.0.0.1:11470/4813579e064a8aa3be21f97abf1f802416c86f93/0
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Peliculas",Lift (2024)
+http://127.0.0.1:11470/a5025e51aa77911f6d92cd7827fddefa57f9e307/0
 
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/5048/posters/5048.jpg" group-title="Peliculas",Kung Fu Jungle (2014)
@@ -8159,8 +8160,6 @@ http://127.0.0.1:11470/4813579e064a8aa3be21f97abf1f802416c86f93/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5qhyVvLkK5e0B5XTvThrSzNyJf.jpg" group-title="Peliculas",The Wait (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eeK3OB5PeSRQD7BpZcGZKkehG.jpg" group-title="Peliculas",Red (2010)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Peliculas",Lift (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/esLooowdB92I3dVI3ENlPPpTuWT.jpg" group-title="Peliculas",Challengers (2024)
 
