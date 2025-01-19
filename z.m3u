@@ -318,6 +318,8 @@ https://tvnettv.space/contenido/series/Daredevil/3/Daredevil13.mp4
 
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E01
+http://127.0.0.1:11470/7036016e02111835612f573ac2b72ff7542ccc6b/0
+si
 https://tvnettv.space/contenido/series/X-Men%2097/lat/X-Men%20'97%20S01E01%20WEB-DL%201080p%20Latino.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/412432/posters/6594bbc86d7ff.jpg" group-title="TVSeries",X-Men 97 S01E02
@@ -647,31 +649,64 @@ https://ia801406.us.archive.org/10/items/visionaries-disc-1/VISIONARIES_DISC2.mp
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",z Record of Lodoss War Vol1
 https://ia902602.us.archive.org/6/items/rolw1/hdr1.ia.mp4?cnt=0
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Record of Lodoss War
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E01
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/0
+si
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%201.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E02
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/1
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E03
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/2
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%203.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E04
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/3
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%204.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E05 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E05
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/4
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%205.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E06
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/5
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%206.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E07 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E07
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/6
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%207.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E08 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E08
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/7
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%208.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E09 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E09
+http://127.0.0.1:11470/451ead13112db7102190db5e269661f1953f121b/9
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%209.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E10 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E10
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/9
+
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2010.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E11 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E11
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/10
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2011.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E12 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E12
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/11
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2012.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E13 Record of Lodoss War
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzVkMTJmNjQtZjY5Yi00OGZjLTkyODUtMTQxMTRkZjg4MzUwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Record of Lodoss War S01E13
+http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/12
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2013.mp4
 
 
