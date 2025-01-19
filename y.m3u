@@ -7965,7 +7965,14 @@ https://archive.org/download/w-31d-s-13c-3-985-dl/Vnm.L5t.D4nC.224-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg" group-title="Peliculas",Red One (2024)
 https://archive.org/download/w-31d-s-13c-3-985-dl/R3.0n.224-DL-.mkv
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg" group-title="Peliculas",Platoon (1986)
+http://127.0.0.1:11470/de94bdfb2afe21a0ac56948ab2bacc5616833719/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A3Au37c3KJX29BDvldzGiYtaU5B.jpg" group-title="Peliculas",Session 9 (2001)
+http://127.0.0.1:11470/8d5569dbdeb178d68ea3ce062c762df119464761/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg" group-title="Peliculas",The Pursuit of Happyness (2016)
+http://127.0.0.1:11470/f01c5fee93cf96fb60db851617b95b4bbecf7006/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oa6hI8m0fcQCUXHkgYy7UpYsJ5e.jpg" group-title="Peliculas",Shook (2021)
+http://127.0.0.1:11470/893d9ccc084caa0a07b161e1b0229a936fcd3cdc/0
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/352667/posters/658f61fb2179d.jpg" group-title="Peliculas",Lord Of Misrule (2023)
 http://127.0.0.1:11470/f9149e9eaac57f03a3c258621cfe23bcff1282bb/0 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/268/posters/5fa34689776bf.jpg" group-title="Peliculas",Seven (1995)
@@ -7980,6 +7987,8 @@ http://127.0.0.1:11470/c78c03a819e45d40cedb95245bc1b4d5cf412081/2
 http://127.0.0.1:11470/d8f3bed1d5c6a01d32984111877b3049562c076d/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="Peliculas",Rosaline (2022)
 http://127.0.0.1:11470/f740a54e88fbcd8003d3ca15331947200a2948fd/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg" group-title="Peliculas",Jeepers Creepers Reborn (2022)
+http://127.0.0.1:11470/700d29a7678c7d93fbef89207642bafd37f49e86/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A0rKADffll1kdXQYTXNUeZCFvfo.jpg" group-title="Peliculas",The Magic Flute (2022)
 http://127.0.0.1:11470/7502d7e780b3233ac0996ad0a4f8b366971d9643/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="Peliculas",A Man Called Otto (2022)
@@ -7994,6 +8003,8 @@ http://127.0.0.1:11470/80bffe797cb7f64fb3c90b6f7f031af917165f3e/0
 http://127.0.0.1:11470/71befb270528c4886e9e7180c593a6773d1b5c49/2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="Peliculas",The Ritual Killer (2023)
 http://127.0.0.1:11470/0c5af5274a684e31860d62d5fd6f80ddf880e8fc/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AdcXd3zgbtoo2EDn3ymp35gdZoH.jpg" group-title="Peliculas",Do Not Disturb (2023)
+http://127.0.0.1:11470/e97e5a17646d4bf0f09563fb39046d8f470b814d/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jojfbnIHGsRpodIood3OQoqA45Y.jpg" group-title="Peliculas",Sixty Minutes (2023)
 http://127.0.0.1:11470/a1d57f3a0037a5e922473e5760235d190c6a1800/2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg" group-title="Peliculas",Black Friday (2021)
@@ -8022,8 +8033,17 @@ http://127.0.0.1:11470/95d3945cf4e39423e4f8b1ea4d0f7976a3375500/0
 http://127.0.0.1:11470/a478e5ac1091f1853be802895381c01fa4a7113f/2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qmj0pt8wpvPTY251cvkK4zm9n8p.jpg" group-title="Peliculas",Entrenado para matar (2021)
 http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iy18iNg3jQOlvsUjrcKeEOf6hv7.jpg" group-title="Peliculas",Witches Of Amityville (2020)
+http://127.0.0.1:11470/403b49daaf1d8a7868ac35cae12425106d25c9d3/1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="Peliculas",Mortal Kombat (2014)
+http://127.0.0.1:11470/7247c4b8340a9ee76c447cb5ac66033d630a089d/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4rdZQGx1quc91C4lECUyTSjLWbS.jpg" group-title="Peliculas",Nebo (2009)
+http://127.0.0.1:11470/e5f95a9c76f424197f19df50332abd63d73f2dea/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" group-title="Peliculas",Manodrome (2023)
+http://127.0.0.1:11470/ad859183625c69b155c216ec6ed8c8199b4c6ab9/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg" group-title="Peliculas",Slumberland (2022)
+http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/5048/posters/5048.jpg" group-title="Peliculas",Kung Fu Jungle (2014)
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/4273/posters/4273.jpg" group-title="Peliculas",Solomon Kane (2009)
 
@@ -8050,9 +8070,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDgxknTVwrScxpCYyGUjXSn5NRk.jpg" group-title="Peliculas",Jungle (2024)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg" group-title="Peliculas",The Pursuit of Happyness (2016)
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tSz1qsmSJon0rqjHBxXZmrotuse.jpg" group-title="Peliculas",The Fall Guy (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4SPPX5KIyaQ9O8n5rLvvUIiIhpF.jpg" group-title="Peliculas",Immortals (2011)
@@ -8060,8 +8077,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg" group-title="Peliculas",No Way Up (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qwOZo4ACw54IxcjnAJW71pXfaFO.jpg" group-title="Peliculas",The Tattooist (2007)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" group-title="Peliculas",Manodrome (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdI9ufheNPAKnWLl2hnsZKVk0EG.jpg" group-title="Peliculas",Badland Hunters (2004)
 
@@ -8073,9 +8088,7 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/irRETI08jnisCRTVEbSDRnmRLXO.jpg" group-title="Peliculas",A Haunting In Ravenwood (2021)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZNxJW7ygEHizeHOp7Nw9ysf4QJ.jpg" group-title="Peliculas",Seepy Hollow (1999)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiYx85daT0DzoU4XQGgaynvDtn8.jpg" group-title="Peliculas",Dont Look Away (2023)
 
@@ -8096,7 +8109,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2cyAr10tG9p9mUEc7BA98RsetCp.jpg" group-title="Peliculas",Basic Instinct 2 (2006)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9wgDyz5aWWqttK73WXSqB1dpFTy.jpg" group-title="Peliculas",Color Of Night (1994)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="Peliculas",Pearl Harbor (2001)
 
@@ -8175,12 +8187,12 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sXxs6FSFAYdrhKGD9f4fgCGmzXu.jpg" group-title="Peliculas",Honeymoonish (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u6c5xkR0eIzlnxcQoMBlySH6ann.jpg" group-title="Peliculas",DeepWater Horizon (2016)
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Peliculas",8-Bit Christmas (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3syWckCgiAcsJUjDoC4Skj3Qg2F.jpg" group-title="Peliculas",The Haunting of the Tower of London (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lWtftwehOukt2YIrBqoUj0VplkW.jpg" group-title="Peliculas",Gutshot Straight (2014)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5qhyVvLkK5e0B5XTvThrSzNyJf.jpg" group-title="Peliculas",The Wait (2021)
 
@@ -8188,9 +8200,7 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/esLooowdB92I3dVI3ENlPPpTuWT.jpg" group-title="Peliculas",Challengers (2024)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg" group-title="Peliculas",The Mother (2023)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="Peliculas",The Good Nurse (2022)
 
@@ -8208,7 +8218,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3aPmYOkd8GclXg8nTvKQ4w1f7L.jpg" group-title="Peliculas",Damaged (2024)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg" group-title="Peliculas",Obi-wan Kenobi A Jedis Return (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sA1fDBJdwEXaLv1UYLI2LQwH0oo.jpg" group-title="Peliculas",My Daughters Killer (2022)
@@ -8219,7 +8228,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg" group-title="Peliculas",The Burial (2023)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iy18iNg3jQOlvsUjrcKeEOf6hv7.jpg" group-title="Peliculas",Witches Of Amityville (2020)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg" group-title="Peliculas",The Magnificent Seven (2016)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vjsEi2JytAT76qrtUHPIhXExZAm.jpg" group-title="Peliculas",Captain Phillips (2013)
@@ -8240,14 +8248,11 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjBlMjIxN2ItNTMyNi00NDk5LWFhMzEtNzdiODE0Y2M4MWI2XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Chip n Dale Rescue Rangers (2022)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg" group-title="Peliculas",Slumberland (2022)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6FzOcNh6hdn9MNsuqpR6o9jCucM.jpg" group-title="Peliculas",Chaos Walking (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6GCOpT8QcNzup09TAMmvvk22LTR.jpg" group-title="Peliculas",Without Remorse (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eBSl9nGymidAyEBdJGADnnm7JKt.jpg" group-title="Peliculas",Jugaremos en el bosque (2024)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg" group-title="Peliculas",Art Of Love (2024)
 
@@ -8259,7 +8264,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5MiVG39r82aYUAtvs3bTycmbewJ.jpg" group-title="Peliculas",Mi Maestra se comio a mi amigo (2023)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ybRF4TLvBsdVyUZGaPaoC0pd3TG.jpg" group-title="Peliculas",Ouija: Deadly Reunion (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg" group-title="Peliculas",Past Lives (2023)
@@ -8267,7 +8271,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sLcRGIJqlJeoGGk88CtA8Ida5aq.jpg" group-title="Peliculas",Golden Kamuy (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uxkb2U8Z0HVyt5CQZXrCwLFtZNN.jpg" group-title="Peliculas",Mama Cruz (2023)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pmdgdb8biQLLzTjySZLPdK13KwM.jpg" group-title="Peliculas",Wanted Man (2024)
 
@@ -8284,8 +8287,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tDKlFXWCvIkP2Xl2nMdI49kzwZx.jpg" group-title="Peliculas",Turtles All The Way Down (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg" group-title="Peliculas",The Crucifixion (2017)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg" group-title="Peliculas",Platoon (1986)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg" group-title="Peliculas",Small Soldiers (1998)
 
@@ -8424,8 +8425,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vwxYJyhNBg5uLByXe8fyIdO0YqD.jpg" group-title="Peliculas",OX-Head Village (2022)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg" group-title="Peliculas",Jeepers Creepers Reborn (2022)
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qumlmYYopqgAQUdwT9wgVyhxBBb.jpg" group-title="Peliculas",No Abras La Puerta (2022)
@@ -8670,8 +8669,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg" group-title="Peliculas",Coach Carter (2005)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="Peliculas",Solomon Kane (2009)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y2dAEmo6j8U5TtGT3iagckZQZNE.jpg" group-title="Peliculas",The New Daughter (2009)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="Peliculas",Moonfall (2022)
@@ -8689,10 +8686,6 @@ http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",The Surrogates (null)
 
 #EXTINF:-1 tvg-logo="null" group-title="Peliculas",Exodus Gods And Knights (null)
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AdcXd3zgbtoo2EDn3ymp35gdZoH.jpg" group-title="Peliculas",Do Not Disturb (null)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1m0CTxlotr8H8GaoioL2IJHL1gW.jpg" group-title="Peliculas",All Fun And Games (2023)
 
