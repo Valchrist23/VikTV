@@ -3460,6 +3460,9 @@ https://archive.org/download/012833949499/Cloud%20Atlas%20%282012%29%20Open%20Ma
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qYJFrmSjy0HpzmvnIuGpuFUzXbs.jpg" group-title="Peliculas",Red Sonja (1985)
 https://archive.org/download/thnt-3-.-995-dl/R3dSoj4.1985-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg" group-title="Peliculas",Gladiator (2000)
+http://127.0.0.1:11470/fd9b04a21b57ad2e4801a16e87ac0abd90da227f/1
+
+si
 https://archive.org/download/012833949499/Gladiator.2000.Open.Matte.BluRay.1080p.x265.10bit-z97.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="Peliculas",Shang Chi Legend Of The Ten Rings (2021)
@@ -8015,8 +8018,12 @@ http://127.0.0.1:11470/372c921699d3bef8bd82dc2d5ebe5b5393c21639/0
 http://127.0.0.1:11470/9fbd1d6c98416f41f3ffd3793ac0301747cc8aed/0
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/31384/posters/60b6193b972db.jpg" group-title="Peliculas",Psycho-Pass: Sinners of the System - Case.3 In the Realm Beyond Is (2019)
 http://127.0.0.1:11470/501852775bc40228c4d1b5e8ef9e1117b794cb75/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eek2D0ub9oyZHMxXMHpLWI9ERDz.jpg" group-title="Peliculas",Fky Me To The Moon (2024)
+http://127.0.0.1:11470/95d3945cf4e39423e4f8b1ea4d0f7976a3375500/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o7VOAGERdMMa1S7PANXkdcjT1R4.jpg" group-title="Peliculas",Story Game (2022)
 http://127.0.0.1:11470/a478e5ac1091f1853be802895381c01fa4a7113f/2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qmj0pt8wpvPTY251cvkK4zm9n8p.jpg" group-title="Peliculas",Entrenado para matar (2021)
+http://127.0.0.1:11470/1ae8a9fa00f699ac608dcdbfb43d9df4a43b54d5/0
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/5048/posters/5048.jpg" group-title="Peliculas",Kung Fu Jungle (2014)
 
@@ -8075,8 +8082,6 @@ http://127.0.0.1:11470/a478e5ac1091f1853be802895381c01fa4a7113f/2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiYx85daT0DzoU4XQGgaynvDtn8.jpg" group-title="Peliculas",Dont Look Away (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v0guO0krvyz8IfKGxEje04LVM9d.jpg" group-title="Peliculas",Tesla (2020)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qmj0pt8wpvPTY251cvkK4zm9n8p.jpg" group-title="Peliculas",Entrenado para matar (2021)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1Y3EmEl00UjmFvu2jP67JK0At2S.jpg" group-title="Peliculas",The Killing Of Two Lovers (2020)
 
