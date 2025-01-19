@@ -376,6 +376,9 @@ https://archive.org/download/independence.day.-1996.1080p-dual-lat/I.care.a.lot.
 https://cdn.jwplayer.com/manifests/7n2y4Uex.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmE3ZDc2MWYtNmJiMC00ZjhlLWEzODUtMzE0NzMwMTU4NmQxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Legend (1985)
+http://127.0.0.1:11470/997ff16588e16bb9c6e196f6ffe804917f76f71e/0
+
+si
 https://archive.org/download/legend-1985/TITLE_01_x264.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg" group-title="Peliculas",Bliss (2021)
@@ -4183,7 +4186,7 @@ https://archive.org/download/blextv6/The.secret.garden.2020.1080p-dual-lat-cinec
 https://archive.org/download/NIMHTriAudio/El%20Secreto%20de%20NIMH%20TriAudio%20v3.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4Pvcc669wrLCkZ7Jl9t12ELY7b.jpg" group-title="Peliculas",The Rocketeer (1991)
-
+http://127.0.0.1:11470/127d8f249cd84f427ce555f11a0e0e93438aaa39/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg" group-title="Peliculas",Malena (2000)
 https://archive.org/download/drama_202202/Malena%20%28Mal%C3%A8na%202000%29.mp4
@@ -6538,7 +6541,7 @@ https://archive.org/download/jurassic-world-dominion_202207/Radical.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg" group-title="Peliculas",Big Fish (2003)
-
+http://127.0.0.1:11470/6d9b54f3edcf100e4e609f44053d82c046b7121a/0
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U0NWE2ZDMtOGMzZS00MjRlLTgyNTItMTgwNTFjNjcyNDk2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Gladiator (1992)
 https://archive.org/download/glt-0r.-992-dl/Glt0r.992-DL-.mp4
@@ -7059,6 +7062,9 @@ https://tvnettv.space/contenido/peliculas/Black%20Lotus/Rescate%20en%20%c3%81mst
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg" group-title="Peliculas",Baghead (2023)
 https://tvnettv.space/contenido/peliculas/Baghead/Baghead.2023.1080p.WEBRip.lat.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg" group-title="Peliculas",Baghead (2024)
+http://127.0.0.1:11470/3772e8f3bc00004c4cbb1cc1b3c2d2ff3d85eacb/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="Peliculas",City Hunter (2023)
 https://tvnettv.space/contenido/peliculas/City%20Hunter/City.Hunter.2024.1080p.WEBRip.lat.mp4
@@ -8049,13 +8055,31 @@ http://127.0.0.1:11470/403b49daaf1d8a7868ac35cae12425106d25c9d3/1
 http://127.0.0.1:11470/7247c4b8340a9ee76c447cb5ac66033d630a089d/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4rdZQGx1quc91C4lECUyTSjLWbS.jpg" group-title="Peliculas",Nebo (2009)
 http://127.0.0.1:11470/e5f95a9c76f424197f19df50332abd63d73f2dea/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4l68KHxnPSow8MvnGUpjqLzJtLJ.jpg" group-title="Peliculas",Concrete Utopia (2023)
+http://127.0.0.1:11470/78a968a8621e9369231bd0d7ab5f676e5f9dbb16/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" group-title="Peliculas",Manodrome (2023)
 http://127.0.0.1:11470/ad859183625c69b155c216ec6ed8c8199b4c6ab9/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg" group-title="Peliculas",Slumberland (2022)
 http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
-
-
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/4273/posters/4273.jpg" group-title="Peliculas",Solomon Kane (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c0WLRyT0AmUi41nVXBnqmJshIBn.jpg" group-title="Peliculas",The Void (2016)
+http://127.0.0.1:11470/dd979bd809af034db71c6a2783038968ea8660a8/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="Peliculas",Venus (2022)
+http://127.0.0.1:11470/291430d694fbb2d87e3b97ef294784929887b2e7/0
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4MTk1NzMtODBmYi00MWI1LThiNWUtYTA0ZGE5ZDZkOTkxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ballerina (2023)
+http://127.0.0.1:11470/5b6bd28168094d0b162dbb936da958e5679afff7/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xGaI0o884H1iyiVr1WmnQ8Q0ISt.jpg" group-title="Peliculas",Dive (2022)
+http://127.0.0.1:11470/1f9fea5742ddcc49c0b52c24ff9a1490f466b2cd/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8odZ4De1Klk0CZ8iAJNV25hMTKV.jpg" group-title="Peliculas",Maria Callas (2024)
+http://127.0.0.1:11470/0030d70b1be3c282841be0a5e3d5390a644036e2/0
+magnet:?xt=urn:btih:0030d70b1be3c282841be0a5e3d5390a644036e2&dn=Mar%c3%ada.Callas.2024.1080p-Dual-Lat
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yd4nBndLPUykLPfwia4YkSVfMPX.jpg" group-title="Peliculas",Surviving Confession (2019)
+http://127.0.0.1:11470/0bc8e48da0f2da6c96e7c053d20766a49978052c/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg" group-title="Peliculas",Winnie The Pooh II (2024)
+http://127.0.0.1:11470/76ac34512af0a3674196bced2bf31bc9902da8c2/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Dz3H25Th3DrhsQFpXkaupm94qK.jpg" group-title="Peliculas",Trafficking (2023)
+http://127.0.0.1:11470/ece694f718f5420af1c34944715806439b13207d/0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zl6inpuarold7s88yPiecDAsF9c.jpg" group-title="Peliculas",Rogue Trader (2023)
+http://127.0.0.1:11470/954f3c4b141346b555789fd354cb0b40dc62e7a5/2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg" group-title="Peliculas",As Above So Below (2014)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg" group-title="Peliculas",Burning Betrayal (2023)
@@ -8178,10 +8202,6 @@ http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4MmTHpn2Y8emqvBgvOjufImUmKZ.jpg" group-title="Peliculas",Bone Tomahawk (2015)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Dz3H25Th3DrhsQFpXkaupm94qK.jpg" group-title="Peliculas",Trafficking (2023)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg" group-title="Peliculas",Baghead (2024)
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg" group-title="Peliculas",A Silent Voice (2016)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p9fmuz2Oj3HtEJEqbIwkFGUhVXD.jpg" group-title="Peliculas",Hereditary (2018)
@@ -8211,8 +8231,6 @@ http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="Peliculas",The Good Nurse (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="Peliculas",Clean (2021)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4l68KHxnPSow8MvnGUpjqLzJtLJ.jpg" group-title="Peliculas",Concrete Utopia (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wtar1NytLPRnd8hlwspeRRW5NVm.jpg" group-title="Peliculas",War Of The Worlds The Attack (2023)
 
@@ -8245,10 +8263,6 @@ http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg" group-title="Peliculas",The Marvels (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" group-title="Peliculas",The Idea Of You (2024)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="Peliculas",Venus (2022)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ4MTk1NzMtODBmYi00MWI1LThiNWUtYTA0ZGE5ZDZkOTkxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ballerina (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" group-title="Peliculas",The Best Man (2023)
 
@@ -8359,6 +8373,9 @@ http://127.0.0.1:11470/a781bf0bc5865bc52c571433da738bb3904fe16b/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmTOuCeJnTPaAPMK19Y8Ixpi3Gl.jpg" group-title="Peliculas",The Tutor (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jdRaPS2ShVQK2GurkT5mrlXJpzP.jpg" group-title="Peliculas",Lottery Ticket (2010)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5rNnvH4k4FplAwMcD4CovMMGylb.jpg" group-title="Peliculas",Over The Sky (2020)
+http://127.0.0.1:11470/6b1df148374f60e2eace6742e2dedfe87844768a/1
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA0YzhmZDktOGMxMy00YmUxLWE1YmUtZTZhOWQyMzI1OTA2XkEyXkFqcGdeQXVyNzU4NzMwMjI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Jack In The Box Awakening (2022) 
 
