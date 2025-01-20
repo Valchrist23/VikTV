@@ -5528,8 +5528,21 @@ https://archive.org/download/see-temporada-2/see%2002x07.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S02E08
 https://archive.org/download/see-temporada-2/see%2002x08.mp4
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E01
+http://127.0.0.1:11470/a12bf2c982dc1083ceaefc5548afa6d73798f292/0
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E02
+http://127.0.0.1:11470/c9fa875e19a06248bd5f1253c72e102d2988ea30/0
 
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E04
+http://127.0.0.1:11470/52fc0f7f7876d92cc2cdfb20ec710ea34606bc7e/0
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E05
+http://127.0.0.1:11470/a5a3fad269caa4d873c7c971581a6d2ecc59d970/0
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E06
+http://127.0.0.1:11470/2bd899b942e861fd41f15bce848d29c925f21004/0
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E07
+http://127.0.0.1:11470/9e5ac0d8f080f88b9e7dba715002f19920bef553/0
+#EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E08
+http://127.0.0.1:11470/27f8c628b41d8e15b60d74ded6184636d29746c3/0
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/396876/posters/6047a5e3d1c52.jpg" group-title="TVSeries",Shadow House S01E01
 https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S1E01.mp4
@@ -5584,18 +5597,22 @@ https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S2E11.mp4
 https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S2E12.mp4
 
 lacartoons
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/9693-1.jpg" group-title="TVSeries",Voltron S01E01
-https://jje3d85cwvdg.milocdn.com/hls2/01/02087/1ea9mtc3e6z1_l/master.m3u8?t=46YzNNaproD9YqNQe5Rd6W1mZMIKUXP7Sjxu7CJJNpA&s=1736924149&e=129600&f=10438170&srv=W6ZGiFkCPJnVz&i=0.4&sp=500&p1=W6ZGiFkCPJnVz&p2=W6ZGiFkCPJnVz&asn=17072
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/9693-1.jpg" group-title="TVSeries",Voltron 1984 Movie
+https://archive.org/download/VoltronTheMovie1984ViolenceRestoredVersion/Voltron%20The%20Movie%201984%20%28Violence%20Restored%20Version%29.mp4
 
 Manyute
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/71179-1.jpg" group-title="TVSeries",He-Man S01E01
-https://videos2.sendvid.com/5c/75/5zdsglsp.mp4?validfrom=1736915993&validto=1736930393&rate=200k&ip=187.188.51.159&hash=oPiHJKGAcaLKdu%2Fc07iq28TYniU%3D
+http://127.0.0.1:11470/15fc5ad7ab9c2278da9a853b342542d2f35e4945/17
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/71179-1.jpg" group-title="TVSeries",He-Man S01E02
-https://videos2.sendvid.com/bd/20/f871fdiu.mp4?validfrom=1736916285&validto=1736930685&rate=200k&ip=187.188.51.159&hash=9vpj2up0Oj7y9KDgI86ZUntt1dM%3D
+http://127.0.0.1:11470/15fc5ad7ab9c2278da9a853b342542d2f35e4945/1
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/71179-1.jpg" group-title="TVSeries",He-Man S01E03
-https://videos2.sendvid.com/68/2f/cm3cn64i.mp4?validfrom=1736916414&validto=1736930814&rate=200k&ip=187.188.51.159&hash=WpSf2%2BPCeKsxCAVa9t25IfJtIuE%3D
+http://127.0.0.1:11470/15fc5ad7ab9c2278da9a853b342542d2f35e4945/2
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/71179-1.jpg" group-title="TVSeries",He-Man S01E04
-https://videos2.sendvid.com/19/12/gl2ix79v.mp4?validfrom=1736916472&validto=1736930872&rate=200k&ip=187.188.51.159&hash=NlqxLwnvdYI0Plv4q0q9TLWLrxQ%3D
+http://127.0.0.1:11470/15fc5ad7ab9c2278da9a853b342542d2f35e4945/3
+
+
 
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78660-1.jpg" group-title="TVSeries",Aeon Flux S01E01
