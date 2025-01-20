@@ -687,9 +687,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Entretenimiento +",Discovery ID
-https://raw.githubusercontent.com/Valchrist23/VikTV/master/DID.m3u8
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 Files United
+https://raw.githubusercontent.com/Valchrist23/VikTV/master/DID.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_14.m3u8
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_11_0.m3u8
 
@@ -758,10 +759,10 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 http://168.181.122.234:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Clasico
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 no
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito 
@@ -1305,6 +1306,9 @@ http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png" roup-title="Entretenimiento +",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" roup-title="Entretenimiento +",FYI
 http://fl2.moveonjoy.com/FYI/index.m3u8
@@ -2049,12 +2053,17 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
-
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/768px-HBO_Family.svg.png" group-title="Movies",HBO Family
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/260px-HBO_Xtreme.svg.png" group-title="Movies",HBO Xtreme
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/298px-HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png" group-title="Movies",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -2148,8 +2157,8 @@ https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oand
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/international/fox.m3u8
 
-#EXTINF:-1 tvg-id="Best Thriller Movies" tvg-name="Best Thriller Movies" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Best Thriller Movies
-
+#EXTINF:-1 tvg-id="EPIX" tvg-name="EPIX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/800px-Epix_Logo_2019.svg.png" tvg-country="" group-title="Entretenimiento +",EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
 
 #EXTINF:-1 tvg-id="Pop Flix" tvg-name="Pop Flix" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Popcornflixlogo21.png/220px-Popcornflixlogo21.png" tvg-country="" group-title="Entretenimiento +",Popcorn Flix
 
@@ -2173,4 +2182,4 @@ http://epg.112114.xyz/douyu/6140589
 http://epg.112114.xyz/douyu/8814650
 
 
-
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/insolencetvgo.m3u
