@@ -1208,7 +1208,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
+#EXTINF:-1 tvg-id="WE TV" tvg-name="WE TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/We_TV_logo_2014.svg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",WE TV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="4 Fun TV" tvg-name="4 Fun TV" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/4fun.tv_Logo_%282017%29.svg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
@@ -1981,6 +1984,8 @@ no
 https://lnc-tubi-originals.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
+
+no
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/spelling-satellite-networks-inc/tele-uno-1-75975208.jpg" group-title="Entretenimiento +",TeleUno TV 
@@ -1993,12 +1998,11 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
+
+
+no
 https://fl1002.bozztv.com/ssh101/dimelotvrd/tracks-v1a1/playlist.m3u8
-
-no
 https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
-
-no
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="Movies",Wow TV 
@@ -2008,6 +2012,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/9878/brand.gif?itok=9vxX4YDO" group-title="Movies",Cosmos TV 
+
+no
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Movies",CincoTV 
@@ -2068,8 +2074,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1731
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2430-294x165-FFFFFF.jpg" tvg-url="https://www.vivalivetv.com/channel/phtv-" group-title="Movies",PH TV   
-https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 
+no se
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 
@@ -2106,8 +2113,9 @@ no
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",Rock Action
-https://wag.ika.lat/stream/507371538
+
 no
+https://wag.ika.lat/stream/507371538
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Movies",Canal 57
