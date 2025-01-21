@@ -1208,6 +1208,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA
+
+no
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="WE TV" tvg-name="WE TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/We_TV_logo_2014.svg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",WE TV
