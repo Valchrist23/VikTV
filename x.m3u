@@ -695,7 +695,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/index_11_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="US",Discovery Channel
-
+http://190.102.246.93:9005/play/a00w
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-country="US" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/09/logo-discovery-hd.png" group-title="Entretenimiento +",Discovery Channel
 http://190.60.38.114:1010/play/a076/index.m3u8
 
