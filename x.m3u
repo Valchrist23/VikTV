@@ -671,13 +671,17 @@ http://181.78.105.146:2000/play/a00v/index.m3u8
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretenimiento +",TLC 
+https://streamer1.nexgen.bz/TLC/index.m3u8
+
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/TLC.m3u
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
-
 
 https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
 no
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/800px-Bravo_TV.svg.png" group-title="Entretenimiento +",Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Entretenimiento +",Pluto TV History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
