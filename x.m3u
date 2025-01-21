@@ -1184,6 +1184,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 http://181.78.105.146:2000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/300px-Paramount_Network.svg.png" group-title="Entretenimiento +",Paramount Channel
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="5ff8c708653d080007361b14" tvg-name="Paramount+ Picks" tvg-logo="https://imgs.search.brave.com/qA7MrNawAnvhqUfdiTuxF0KphIT4ZGV_C6cP2GsQiP8/rs:fit:520:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5J/SUI5NExvY2pSZE9V/RGRXU1VBVWZ3SGFH/dyZwaWQ9QXBp" group-title="Entretenimiento +",Paramount+ Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1440,14 +1441,19 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,I
 https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
-https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
+no
+https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
 https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/1920px-MGM_2021.svg.png" group-title="Entretenimiento +",MGM Presents Crime
 https://linear-719.frequency.stream/mt/studio/719/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Oxygen_TV_Logo_2014.svg/800px-Oxygen_TV_Logo_2014.svg.png?20170308013425" group-title="Entretenimiento +",Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento +",National Geographic
 
@@ -1512,6 +1518,8 @@ https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8 
 
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="Entretenimiento+",Gravitas
+
+no
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de7e0b3f5003f5d9f8e/variant.m3u8?url=223e6cc1e9d5e5a99c2aafdf62a3e852-ed9fa9f0770dfbd1de08e3a9797778c6545674483a610bbba50e73f2c4055baac332e8317f982bfcddd2db7d3d44c072f72a3e072ce3a2e0b09bb04511be162a5ef6129544dcfcbd06e420466a4b4aa3f5b0ffabef1d6d6d4e82005e4c6b10de356e555586a1277cded056a6d35bcf75ab47690eb907d59663c2e24140cc06e20cb3d6ff5d89baa64ba77dde5be79de04bc55c7e06cadbee98bf3cb76a00593648fd6f2bd48e5e068bf019db549990be2446209c0ab00a960a405eb2f2e5b41e44b713334a68791d494ab505a7bad4f7&x-plex-token=RxG1xtayLm3zBXrieuof&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1706821153
 
 #EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="Art",Classic Arts Showcase 
@@ -1623,7 +1631,6 @@ no
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
 #EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="Music",Xite
-https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
@@ -1737,9 +1744,7 @@ si
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/210px-National_Basketball_Association_logo.svg.png?20221026000552" group-title="Sports",NBA TV
-
-no
-http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=a4d316c7-02d2-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
