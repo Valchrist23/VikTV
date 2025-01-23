@@ -2095,7 +2095,10 @@ https://archive.org/download/t-4k-3-tl-34d.-206-dl/TC0nM0nCr1s.202-DL-.mkv
 
 https://tvinnov.online/PELICULAS%202023/The%20Count%20of%20Monte%20Cristo/5213.The.Count.of.Monte.Cristo.2002.1080p.lat.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjUxMzVhNjgtYTQxNS00Zjg3LThlYjctOGFlZjg0YmI1ZmYyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Robin Hood Prince of Thieves (1991)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4mazyXEMkmLw5h6076yyNSm9uv0.jpg" group-title="Peliculas",The Adventures Of Robin Hood (1938)
+https://archive.org/download/TANDA2622/TANDA%2026%20-%2022.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg" group-title="Peliculas",Robin Hood Prince of Thieves (1991)
 https://archive.org/download/rh-00d-p-0-t-1fs.-991-dl/RH00dP0T1fs.991-DL-.mp4
 
 si
@@ -2331,8 +2334,17 @@ https://cdn.jwplayer.com/manifests/oo1NGfNH.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIxNzA5NzIzOV5BMl5BanBnXkFtZTcwOTc5NzcyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Mask 2 (2005)
 https://cdn.jwplayer.com/manifests/0pNWEGAc.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTM2MGFmMjctM2EyNi00MmI4LTkyYjItMDhjZWQ4MjUyNGJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jp" group-title="Peliculas",Casanova (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pp237jqOnlLojQfvCgJHv5yZofL.jpg" group-title="Peliculas",Casanova (2005)
 https://archive.org/download/22-wtcr-4w-d-4d-s-1ngs-dua-lat/C4s4n0v4.2005-DuaLat-.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTZiNzJmZWMtNTYwMC00ZmExLWFhNDItYTg0ZTIwNzdiNWE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Strike (2020)
+https://archive.org/download/amd_20200504/AMD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg" group-title="Peliculas",The New Mutants (2020)
+https://archive.org/download/los-nuevos-mutantes-lat/Los%2BNuevos%2BMutantes%2BLAT.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nghQnDZE4EsQJ4J4zxR3UqItTpO.jpg" group-title="Peliculas",The Women In Black (2012)
+https://archive.org/download/LaMujerDeNegro2AngelDeLaMuerte/la%20mujer%20de%20negro2-Angel%20de%20la%20muerte.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmVhZjhlZDYtMDAwZi00MDcyLTgzOTItOWNiZjY0YmE0MGE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",10 Things I Hate About You (1999)
 https://archive.org/download/10-cosas-que-odio-de-ti_202311/10%20Cosas%20que%20Odio%20de%20Ti.mp4
@@ -2783,6 +2795,8 @@ https://archive.org/download/linkmultimediacine/TSUNAMI%20%20ESTRENO%202021.mp4
 
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-d4bjbp_31858af1.jpeg" group-title="Peliculas",Robin Hood (1973)
+
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjc5NGVjMzktOTQ0ZC00OTYyLWI4YjMtMzQ1ZDE4MzcxZGFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Dumbo (1941)
 https://archive.org/download/videotime-cine-latino/Dumbo%20%281941%29.mp4
