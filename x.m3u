@@ -700,6 +700,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/d31abde936de4fa884fbd91054dacad3/i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png" group-title="US",Discovery Channel
 http://190.102.246.93:9005/play/a00w
+
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-country="US" tvg-logo="https://www.neeo.es/wp-content/uploads/2019/09/logo-discovery-hd.png" group-title="Entretenimiento +",Discovery Channel
 http://190.60.38.114:1010/play/a076/index.m3u8
 
@@ -734,6 +735,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 #EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-name="The Asylum" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="US",The Asylum
+
+no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="The Bob Ross Channel" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
