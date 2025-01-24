@@ -38,6 +38,9 @@ si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=42fa6759-e881-11ee-9cc2-0e8c4bf95ab2&deviceId=e6b812df-4d10-414e-bcc6-d0bc39672e21&deviceVersion=123.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
+
+
+
 #EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Teleformula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
@@ -1108,13 +1111,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff
 si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://presetsgratis.com/wp-content/uploads/2021/10/retro-play-apk.png.webp" group-title="Gaming",Retro Play
-
-no
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/150px-Fuse_Black_Logo_2017.png" group-title="Gaming",Fuse
+https://streamer1.nexgen.bz//FUSE/index.m3u8
 
 #EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-name="Pluto Gaming TV" tvg-logo="http://images.pluto.tv/channels/5f8eccd81062c300078a11df/featuredImage.jpg" group-title="Gaming",Gaming TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050353-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1020d719-457b-4030-b4a2-b5301461d381
+
+number on pluto
+5f8eccd81062c300078a11df
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="USA",Pluto TV Comedy 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=7a4a7116-1b04-11ec-aefb-0242ac110003&deviceId=9d8f625d-d1f4-473b-a707-39b5323f84f4&deviceVersion=91.0.4472&appVersion=5.103.3-5f78539f67498a5b088654749234aec1170f422a&deviceDNT=0&userId=&advertisingId=&deviceLat=37.3417&deviceLon=-121.9753&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1329,8 +1332,9 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
-https://streamer1.nexgen.bz/FX/index.m3u8
+https://streamer1.nexgen.bz//FX/index.m3u8
 
+https://streamer1.nexgen.bz/FX/index.m3u8
 no
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
