@@ -8468,6 +8468,8 @@ si
 http://127.0.0.1:11470/96daf840c8281e5cb15d6c55eefee12a3f3b1a96/0
 http://127.0.0.1:11470/5fcc91100ea5399c1a307e45f76551d98390ec4e/0
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg" group-title="Peliculas",Moira (2015)
+https://archive.org/download/pel149b83b3a93u/Moira.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg" group-title="Peliculas",Burning Betrayal (2023)
 
