@@ -498,7 +498,7 @@ https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41d
 #EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3 Series
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento +",TVE
-
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 
 #EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/250px-Logo_TVE-1.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -1846,6 +1846,10 @@ old
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="5d4af2ffa9506ab29cf38c38" tvg-name="Pluto Paranormal" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d4af2ffa9506ab29cf38c38/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Documentary",Pluto Paranormal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="24/7",Adult Swim Live Action
 
