@@ -892,9 +892,10 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8?PlaylistM3UCL
 
 no
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",RetroX TV
