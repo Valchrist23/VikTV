@@ -895,9 +895,10 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Moni TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8?PlaylistM3UCL
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 no
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8?PlaylistM3UCL
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
 
@@ -1920,7 +1921,7 @@ https://dai.google.com/linear/hls/event/9G5GTqAzQWuD6AsOodx5hw/master.m3u8
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Matter TV Samsung
-
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dark-matter-tv/e4a2f31b-aa2b-4db0-b1c5-8e2c0dd1dfb1/2.m3u8
 no
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D 
 https://d37qvay98eimbp.cloudfront.net/hls/samsungtvplus_es_darkmatter_001.m3u8?ads.xumo_channelId=9992561&ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.networkName=tricoastsstves
