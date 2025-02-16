@@ -80,9 +80,9 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX Nuestro Cine" tvg-name="MX Nuestro Cine" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz37TxvcrCBtMBVvH0lVmAxxmt3Gm8aLr8CA&s" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w760365248.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDU6NTI6NDMgUE0maGFzaF92YWx1ZT1wa3p6ZmNjSHhxWnBJaFlPT2hJWGRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPQ%3D%3D&DVR
-
-
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w388068882.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9 
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
@@ -105,6 +105,9 @@ https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSig
 https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml
 
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png" tvg-country="MX" tvg-url="" group-title="Basico",El Nueve
+
+https://5ca3e84a76d30.streamlock.net/tvunam/smil:tvunam.smil/playlist.m3u8
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDU6NTI6NDMgUE0maGFzaF92YWx1ZT1wa3p6ZmNjSHhxWnBJaFlPT2hJWGRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPQ%3D%3D&DVR
 
 no
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
