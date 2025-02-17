@@ -5375,12 +5375,6 @@ https://moodle1.myyschool.xyz/blJzTUFGVHZVNVlVTmIzQ2dnSXZ5QVR4M1NGZ2k1RS9wRklrT1
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/374191/posters/61627d570b656.jpg" group-title="TVSeries",Dai No Daibouken S01E100
 https://moodle1.myyschool.xyz/STJnSDduOFhTUk4wRUtlaGdRMDMxbisrazJ0MFQ1TmExMHROTHpzb3lmdz0.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Unded Adventure S01E0
-
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Unded Adventure S01E02
-https://moodle1.myyschool.xyz/enExVFM3Y2oxQ0lUejRCYWxmeHk3NDh6YkZSa2tDcElHSEtpaGI0VkttOTR2NDhXc1R0SWNMNmtSVU9VeXZqVA.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/471302/posters/62f249e26add8.jpg" group-title="TVSeries",American Horror Story S01E01 
 https://archive.org/download/casa-en-el-lago/01%20-%2001%20AMERICAN%20HORROR%20STORY.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/471302/posters/62f249e26add8.jpg" group-title="TVSeries",American Horror Story S01E02 
@@ -5948,39 +5942,55 @@ https://moodle1.playmudos.com/blazblue-alter-memory/QzBKSmlWenBac2VwcjkwdG5UeUZF
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/272071-2.jpg" group-title="TVSeries",BlazBlue: Alter Memory S01E12
 https://moodle1.playmudos.com/blazblue-alter-memory/QzBKSmlWenBac2VwcjkwdG5UeUZFV1JnS1YybkUwc3p6MzJ3U1M5eWY4cz0.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E01
-https://moodle1.playmudos.com/VFViK1YvM3JJVzgxRlppeThlN2lKMXpZc0hET1JGRUQzd1p6aEdqOGhMamVOdk9uZWxRRXBRSlJjdHIwSkZZag.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E02
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Unded Adventure S01E01
+http://127.0.0.1:11470/ad71e4e5441773ce70be072fce53b7435fe9f4e2/0
+
+magnet:?xt=urn:btih:8f35d7229cdbd5df9cf5ea896efd24efabfa5e20
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Unded Adventure S01E02
+http://127.0.0.1:11470/a888d5914f931f217632ab947f93b53994549b1d/0
+
 https://moodle1.playmudos.com/enExVFM3Y2oxQ0lUejRCYWxmeHk3NDh6YkZSa2tDcElHSEtpaGI0VkttOTR2NDhXc1R0SWNMNmtSVU9VeXZqVA.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E03
+http://127.0.0.1:11470/8f35d7229cdbd5df9cf5ea896efd24efabfa5e20/0
 https://moodle1.playmudos.com/ZHdhVmhFZDc4VERaRWkwWXVobW1ka3B4SmpMRGgzUXZCODNvd2FNRUp3aUZIdVl3SnNMREZxZUc2cDBydUJwRg.m3u8
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E04
+http://127.0.0.1:11470/59a7297efac58bad2b89201ece9b0b29bb73efdd/0
 https://moodle1.playmudos.com/UzFrNlNNaUFhd1V4Y0ZUeGJDR05yRFo4ak5mSTNjYnhWcVVRdzdWSTlFc2llT0FXdGZjY1lnS3NmNGptKzhibg.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E05
+http://127.0.0.1:11470/d2f1782ac54f2f22ad8c960dc96ec1385ff62c77/0
 https://moodle1.playmudos.com/NmkvMzhOYm5qeElIUnRnRXY1TU0wNHZaWDlYNzI4WDR5UEdQcHZtS2hkRzExZzEwOWUwWTlmK0dsWEx1NUx2RQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E06
+http://127.0.0.1:11470/0caf07a8ae9aa93a1f4f388cfb67e96788f2ec96/0
 https://moodle1.playmudos.com/NmkvMzhOYm5qeElIUnRnRXY1TU0wOFlhSklibFhFTE1CYlNvMjZJYjdiUWlXR0RSU2tHTitjM0paUTZKL2pBQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E07
+http://127.0.0.1:11470/a436cc6f74af7da42dc4dc9c00588c1e26016fea/0
 https://moodle1.playmudos.com/TVF1OEpxQXFBR1pmKzZ1ZksyL3YzOVdlRDhaZk5ocm1GeTkrK1V5Q2dqRDAzWnJmQlFzN2YrNVA2UnBFSXBmTg.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E08
+http://127.0.0.1:11470/7eb717165d6e2c2f42a200a265019a44281ca4a3/0
 https://moodle1.playmudos.com/akoxbTFPZGxOVkJ0YU9nNUJHTlBPMGpqOC9TN1l1ZWIxaTd3M1dPV2ZEREhRak5HRFROYXRiVTRWK0xXMnFENA.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E09
+http://127.0.0.1:11470/4989022aabe2dd063be4bad93368a3ccfb6272bb/8
+
 https://moodle1.playmudos.com/MC9LbjZnWHExNkJxYUE0UG0vam1aZEY2ZVFwcU5JNHZiSnJNTzZwNDJjcTg1aldkY1dJdE1IMmEvUTQ1NnRWUw.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E10
+http://127.0.0.1:11470/4989022aabe2dd063be4bad93368a3ccfb6272bb/9
 https://moodle1.playmudos.com/Nk1RY3dCc2NXdmZRL1lCYXZsRTF1S1RzSWYxMHdGVi9xOEtIS3c5N0pLdWpva2RtUFBmejJLWEt3QVVJSlF2TA.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E11
+http://127.0.0.1:11470/4989022aabe2dd063be4bad93368a3ccfb6272bb/10
 https://moodle1.playmudos.com/QmFGM2pJYjBxaEx0U3RMelhMR3ZrTjU1ZUVKTDNzRlBSRThPc3hMaDZtWERrTjhldnJvTzBZc1RJaGZqZDBENw.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/419112/posters/64f85bc114e2b.jpg" group-title="TVSeries",The Unwanted Undead Adventure S01E12
+http://127.0.0.1:11470/4989022aabe2dd063be4bad93368a3ccfb6272bb/0
 https://moodle1.playmudos.com/c0Q1b0dqUFJNdHpjMGpwdHFzQkx1SDdRRitQWE55cWxxVjNIcFk3VkJDNXVlTWo0Vk1lNTNwTWNZamQ1U3FJSA.m3u8
 
 
