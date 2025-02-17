@@ -163,12 +163,8 @@ https://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="XXX",O-la-la! (576p)
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" group-title="XXX",Penthouse Gold (1080p)
-http://51.159.102.100/PenthouseGold/index.m3u8
 #EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="XXX",Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="PrivateTV.nl" tvg-logo="https://i.imgur.com/2yt8MAA.png" group-title="XXX",Private TV (576p)
-http://149.62.183.194:9293/play/a07t
 #EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="XXX",Private TV HD (720p)
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="XXX",Redlight HD (720p)
@@ -177,8 +173,6 @@ https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 #EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="XXX",Visit-X TV (720p)
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
-http://144.76.58.245:2307/cartoon/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="XXX",东热01
