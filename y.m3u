@@ -8504,6 +8504,10 @@ magnet:?xt=urn:btih:971f4bff573a7b288c18825f7368aa005f2ccdda&dn=De.Vuelta.A.La.A
 http://127.0.0.1:11470/3dfbef87e1557e9c88e06fe92213b0d5d865c9ea/0
 magnet:?xt=urn:btih:3dfbef87e1557e9c88e06fe92213b0d5d865c9ea
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg" group-title="Peliculas",Mufasa (2025)
+http://127.0.0.1:11470/4adf4392a3715c428a638d6f07baf7fb72d7c81e/0
+magnet:?xt=urn:btih:4adf4392a3715c428a638d6f07baf7fb72d7c81e&dn=Mufasa.El.rey.leon.2024.1080p-Dual-Lat
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg" group-title="Peliculas",The Guilty (2021)
 
 #EXTINF:-1 tvg-logo="https://mataflix.com/wp-content/uploads/2024/05/zQcvrbRBlqKxFtKtVmHcX1P7TxM-193x288.jpg" group-title="Peliculas",Gia (2021)
