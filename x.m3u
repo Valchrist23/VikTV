@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
 
-#EXTINF:-1 tvg-id="NRT Internacional" tvg-name="NRT Internacional" tvg-language="es" tvg-logo="https://nowmedia.tv/wp-content/uploads/2022/07/1.jpg",NRT Internacional
-
+#EXTINF:-1 tvg-id="N+" tvg-name="N+" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/320px-N%2B_Foro_2024.svg.png",N+
+https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 no
 https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 
