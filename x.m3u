@@ -1747,6 +1747,8 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280
 
 
 #EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png?20181105200647" group-title="Music",Rock TV
+
+#EXTINF:-1 tvg-id="RockTV" tvg-name="RockTV" https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png?20181105200647" group-title="Music",RockTV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-id="RockRadio" tvg-name="RockRadio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",CMC
@@ -1761,6 +1763,7 @@ https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021
 #EXTINF:-1 tvg-id="Ligue Centro" tvg-name="Ligue Centro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="Sports",Ligue Centro
 
 #EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/800px-NBC_Universo_logo.svg.png" group-title="Sports",NBC Universo
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC Universo" tvg-name="NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/261px-Logo_de_FUTV.svg.png" group-title="Sports",FUTV
 
@@ -1774,11 +1777,19 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0 
 
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Sports",ESPN2
+http://181.78.105.146:2000/play/a063/index.m3u8
 no
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/640px-ESPN3_Logo.png" group-title="Sports",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-name="ACCDN" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="Sports",ACCDN
 https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8
