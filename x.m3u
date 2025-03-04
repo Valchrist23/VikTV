@@ -1737,7 +1737,7 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="RockTV" tvg-name="RockTV" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A.jpg" group-title="Music",RockTV
+#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A.jpg" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-id="RockRadio" tvg-name="RockRadio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="Music",CMC
