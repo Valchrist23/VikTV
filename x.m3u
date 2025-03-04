@@ -197,10 +197,6 @@ https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
 
 no
 https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Basico",TV Mas
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-no
 https://ythls-v3.onrender.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
 
@@ -253,6 +249,8 @@ https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
 
 #EXTINF:-1 tvg-id="TVMás" tvg-name="TVMás" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Entretenimiento +",TVMás   
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8
+si
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Noticias",Univision
 
