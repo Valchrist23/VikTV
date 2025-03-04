@@ -1737,16 +1737,13 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
 
-
-#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png?20181105200647" group-title="Music",Rock TV
-
 #EXTINF:-1 tvg-id="RockTV" tvg-name="RockTV" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A.jpg" group-title="Music",RockTV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-id="RockRadio" tvg-name="RockRadio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",CMC
+#EXTINF:-1 tvg-id="RockRadio" tvg-name="RockRadio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/California_Music_Channel_Logo.png/220px-California_Music_Channel_Logo.png" group-title="Music",CMC
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
 
-#EXTINF:-1 tvg-id="Classic Rock Network" tvg-name="Classic Rock Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Classic_Rock_logo.svg/307px-Classic_Rock_logo.svg.png?20181221180911" group-title="Music",Classic Rock Network
+#EXTINF:-1 tvg-id="Classic Rock Network" tvg-name="Classic Rock Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Classic_Rock_logo.svg/307px-Classic_Rock_logo.svg.png" group-title="Music",Classic Rock Network
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
@@ -2068,7 +2065,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-language="es" tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Movies",Toonami Tv
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AION" tvg-name="AION" tvg-language="es" tvg-logo="https://aiontelevision.com/wp-content/uploads/2017/12/logo.png",AION TV
+#EXTINF:-1 tvg-id="AION" tvg-name="AION" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AION_Logo.gif",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
