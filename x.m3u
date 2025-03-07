@@ -642,9 +642,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-name="This Old House" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/This_Old_House_logo_black.png" group-title="Home",This Old House 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f4ff8c8bcf3d600078af3eb" tvg-name="The Design Network" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Home",The Design Network 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 -----------------------------------------Entertainment---------------------------------------------
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E!
