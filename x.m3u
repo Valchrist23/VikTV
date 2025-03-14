@@ -792,7 +792,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="Cartoon",Boing Espana
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png/revision/latest?cb=20171029094343&path-prefix=es" group-title="Cartoon",Expresa TV
+#EXTINF:-1 tvg-logo="https://envivo.expresatv.com.mx//assets/images/logotipo.png" group-title="Cartoon",Expresa TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1425402512_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Cartoon",Nex TV
