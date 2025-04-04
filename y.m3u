@@ -8484,10 +8484,6 @@ https://archive.org/download/pel149b83b3a93u/Moira.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/egTUn0oodsHa6gC9XXux40eSAhQ.jpg" group-title="Peliculas",A Second Chance Rivals! (2019)
 https://archive.org/download/pel149b83b3a93u/A%20Second%20Chance%20Rivals%21.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="Peliculas",Moana 2 (2024)
-http://127.0.0.1:11470/3c3bb27b759728342e486576ed52fc7850ee9c0a/0
-magnet:?xt=urn:btih:3c3bb27b759728342e486576ed52fc7850ee9c0a&dn=Moana.2.2024.1080p-Dual-Lat
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg" group-title="Peliculas",Salems Lot (2024)
 http://127.0.0.1:11470/6c571c041f692d9abcd2018b042fdcad6d52b60c/0
 magnet:?xt=urn:btih:6c571c041f692d9abcd2018b042fdcad6d52b60c&dn=El.Misterio.De.Salems.Lot.2024.1080P-Dual-Lat&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
@@ -8521,6 +8517,11 @@ https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="Peliculas",It Chapter Two (2017)
 https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%28Eso%29%20%282017%29%20%20parte%202%20HD%201080p%20Latino.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg" group-title="Peliculas",Moana 2 (2024)
+https://www.dropbox.com/scl/fi/z5656xfmsj0rqxx6rgp23/Moana.2.2024.1080P-Dual-Lat.mkv?rlkey=j0pia86l4azts3zs21kgt7wf0&st=cekdqc28&dl=0
+
+http://127.0.0.1:11470/3c3bb27b759728342e486576ed52fc7850ee9c0a/0
+magnet:?xt=urn:btih:3c3bb27b759728342e486576ed52fc7850ee9c0a&dn=Moana.2.2024.1080p-Dual-Lat
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg" group-title="Peliculas",The Guilty (2021)
 
