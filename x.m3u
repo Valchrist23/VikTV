@@ -1060,9 +1060,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-language="es" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Infantil",Dreiko TV
-https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 nop
+https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Garabito TV" tvg-name="Garabito TV" tvg-language="es" tvg-logo="https://garabitotv.com/wp-content/uploads/2023/01/cropped-293192484_102967872491257_1753215928675182930_n-2.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Infantil",Garabito
