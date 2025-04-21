@@ -538,7 +538,7 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Al Dia 
-
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
@@ -546,6 +546,7 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 yes
+https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist216.m3u8
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 nel
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
@@ -579,6 +580,9 @@ https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
 
 no
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/150px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Entretenimiento +",Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="Entretenimiento +",Ant Television
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
@@ -717,6 +721,7 @@ https://raw.githubusercontent.com/Valchrist23/VikTV/master/Dsci.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",AyE
+https://v1.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Film and Arts" tvg-name="Film and Arts" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film and Arts
 
@@ -1369,11 +1374,11 @@ http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
-https://streamer1.nexgen.bz//FX/index.m3u8
+https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
+https://streamer1.nexgen.bz//FX/index.m3u8
 https://streamer1.nexgen.bz/FX/index.m3u8
-no
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
@@ -1672,6 +1677,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV Live
+https://fl5.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/512px-MTV_Hits_2017_logo.svg.png" tvg-country="US" tvg-url="" group-title="Music",MTV Hits
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
@@ -1818,6 +1825,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/210px-National_Basketball_Association_logo.svg.png?20221026000552" group-title="Sports",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=a4d316c7-02d2-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
