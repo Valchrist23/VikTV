@@ -3695,9 +3695,13 @@ https://archive.org/16/items/11.11.17.BatmanVsSupermanDual20161/.11.11.17.Batman
 
 https://archive.org/download/movies_202211/Batman%20v%20Superman%20-%20Dawn%20Of%20Justice.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" tvg-name="Mystery Of The Batwoman" group-title="Movies",Batman Mystery Of The Batwoman (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mlmhpUArJdpRPO211v3lETe3uzg.jpg" tvg-name="Mystery Of The Batwoman" group-title="Movies",Batman Mystery Of The Batwoman (2004)
 https://archive.org/download/movies_202211/Batman%20-%20Mystery%20of%20the%20Batwoman.mp4
 #EXTVLCOPT:sub-file=https://archive.org/download/movies_202211/Batman%20-%20Mystery%20of%20the%20Batwoman.srt
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yTbj8Kcp4WFwMRdEejnn55KIsfH.jpg" tvg-name="Batman VS Twoface" group-title="Movies",Batman VS Two Face (2000)
+https://archive.org/download/movies_202211/Batman%20Vs.%20Two-Face.mp4
+#EXTVLCOPT:sub-file=https://archive.org/download/movies_202211/Batman%20Vs.%20Two-Face.srt
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l4jaQjkgznu2Rz05X18f24UjPNW.jpg" group-title="Peliculas",Batman Mask of the Phantasm (1993)
 https://archive.org/download/batmanlamascaradelfantasma/tarde/Batman%20la%20mascara%20%20del%20Fantasma.avi
