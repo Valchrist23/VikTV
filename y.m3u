@@ -8487,10 +8487,6 @@ magnet:?xt=urn:btih:971f4bff573a7b288c18825f7368aa005f2ccdda&dn=De.Vuelta.A.La.A
 http://127.0.0.1:11470/3dfbef87e1557e9c88e06fe92213b0d5d865c9ea/0
 magnet:?xt=urn:btih:3dfbef87e1557e9c88e06fe92213b0d5d865c9ea
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg" group-title="Peliculas",Mufasa (2025)
-http://127.0.0.1:11470/4adf4392a3715c428a638d6f07baf7fb72d7c81e/0
-magnet:?xt=urn:btih:4adf4392a3715c428a638d6f07baf7fb72d7c81e&dn=Mufasa.El.rey.leon.2024.1080p-Dual-Lat
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg" group-title="Peliculas",It (2017)
 https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%28Eso%29%20%282017%29%20%20parte%201%20HD%201080p%20Latino.mp4
 
@@ -8508,6 +8504,11 @@ http://127.0.0.1:11470/c9f84120c5ce051a076d48bfdacb800f9dc25399/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg" group-title="Peliculas",The Guilty (2021)
 https://archive.org/download/52e-8d-14fe-2b-9aef-70f-15e-3d-3e-2d-341b-1-480p/52e8d14fe2b9aef70f15e3d3e2d341b1-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9bXHaLlsFYpJUutg4E6WXAjaxDi.jpg" group-title="Peliculas",Mufasa (2025)
+https://dl.dropbox.com/scl/fi/i9ml256nrrn89zka8xl29/MufK1nL1on.224-DL.mkv?rlkey=of6emwsmpqy9s4ye5tjgqihra&st=isvoci85&dl=0
+
+magnet:?xt=urn:btih:4adf4392a3715c428a638d6f07baf7fb72d7c81e&dn=Mufasa.El.rey.leon.2024.1080p-Dual-Lat
 
 #EXTINF:-1 tvg-logo="https://mataflix.com/wp-content/uploads/2024/05/zQcvrbRBlqKxFtKtVmHcX1P7TxM-193x288.jpg" group-title="Peliculas",Gia (2021)
 
