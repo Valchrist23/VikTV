@@ -117,14 +117,17 @@ https://archive.org/download/Madona_008/Madona-LaIslaBonita.mp3
 #EXTINF:-1 tvg-logo="null" group-title="Music",Top Gun Film Intro
 https://archive.org/download/TopGunThemeFilmVersionDangerZone/TopGunAnthemDangerzoneFilmIntro.mp3
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
+#EXTINF:-1 tvg-logo="https://audio.liberta.vip/media/__sized__/attachments/d4/d6/79/attachment_cover-ea3b813d-9988-4921-b10b-39706b498147-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",(Summit No More Running Mix) Celest
+https://audio.liberta.vip/api/v1/listen/ad09d6ff-8549-424b-9811-3a8172fc3fb6/?upload=39a6dc40-58ba-47b7-9bfa-554206c17182
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
+#EXTINF:-1 tvg-logo="https://audio.liberta.vip/media/__sized__/attachments/01/05/4b/attachment_cover-15d8e146-c524-4248-bfbe-67d2450fef03-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Pale Court Hollow Knight
+https://audio.liberta.vip/api/v1/listen/157cc02d-d582-4dc9-8658-3e7619db7ff6/?upload=95e8aa65-21ac-4545-80f3-ea370484aad8
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
+#EXTINF:-1 tvg-logo="https://audio.liberta.vip/media/__sized__/attachments/01/05/4b/attachment_cover-15d8e146-c524-4248-bfbe-67d2450fef03-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Night Mare King
+https://audio.liberta.vip/api/v1/listen/179f130c-f121-476d-80e3-ce2ed38afdd4/?upload=8811e775-a03e-442e-b20a-2baafff49ef1
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
-
+#EXTINF:-1 tvg-logo="null" group-title="Music",White Defender
+https://audio.liberta.vip/api/v1/listen/d2b254cf-90f4-4703-8708-7141d6fba77e/?upload=8ef6e0bf-b755-4ff9-a597-d836c75079e1
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
