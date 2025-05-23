@@ -128,7 +128,9 @@ https://audio.liberta.vip/api/v1/listen/179f130c-f121-476d-80e3-ce2ed38afdd4/?up
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",White Defender
 https://audio.liberta.vip/api/v1/listen/d2b254cf-90f4-4703-8708-7141d6fba77e/?upload=8ef6e0bf-b755-4ff9-a597-d836c75079e1
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
+
+#EXTINF:-1 tvg-logo="https://audio.liberta.vip/media/attachments/28/b4/82/attachment_cover-7f5d9b93-9669-4fe3-9926-8086e645aff0.jpg" group-title="Music",Fier Frolic Cuphead
+https://audio.liberta.vip/api/v1/listen/308cd45b-7230-4659-91ee-725caff5570d/?upload=90936f90-86c6-483c-987c-8bbb850f0a8d
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
