@@ -3486,14 +3486,6 @@ https://archive.org/download/pack-5_202008/Willow%20en%20la%20Tierra%20del%20Enc
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rHpqWuEDWhRFdwAjmvfdPdi1iml.jpg" group-title="Peliculas",Raging Angels (1995)
 https://archive.org/download/raging-angels-spa/Raging-Angels-SPA.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg" group-title="Peliculas",Willy Wonka & The Chocolate Factory (1971)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg" group-title="Peliculas",Charlie and the Chocolate Factory (2005)
-http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/13.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Charlie & The Chocolate Factory (2005)
-https://archive.org/download/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",A Clockwork Orange (1971)
 https://archive.org/download/la-naranja-mecanica.-latino/La%20naranja%20mec%C3%A1nica.%20Latino.mp4
 
@@ -8325,8 +8317,7 @@ http://127.0.0.1:11470/b53b3f8d909f79458e10004ae565bab15b8736da/0
 http://127.0.0.1:11470/4fb05fba0fcc60fb5bd2ae089b9c6f39f62ab4d4/2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uzML477yx9CAwg5UqkRqobz0TrJ.jpg" group-title="Peliculas",The Nomad (2023)
 http://127.0.0.1:11470/a1db0b11e8f17e4a805ff0ddec05a7b15c10fc70/0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="Peliculas",Wonka (2023)
-http://127.0.0.1:11470/d134adb98089862489fa2a993d3eddbc8038ce95/0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="Peliculas",Luther The Fallen Sun (2023)
 http://127.0.0.1:11470/80bffe797cb7f64fb3c90b6f7f031af917165f3e/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mEeHqtnWOR44vLCutEFku2WK6ou.jpg" group-title="Peliculas",Blonde (2023)
@@ -8522,9 +8513,20 @@ magnet:?xt=urn:btih:4adf4392a3715c428a638d6f07baf7fb72d7c81e&dn=Mufasa.El.rey.le
 http://127.0.0.1:11470/7fab5cda534b4796dc68b65429f7753909770d9c/0
 magnet:?xt=urn:btih:7fab5cda534b4796dc68b65429f7753909770d9c&dn=Los.Mensajeros.2007.1080p-Lat
 
-#EXTINF:-1 tvg-logo="https://mataflix.com/wp-content/uploads/2024/05/zQcvrbRBlqKxFtKtVmHcX1P7TxM-193x288.jpg" group-title="Peliculas",Gia (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg" group-title="Peliculas",Willy Wonka & The Chocolate Factory (1971)
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lnnGE4TKa05t20SZ2batuAhXCp4.jpg" group-title="Peliculas",The Hot Chick (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wfGfxtBkhBzQfOZw4S8IQZgrH0a.jpg" group-title="Peliculas",Charlie and the Chocolate Factory (2005)
+http://archive.org/download/cakeni1/Sub1d0_p4r4_5tr34ming_A85_V4r145_10/13.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Charlie & The Chocolate Factory (2005)
+https://archive.org/download/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg" group-title="Peliculas",Wonka (2023)
+http://127.0.0.1:11470/d134adb98089862489fa2a993d3eddbc8038ce95/0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" group-title="Peliculas",Snow White (2025)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="Peliculas",A Minecraft Movie (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uGyiewQnDHPuiHN9V4k2t9QBPnh.jpg" group-title="Peliculas",The First Omen (2024)
 
@@ -8733,9 +8735,6 @@ magnet:?xt=urn:btih:7fab5cda534b4796dc68b65429f7753909770d9c&dn=Los.Mensajeros.2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yxTFHGcS0AJab3olU9BjABf5Ogx.jpg" group-title="Peliculas",The Crucifixion (2017)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg" group-title="Peliculas",Small Soldiers (1998)
-
-
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/1593/posters/1593.jpg" group-title="Peliculas",Wily Wonka & The Chocolate Factory (1971)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yAMYoODA6FzHPwycrBwwrjKv1A4.jpg" group-title="Peliculas",The Mambo Kings (1992)
 
