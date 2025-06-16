@@ -658,6 +658,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae
 http://181.78.105.146:2000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E!
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+
 no
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 
@@ -720,7 +722,7 @@ https://raw.githubusercontent.com/Valchrist23/VikTV/master/Dsci.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 
 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",AyE
-https://v1.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
+https://tvpass.org/live/AEEast/hd
 
 #EXTINF:-1 tvg-id="Film and Arts" tvg-name="Film and Arts" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="US",Film and Arts
 
@@ -1519,8 +1521,9 @@ https://linear-433.frequency.stream/mt/studio/433/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
-no
-https://linear-436.frequency.stream/dist/vix/436/hls/master/playlist.m3u8
+si
+https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Mystery.m3u8
 https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
