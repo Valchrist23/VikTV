@@ -467,37 +467,27 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",Hola TV
-http://181.78.105.146:2000/play/a00n/index.m3u8
+no
 
 #EXTINF:-1 tvg-id="¡HOLA! Play" tvg-name="¡HOLA! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento +",¡HOLA! Play
-http://video.h-cdn.com/static/hls/cdn2/master.m3u8
 
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D 
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://mx.radio.net/images/broadcasts/cb/c6/103018/1/c300.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml",Movie FE
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w459563122.m3u8
-no
-https://www.tdtchannels.com/stream/tevecat.m3u8
 
 #EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="MX",Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entretenimiento +",A3Cine 
-
 no
 
-
-http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="A3Player Multicine" group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ
-https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/5.m3u8
 
+no
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/5.m3u8
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc/1.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3Cine
 
 #EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento +",A3 Series
+no
 https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento +",TVE
@@ -592,11 +582,6 @@ https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade 
-
-no
-https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade 
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/1024px-Gusto_logo.svg.png" group-title="Cooking",GUSTOTV
@@ -637,7 +622,6 @@ http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 
 works
-https://raw.githubusercontent.com/Valchrist23/VikTV/master/FNET.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_14.m3u8 (video)
 https://food-dlvr-ott.akamaized.net/primary/4/5f47a0b006554a9e82de75cf1a4fbe0f/index_11.m3u8 (audio)
