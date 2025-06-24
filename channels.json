@@ -1,0 +1,20 @@
+
+  {
+    "id": "canal-vintage-1",
+    "title": "Canal Vintage 1",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Classic_TV_Logo.svg/300px-Classic_TV_Logo.svg.png"
+  },
+  {
+    "id": "documentales-retro",
+    "title": "Documentales Retro",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652316/events/8iYgnmlGJwXn/master.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Documentary_film_icon.svg/300px-Documentary_film_icon.svg.png"
+  },
+  {
+    "id": "musica-80s",
+    "title": "Música 80s",
+    "url": "https://iptv-org.github.io/iptv/countries/us.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/80s_style.svg/300px-80s_style.svg.png"
+  }
+]
