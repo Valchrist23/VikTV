@@ -1,20 +1,44 @@
 
   {
-    "id": "canal-vintage-1",
-    "title": "Canal Vintage 1",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Classic_TV_Logo.svg/300px-Classic_TV_Logo.svg.png"
+    "id": "maria-vision",
+    "title": "Maria Vision",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg"
   },
   {
-    "id": "documentales-retro",
-    "title": "Documentales Retro",
-    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652316/events/8iYgnmlGJwXn/master.m3u8",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Documentary_film_icon.svg/300px-Documentary_film_icon.svg.png"
+    "id": "c4-tv",
+    "title": "C4 TV",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404",
+    "poster": "https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg"
   },
   {
-    "id": "musica-80s",
-    "title": "Música 80s",
-    "url": "https://iptv-org.github.io/iptv/countries/us.m3u8",
-    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/80s_style.svg/300px-80s_style.svg.png"
+    "id": "adn40",
+    "title": "ADN40",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "poster": "https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png"
+  },
+  {
+    "id": "teleformula",
+    "title": "Teleformula",
+    "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+    "poster": "http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png"
+  },
+  {
+    "id": "milenio-tv",
+    "title": "Milenio TV",
+    "url": "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png"
+  },
+  {
+    "id": "foro-tv",
+    "title": "Foro TV",
+    "url": "https://dai.google.com/linear/hls/event/wkHu6QpATh6EUoHCaTDYPw/master.m3u8 ",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png"
+  },
+  {
+    "id": "noticias'n+",
+    "title": "N+",
+    "url": "https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/N%2B_Foro_2024.svg/320px-N%2B_Foro_2024.svg.png"
   }
 ]
