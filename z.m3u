@@ -1001,8 +1001,14 @@ https://nika.playmudos.com/U2N4VzhsVS9HaXA1TEhLcEdqODdZeDV6QkNhS2d5ZGVrS1FmQktDY
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",z El castillo en el cielo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/791/posters/25869802.jpg",z El cuento de la princesa Kaguya
-https://archive.org/download/peliculas-studio-ghibli-latino/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5bc3572ca60ac.jpg",Kaguya Sama Wa Kokurasetai S01E0
+https://nika.playmudos.com/bzV0ci9TMlFSTWxHUGdFNGZ3b1VDcWpvUDZhYzBxV2hiSXpsVUVsc09CND0.m3u8
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5bc3572ca60ac.jpg",Kaguya Sama Wa Kokurasetai S01E02
+https://nika.playmudos.com/bzV0ci9TMlFSTWxHUGdFNGZ3b1VDcERVV2lPczh0L3NxRlkyYzA1U2xFcz0.m3u8
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5bc3572ca60ac.jpg",Kaguya Sama Wa Kokurasetai S01E03
+https://nika.playmudos.com/WHFGNkdvcGpaS2JpMVRaUFVEVTdDcXZLbTBJRGhFZDRaWmxHajM2cHNTekNkdERPSDByOWhGSFVFQXFkeUdjYQ.m3u8
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5bc3572ca60ac.jpg",Kaguya Sama Wa Kokurasetai S01E04
+https://nika.playmudos.com/WHFGNkdvcGpaS2JpMVRaUFVEVTdDb3owVDFWVTNENFdGeW9wR0QvK0ZrLzVoNFpncnZYMERjSDF6ZGIxZmxNKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg",z El increible castillo vagabundo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20increible%20castillo%20vagabundo.mp4
@@ -1872,32 +1878,32 @@ https://archive.org/download/Hellsing-2001-576i/12.%20Total%20Destruction.mkv
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/71278-2.jpg",S01E13 Hellsing
 https://archive.org/download/Hellsing-2001-576i/13.%20Hellfire.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVjNjMyZTEtYTMzMi00NTNlLTg3YzctNzRhZWM1ZGQ2ZTdlXkEyXkFqcGdeQXVyNTkyNzgzNjA@._V1_FMjpg_UX1000_.jpg",Hellsing Dawn S01E01 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/333548/posters/5e91f711dc04e.jpg",Hellsing Dawn S01E01 
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20The%20Dawn%2001%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVjNjMyZTEtYTMzMi00NTNlLTg3YzctNzRhZWM1ZGQ2ZTdlXkEyXkFqcGdeQXVyNTkyNzgzNjA@._V1_FMjpg_UX1000_.jpg",Hellsing Dawn S01E02
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/333548/posters/5e91f711dc04e.jpg",Hellsing Dawn S01E02
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20The%20Dawn%2002%20%5B1080p%5D%20%5Bh.265%5D.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVjNjMyZTEtYTMzMi00NTNlLTg3YzctNzRhZWM1ZGQ2ZTdlXkEyXkFqcGdeQXVyNTkyNzgzNjA@._V1_FMjpg_UX1000_.jpg",Hellsing Dawn S01E03
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/333548/posters/5e91f711dc04e.jpg",Hellsing Dawn S01E03
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20The%20Dawn%2003%20%5B1080p%5D%20%5Bh.265%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E01 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E01 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2001%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E02 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E02 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2002%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E03 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E03 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2003%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E04 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E04 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2004%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E05 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E05 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2005%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E06 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E06 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2006%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E07 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E07 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2007%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E08 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E08 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2008%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E09 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E09 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2009%20%5B1080p%5D%20%5Bh.265%5D.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRlYjYzZWMtNjQxZi00MTUyLWE2MTEtN2JlNGMwYWRhMjUzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",S01E10 Hellsing Ultimate
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg",S01E10 Hellsing Ultimate
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2010%20%5B1080p%5D%20%5Bh.265%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",S01E01 Afro Samurai
@@ -2026,45 +2032,45 @@ https://nika.playmudos.com/aTlSOEU2NkU1ZXVTVThqYXlFNlZpTUZ3alM1eEQwRmo3dUJwZC9NQ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fnoZJlitIOBo2fSCyzAsv0lHtYL.jpg" group-title="TV Series",Captain Harlock Space Pirate Dual Latino
 https://archive.org/download/captain-herlock-espanol-latino-1080p-ec-92-eeb-8/Captain%20Herlock%20%5BEspa%C3%B1ol%20Latino%5D%20%5B1080p%5D%20%5BEC92EEB8%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E01 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E01 
 https://archive.org/download/harlock-01-la-bandera-pirata-ondea-en-el-espacio/Harlock%2001%20-%20La%20bandera%20pirata%20ondea%20en%20el%20espacio.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E02 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E02 
 https://archive.org/download/harlock-02-un-mensaje-desde-los-desconocido/Harlock%2002%20-%20Un%20mensaje%20desde%20los%20desconocido.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E03
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E03
 https://archive.org/download/harlock-03-la-mujer-que-ardia-como-el-papel/Harlock%2003%20-%20La%20mujer%20que%20ardia%20como%20el%20papel.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E04
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E04
 https://archive.org/download/harlock-04-bajo-la-bandera-de-la-libertad/Harlock%2004%20-%20Bajo%20la%20bandera%20de%20la%20libertad.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E05
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E05
 https://archive.org/download/harlock-05-en-el-extremo-mas-alejado-de-las-estrellas/Harlock%2005%20-%20En%20el%20extremo%20mas%20alejado%20de%20las%20estrellas.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E06
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E06
 https://archive.org/download/harlock-06-la-vision-de-las-amazonas/Harlock%2006%20-%20La%20vision%20de%20las%20amazonas.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E07
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E07
 https://archive.org/download/harlock-07-la-piramide-en-el-fondo-del-mar/Harlock%2007%20-%20La%20piramide%20en%20el%20fondo%20del%20mar.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E08
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E08
 https://archive.org/download/harlock-08-la-flota-de-la-reina/Harlock%2008%20-%20La%20flota%20de%20la%20reina.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E09
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E09
 https://archive.org/download/harlock-09-especie-vegetal/Harlock%2009%20-%20Especie%20vegetal.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E10
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E10
 https://archive.org/download/harlock-11-la-belleza-de-lora/Harlock%2011%20-%20La%20belleza%20de%20Lora.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E11
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E11
 https://archive.org/download/harlock-11-la-belleza-de-lora/Harlock%2011%20-%20La%20belleza%20de%20Lora.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E12
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E12
 https://archive.org/download/harlock-12-descanse-en-paz/Harlock%2012%20-%20Descanse%20en%20paz.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E13
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E13
 https://archive.org/download/harlock-13-la-mansion-submarina/Harlock%2013%20-%20La%20mansion%20submarina.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E14
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E14
 https://archive.org/download/harlock-14-la-tumba-de-la-esfinge/Harlock%2014%20-%20La%20tumba%20de%20la%20esfinge.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E15
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E15
 https://archive.org/download/harlock-15-tragedia-de-amor-la-aurora-del-norte/Harlock%2015%20-%20Tragedia%20de%20amor%20La%20aurora%20del%20norte.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E16
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E16
 https://archive.org/download/harlock-16-una-melodia-de-despedida/Harlock%2016%20-%20Una%20melodia%20de%20despedida.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E17
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E17
 https://archive.org/download/harlock-17-el-esqueleto-de-un-valiente/Harlock%2017%20-%20El%20esqueleto%20de%20un%20valiente.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E18
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E18
 https://archive.org/download/harlock-18-un-soldado-sombra/Harlock%2018%20-%20Un%20soldado%20sombra.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E19
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E19
 https://archive.org/download/harlock-19-la-trampa-de-la-reina-raflesia/Harlock%2019%20-%20La%20trampa%20de%20la%20reina%20Raflesia.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDYzZjlmM2UtNTIwOC00NTJlLWEzYzMtMjg1ZTg3MTY3NDgxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Captain Harlock S01E20
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/80886-1.jpg" group-title="TV Series",Captain Harlock S01E20
 https://archive.org/download/harlock-20-jura-la-estrella-castigada/Harlock%2020%20-%20Jura%2C%20la%20estrella%20castigada.mp4
 
 
@@ -2166,7 +2172,7 @@ https://archive.org/download/robotech-la-saga-de-macross-capitulo-35-saludos-de-
 https://archive.org/download/robotech-la-saga-de-macross-capitulo-36-a-las-estrellas/Robotech%20-%20La%20saga%20de%20Macross%20Capitulo%2036%20-%20A%20las%20estrellas.mp4
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2RhOGFhMTEtNGQ1OS00MWIwLWE4OWUtZTJkZWI1MWIwOWJkXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",z Macross Do You Remember Love (1985)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/12586/posters/12586.jpg" group-title="Peliculas",z Macross Do You Remember Love (1985)
 https://archive.org/serve/super-dimension-fortress-macross-do-you-remember-love_202212/Super%20Dimension%20Fortress%20Macross%3B%20Do%20You%20Remember%20Love.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWI0OGIwNTEtZDUyYS00YjBjLWEzM2ItYmFiNmQwZmI0MmRlXkEyXkFqcGdeQXVyOTUzMjk0NDE@._V1_FMjpg_UX1000_.jpg" group-title="OVA",VHS Macross Plus S00E01 (1994)
@@ -2733,41 +2739,41 @@ https://archive.org/download/ApocalypseZero/1.mkv
 https://archive.org/download/ApocalypseZero/2.mkv
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YTZlNGUtM2ViNy00YWE1LWI5OTktOWJmMTJmZjY3ODVjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Peetshop Of Horrors
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/82970-1.jpg" group-title="TV Series",S01E01 Peetshop Of Horrors
 https://archive.org/download/petshop-of-horrors-episode-1/Petshop%20of%20Horrors%20Episode%201.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YTZlNGUtM2ViNy00YWE1LWI5OTktOWJmMTJmZjY3ODVjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Peetshop Of Horrors
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/82970-1.jpg" group-title="TV Series",S01E02 Peetshop Of Horrors
 https://archive.org/download/petshop-of-horrors-episode-1/Petshop%20of%20Horrors%20Episode%202.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YTZlNGUtM2ViNy00YWE1LWI5OTktOWJmMTJmZjY3ODVjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Peetshop Of Horrors
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/82970-1.jpg" group-title="TV Series",S01E03 Peetshop Of Horrors
 https://archive.org/download/petshop-of-horrors-episode-1/Petshop%20of%20Horrors%20Episode%203.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ2YTZlNGUtM2ViNy00YWE1LWI5OTktOWJmMTJmZjY3ODVjXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Peetshop Of Horrors
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/82970-1.jpg" group-title="TV Series",S01E04 Peetshop Of Horrors
 https://archive.org/download/petshop-of-horrors-episode-1/Petshop%20of%20Horrors%20Episode%204.mp4
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E01 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2001v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E02 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E02 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2002v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E03 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E03 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2003v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E04 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E04 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2004v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E05 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E05 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2005v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E06 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%2006v2%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3x2%202.0x2%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E07 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E07 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%20CM%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3%202.0%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E08 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E08 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%20NCED%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3%202.0%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTIxYzhiMDMtZjJhNC00ZjQ0LWIyNzgtNmM3ZmNkYjljYmMyXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E09 Iria Zeiram
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/82706/posters/5f42dfcab220a.jpg" group-title="TV Series",S01E09 Iria Zeiram
 https://archive.org/download/iria-zeiram-01v-2-dvdrip-720x-480p-x-265-hevc-ac-3x-2-2.0x-2-dual-audiosxales/Iria%20Zeiram%20-%20NCOP%20%28DVDRip%20720x480p%20x265%20HEVC%20AC3%202.0%29%5Bsxales%5D.mkv
 
 
@@ -3019,13 +3025,13 @@ https://archive.org/download/devil-hunter-yohko-06-bdrip-1440x-1080p-x-265-hevc-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjExMDgwNzYyMl5BMl5BanBnXkFtZTYwMzY2OTA5._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Devil Hunter Yoko
 https://archive.org/download/devil-hunter-yohko-06-bdrip-1440x-1080p-x-265-hevc-flacx-2-ac-3-2.0x-3-dual-audiosxales/Devil%20Hunter%20Yohko%20-%2006%20%28BDRip%201440x1080p%20x265%20HEVC%20FLACx2%2C%20AC3%202.0x3%29%28Dual%20Audio%29%5Bsxales%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY1N2Y5YTAtZGJmZS00Y2Q3LWFhODAtYzliNjFjMmJlYjJkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E06 Megaman X Day Of Sigma
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTY1N2Y5YTAtZGJmZS00Y2Q3LWFhODAtYzliNjFjMmJlYjJkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",Megaman X Day Of Sigma
 https://archive.org/download/XMovie_201808/X%20Movie.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWVhNDNiZTAtYzBkZS00ZWYyLWE5NjQtNWYzOTAwYmRmOTc4XkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Kaze to Ki no Uta 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/85909/posters/85909.jpg" group-title="TV Series",S01E01 Kaze to Ki no Uta 
 https://archive.org/download/getvid6_20230703/getvid6.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU3NTIxMmItNDgzMS00NzAwLTg3MDQtZDQ5ZTU0MDUzOTk4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Kite 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/337406/posters/61ba54e7e09ed.jpg" group-title="TV Series",S01E01 Kite 
 https://archive.org/download/kite-remastered-720x-480i-ac-3-setero-5.1-dual-audio/Kite%20Remastered%20%5BH.264%2010-bit%5D%20%5BAAC%20Stereo%2B5.1%20Dual%20Audio%5D%20%5BEng%20Subs%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMGRhMjgtNjk4OS00MzY3LTgzMjctNWM4MzYxNDZjNjczXkEyXkFqcGdeQXVyMTI2NTM4NjM1._V1_FMjpg_UX1000_.jpg" group-title="TV Series",S01E01 Arisa Good Luck
@@ -4607,10 +4613,10 @@ https://nika.playmudos.com/xx/ZHcyVmVxa2gyNW9MeFg0Z3BHVGk2QT09.m3u8
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/70865-8.jpg" group-title="TVSeries",X/1999 TV S01E24
 https://nika.playmudos.com/xx/NXkvZUNjWnJuQS80dHNUNnlnQ01FQT09.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYThjMTNiZDEtMGU5MC00Y2JhLWE5NjctYjlhYjVkZTA2ZWQzXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",X/1999 The Movie
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/29395/posters/29395.jpg" group-title="TVSeries",X/1999 The Movie
 https://archive.org/download/pp-174-pp/X%20%281996%29%201080p%20-DL-.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjYwZDUwZjEtMTNiMy00NTliLWIwNTMtODYwMjVmODJhY2RiXkEyXkFqcGdeQXVyNTA2NzcwNTI@._V1_.jpg" group-title="TVSeries",Psycho Pass Zero S00E00
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/262090/posters/60b61f795d7a5.jpg" group-title="TVSeries",Psycho Pass Zero S00E00
 https://nika.playmudos.com/a0JpaXZjKzZvQmtmT01hSXp0UHVkcnBWREhIazgzMHd5cDczQVRkU3dLOD0.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIwZjhkMzgtOWExYi00ZGIwLTg1ZTktNjQyZWIxYWFmZTc0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Mob Psycho S01E01
@@ -4618,17 +4624,17 @@ https://archive.org/download/mob-psycho-100-capitulo-2-temporada-1-audio-mexico/
 
 https://nika.playmudos.com/mob-psycho-100/UEtBWVJRRktBcmM1b3R0VFp4N0Q0bzR2S3RJQTIzdnVZeWhnd1VtS3Y0WT0.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIwZjhkMzgtOWExYi00ZGIwLTg1ZTktNjQyZWIxYWFmZTc0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Mob Psycho S01E02
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/262090/posters/60b61f795d7a5.jpg" group-title="TVSeries",Mob Psycho S01E02
 https://archive.org/download/mob-psycho-100-capitulo-2-temporada-1-audio-mexico/Mob%20Psycho%20100%20Capitulo%202%20Temporada%201%20Audio%20Mexico.mp4
 
 https://nika.playmudos.com/mob-psycho-100/UEtBWVJRRktBcmM1b3R0VFp4N0Q0cjVXR0pSWkFmeHdoNzhDSzVmQW9qdz0.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIwZjhkMzgtOWExYi00ZGIwLTg1ZTktNjQyZWIxYWFmZTc0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Mob Psycho S01E03
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/262090/posters/60b61f795d7a5.jpg" group-title="TVSeries",Mob Psycho S01E03
 https://archive.org/download/mob-psycho-100-capitulo-2-temporada-1-audio-mexico/Mob%20Psycho%20100%20Capitulo%203%20Temporada%201%20Audio%20Mexico.mp4
 
 https://nika.playmudos.com/mob-psycho-100/UEtBWVJRRktBcmM1b3R0VFp4N0Q0cjA5eUlTc1BSRTBLTDVQNlI2Q01uOD0.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWIwZjhkMzgtOWExYi00ZGIwLTg1ZTktNjQyZWIxYWFmZTc0XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Mob Psycho S01E04
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/262090/posters/60b61f795d7a5.jpg" group-title="TVSeries",Mob Psycho S01E04
 https://archive.org/download/mob-psycho-100-capitulo-2-temporada-1-audio-mexico/Mob%20Psycho%20Capitulo%204%20Temporada%201%20Audio%20Mexico.mp4
 
 https://nika.playmudos.com/mob-psycho-100/UEtBWVJRRktBcmM1b3R0VFp4N0Q0b095WWlNWUVrSWFQM1I5NEN5TmUwTT0.m3u8
@@ -5855,7 +5861,7 @@ https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEzNmM0MzYtN2IyZi00OGUwLWE4YzYtNjRmZWI3NDEwNzhhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Dragonball Bio- Broly
 https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/12%20DRAGON%20BALL%20Z%20EL%20COMBATE%20FINAL%201080P.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmVlODQ4NGEtNzdhMi00NzJjLWIxNTctOThjNTMyMjU1ZWNkXkEyXkFqcGdeQXVyMjUyMTE3MTc@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Dragonball Legend Of Bardock 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/5685/posters/643665ad1b0a5.jpg" group-title="TVSeries",Dragonball Legend Of Bardock 
 https://archive.org/download/dragon-ball-el-episodio-de-bardock-doblaje-independiente-en-espanol/Dragon%20Ball-%20El%20Episodio%20de%20Bardock%20%E3%80%8CDoblaje%20Independiente%20En%20Espa%C3%B1ol%E3%80%8D.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkMWM1M2YtYTMwYy00YWZhLWE0ZjktZjhiNTMwMjQ2ZjU5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="TVSeries",Dragonball Z Episode Bardock 
