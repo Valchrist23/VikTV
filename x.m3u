@@ -314,7 +314,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=5_2WYKPYAmJSS-gXe_xJTg:om3X0OXZ9uaurJx6iq3w5dNnR4fXnosKbxNFXYln-kEvohp9UrOK0UpZUvxIUL02UdSdPuZGgpQIvbpqgGXC5aTrud5_sy03IMWNexO0hBZpEpF95x3Pgqk_BM-dBuviR1bcjigRgFzkRWgYHF6W2mWuqEh7j437WtAXi1NrjG-QzDQY4jFqZZpyk4jq_GySlactzx_XR4gBXWqwco298KsdiQfkObZXSKYrIXgc5Ri_rG4cyqkTzK5gwtc_7-9cbCEexifuWwz8E39B3sWYQ0AqiQp0fVt2903rpkbgXY-X4tmcz7Pf7IC6Pzn0ruUEHShCzgO6AxKroKMod5-kxuUlTWWXdCvYfgblYlvlzXwK2LKVLB7G3bL7X-uX5MeT6EpDGhWjDz60dtZx4OCsoX9pL3SCp55KmXtNOW5L4BWSRP-T5XWmQOpSllPIuhXG3uRpfasS2Qx6Q-6VXBH0i3ZaXBbVk6xAyhGFlStxbwdSLFJ9Xc-bwVTT7YfsMVKnVFmX0mMSuRSSy135W2siFTkEKzBtFcwk1rLfj8YdvX_ORnU2ne3Fi6dzVQYWjFj_HzgEdE9eYiuucuQuvWUgqHUmhVWYc1V5E9OLDFnHUxvP3JzCWnMVjZTzICN8hoklO7GqQzxHKWT4Fr3yhiA9tIXKTa8C5kHf80-sd_7kjQVFydLhfg_p6rstI2i2Qe5GLFwKveRV6Snq2aweq_iH0c-1HbycpLL3ajDvm1wgT-dahROqie6ZSEsvRPtDrYSwdOe47fL05gAw7I6GOMGEEVJ52SrzpsmiGUvnIRi2zGrGbBWPp4PVGEaI9hTE8G59A4KnhHI8bbjqwyfBiwSdHKos1mXEOxUMEUeI9nV491N9OlREQuAahgx3cBc8NprBhSsGm8x6lLALaPE3ce-reWBQ_HGY9_Ok1X8GcnBKRQvPRGiWT7jBAClIeZ_t-Uj-qqtDbGfMUiUvs02OtdBct8YL1jXfEsDy7wNSpDhrFdASm-G2MQZ7b4L9LGte99KvoFV36NALn_hisdBaoeWTOFia12z0H1DzDTdxNUdRoBnUt8vTiKYABJjt_e14qQGN8FXdnkSCfVw7cd1jZpZGuePtePGsaRKyXgu84ejSwM36WI37r1dGNFGDrAGstupps8uvAb59in6DYsnmCnTtGA&anvtrid=f4c133b68c190d66dff10cb9d32d10c1&anvauth=tb=0~te=1754985115~sgn=a2dc61397517b2dd11f2ff6bce9df7551f80cbd29f6e7f09c721c3bd48171267&t=1754985025
 
 no
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
@@ -1999,17 +1999,11 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?resize=696%2C392&ssl=1" group-title="Movies",Bayres TV 
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-
-
-same
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Movies",Guaymate 
-https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
 
 no
+https://fl1002.bozztv.com/ssh101/guaymatetv/tracks-v1a1/mono.m3u8
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w751923359.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
 
@@ -2044,9 +2038,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies",13MAX HD 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/327/703/png-transparent-cinema-film-moveis-logo-film-art-film.png" group-title="Movies",Peliculas 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1731
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2430-294x165-FFFFFF.jpg" tvg-url="https://www.vivalivetv.com/channel/phtv-" group-title="Movies",PH TV   
 
