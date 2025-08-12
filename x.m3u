@@ -891,10 +891,6 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w462845501.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w1595999598.m3u8
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist_w179033170.m3u8
-
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
 https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8?hls_ctx=su3z1710
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV Cartoons 
@@ -938,9 +934,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="Anime",Channel 7 
 http://radio.7chan.org:8000/CH7.m3u
-
-#EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJy2Z-c1eezn0kcIpP0XuY7smLxuzlsC7EXPWw=s900-c-k-c0xffffffff-no-rj-mo" group-title="Anime",Anime TV 
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png" group-title="Entretenimiento +",VariedTV
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
@@ -1206,12 +1199,12 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
 #EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-name="So...Real" tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary",So...Real
 
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml
-
 #EXTINF:-1 tvg-id="dco" tvg-name="LOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LOL_LLC_logo.svg/200px-LOL_LLC_logo.svg.png" group-title="Entretenimiento +",Lol Network
 https://apollo.production-public.tubi.io/live/lol-network3.m3u8
 
 no
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml
+
 https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/28196c572452294dfc392130a53057afd0808397/Stirr/all.xml
 
@@ -1436,9 +1429,6 @@ no
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de5e0b3f5003f5d9f76/variant.m3u8?url=542db6aa0794384221ce65581807922d-864600d204fea7a1b46bc45ded0897c9c0e40a8dc0eda7a26c61f084706c5d33ba237ffff3b314cbea0a7080827ecf0f1d4b332e9ef8c3b53e01df7f3eed71c7227491976b5e58cb0cd5fd26c9f6eef8a74e7c354264dcdd3ca133a31cdf0b825403505809d2839925a2f73c19e1cf290ccf6a815702df0cd786da74c0dc9419c10c27400a2054c50ee823eb0bb16e4c3654806afde1bcf7f6aef1c9f06d01e1630e90b171e3bcbbbdb4af35afad3af9f66351d1199a96a5b81005f78591067a063d836f14e81b2dfd9fddc2ba06fe62d1c8de0cd3c648df76a8fb4db8a6db66cb069cc61beddaa5f19443018bafd8453828d42d69135d364ac631f91f05b53131d7deda1b24ce61e46690591bab65d1c231710701b8f120adf5abda697d6e032b5c5ead4ec41e0281051337d02d12d6ffafa50be7370eddfc0440553ec165b679e65f635216e93b3f26a07af7d23ad39992eb10b46428a2ced553ef17687dd6a8b6e104dbc07b6daa2ba1e95aa5ee9c620385700bc8e4855bdb74c780c6d93565d5c742b83a7f98852c3735bc0519dbee5b8aeab7d2c53c9bd9faf23b427c0618fdfbd7f1ae817cfc9e4d827b039ac8b095c7e67de0f6c034a0b7ee0e8d14796dbfa27ad0d0a1606ec140711db88bb672d3a9e00b9b004d24533fc860910a925f92fc5ac04f8f52d10437024972bae852470eeae4232bd090758b4ab75431d42297e8341da76ce93f02785f389d6bc44dbb2ab7e531d47675d5162a11e6fbc4b0e7b24492149834553d98c2692284427d378aa815298a2b6bbb8e5e54a24c650656bba06a8e278ba67f6a570a4baf7084db94c3bd28279e49d14011c1d284879cfd0d769dabb94b1bc56c2cc1530378399470762f9a3fa5bd1dd9d12cdb9f7ff409e8d6f8529e744f56a2ee5814077ebc2acbd868382dd4729b5c4cbd13222542366b6d992147da258a4a50979faaaaf8106fed436103735674be60660ea5c6cd58b6ccc3a4cf8ee5995b7759273c8980c8fdacd65f16d96807c384faff106a729640c2c538257928e5391d540a29652ad34d4f740db7be93d4734da9559b0b7ad9446a673b8674e210baeb158076092f6d0f46001c815267804681a7f4589c45333cb5ace79861cc740b48bca9ae64b4f6202cdb9b884a04048c986010509e3defed668984cb0b5301492d07ff50401cc4c09cd89db77d1184c6634ccd2631784d80700632808b758bec145a4ff19c0187806d85d95f3903bfe5eb24898411fd21e3c72cda32fea46f07fac7b17a13593ce162cc99c4a29d470f4ed0405be2cfc9eac7177b2b970ae98cdf7245eb4ad51ffc73e80f0840e202bd0b55ec0099a00ad229904f9638ec213fc144448fd99669fae6a10fd883cfc88794f15d24aacef8f51e63753ecf3b84f4c7bb607d74dcc9f159c4a8670f596fb75b2d7146db0cc6ace8820e3cbddc890b997e4bb77cc5935316d1b8d6746433f22e711041c29714a998fc890e93a0f5189ed69e1402123c39610e826617712f4a26cdf999e4862f07431854898cb88ef40c55316fad3770a0c3f6bc1f00eda608140feaff36fd088b2d76afeda2dac7293614ce40ed47df153d670c73a8f5b0392a2d007ea469d25b90f284e5a8895a868e18a45ca794ef6527cc5c8a946471dc65d48517ae2b2ca5e62514cf0cd983c8d7ac3051b2057ad106006df19ca7c8d2f14e0ef405e86b30a06bcc971d11b9beb7ebeee0b68d23c21ee7d8d2a8034ba025b86e60e93444c013ba550885bd8686dfbc2ee2c9a607191ae05efc4fa0b38a08000bf7c44045bdc24769e746f7ec83653005c06378e6e66f1b745d142505dc304f5a49710dbc885a54774a12a1e532be67ca5e6ac90424ae1e9a82690bc119757aa173631b5a0bce5906723be5523cdbb515ee0c7adbdc8c3b5c75359b9b4776f39c868d8b57437c48d276ef2b9f51141a13087039a789cb3654f15b9ed5ff59f75eb7539514be7d8aa6559002bc467d2a94b5382164e399dc3dcc49c6ca93d5c3de80492d21bdf68291de25bf3ce0dd0a8fd210891cee7a076748d217b9a7974904c6c3d7cc40261f5cc54b115cd029ca0a45e1c454f56a0c25c9e22523f6296bab8475445178c3dd1734d9199b5465102b05e11be3223adb22ae549d787090ee865d18b62327e1e7bcda15664feb6ae10a72c41c9082e95640e7d5591ddc7af85f7d494cf5c185f2c5efda6c3fc983b1bae7153f32b03b8d6b48e39b307e4e7474396a&x-plex-token=f6zTr9wt2_GMAzCz2PsV&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723602637&autoPreview=0
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/4/1-793390810.png" group-title="US",This 
-https://cdn.igocast.com/channel11_hls/channel11_profile1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Land Sitcoms " tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="US",TV Land Sitcoms 
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
@@ -1448,7 +1438,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff49
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TLMX.png/220px-TLMX.png" group-title="Entretenimiento +",Telemax
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
-#EXTINF:-1 tvg-id="Roar" tvg-name="Roar" tvg-logo="https://watchroar.com/" group-title="Entretenimiento +",Roar
+#EXTINF:-1 tvg-id="Roar" tvg-name="Roar" tvg-logo="https://dsk4yqs0338lt.cloudfront.net/uploads/2025/04/ROAR_WHITE-2048x551.png" group-title="Entretenimiento +",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/510aDPk93OL.png" group-title="USA",Watch Mojo
@@ -1479,7 +1469,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="Entretenimiento+",BET Pluto TV
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.8xs5lny6s2nh5z4Po5Il4wHaE0&pid=Api&P=0&w=260&h=170" group-title="Entretenimiento+",Crime 360
+#EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-name="Crime 360 by A&amp;E" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Entretenimiento+",Crime 360 by A&amp;E
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="5bb1af6a268cae539bcedb0a" tvg-name="Forensic Files" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Entretenimiento+",Forensic Files 
@@ -1543,7 +1533,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+
 
 si
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
@@ -1987,7 +1977,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Movies",CincoTV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9LgFDhZQrQCusGIJbOHozm909q0s4zNSD3dszoyuCde4HB_gtoq3by4dCARTmN-vhxjU&usqp=CAU" group-title="Movies",Gen TV
+#EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="https://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Movies",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=6q0jpew7
 
 nop
