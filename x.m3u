@@ -721,13 +721,13 @@ https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/
 same
 https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",KPBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/KPBS_logo_2019.svg" group-title="US",KPBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" group-title="Entretenimiento +",PBS Kids 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR 
 
-#EXTINF:-1 tvg-id="PBS America" tvg-name="" tvg-country="US" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="Entretenimiento +",PBS America 
+#EXTINF:-1 tvg-id="PBS America" tvg-name="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/KPBS_logo_2019.svg" group-title="Entretenimiento +",PBS America 
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
