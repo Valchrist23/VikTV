@@ -461,13 +461,14 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8 
 
 #EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="Canal Extremadura Sat" tvg-language="es" tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",Canal Extremadura Sat
-https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/canalextremadura/live_hd/chunks_dvr.m3u8
 
 no 
+https://cdnapisec.kaltura.com/p/5581662/sp/5581662/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/a.m3u8
 https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="24 Horas Play" tvg-name="24 Horas Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="Noticias",24 Horas Play 
+#EXTINF:-1 tvg-id="24 Horas Play" tvg-name="24 Horas Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logotipo_del_Canal_24_Horas.png/1200px-Logotipo_del_Canal_24_Horas.png" group-title="Noticias",24 Horas Play 
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u
 
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
