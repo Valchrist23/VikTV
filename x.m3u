@@ -1205,10 +1205,8 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Stirr/all.xml
 
 si
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-https://content-ause1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/g.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=eaa4c37ade9543c8a82300e976397dcf
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8   
 
-#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-name="So...Real" tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary",So...Real
 
 #EXTINF:-1 tvg-id="dco" tvg-name="LOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LOL_LLC_logo.svg/200px-LOL_LLC_logo.svg.png" group-title="Entretenimiento +",Lol Network
 https://apollo.production-public.tubi.io/live/lol-network3.m3u8
@@ -1263,9 +1261,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",VICE
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-si
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/1920px-TVRI-World.svg.png" group-title="USA",TVRI World 
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
@@ -1280,11 +1275,6 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/270px-Star_Channel_2020.svg.png" roup-title="Entretenimiento +",Star Channel
-no
-https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Comedy
 http://fl3.moveonjoy.com/STARZ_COMEDY/index.m3u8
@@ -1315,6 +1305,7 @@ https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 54
 https://lnc-wxmi.tubi.video/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -1545,6 +1536,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 
 
+
 si
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
@@ -1638,9 +1630,9 @@ didwork
 https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/XOD-TCN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
-https://saw-stream21.radiohost.de/saw-rock-classic_mp3-192?ref=radioplayer-de&amsparams=radioplayer-de&_art=dD0xNzM5NzM5NTY3JmQ9NTNiNTBhZjhmYTFkYzdjMzRmYzk
 
 no
+https://saw-stream21.radiohost.de/saw-rock-classic_mp3-192?ref=radioplayer-de&amsparams=radioplayer-de&_art=dD0xNzM5NzM5NTY3JmQ9NTNiNTBhZjhmYTFkYzdjMzRmYzk
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
@@ -1946,6 +1938,7 @@ same
 https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
+https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
 no
 https://lnc-tubi-originals.tubi.video/index.m3u8
@@ -1965,7 +1958,7 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",DIMELO TV
-
+https://live20.bozztv.com/akamaissh101/ssh101/wowchannelsd/chunks.m3u8
 
 no
 https://fl1002.bozztv.com/ssh101/dimelotvrd/tracks-v1a1/playlist.m3u8
