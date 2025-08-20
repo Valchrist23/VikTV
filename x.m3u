@@ -39,7 +39,7 @@ si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=42fa6759-e881-11ee-9cc2-0e8c4bf95ab2&deviceId=e6b812df-4d10-414e-bcc6-d0bc39672e21&deviceVersion=123.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
-#EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Teleformula
+#EXTINF:-1 tvg-id="Telefórmula" tvg-name="Telefórmula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Telefórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
@@ -51,7 +51,7 @@ si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN40" tvg-chno="8" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN40
+#EXTINF:-1 tvg-id="ADN 40" tvg-name="ADN 40<" tvg-chno="8" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8 
 
 si
@@ -73,7 +73,7 @@ no
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1131072.m3u8
 
-#EXTINF:-1 tvg-id="22 de Mexico" tvg-name="22 de Mexico" tvg-chno="11" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/1024px-Logo_XEIMT-TV.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",22 de Mexico
+#EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-chno="11" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Logo_XEIMT-TV.svg/1024px-Logo_XEIMT-TV.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9 
 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -86,7 +86,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w388068882
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
 
 
-#EXTINF:-1 tvg-id="TV UNAM" tvg-name="TV UNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM" tvg-name="TVUNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TVUNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 no
 https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
@@ -273,13 +273,13 @@ https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1
+#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
 si
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
+#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 si
@@ -291,10 +291,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5597
 si
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7" tvg-name="Azteca7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/295px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 
 
 si
@@ -597,7 +597,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 
 -----------------------------------------Kitchen--------------------------------------------- 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking",Tastemade
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://yt3.ggpht.com/-aPb0s8NqbWY/AAAAAAAAAAI/AAAAAAAAAAA/Bogt-RdYi4s/s900-c-k-no/photo.jpg" group-title="Cooking",Tastemade
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="MX",Tastemade 
@@ -643,7 +643,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb00009
 #EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-name="Tiny House Nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Home",Tiny House Nation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-name="This Old House" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/This_Old_House_logo_black.png" group-title="Home",This Old House 
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-name="This Old House" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/This_Old_House_logo_black.png" group-title="Home",This Old House
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 -----------------------------------------Entertainment---------------------------------------------
@@ -930,10 +930,10 @@ https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w1690700502.m3u8
 no
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Aftermath
+#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Aftermath EST 
+#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="Anime",Channel 7 
@@ -1002,10 +1002,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Anime",Pluto TV Animé Acción 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Anime",Anime All Ages 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="65e9ceb98145cb00084d64bc" tvg-name="Asian Crush" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65e9ceb98145cb00084d64bc/colorLogoPNG.png" group-title="Anime",Asian Crush
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65e9ceb98145cb00084d64bc/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -1039,9 +1037,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
-
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Cartoon",Las Tortugas Ninja
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-name="Transformers TV" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Cartoon",Transformers TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
