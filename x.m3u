@@ -964,7 +964,7 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="ACS Network" tvg-name="ACS Network" tvg-language="es" tvg-logo="https://play-lh.googleusercontent.com/PY_gyhVYlhbJsUpRAMTZdNJbnM4-oUnjH3gIg-WAvQMSfOzBY-4ZdWtNfcKygKjJw64=w240-h480-rw" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
 
 
-#EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids Tv
+#EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 No
