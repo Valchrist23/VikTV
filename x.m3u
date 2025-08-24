@@ -278,7 +278,7 @@ https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1
+#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/800px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca UNO -1 hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
 si
