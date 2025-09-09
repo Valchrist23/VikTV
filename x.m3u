@@ -19,7 +19,7 @@ si
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg" group-title="Basico",C4 TV
+#EXTINF:-1 tvg-id="C4 en Alerta" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg" group-title="Basico",C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-chno="4" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="Basico",Foro TV
@@ -1192,7 +1192,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Entretenimiento+",Pluto TV Cine Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="COPS" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Entretenimiento+",COPS
+#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="Cops" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Entretenimiento+",Cops
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-name="Comet" tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Movies",Comet 
