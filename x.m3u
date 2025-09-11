@@ -317,8 +317,8 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=42fa6759-e881-11ee-9cc2-0e8c4bf95ab2&deviceId=e6b812df-4d10-414e-bcc6-d0bc39672e21&deviceVersion=123.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="A Mas" tvg-name="A Mas" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/A%2B_2021.svg/1920px-A%2B_2021.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",A Mas
-
+#EXTINF:-1 tvg-id="Corazón" tvg-name="Corazón" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/100px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6604
 no
 https://live.info7.mx/info7/stream.m3u8
 
