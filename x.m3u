@@ -716,6 +716,8 @@ no
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/Dis.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="Entretenimiento +",Discovery Science
+https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/index.m3u8
+
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 no
@@ -785,6 +787,7 @@ http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito 
+https://tx5.nexgen.bz:4000/CARTOONITO/playlist.m3u8
 
 no
 https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w238908951.m3u8
@@ -1192,6 +1195,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c0008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento +",Lifetime
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
+https://streamer1.nexgen.bz/LMN/index.m3u8
+
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
 
@@ -1222,6 +1227,10 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index_4.m3u8
 blob:https://watchcharge.com/6d43ba18-d014-4392-9210-abf416ce611b
 https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Crave" tvg-name="Crave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/250px-Crave_2018_logo.svg.png" group-title="Entretenimiento +",Crave
+https://streamer1.nexgen.bz/CRAVE/index.m3u8 
 
 #EXTINF:-1 tvg-id="dco" tvg-name="LOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LOL_LLC_logo.svg/200px-LOL_LLC_logo.svg.png" group-title="Entretenimiento +",Lol Network
 https://apollo.production-public.tubi.io/live/lol-network3.m3u8
@@ -1292,6 +1301,7 @@ no
 http://fl3.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento +",FX
+
 no
 https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 
@@ -1894,6 +1904,7 @@ no
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
 #EXTINF:-1 tvg-id="TNT Sur" tvg-name="TNT Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/230px-TNT_Logo_2016.svg.png" group-title="Movies",TNT Sur
+https://streamer1.nexgen.bz/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="64a3d96f060e830008af6745" tvg-name="MovieSphere by Lionsgate" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Movies",MovieSphere by Lionsgate
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8fe6eee8-e887-11ee-aac3-8659105ff2ba&deviceId=1dcc17cd-4f04-4f89-9034-73715166fa30&deviceVersion=120.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=43.650001525878906&deviceLon=-79.36000061035156&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -2164,7 +2175,7 @@ si pero fullurl
 https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb553d16726c678c99d43d64d5ef42a0d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c59e0a957f378bbdbe306f2c180680585ee2be5da5edf50843d86bf5b41e4888264ce7815fc8d549ed9ddd599d459b23a447c896f2de8745d4d4c3011266884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dd46856e91051f8038f07b4e440a1a9ba9d3929fd58513a134482c68ef0941732b767bb81e8d17a7a96e41a7146830ab247796ac8af9b46c1ab70e71c17247cada367e0e8a5b342affea78d2d00f304c7c2e6913e4301570d08935cac9b571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f0f0b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829da8214edb389e24c4dc40f5ef2982b393a4e0e8393e52192485df/125/1920x1080_5058864/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
-
+https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="EPIX" tvg-name="EPIX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/800px-Epix_Logo_2019.svg.png" tvg-country="" group-title="Entretenimiento +",EPIX
 
