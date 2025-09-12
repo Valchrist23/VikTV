@@ -632,6 +632,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6095ad97351eb00007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ea459c8d467f0007fbec86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
+https://streamer1.nexgen.bz/FOOD/index.m3u8 
+
 http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
@@ -695,6 +697,8 @@ https://streamer1.nexgen.bz/BRAVO/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Discovery ID" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Entretenimiento +",Investigation Discovery
+https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8
+
 http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 Files United
@@ -1158,7 +1162,7 @@ si
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 
 #EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries" tvg-name="Hallmark Movies &amp; Mysteries" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies &amp; Mysteries
-
+https://streamer1.nexgen.bz/HMM/index.m3u8
 no
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
