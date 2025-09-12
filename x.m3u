@@ -672,9 +672,15 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="Entretenimiento +",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+no
 http://181.78.105.146:2000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Entretenimiento +",H2
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+no
 http://181.78.105.146:2000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="Entretenimiento +",True History 
@@ -1912,6 +1918,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax Mexico 
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/01/Crackle-logo-e1453917776895.jpg" group-title="Movies",Crackle
 
@@ -2068,19 +2075,26 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
-
+https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
 no
 http://fl3.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="Movies",HBO Comedy
 http://fl3.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/768px-HBO_Family.svg.png" group-title="Movies",HBO Family
+https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+
 http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/260px-HBO_Xtreme.svg.png" group-title="Movies",HBO Xtreme
-
+https://streamer1.nexgen.bz/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/298px-HBO_2_Logo_Poland.png" group-title="Movies",HBO 2
+https://streamer1.nexgen.bz/HBO2/index.m3u8
+
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO POP
+https://streamer1.nexgen.bz/HBO_POP/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png" group-title="Movies",Showtime
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
@@ -2092,6 +2106,7 @@ http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",Box Hits
+https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 nope
 http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
