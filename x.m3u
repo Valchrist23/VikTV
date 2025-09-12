@@ -1253,6 +1253,7 @@ no
 http://fl3.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA Network
+https://streamer1.nexgen.bz//SYFY/index.m3u8
 
 no
 http://fl3.moveonjoy.com/USA_Network/index.m3u8
