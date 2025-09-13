@@ -2081,7 +2081,7 @@ https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO Mundi
 https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8
 no
 http://fl3.moveonjoy.com/HBO/index.m3u8
@@ -2100,8 +2100,11 @@ https://streamer1.nexgen.bz/HBO2/index.m3u8
 
 http://fl3.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO POP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Movies",HBO POP
 https://streamer1.nexgen.bz/HBO_POP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",HBO Plus
+https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png" group-title="Movies",Showtime
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
@@ -2113,7 +2116,7 @@ http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",Box Hits
-https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
+
 
 nope
 http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
@@ -2223,9 +2226,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f680008
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://radio.energeek.cl/custom/templates/Lithium/uploads/energeeklogo-4.png" group-title="Basico",EnerGeek Radio TV
-https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
-
 https://stream.zeno.fm/knxfmm50df9uv
+
+https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/insolencetvgo.m3u
 
