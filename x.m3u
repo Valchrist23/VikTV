@@ -1289,6 +1289,7 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",VICE
+https://apollo.production-public.tubi.io/live/vice-tRhHBo.m3u8?
 
 no
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1571,8 +1572,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
-
-
+https://apollo.production-public.tubi.io/live/cinevault-UZPUok.m3u8?
 
 si
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
