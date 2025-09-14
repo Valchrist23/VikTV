@@ -776,6 +776,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae
 
+
+https://csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video/csm/live/750518024/4.m3u8;jsessionid=DA58A2E0F01174E341B0975084053108.csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video?playback_start_ts=1757884575&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000033&content_type=mp4&device_id=a15df197-c681-4cb7-93f4-5fb4e4252215&language=en&now_pos=0&platform=WEB&pub_id=df2a01d09c1bacb2364d5e2e0d449e3c&tb.sid=a5f82ebc-1bac-4ca5-b7bd-00f98646c1cd&vpaid_enabled=false&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9lZGU4ODJjMi00M2Q2LTRlY2EtOTM1MS1lYTI5ZTg0ZGMyMTcvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE1UVmtaakU1Tnkxak5qZ3hMVFJqWWpjdE9UTm1OQzAxWm1JMFpUUXlOVEl5TVRVaUxDSmxlSEFpT2pFM05UZ3hOREk1TVRVc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODJabVU1TWpVM015MHlPVGt4TFRRelpUY3RPVGc1T1MweE9XTTRZakJrTVRsbU1HVXZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuWjZHYWFNS0Q3ZnBkRnItZnQ4N3ZZTXU4OEk5cnM4ckNrYXlCYlhyeW1MaHV4NnNqSWFvNm5NRzFBWlhpUnZIeU1TMDhFSkJjRzU2b0t6Y3lwOUxwX0EmdGIuc2lkPWRlNzMyZGFmLTAyZDUtNGNhOS1iMzYwLWJkZjU1ZTcyZTc3ZQ==
+
 https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
 
@@ -1407,17 +1410,14 @@ https://69c5398a50774cad9a6adceb3f65f2cd.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453f30085df200085883d8livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Television East 
+https://apollo.production-public.tubi.io/live/ion-60pjri.m3u8?
 
-no
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Entretenimiento +",ION Plus 
+https://apollo.production-public.tubi.io/live/ion-plus-NEcPOE.m3u8?
 
-
-no
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
@@ -1996,8 +1996,8 @@ same
 https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
+https://apollo.production-public.tubi.io/live/tubi-originals-0uuavF.m3u8?
 
-no
 https://lnc-tubi-originals.tubi.video/index.m3u8
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
