@@ -2022,9 +2022,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="http://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Movies",Gen TV
-https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=6q0jpew7
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=26c4tz69
 
 nop
+
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=6q0jpew7
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-id="Neox TV" tvg-name="Neox TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox TV
@@ -2227,8 +2229,6 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://radio.energeek.cl/custom/templates/Lithium/uploads/energeeklogo-4.png" group-title="Basico",EnerGeek Radio TV
 https://stream.zeno.fm/knxfmm50df9uv
-
-https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/insolencetvgo.m3u
 
