@@ -1896,22 +1896,30 @@ si
 https://ythls-v3.onrender.com/channel/UCJjOYEwCz9t3VPMIyNSZHHA.m3u8
 https://ythls.armelin.one/channel/UCJjOYEwCz9t3VPMIyNSZHHA.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w1171022903_b1896000.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Fashion
+https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/41fa871a-c92e-46af-9b55-5ccd15582035/0.m3u8
+
 
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w1171022903_b1896000.m3u8
 
-#EXTINF:-1 tvg-id="MiamiTV.com" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV 2
+#EXTINF:-1 tvg-id="MiamiTV.com" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV 
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/e975200f-d6a1-4434-ac53-e4183c7430c7/0.m3u8
+
+no
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
-
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist_w1737542744_b1896000.m3u8
 
+#EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Food
+https://12a58c07c7864cb1aacd48273afa8149.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-foods/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MiamiTVJennyLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="XXX",Miami TV Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
+https://47a5d1da46b54926a272de4c51610d1e.mediatailor.us-east-2.amazonaws.com/v1/master/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-JennyLive/playlist.m3u8
 new
+https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy
+#EXTINF:-1 tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:-1 tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LiveJasmin_logo.svg/1280px-LiveJasmin_logo.svg.png" tvg-country="US" tvg-url="" group-title="ART",Jasmin. TV
