@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+
+#EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png?20171113104219" group-title="XXX",Hustler
+https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian
 https://live.mycamtv.com/asian.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina
