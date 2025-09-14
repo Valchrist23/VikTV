@@ -1988,10 +1988,10 @@ same
 https://bit.ly/4858KeF?profile=inspirationlivetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
-https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
 no
 https://lnc-tubi-originals.tubi.video/index.m3u8
+https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
 
