@@ -643,7 +643,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007
 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-name="Hells Kitchen en español" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Cooking",Hell's Kitchen en español
+#EXTINF:-1 tvg-id="60492b2794116800073e32dc" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="Cooking",Gordon Ramsay's Hell's Kitchen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="62ea459c8d467f0007fbec86" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://images.pluto.tv/channels/62ea459c8d467f0007fbec86/colorLogoPNG.png" group-title="Cooking",The Emeril Lagasse Channel
@@ -672,10 +672,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 -----------------------------------------Entertainment---------------------------------------------
-
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E!
-http://181.78.105.146:2000/play/a03i/index.m3u8
-
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E! Entertainment Television
 http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
