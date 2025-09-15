@@ -796,19 +796,15 @@ https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Cartoon",Disney XD
 
-https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney JR
 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network Clasico
-
 
 no
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 http://fl3.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito 
-https://tx5.nexgen.bz:4000/CARTOONITO/playlist.m3u8
 
 no
 https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w238908951.m3u8
@@ -823,6 +819,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1425402512_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Cartoon",Nex TV
+https://vcp8.myplaytv.com:1936/nextv/nextv/chunklist_w676002511.m3u8
+
+no
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Anime",BitMe
@@ -852,9 +851,10 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/800px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 same
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=mfpaA8mBSyqAxYAZutBFHJ
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65/playlist.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0_32406.ts?session=mfpaA8mBSyqAxYAZutBFHJ
@@ -871,7 +871,7 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
 
 Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
@@ -887,9 +887,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://85.239.54.197:81/live/loco_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
 no
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-language="es" tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Latino Kids Tv
