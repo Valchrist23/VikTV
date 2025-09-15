@@ -876,6 +876,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Anime Zone TV" tvg-name="Anime Zone TV" tvg-language="es" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU1MTkyZTYtMDBjNy00MGEyLThhZTgtN2NjOTlmMGQ5ZmY2XkEyXkFqcGc@._V1_.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anime Zone TV
+http://animezonetv.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
 http://51.222.85.85:81/hls/loco/index.m3u8
 
