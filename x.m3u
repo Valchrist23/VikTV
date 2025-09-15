@@ -135,7 +135,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008
 
 http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen Television
+#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 no
