@@ -678,10 +678,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae
 
 -----------------------------------------Entertainment---------------------------------------------
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E! Entertainment Television
-http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-
-https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 https://fl4.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento +",E! Entertainment Television
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+http://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 no
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
@@ -1324,9 +1326,10 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-no
-http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Syfy
+http://fl4.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",USA Network
 https://streamer1.nexgen.bz//SYFY/index.m3u8
@@ -1398,19 +1401,11 @@ http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX (KRIV-DT1) Houston TX 
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX 54
-no
-https://lnc-wxmi.tubi.video/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX
-
-no
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+http://fl4.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" roup-title="Entretenimiento +",FYI
-
-no
-http://fl3.moveonjoy.com/FYI/index.m3u8
+http://fl4.moveonjoy.com/FYI/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC ME
 https://c.mjh.nz/abc-me.m3u8
