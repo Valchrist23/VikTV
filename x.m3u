@@ -851,10 +851,11 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w14
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Cartoon",Nex TV
 https://vcp8.myplaytv.com:1936/nextv/nextv/chunklist_w676002511.m3u8
 
-no
+
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Anime",BitMe
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 no
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
@@ -1058,6 +1059,7 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 
 #EXTINF:-1 tvg-id="65e9ced78145cb00084d6598" tvg-name="RetroCrush" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Anime",RetroCrush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
 
 no
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65e9ced78145cb00084d6598/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
@@ -1153,7 +1155,8 @@ https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https
 
 
 
-#EXTINF:-1 tvg-id="Anime Time" tvg-name="Anime Time" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Cartoon",Anime Time
+#EXTINF:-1 tvg-id="Plex TV" tvg-name="Plex TV" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Cartoon",Plex TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 no
 https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8
@@ -1173,6 +1176,8 @@ https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w1786162115.m3u8
 
 #EXTINF:-1 tvg-id="Planeta Tv Kids" tvg-name="Planeta Tv Kids" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Planeta_TV_Logo.png?20171229235118" group-title="Movies",Planeta Tv Kids
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
 
@@ -1248,6 +1253,9 @@ https://streamer1.nexgen.bz/LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
+
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="Entretenimiento +",My Time Movie Network Latinoamerica 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
@@ -1326,8 +1334,8 @@ https://streamer1.nexgen.bz//SYFY/index.m3u8
 no
 http://fl3.moveonjoy.com/USA_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="WE TV" tvg-name="WE TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/332px-We_TV_logo_2014.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",WE TV
-
+#EXTINF:-1 tvg-id="Scifi-World" tvg-name="Scifi-World"" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/AXN_Sci-Fi_logo_%282015%29.svg/1200px-AXN_Sci-Fi_logo_%282015%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Scifi-World"
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
 #EXTINF:-1 tvg-id="4 Fun TV" tvg-name="4 Fun TV" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/512px-4fun.tv_Logo_%282017%29.svg.png?20220714054016" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
@@ -1347,11 +1355,14 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=100
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz
+https://fl4.moveonjoy.com/STARZ/index.m3u8
 
 no
 http://fl3.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Encore
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Star_logo.svg/800px-Star_logo.svg.png",Starz Encore Classic
+https://fl4.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 no
 http://fl3.moveonjoy.com/STARZ_ENCORE/index.m3u8
@@ -1676,6 +1687,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=br_NewKPop&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 no
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
@@ -1730,6 +1742,7 @@ https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
 
 no
+
 https://saw-stream21.radiohost.de/saw-rock-classic_mp3-192?ref=radioplayer-de&amsparams=radioplayer-de&_art=dD0xNzM5NzM5NTY3JmQ9NTNiNTBhZjhmYTFkYzdjMzRmYzk
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
@@ -2006,17 +2019,18 @@ no
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV shows 1
-
+#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten 
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 no
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Películas Top - Rakuten TV
-
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 no
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten TV Movies UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 
 no
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
@@ -2031,7 +2045,8 @@ https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
 no
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Comedias - Rakuten TV
+#EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Spark TV
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
 no
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8 
@@ -2185,16 +2200,20 @@ https://streamer1.nexgen.bz/HBO_POP/index.m3u8
 https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/799px-Showtime.svg.png" group-title="Movies",Showtime
+https://fl4.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/699px-Showtime_2.svg.png?20200720022346" group-title="Movies",Showtime 2
 http://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/674px-Showtime_Next.svg.png?20160605082517" group-title="Movies",Showtime Next East
+https://fl4.moveonjoy.com/SHOWTIME/index.m3u8
+
 http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Movies",Box Hits
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
 
 nope
 http://fpt.vthanhtivi.pw/Box_Hits/index.m3u8
@@ -2205,6 +2224,7 @@ no
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",Rock Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 no
 https://wag.ika.lat/stream/507371538
