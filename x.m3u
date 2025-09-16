@@ -797,7 +797,8 @@ https://csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video/csm/live/75051802
 https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/314px-Logo_Disney_XD.svg.png" group-title="Cartoon",Disney XD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/659e598ab9adc4000843c574/colorLogoPNG.png" group-title="Cartoon",Anime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a10e7bc2-27d2-4246-858e-3b550009b794
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney JR
 
@@ -873,7 +874,7 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
-
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 Ya NO
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
@@ -1367,7 +1368,8 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 no
 http://fl3.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 7 Los Angeles
+#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC ME
+https://c.mjh.nz/abc-me.m3u8
 
 no
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
