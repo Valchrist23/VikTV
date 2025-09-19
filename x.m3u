@@ -2116,8 +2116,9 @@ https://cloud2.streaminglivehd.com:19360/8000/8000.m3u8
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="Movies",Wow TV 
-https://live-ak.vimeocdn.com/exp=1758233660~acl=%2F4f725358-0519-425e-8ff4-d6d2c4fabc15_fmp4%2F%2A~hmac=ae00eb29a42e7da1fd3af0909b83671e3f8d211e0d23586fb2c08d51ec70ccb2/4f725358-0519-425e-8ff4-d6d2c4fabc15_fmp4/aac/256000/chunklist.m3u8
+http://cdn.elsalvadordigital.com:1936/wowtv/wowtv/playlist.m3u8
 
+https://live-ak.vimeocdn.com/exp=1758233660~acl=%2F4f725358-0519-425e-8ff4-d6d2c4fabc15_fmp4%2F%2A~hmac=ae00eb29a42e7da1fd3af0909b83671e3f8d211e0d23586fb2c08d51ec70ccb2/4f725358-0519-425e-8ff4-d6d2c4fabc15_fmp4/aac/256000/chunklist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/019/719/original/wtv-logo-wtv-letter-wtv-letter-logo-design-initials-wtv-logo-linked-with-circle-and-uppercase-monogram-logo-wtv-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="Entretenimiento +",WTV Canal 20 
