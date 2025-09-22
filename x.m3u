@@ -72,7 +72,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63d025db4e83e70008
 
 
 
-#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-chno="10" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal Once
+#EXTINF:-1 tvg-id="Canal 11" tvg-name="Canal 11" tvg-chno="10" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 11
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1398304.m3u8
 
 no
