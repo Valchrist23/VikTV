@@ -1711,7 +1711,8 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 no
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
-#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="Music",Xite
+#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="Music",The Nest
+https://streamer2.nexgen.bz/THE_NEST/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=br_NewKPop&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
