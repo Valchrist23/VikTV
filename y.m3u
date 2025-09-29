@@ -8484,7 +8484,7 @@ http://127.0.0.1:11470/dd979bd809af034db71c6a2783038968ea8660a8/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yGpJbft7JQpQHHHasRr4wWdVcuJ.jpg" group-title="Peliculas",Venus (2022)
 http://127.0.0.1:11470/291430d694fbb2d87e3b97ef294784929887b2e7/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg" group-title="Peliculas",Ballerina (2023)
-http://127.0.0.1:11470/5b6bd28168094d0b162dbb936da958e5679afff7/0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xGaI0o884H1iyiVr1WmnQ8Q0ISt.jpg" group-title="Peliculas",Dive (2022)
 http://127.0.0.1:11470/1f9fea5742ddcc49c0b52c24ff9a1490f466b2cd/0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8odZ4De1Klk0CZ8iAJNV25hMTKV.jpg" group-title="Peliculas",Maria Callas (2024)
@@ -8973,13 +8973,6 @@ https://archive.org/download/ver-the-bad-nun-3-2023-online-hd-cuevana/Ver%20The%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zWSgKZ3DVCcBr75bqHHpiINXlzg.jpg" group-title="Peliculas",Satan (2024)
 https://archive.org/download/ver-satan-2024-online-hd-cuevana/Ver%20Sat%C3%A1n%202024%20online%20HD%20-%20Cuevana.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",How to Train Your Dragon (2010)
-https://archive.org/download/abecede1_20191226/C%C3%B3mo%20entrenar%20a%20tu%20dragon.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",How to Train Your Dragon 2 (2014)
-https://archive.org/download/abecede1_20191226/C%C3%B3mo%20entrenar%20a%20tu%20dragon%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="Peliculas",How to Train Your Dragon 3 (2019)
-https://archive.org/download/como-entrenar-a-tu-dragon-3_202401/como%20entrenar%20a%20tu%20dragon%203.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pOmteFeBDI9FJOPTDvYJYFeAtdp.jpg" group-title="Peliculas",Planes Fire & Rescue (2014)
 https://archive.org/download/abecede1_20191226/Aviones%202%20Equipo%20de%20rescate.mp4
 
@@ -9117,10 +9110,15 @@ https://hlswish.com/stream/Yo5AcAsmtBmyxXDkfy7ZmQ/kjhhiuahiuhgihdf/1759150665/41
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg" group-title="Peliculas",How To Train My Dragon (2025)
 https://dl.dropbox.com/scl/fi/fvqu7sgy9jp1seuv2eyf9/Como.Entrenar.A.Tu.Dragon.2025.Web-Dl.1080P-Dual-Lat.mkv?rlkey=tiou4xmxggbqa1a0iuhz8q2st&st=3eg6pszd&dl=0
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg" group-title="Peliculas",How To Train Your Dragon 1 (2010)
+https://archive.org/download/abecede1_20191226/C%C3%B3mo%20entrenar%20a%20tu%20dragon.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg" group-title="Peliculas",How To Train Your Dragon 2 (2014)
+https://archive.org/download/abecede1_20191226/C%C3%B3mo%20entrenar%20a%20tu%20dragon%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg" group-title="Peliculas",How to Train Your Dragon 3 (2019)
+https://archive.org/download/como-entrenar-a-tu-dragon-3_202401/como%20entrenar%20a%20tu%20dragon%203.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXTybIXrytekB4TeN4xrqeI1f8G.jpg" group-title="Peliculas",The Wrath Of God (2022)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTIyNzc3NzMtNGE5YS00Yjg5LTk5MDMtOTUxMzk1ZTBkOTgwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",DC League of Super-Pets (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vKSmaPct5OEeMoD8ue30RisHlKD.jpg" group-title="Peliculas",Captain Underpants The First Epic (2022)
+https://archive.org/download/abecede1_20191226/Captain.underpants.the.first.epic.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhlNTAyY2YtNWUyYi00YmE3LWE2OTctZDI2MmJkNmZiMmY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Luck (2022)
 
