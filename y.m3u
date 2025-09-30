@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Peliculas",E.T The Extraterrestrial (1982)
 https://archive.org/download/Peliculas-wii/E.T.%20El%20Extraterrestre.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ejdkpfRuUUSrVuUKeDXEPQxFee9.jpg" group-title="Peliculas",Overture (1982)
+https://archive.org/download/lwcYGFJpf5PjLdvwhua7oLXbvsNJKufR/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg" group-title="Peliculas",The Princess Bride (1987)
 https://archive.org/download/the-princess-bride-la-princesa-prometida-1987-rob-reiner-vose/The%20princess%20bride%20%28La%20princesa%20prometida%29%201987%2C%20Rob%20Reiner%20VOSE.mp4
@@ -491,6 +493,18 @@ http://127.0.0.1:11470/997ff16588e16bb9c6e196f6ffe804917f76f71e/0
 si
 https://archive.org/download/legend-1985/TITLE_01_x264.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg" group-title="Peliculas",3:10 To Yuma (2007)
+https://archive.org/download/15Kph7voRr39iKze9a9yGNmvRDD9DFsE/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="Peliculas",Angel Has Fallen (2019)
+https://archive.org/download/lHDRBtbS9Y2LiWFgJyo5svBG7ylDj04N/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zcL30rZ71NfoCQtTwPlJiLI40qr.jpg" group-title="Peliculas",44 Minutes The North Hollywood Shootout (2003)
+https://archive.org/download/P6bR3Kywgg1rko9g82VPJzvJIj8Nop13/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lB5QylTLIKn0mQ2qEHjY8Gd4C4s.jpg" group-title="Peliculas",Last Day Of Sun (2021)
+https://archive.org/download/F9rZvckQJWoN8ZhMqtUZd4EdVUXTPo9z/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg" group-title="Peliculas",Bliss (2021)
 https://archive.org/download/superheroicos-720p/Bliss%20-720p.mp4
 
@@ -534,6 +548,9 @@ https://archive.org/download/Gattaca/Gattaca.1997.1080p.BrRip.x264.bitloks.YIFY.
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfhiVU59BSPCdOZwPNs29Z8S23K.jpg" group-title="Peliculas",Saving Mr. Banks (2013)
 https://archive.org/download/Saving.Mr.Banks.2013.1080p/Saving.Mr.Banks.2013.1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bXHaXVGncI2WKUrNRYDyTyj3ymR.jpg" group-title="Peliculas",30 Days of Night: Dark Days (2010)   
+https://archive.org/download/ABN5oBpjAasdxaLjrK3OglOF1YSRGI52/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xyqsfWcjC9TQZjGn2NLspL5YoJ4.jpg" group-title="Peliculas",Honey (2003)   
 https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
@@ -1029,6 +1046,9 @@ https://cdn.jwplayer.com/manifests/fVy6BGsJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",300 (2006)  
 https://cdn.jwplayer.com/manifests/Jqxa6aUH.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wYDdWN1McB1Sio4z1dPSkb40Z78.jpg" group-title="Peliculas",300 Rise Of An Empire (2014)  
+https://archive.org/download/eKMUBupKgAs6NwwD1AFOkdv4twnqITPz/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1MzE1MDk2N15BMl5BanBnXkFtZTYwMjEwMzI3._V1_.jpg" group-title="Peliculas",Flushed Away (2006)
 https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
@@ -2652,6 +2672,7 @@ http://archive.org/download/20220912_20220912_1114/Iron%20Man%20La%20rebeli%C3%B
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Iron Man (2008)
 http://ia801507.us.archive.org/19/items/00000_202008/00016.mp4
 
+https://archive.org/download/oNfRe7jf5fB447HgAOOubOdxAQUIVoRF/output.mkv
 https://archive.org/download/Rvngdresg/I4r0nwn%20m4a%201.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Iron Man 2 (2010)
@@ -2665,9 +2686,9 @@ http://ia601504.us.archive.org/31/items/00_20201006/00016.mp4
 https://archive.org/download/Rvngdresg/I4r0nwn%20m4a%203.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hx0sdduAsr4rq03RZKZzglR25z7.jpg" group-title="Peliculas",Blade (1998)
-
+https://archive.org/download/f11slGT1NPdDh1cVWXFHRIttiqGRFauC/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wAn6VYamKbnOtfyTZ6arVtkMzDv.jpg" group-title="Peliculas",Blade II (2002)
-
+https://archive.org/download/MiSbVMiFtdfLJatPbdT9h0xG9eoH3v4L/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="Peliculas",Blade: Trinity (2004) 
 
@@ -3840,6 +3861,11 @@ http://archive.org/download/20220917_20220917_0126/Planet%20Hulk.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg" group-title="Peliculas",1408 (2007)
 https://archive.org/download/1-l-0-tr-L0R14N/1408.2007-DuaLat-.mkv
+
+https://archive.org/download/hN4gjHs7SWOKL0F91Ts4TA20D7XHso91/output.avi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="Peliculas",1922 (2017)
+https://archive.org/download/sJodLeOy3uJL81HbuCztXk00eYPjPzvn/output.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg" group-title="Peliculas",Angry Video Game Nerd (2022)
 https://archive.org/download/movies_202211/Angry%20Video%20Game%20Nerd%20-%20The%20Movie.mp4
@@ -6328,6 +6354,13 @@ https://archive.org/download/trust-2010/Trust%202010.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg" group-title="Peliculas",1917 (2019)
 https://archive.org/download/1917.2019.1080p-dual-lat-cinecalidad.is_202102/1917.2019.1080p-dual-lat-cinecalidad.is.mp4
 
+https://archive.org/download/78UHK1KpOfK8kOwgVzW8VZ655XUxJ5xW/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg" group-title="Peliculas",12 Rounds (2009)
+https://archive.org/download/7QBUINeLtSKVWnE5t14zUnRGjVYiNirC/output.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg" group-title="Peliculas",12 Rounds 2 Reloaded (2019)
+https://archive.org/download/XhTu5ONbfwe0Q1XJZd2lpHflrNrZ5wLC/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ab4zZPuCqtDl5o71uYOAk37xGvK.jpg" group-title="Peliculas",Burnt (2015)
 https://archive.org/download/8U9N7/8U9N7-ES-1080.mp4
 
@@ -7991,6 +8024,8 @@ https://archive.org/download/am-p-5y-200-dl/C0m24m221-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg" group-title="Peliculas",The Bob Sponge Movie: Sponge Out Of Water (2015)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Sponge%20Out%20of%20Water%20%282015%29%20Latino%201080%20%40StreamingLatino.mp4
 
+https://archive.org/download/kEs4mpE6tTtB2E4163KgfWbU3bEFaz5Y/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8K73wvCTBA3XKgZTtOZWgENUnis.jpg" group-title="Peliculas",Trauma Center (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Trauma%20Center%40cine%2BcineTrauma%20Center.mp4
 
@@ -8298,12 +8333,18 @@ https://archive.org/download/tr-1g-w-4rng-224-dl/TxtrgrsC1.224-DL-.mkv
 https://archive.org/download/tr-1g-w-4rng-224-dl/N1g5wm.224-DL-.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg" group-title="Peliculas",Bill And Ted Face The Music (2020)
 https://archive.org/download/tr-1g-w-4rng-224-dl/B4T3d.f4.T.mu5.220.%20-DL-.mp4
+
+https://archive.org/download/zOkduCgEhaRe6glP9wDojZssSOMqmIqB/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iADOJ8Zymht2JPMoy3R7xceZprc.jpg" group-title="Peliculas",Furiosa: A Mad Max Saga (2024)
 https://archive.org/download/tr-1g-w-4rng-224-dl/Frza..M.M4x.224-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lJN24nn28s5afC1UnLPYRgYOp1K.jpg" group-title="Peliculas",Trigger Warning (2024)
 https://archive.org/download/tr-1g-w-4rng-224-dl/Tr1gW4rng224-DL-.mkv
 
 https://archive.org/download/UHIj7rwsI6Arl0hfsPpvxr0LcfKHFuja/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg" group-title="Peliculas",Bent (2018)
+https://archive.org/download/Fz01xSenpahIpfu6TvWjIWoaL5t5XjPy/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vdxLpPsZkPZdFrREp7eSeSzcimj.jpg" group-title="Peliculas",The Strangers Prey At Night (2018)
 https://archive.org/download/jurassic.world.fallen.kingdom.-2018.1080p-dual-lat-cinecalidad.to_202105/The.strangers.prey.at.night.2018.1080p-dual-lat-cinecalidad.to.mp4
