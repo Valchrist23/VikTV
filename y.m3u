@@ -181,6 +181,10 @@ https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Aeltt5tl02zrEj4GoMynHc94lWG.jpg" group-title="Peliculas",Chaplin (1992)
 https://archive.org/download/SE5g5uDV5ulYY788Rrl0kxt4xf8cL2Ai/output.mkv
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg" group-title="Peliculas",Kadaver (2020)
+https://archive.org/download/mQUoqNB47PXrvxYmG7DVMNmid9qUhasY/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjvdUaWf2Ib8aI3bRFi4oEDhQrc.jpg" group-title="Peliculas",All You Need Is Love (2009)
 https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20All%20You%20Need%20Is%20Love%20%282009%29.mp4
 
@@ -1225,6 +1229,8 @@ https://tvinnov.online/Peliculas/Pacific%20Rim/Pacific%20Rim%20Uprising%20LAT.mp
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNkNjhhMzEtNmFkOS00YjZmLWFiYzgtYWRmZGZiYmRlMjg3XkEyXkFqcGdeQXVyMTg1MTU3OTk@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",I'll Take Your Dead (2018)
 https://cdn.jwplayer.com/manifests/P2w05rte.m3u8
+
+https://archive.org/download/lnfCYM2CVuwDmfhcx3L4uVXGlLqNRP4A/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Ready Player One (2018)
 https://cdn.jwplayer.com/manifests/FvRRZgBJ.m3u8
@@ -8168,6 +8174,8 @@ https://archive.org/download/blancanieves_202403/Blancanieves.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tYXOOkDxJ7jSvUX5j1Hbks1GjBZ.jpg" group-title="Peliculas",The Da Vinci Code (2006)
 https://archive.org/download/codigo-davinci-latino/CODIGO_DAVINCI_LATINO.mp4
+
+https://archive.org/download/PmPApvlLHppBrioMq8fEzSNbrh5yytCn/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" group-title="Peliculas",Kate (2021)
 https://archive.org/download/kb-1-v-2204-dl/Kt221-DL-.mp4
