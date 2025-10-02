@@ -3544,6 +3544,9 @@ https://archive.org/download/5ytXSnN106b9ZJ2rXWGXY1lfX2js8udb/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n5C3PSYfjpUqBhyVWEWJQmM3Sr9.jpg" group-title="Peliculas",Inferno (1999)
 https://archive.org/download/inferno.-1999.1080p.-blu-ray.x-264.-aac-yts.-mx/Inferno.1999.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cnqvFvjAaV28F1tU7986VVg0WP7.jpg" group-title="Peliculas",Inferno (2016)
+https://archive.org/download/GtXzuv25KghWAQtaSBhBAnzJaBvrp29p/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q41zGgRXfhvnObJnn1kGIyoAhSu.jpg" group-title="Peliculas",Replicant (2001)
 https://archive.org/download/2001-replicante_202403/2001%20replicant.mkv
 
@@ -3855,12 +3858,14 @@ http://archive.org/download/John_S-1J_LCD4P/05.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t7Pv44sBcxhc47kNNDDafNAgr7Y.jpg" group-title="Peliculas",Indiana Jones And The Temple Of Doom (1984)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/2.EL%20TEMPLO%20MALDITO%20%281984%29%20%E2%9C%94.mp4
 
+https://archive.org/download/B6mU0IkeDFGLBzq25H53Q5VIPEygpc1N/output.mkv
 si
 https://archive.org/download/etwm-1975_20220201/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%201984.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg" group-title="Peliculas",Indiana Jones And The Last Crusade (1989)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.LA%20ULTIMA%20CRUZADA%20%281989%29.mp4
 
+https://archive.org/download/cFUoJFPhUIEGtTozWFMeZgfZkqxD3tWG/output.mkv
 si
 https://archive.org/download/etwm-1975_20220201/Indiana%20Jones%20and%20the%20Last%20Crusade%201989.mp4
 
@@ -3881,12 +3886,14 @@ https://archive.org/download/FeCm5bUqLyhTU150cmKw6N8D2fMVXzKe/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ggTTUXZg7trvAhsVj3eyd65bAnh.jpg" group-title="Peliculas",Ip Man (2008)
 https://archive.org/download/ip-man-01/Ip%20man%2001.mkv
 
+https://archive.org/download/dLh7mHdSKB1p82EvJoG6e64WAnSrQjjK/output.mkv
 si
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/IP%20MAN%201%20%282008%29%20%E2%9C%94.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yB5v6wRhIoZxlDvCFFCQhUNezDY.jpg" group-title="Peliculas",Ip Man 2 (2010)
 https://archive.org/download/ip-man-02/Ip%20man%2002.mp4
 
+https://archive.org/download/FvzHWAVCTpXa2hpmdg4O5ezBohE6auRB/output.mkv
 si
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/IP%20MAN%202%20%282010%29%20%E2%9C%94.mp4
 
@@ -3901,12 +3908,16 @@ http://148.103.150.202/peliculas%20Accion/Ip%20Man%203.mp4
 http://ia601406.us.archive.org/25/items/000_20200304_20200304/01.mp4
 
 si
+https://archive.org/download/ocJdADrkLqe0T82aTYORMvXp4JnTMcfX/output.mkv
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/IP%20MAN%204%20%282018%29%20%E2%9C%94.mp4
 https://archive.org/download/ip-man-04/Ip%20man%2004.mkv
 http://89.187.179.11:88/Latino/Movies/Dual_Movies/2019/Ip.Man.4.2019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A7vhdyGrpPMKXsuFBZzxmave94F.jpg" group-title="Peliculas",Ip Man The Awakening (2022)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/IP%20MAN%20LA%20LEYENDA%20%282010%29%20%E2%9C%94.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg" group-title="Peliculas",Ip Man A Legend Is Born (2010)
+https://archive.org/download/PurZ8a0eF7gaYsSyrqzgTtPrUbQ4i9lY/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w1SBqj0fn1j72ST5i1jauWo3swT.jpg" group-title="Peliculas",Wonder Woman: Bloodlines (2019)
 
