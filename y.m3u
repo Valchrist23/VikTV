@@ -1109,8 +1109,15 @@ https://archive.org/download/h5to7MS52gkjzfrj3VdE4POVBnvZeIOT/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg" group-title="Peliculas",The Darkest Hour (2017)
 https://archive.org/download/W7O3a4RXLkXDx4EDnMk4gm50igmbVhq0/output.avi
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18HVWwyLihWJPzGpSVl3omRRMyL.jpg" group-title="Peliculas",Maximum Risk (1999)
+https://archive.org/download/xTuLUzjOR5y3U8WluyFDUDNxRAIxOgkW/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" group-title="Peliculas",Lifechanger (2018)
 https://archive.org/download/daS0NVvcPRZiFJB8bTGahPIg3Gnfcw1L/output.mkv
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oB281saxibom0KC3Ndz81aJJtaa.jpg" group-title="Peliculas",Mermaid Down (2019)
+https://archive.org/download/CH8HAKam4SPDbzWHHF9pxZamGsMrJcef/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qOWZJgeEvH9ETqCFqxc6803l00H.jpg" group-title="Peliculas",Deliver Us From Evil (2014)
 https://archive.org/download/bZGROtc3CqSRlBKEvHy4LEqi7MCzTBEv/output.mp4
@@ -1298,6 +1305,9 @@ https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 si
 
 https://archive.org/download/altillo1/Rango.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg" group-title="Peliculas",Mannequin (1987)
+https://archive.org/download/FMVeOKCE3mDfcHjQdRLXqRRKunKa0WIE/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg" group-title="Peliculas",The Adventures Of Sharkboy And Lava Girl (2005)
 https://archive.org/download/jbJ7QzwpNsDhLLnD8qOT1tV54ne8JIKN/output.mkv
@@ -1743,6 +1753,8 @@ https://dl.dropbox.com/s/s0ij5jaf0nh2tp8/The.hero.2017.1080p-dual-lat-cinecalida
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8H6dPqXhHWW137ubxqD4HdHTib.jpg" group-title="Peliculas",Man On Fire (2004)
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/Hombre%20en%20Llamas.mp4
 
+https://archive.org/download/Dm5Rloa3ZWTMBA31MNvPXxE4raCrhzaU/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8KomINZhIuJeB4oB7k7tkq8tmE.jpg" group-title="Peliculas",Wonder Park (2019) -Dual Lat-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6Biy7R9LfumYshur3YKhpj56MpB.jpg" group-title="Peliculas",War Of The Worlds (2005)
@@ -1993,6 +2005,7 @@ http://archive.org/download/2_20221006_20221006/la%20extra%C3%B1a%20vida%20de%20
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDAxMzBlZTUtNTgwNS00NjZhLWJjZmItMDBjZjhhZTM4OWQ2XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Over The Moon (2020)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Over.the.moon.2020.1080p-dual-lat-cinecalidad.is.mp4
 
+https://archive.org/download/YTRtIL0G9yCIBBwX8ujvOLcdEdFekHzD/output.mkv
 http://archive.org/download/2020_202209_202209/M%C3%A1s%20all%C3%A1%20de%20la%20Luna%202020.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZiYjIyOGItYmQ2ZS00N2QwLTkzYTUtNjU5ZjhiNDI2ZWY5XkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pokemon Arceus Chronicles (2022) 
@@ -5428,11 +5441,22 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Aves%
 https://archive.org/download/9qtWw4iUhpzePuH4N2gxXtdUJZA0NijL/output.mkv
 https://archive.org/download/blextv4/Birds.of.prey.and.the.fantabulous.emancipation.of.one.harley.quinn.2020.1080p-dual-lat-cinecalidad.is.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yjDvqAMyFlesBtWNUUZMgglo78y.jpg" group-title="Peliculas",Bulletproof Gangster (2011)
+https://archive.org/download/o7c0WTjFuJyHx3jkW9BANPxm57FyMqlR/output.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Irishman (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/El%20irland%C3%A9s%40pelisyseriescomolocos.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI5YzQ0MDEtZDlhOS00ZjQzLWExMDktNWFiMjU1ZjA5NzVjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Guns Akimbo (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Guns%20Akimbo%40pelisyseriescomolocos.mp4
+
+https://archive.org/download/GgfBo322xjxqdWG1emJvviHJ92EK1Rm9/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bymJtYNIdiAiBR1LRetaJXbfryc.jpg" group-title="Peliculas",Backdraft (1991)
+https://archive.org/download/g4HBRcwxoKoya1StwBrwXFoe91ff4C8U/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg" group-title="Peliculas",Backdraft 2 (2019)
+https://archive.org/download/Fq88sspVByXMaCJKM0RiBkXCYrrqNBZI/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ViNDJjNzEtNmRmOS00MDA2LTljMTgtZTNiOTdhNmMzMzU0XkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Iron Mask (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/El%20misterio%20del%20drag%C3%B3n%40pelisyseriescomolocos.mp4
@@ -5570,6 +5594,11 @@ https://archive.org/download/como-me-converti-en-superheroe/At%C3%B3mica.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ctViyxTFf7r89sUg7jWNqk7cbbT.jpg" group-title="Peliculas",Beyond Skyline (2017)
 https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.mp4
+
+https://archive.org/download/Otu0JKQKjylwupl4UFrIMitrE83EFUHk/output.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hZ4p0MvSUWnCCL0IUn47UXTVPCs.jpg" group-title="Peliculas",Shoot em Up (2007)
+https://archive.org/download/PLu9Zfc2J1LXDjRqHEcHzDBSu5Z3JrED/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/miih6wAp8eFCaGGoeFH9nGv8rox.jpg" group-title="Peliculas",Miraculous: Tales of Ladybug & Cat Noir (2015)
 https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.mp4
@@ -7558,8 +7587,12 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/S0rd4r0nl1nPr0gv%20-%205ch3rz0%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg" group-title="Peliculas",Speed (1994)
 https://archive.org/download/speed-1994_202410/SPEED%20%20%281994%29.ia.mp4
 
+https://archive.org/download/jtRxaxZOPUgBI2WwmSkJfmzre80hPvgK/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gnK1ocpwUTj24zAktzomOJsD2bu.jpg" group-title="Peliculas",Speed 2 (1994)
 https://archive.org/download/speed-2-1997/Speed%202%20%20%281997%29.ia.mp4
+
+https://archive.org/download/lg0ehqgWsem8xRq7tDTyjVLqUyK6C1zL/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f4p18CwxidvznZYMA6m4qv5FCvp.jpg" group-title="Peliculas",Speed Kills (2019)
 
