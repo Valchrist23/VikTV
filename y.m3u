@@ -80,6 +80,9 @@ https://archive.org/download/nqcN9GJKVIoVd4iiAPcjKWl19YZSvUQi/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fZ0Y2qSDKQJolrQhIDpTwx3GlYB.jpg" group-title="Peliculas",Twister (1996)
 https://archive.org/download/twister-1996/TWISTER%20%20%281996%29.ia.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4adI7IaveWb7EidYXfLb3MK3CgO.jpg" group-title="Peliculas",Scent Of A Woman (1992)
+https://archive.org/download/1iqr2uDhVCU39VD0fwzxpz5CSNhN6yox/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8hvt4L3EXWq3ANutok32ODQIGwV.jpg" group-title="Peliculas",Black Dog (1998)
 https://archive.org/download/black-dog-1998_202409/BLACK%20DOG%20%20%281998%29.ia.mp4
 
@@ -99,6 +102,8 @@ https://archive.org/download/0PJv0JWchqRcvgPjpUWBWofehKi0vFM4/output.mkv
 https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B0n%20O%20T%20F0rt%200%20Ju%20989%20-Dl-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="Peliculas",Pearl Harbor (2001)
+https://archive.org/download/HmE7PXVGB5t1jSHVyNhvpPYRcm5qyVZC/output.mkv
+
 https://archive.org/download/pearl.harbor.film/Pearl%20Harbor%202001%20Directors%20Cut.720p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lKXINU3ApbhFPQJ3pqgMzGPCYnH.jpg" group-title="Peliculas",Up In Smoke (1978)
@@ -144,6 +149,12 @@ https://archive.org/download/xbznznaj_202105/Xbznznaj.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/3134/posters/3134.jpg",Monster (2003)
 https://archive.org/download/slkgjlkfjgdlfkvm/Monster.2003.BDrip.subesp.gnula.avi.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sUzAJwxeGiODOVmsIGrgXcy9aj1.jpg",Piranha (2010)
+https://archive.org/download/1BY2SZLYBXHvwTvvSweyjIQXcLvITJMt/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eOLA3IrZATSz5FQ6fmG0Q6sSVyq.jpg",Piranha 3DD (2012)
+https://archive.org/download/JzVqW8zYATHbD9sxqq5naNxELCSoIYtY/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMKWiDmQu3OUZqvOYp99qJkB6Xw.jpg",The Beastmaster (1982)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%20%281982%29.mp4
@@ -1322,10 +1333,6 @@ https://cdn.jwplayer.com/manifests/zFQVncnu.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Rango (2011)
 https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 
-si
-
-https://archive.org/download/altillo1/Rango.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg" group-title="Peliculas",Mannequin (1987)
 https://archive.org/download/FMVeOKCE3mDfcHjQdRLXqRRKunKa0WIE/output.mkv
 
@@ -1497,7 +1504,6 @@ https://cdn.jwplayer.com/manifests/9XEgWDvt.m3u8
 http://archive.org/download/bekoxuceno2/Sub1d0_p4r4_5tr34ming_A85_V4r145_71/8.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aKwgGlhdhdbx0duJhCRojkEZXgU.jpg" group-title="Peliculas",Little Bird's Big Adventure (2017)
-https://archive.org/download/altillo1/Una%20cigue%C3%B1a%20en%20apuros.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9fGjmzxdiKWsrlY3syrm2aXeTq7.jpg" group-title="Peliculas",Bushwick (2017)
 
@@ -1665,10 +1671,12 @@ https://archive.org/download/randommoviesdump/Equilibrium.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg" group-title="Peliculas",Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.LA%20MALDICI%C3%93N%20DE%20LA%20PERLA%20NEGRA%20%282003%29%20%E2%9C%94.mp4
 
+https://archive.org/download/Wytq1a3socUm9rO620QZidMdfGglsV9A/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: Dead Man's Chest (2006)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/2.EL%20COFRE%20DEL%20HOMBRE%20MUERTO%20%282006%29%20%E2%9C%94.mp4
-
+si
+https://archive.org/download/tBNzmV1DlpExG542YM4PCxWWy2GbewyI/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: At World's End (2007)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.EN%20EL%20FIN%20DEL%20MUNDO%20%282007%29%20%E2%9C%94.mp4
@@ -1676,10 +1684,14 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 si
 https://archive.org/download/pelis-rmvb/piratas%20caribe%203%20En%20el%20fin%20del%20mundo.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg" group-title="Peliculas",Pirates of the Caribbean: On Stranger Tides (2011)
+https://archive.org/download/sSAZlvo7E7vx7GfUapCybFobRcxuEIib/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Pirates of the Caribbean: Dead Men Tell No Tales (2017)
+https://archive.org/download/ZbSYiWStPYLOARibUxU6Rrf4pzar7AKy/output.mkv
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg" group-title="Peliculas",Platoon (1986)
+https://archive.org/download/sji1JgHIfAOsHia77Wk7Vp4xbTxIX9FD/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPrJPZKJVhvyJ4DmUTrDgmFN0yG.jpg" group-title="Peliculas",Guardians of the galaxy (2004)
 https://archive.org/download/Rvngdresg/wt%20Gu4d4n3s%20d33%20la%20Gw4lr4xi4%20vl1.mp4
@@ -1803,8 +1815,6 @@ https://fina.dyndns.tv/Peliculas/Infierno%20de%20Dante.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Up (2009) 
 http://ia601503.us.archive.org/12/items/sototo_patonce_05/05.mp4
-
-https://archive.org/download/altillo1/Up%20Una%20Aventura%20de%20Altura.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTNmZDc0ZDEtZjY3Ni00YmVjLTljNWQtMTE3NDAxNWFhMDk4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Goonies (1985)
 http://archive.org/download/John_S-1J_LCD4P/11.avi
@@ -2224,8 +2234,6 @@ https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Peli
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NmMGY5M2EtYTUxMy00OTY4LTgwYWMtM2YzODdhZTI2Yzc4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjYxNzY5MjE@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Sahara (2017)
 http://bit.ly/SAHARAMOVIE
-
-https://archive.org/download/altillo1/Sahara.mp4
 
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
@@ -3060,6 +3068,9 @@ https://archive.org/download/MiSbVMiFtdfLJatPbdT9h0xG9eoH3v4L/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" group-title="Peliculas",Blade: Trinity (2004) 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yj8LbTju1p7CUJg7US2unSBk33s.jpg" group-title="Peliculas",Wolverine Origins (2009)
+https://archive.org/download/E2aRLaJmiJsW2DMi78xeGWyPgh1co3xA/output.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg" group-title="Peliculas",The Wolverine (2013)
 
 
@@ -3149,7 +3160,7 @@ https://archive.org/download/venom-carnage-liberado-1080p-dual-id-580489/Venom%2
 https://archive.org/download/venom-carnage-liberado-1080p-dual-id-580489/Venom%20Carnage%20Liberado%201080p%20DUAL%20id_580489.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg" group-title="Peliculas",Black Panther (2018) 
-https://archive.org/download/Rvngdresg/blck%20plntsr.mp4
+https://archive.org/download/eQ5qJDRLHZJxtBRZ458f7k02mfxzN3Jp/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="Peliculas",Black Panther Wakanda Forever (2022)
 https://archive.org/download/fdvgh65VHS99.222-DL-/BP4nW4kF0rvr.222.mp4
@@ -3636,13 +3647,15 @@ https://archive.org/download/inseparables-2016/El%20especialista%201994.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg" group-title="Peliculas",Timecop (1994)
 https://archive.org/download/1-l-0-tr-L0R14N/T1m3c0p.1994%20-DuaLat-.mkv
 
+https://archive.org/download/mZxbWnQV2WB4HczzkTVo7CiHZWMdfD9U/output.mkv
+magnet:?xt=urn:btih:3dfbef87e1557e9c88e06fe92213b0d5d865c9ea
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzU1YmJjMGEtMjY4Yy00MTFlLWE3NTUtNzI3YjkwZTMxZjZmXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Total Recall (1990)
 https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
 
 https://archive.org/download/wvx7vI30npk3CfbrGMIwDHQfTcPG5yWC/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE5ODEzOTMtZmU2ZS00NjUwLWIwMDMtMTVlYjdkOTQ4ZjUzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The 6th Day (2000)
-
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",The Terminator (1984)
@@ -3699,6 +3712,7 @@ https://archive.org/download/A10XramLLminMissqbgWGqG1IYo5tpXY/output.mkv
 https://archive.org/download/t-40-y-0-v-1205-dl/H4rT4993.mkv
 
 si
+https://archive.org/download/ia7Q1dSLYndJjOCNe0hPdCKRkDq7ZBqr/output.mkv
 https://archive.org/download/hard-target-patched-cut/Hard%20Target%20patched%20cut%20v7.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg" group-title="Peliculas",Double Impact (1990)
@@ -3881,10 +3895,6 @@ https://archive.org/download/PelNavvVariass/Watch%20Pobre%20Angelito%20720%20bdr
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="Peliculas",Home Alone 2: Lost in New York (1992)
 https://archive.org/download/PelNavvVariass/Watch%20Pobre%20Angelito2%20720%20bdrip%20lat%20mp4.mp4
-
-https://archive.org/download/altillo1/Mi%20Pobre%20Angelito%202.mp4
-
-https://archive.org/download/altillo1/Mi%20Pobre%20Angelito%20Solo%20en%20Casa%20Home%20Alone.mp4
 
 https://archive.org/download/mipobre_202108/Home.Alone.2.Lost.in.New.York.1992.lati.mp4
 
@@ -4696,9 +4706,6 @@ https://archive.org/download/unaparejaexplosiva11998/rush%20hour%20saga/Una%20Pa
 https://archive.org/download/unaparejaexplosiva11998/rush%20hour%20saga/Una%20Pareja%20Explosiva%203%202007.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg" group-title="Peliculas",Brave (2012)
-https://archive.org/download/videotime-cine-latino/Valiente.mp4
-
-https://archive.org/download/altillo1/valiente.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg" group-title="Peliculas",Intersection (2020)
 https://archive.org/download/la.-encrucijada.-2020.1080p-dual-lat/La.Encrucijada.2020.1080p-dual-lat.mp4
@@ -4713,8 +4720,6 @@ https://archive.org/download/HOW5NBRgv3EPVU62Wun0zRY2QgOGynB3/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg" group-title="Peliculas",Space Jam (1996)
 http://archive.org/download/motion-ninja-video-2022-01-20-01-34-18/Motion%20Ninja_Video_2022-01-20_01_34_18.mp4
-
-https://archive.org/download/altillo1/Space%20Jam.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjkyOGUzNjctZDlmNy00ZjdmLWI5NjgtNzcxMTAzZGRiOWU0XkEyXkFqcGdeQXVyMTA3MzQ4MTg0._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Harui No Shoushitsu (2010)
 http://archive.org/download/1_20191203/Subid0_p4r4_stream1ng_A85/1.mp4
@@ -5051,7 +5056,7 @@ http://pilarika.no-ip.org/Cine/Cine_03/025_-_Los_Caballeros_Del_Zodiaco_La_leyen
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg" group-title="Peliculas",Night at the Museum (2006)
-https://archive.org/download/altillo1/Una%20Noche%20en%20el%20Museo.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Peliculas",47 Ronin (2013)
 http://archive.org/download/1_20190723/sub1d0_p4r4_5tr34ming_A85/1.mkv
@@ -5201,7 +5206,7 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Zombi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg" group-title="Peliculas",Zootopia (2016)
 https://archive.org/download/ZUTOPIA/Zootopia.2016.1080p.BDRip.LATiNO.ENG.x264.AC3.DTS.mp4
 
-https://archive.org/download/altillo1/Zootopia.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h4Ny82lizNTdTH2MFLjjyOVDWtk.jpg" group-title="Peliculas",Alien Abduction (2014)
 https://archive.org/download/alien.abduction.-2014.1080p-dual-lat/Alien.abduction.2014.1080p-dual-lat.mp4
@@ -5265,7 +5270,8 @@ http://ia601404.us.archive.org/26/items/00000_20200926/000012.mp4
 https://archive.org/download/ne5Ld0UFCW7biSbQmDj6IC21ELPsNhZd/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg" group-title="Peliculas",Ratatouille (2007)
-https://archive.org/download/altillo1/Ratatouille.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="Peliculas",Joker (2019)
 http://ia601401.us.archive.org/10/items/000_20191221/3.mp4
@@ -5289,6 +5295,9 @@ https://archive.org/download/las-cronicas-de-narnia-el-principe-caspian/YouCut_2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bq3gU60TkgBjLUbxSSZVhDhlhmH.jpg" group-title="Peliculas",Your Highness (2011)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Una%20Loca%20Aventura%20Medieval%20%282011%29%20Lat1080%20%40StreamingLatino.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/is2wNqEH4CBw5JsrWzpDG1boQBj.jpg" group-title="Peliculas",Operation Merry Christmas (2021)
+https://archive.org/download/tpAi8yPzowiANtgltMEf1jgySg9JxvlR/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5K8GhYPPt7LlKJv4BYBxSyqq9FD.jpg" group-title="Peliculas",Black Christmas (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Navidad%20Sangrienta%40pelisyseriescomolocos.mp4
@@ -6490,7 +6499,6 @@ https://archive.org/download/t-3-musk.-93-d/TB0B4b.217-D-.mp4
 
 si
 https://archive.org/download/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales.mp4
-https://archive.org/download/altillo1/Un%20jefe%20en%20pa%C3%B1ales.mp4
 http://archive.org/download/t0y2t0r7/UNJ3F3ENP1%C3%91.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg" group-title="Peliculas",The Boss Baby 2 Family Business (2021)
@@ -6635,37 +6643,34 @@ https://archive.org/download/lluvia-de-hamburguesas-1-2009/Lluvia%20de%20Hamburg
 https://archive.org/download/lluvia-de-hamburguesas-1-2009/Lluvia%20de%20Hamburguesas%202%20%282013%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg" group-title="Peliculas",My Little Pony (2017)
-https://archive.org/download/altillo1/My%20Little%20Pony%20La%20pelicula.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg" group-title="Peliculas",Monsters University (2013)
-https://archive.org/download/altillo1/Monsters.University.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg" group-title="Peliculas",Oz The Great And Powerful (2013)
-https://archive.org/download/altillo1/Oz%20El%20Poderoso.mp4
+https://archive.org/download/JWL9kF5pprYFSQnjz9rwGcEp22yVS70w/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg" group-title="Peliculas",Inside Out (2015)
-https://archive.org/download/altillo1/Intensa%20Mente.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aotTZos5KswgCryEzx2rlOjFsm1.jpg" group-title="Peliculas",The Book Of Life (2014)
-https://archive.org/download/altillo1/The.Book.of.Life.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/inTKQni4YW8syrfgnXHwzmNeSo4.jpg" group-title="Peliculas",Turbo (2013)
-https://archive.org/download/altillo1/Turbo.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg" group-title="Peliculas",Minions (2015)
-https://archive.org/download/altillo1/Minions.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ys0jZr0quHERDUEoCboGQEKPvgQ.jpg" group-title="Peliculas",Moana (2013)
-https://archive.org/download/altillo1/Moana%20Un%20mar%20de%20aventuras.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Peliculas",6 Underground (2019)
-https://archive.org/download/oracu1_201912/oracu11950.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zKY2nJPozrItOsSCkjgY7QPkLrE.jpg" group-title="Peliculas",Legend of the Guardians: The Owls of Ga'Hoole (2010)
-https://archive.org/download/altillo1/Ver%20Ga%E2%80%99Hoole%20La%20leyenda%20de%20los%20guardianes.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg" group-title="Peliculas",Nex Gen (2018)
-https://archive.org/download/altillo1/Robot%207723.mp4
-
 https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4M5urSlUyR2PtVBIoW9hLG9NQCQ.jpg" group-title="Peliculas",Total Recall (2012)
@@ -7583,6 +7588,11 @@ https://archive.org/download/pp-174-pp/FP48PF.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg" group-title="Peliculas",Parasite (2019)
 https://archive.org/download/pp-174-pp/PP174PP.mkv
+
+https://archive.org/download/M5XGW9ugF7DJsvLnmjWnR1cxPzTBXGP3/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r4VQCZe3aSo7TmmsxcyLqaoMR1l.jpg" group-title="Peliculas",Peaceful Warrior (2006)
+https://archive.org/download/OPV2zU8jEsSjV6qTsVES6ZuBJWZxU9RP/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1PIkAGBkiOr1CJWXyq47oHvIMVa.jpg" group-title="Peliculas",Spree (2020)
 https://archive.org/download/pp-174-pp/Spr33.020-SL-.mkv
@@ -9452,10 +9462,6 @@ http://127.0.0.1:11470/f4b084a09375e374bd418d74347006a522071c30/0
 http://127.0.0.1:11470/971f4bff573a7b288c18825f7368aa005f2ccdda/0
 magnet:?xt=urn:btih:971f4bff573a7b288c18825f7368aa005f2ccdda&dn=De.Vuelta.A.La.Accion.2025.1080P-Dual-Lat
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg" group-title="Peliculas",Timecop streamlink (1994)
-http://127.0.0.1:11470/3dfbef87e1557e9c88e06fe92213b0d5d865c9ea/0
-magnet:?xt=urn:btih:3dfbef87e1557e9c88e06fe92213b0d5d865c9ea
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg" group-title="Peliculas",It (2017)
 https://archive.org/download/it-eso-2017-parte-2-hd-1080p-latino/IT%20ESO/It%20%28Eso%29%20%282017%29%20%20parte%201%20HD%201080p%20Latino.mp4
 
@@ -9902,6 +9908,10 @@ https://archive.org/download/vUEVvQzC7T6hrqqiSsrm1e7obX0imQDF/output.mkv
 https://archive.org/download/ZqEFpcGXuuJccY5gIZxSKUk8d2eG7tAO/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg" group-title="Peliculas",Valkyrie (2008)
+https://archive.org/download/sj2gFjuY5WnoxqfpHDnVVnKgZbCjLILF/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg" group-title="Peliculas",I Origins (2014)
+https://archive.org/download/8jBbPozUZYOClnHt0jjIoNvuXtvtgRJs/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hyZkNEbNgnciUVTyu4NZTjlCh4L.jpg" group-title="Peliculas",Signs (2002)
 
