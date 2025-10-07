@@ -1,7 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg" group-title="Peliculas",Twilight (2008)
-https://archive.org/download/tl-1208-dl/Tl1208%20-DL-.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E01%20-%20Death%20of%20Some%20Salesmen.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E02.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E03%20-%20Forever%20Ambergris.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E04%20-%20Food%20for%20Thought.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E05%20-%20People%20Who%20Live%20in%20Brass%20Hearses.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E06%20-%20Two%20for%20the%20Show.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E07%20House%20of%20Horror.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="Peliculas",Tales From The Crypt (1989-90s)
+https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E08%20-%20Well%20Cooked%20Hams.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/81189-1-3.jpg" group-title="TVSeries",Breaking Bad S01E01
 https://archive.org/download/ver-breaking-bad-1x-1-online-gratis-completas-hd/Ver%20Breaking%20Bad%201x1%20Online%20Gratis%20Completas%20HD.mp4
