@@ -1274,7 +1274,12 @@ https://archive.org/download/visionaries-disc-1/VISIONARIES_DISC1.mp4
 https://ia801406.us.archive.org/10/items/visionaries-disc-1/VISIONARIES_DISC2.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="TV Series",z Record of Lodoss War Vol1
+https://archive.org/download/rolw1/hdr1.ia.mp4
+
 https://ia902602.us.archive.org/6/items/rolw1/hdr1.ia.mp4?cnt=0
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="TV Series",z Record of Lodoss War Vol 5-8
+https://archive.org/download/Record_of_the_Lodoss_War_Episodes_5-8/Record_of_the_Lodoss_War_Episodes_5-8.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="TV Series",Record of Lodoss War S01E01
 http://127.0.0.1:11470/5dfd2986943552b341b4fb1e3dc515b0019dfd2e/0
@@ -7965,6 +7970,12 @@ https://archive.org/download/arc-the-lad/mkv/Arc%20The%20Lad%2025%20%5BUPSACALE%
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/79268-1.jpg" group-title="TVSeries",Arc The Lad 26
 https://archive.org/download/arc-the-lad/mkv/Arc%20The%20Lad%2026%20%5BUPSACALE%20waifuX2%201440x1080%5D%20%5Bcat%20-%20esp%20-%20jap%5D%20fet%20per%20ElMillorAnime.mkv
 
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/453673/posters/67f3cc34cc80b.jpg" group-title="TVSeries",Orphen
+https://archive.org/download/1999-2000-Orphen/%5B1999-2000%5D%20Orphen_%E9%AD%94%E8%A1%93%E5%A3%AB%E6%AD%90%E8%8F%B2%28%E9%AD%94%E8%A1%93%E5%A3%AB%E3%82%AA%E3%83%BC%E3%83%95%E3%82%A7%E3%83%B3%29_TV/%5B1999-2000%5D%20Orphen_%E9%AD%94%E8%A1%93%E5%A3%AB%E6%AD%90%E8%8F%B2%20%E7%AC%AC2%E6%9C%9F%28%E9%AD%94%E8%A1%93%E5%A3%AB%E3%82%AA%E3%83%BC%E3%83%95%E3%82%A7%E3%83%B3%20Revenge%29_TV/DVDRip.MKV.640x480.RAW.U2/%5BMY-RAW%5D%5BOrphen_The_Revenge%5D%5B01%5D%5BDVDRip%5D%5B640x480%5D%5BAVC_AAC%5D%5B455E345E%5D.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/3015/posters/667950a7e8770.jpg" group-title="TVSeries",The Last Unicorn (1982)
+https://archive.org/download/the-last-unicorn/The%20last%20unicorn.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/453673/posters/67f3cc34cc80b.jpg" group-title="TVSeries",Uma Musume: Cinderella Gray Part 2 10
 https://nika.playmudos.com/ZzhzNFp6eGFZdm0wSWQveFhtNlF4eVRTZTFrMmtTc2JvSUxBUkVEcUxud201bnkweHE1T0o5djdhMVExN25yTQ.m3u8
