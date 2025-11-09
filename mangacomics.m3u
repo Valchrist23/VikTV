@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/ENTREVISTACONELVAMPIROANNERICE/__ia_thumb.jpg",La Entrevista Con el Vampiro 01
+https://archive.org/download/ENTREVISTACONELVAMPIROANNERICE/ENTREVISTACONELVAMPIROANNERICE.pdf
+#EXTINF:-1 tvg-logo="https://archive.org/download/principe-lestat-annerice/__ia_thumb.jpg",Lestat Principe de los Vampiros 02
+https://archive.org/download/principe-lestat-annerice/PRINCIPE-LESTAT-ANNERICE.pdf
+#EXTINF:-1 tvg-logo="https://archive.org/download/principe-lestat-annerice/__ia_thumb.jpg",La Reina de los Condenados 03
+https://archive.org/download/la-reina-de-los-condenados-annerice/LA%20REINA%20DE%20LOS%20CONDENADOS-ANNERICE.pdf
+#EXTINF:-1 tvg-logo="https://archive.org/download/la-reina-de-los-condenados-annerice/__ia_thumb.jpg",Cronicas Vampiricas El Despertar 04
+https://archive.org/download/despertar-cronicas-vampiricas-lj.-smith/DESPERTAR%20CRONICAS%20VAMPIRICAS%20LJ.%20SMITH.pdf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Masters_of_the_Universe.png/250px-Masters_of_the_Universe.png",Heman Comic 01
 https://archive.org/download/He-manMiniComics/00MastersOfTheUniverse1981.cbr
