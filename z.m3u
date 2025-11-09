@@ -3933,6 +3933,8 @@ https://archive.org/download/lat-04/%28Lat%29-04.mp4
 https://archive.org/download/lat-05/%28Lat%29-05.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/171591-9.jpg" group-title="TV Series",S01E06 Highschool Of The Dead
 https://archive.org/download/lat-06/%28Lat%29-06.mp4
+
+https://archive.org/download/3tgsgr/3tgsgr.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/171591-9.jpg" group-title="TV Series",S01E07 Highschool Of The Dead
 https://archive.org/download/lat-07/%28Lat%29-07.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/171591-9.jpg" group-title="TV Series",S01E08 Highschool Of The Dead
@@ -4478,7 +4480,7 @@ https://nika.playmudos.com/bastard-ankoku-no-hakaishin-ona/VTh4NTJqQ0NqM1dET05hS
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1981784/posters/62bf516eda7ec.jpg" group-title="TV Series",S01E12 BasTard Heavy Metal Dark Fantasy
 https://nika.playmudos.com/bastard-ankoku-no-hakaishin-ona/VTh4NTJqQ0NqM1dET05hS2RxMmhmbUVYQzBsVVJENm0xa0RmbWVJYXZnbDF0bUlHVG1UNzVrV0VmRm8xbGhFdA.m3u8
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1981784/posters/62bf516eda7ec.jpg" group-title="TV Series",S01E13 BasTard Heavy Metal Dark Fantasy
-https://nika.playmudos.com/bastard-ankoku-no-hakaishin-ona/VTh4NTJqQ0NqM1dET05hS2RxMmhmbUVYQzBsVVJENm0xa0RmbWVJYXZna0t3NFAwKzdRbUwxMmZOb240dTlEbg.m3u8
+https://archive.org/download/bastard-heavy-metal-dark-fantasy-s-01-13-hd/BASTARD_Heavy_Metal_Dark_Fantasy-S01_13HD.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1981784/posters/62bf516eda7ec.jpg" group-title="TV Series",S02E01 BasTard Heavy Metal Dark Fantasy
 https://nika.playmudos.com/bastard-ankoku-no-hakaishin-part-2-ona/VTh4NTJqQ0NqM1dET05hS2RxMmhmaHQvdWk2Ylp3QXMwS3oxRXlEQTVuM291akdvZlRYY0NWL3g0S1VIb1Zubg.m3u8
@@ -7101,20 +7103,20 @@ https://archive.org/download/see-temporada-2/see%2002x07.mp4
 https://archive.org/download/see-temporada-2/see%2002x08.mp4
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E01
-http://127.0.0.1:11470/a12bf2c982dc1083ceaefc5548afa6d73798f292/0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E02
-http://127.0.0.1:11470/c9fa875e19a06248bd5f1253c72e102d2988ea30/0
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E04
-http://127.0.0.1:11470/52fc0f7f7876d92cc2cdfb20ec710ea34606bc7e/0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E05
-http://127.0.0.1:11470/a5a3fad269caa4d873c7c971581a6d2ecc59d970/0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E06
-http://127.0.0.1:11470/2bd899b942e861fd41f15bce848d29c925f21004/0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E07
-http://127.0.0.1:11470/9e5ac0d8f080f88b9e7dba715002f19920bef553/0
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/see-1/1568296844_395794_1568296897_noticia_normal.jpg" group-title="TVSeries",See S03E08
-http://127.0.0.1:11470/27f8c628b41d8e15b60d74ded6184636d29746c3/0
+
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/396876/posters/6047a5e3d1c52.jpg" group-title="TVSeries",Shadow House S01E01
 https://archive.org/download/shd-0ws-h-0us-3-s-1-2/Sh%40d0ws%20H0us3%20S1E01.mp4
