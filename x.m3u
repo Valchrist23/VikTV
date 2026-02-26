@@ -399,6 +399,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=4631
 #EXTINF:-1 channel-id="Glitz" tvg-id="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1410px-Logo_Glitz.svg.png" group-title="Entretenimiento +",Glitz
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" tvg-name="EstrellaTV" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="MX",EstrellaTV 
+https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f858bee83a2/playlist.m3u8
 
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -747,6 +748,7 @@ http://190.60.38.114:1010/play/a076/index.m3u8
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/Dis.m3u8
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" group-title="Entretenimiento +",Discovery Science
+https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 
 no
 https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/index.m3u8
@@ -778,10 +780,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 #EXTINF:-1 tvg-id="5f36d726234ce10007784f2a" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-ya no
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=7db21dfa2d7a540324e5040744c0de1a-6d728df036efdb3e4da763ce95dbbf14b0f7dfe860de9a20375b7f2b8ffaf1ec8c72385c59ccbd5307fc9828e969543ee8661d4890e91a6cfe989ef1885c3d2c7f3ffd8eef08bf2ada94d43ff6fe65a14703fe7941b67f66c4069409054ba68e081fae6ae8a5d1a9f76a51176ddc56477f7411a1edd33e2df012ac162524f2f9f490dc3f5e4bacb1ef76c16321429449abfe7bb0fb5809a0c4ce92d6e889b7a392ed9821733734f3d89fa0117e52128495346f7b0ff40472e74667736385a2f3b37822f478fe83ecbd3936f05e9b5a579b6d1a8db59b3baf530ed8fc473604532114d851804d52665237c172d3945291970a94adead363e1f0cc3dabbaddec1c9204f86ea797b32af9b9e44d92bbbeff1fd5de6e1e918b117985dc91ad2a3341216562feedf17e4e927e8e312919926e487cb521ad33fdc0497c271fc09dcead07ce810bb16c1dfda757e2ca82c8963dfd34b6e4168b623f02b24fe380eb0f1e7e0b1ce9d013bd015100d1f50a08abf22fb148198fb81bc2cba0da6be0af1dbf019cb017f59f546a2780f72d3109ffc038a9e64fd007a713f2c59e53908c2dbb07ed9d954e5ad6db4d6302491b41c7f71f4680c146704c373e7457045f8d24bc689c796ec9fb7d19e3cacc734c06bea410a87c2178a311b674aa9d3f82ea75a621928309f84996323f949b38ee1c2e58db5d2a1ad13fad206c5b941f6f897e1a703c2d17edff006bb4d8b516f84acba092d46a40738e05b3b7262ea16f1109261b853ae9a5d4a6f98b6c1e9b8b7300b061238c3ce9bcaabc057ae0c7c998e3836737990d6aebae702f67774a17e3e54e1f7063f9a353dc3222d4e041510ad40a9db734ccbd7ed807b078b1bd8d28a807ddb9c89e836ff599ff763213265cd97b5198118f646d5eae5afa19a42ce22c6d0838a327e2f126c2ed4d535b91e03f0a263911db6c9fb91491e1ab787fdb971b0d36148565aa211538a0963a1d02b6a4a38bdfa15ea839ae13ff2ac78325f6a54384a66dce3db190af368abc1a670a03d86ee08d0192460e49d10b39525b42bf60640c2b75097732a7c6445fa1bd2a6cd500b70fd5bc13ba9fdafdee28da49039d462ddbc18c51e09c41f30d7c8cee3078657594aef2903387e97d9e24a33faeafb0b522fd8112844b577b47e09e17b09b452e88c3b0c274d5130be3305d009873cd1ed9c28a9b365fb6a07b06453ad45862130bd59e9febc12264440913e5bf59cf46f6a25f9e3c3ce04a59398effaf4a55ebcf1aa4e20bd929adc8cb7e1dfa0e332cde2140d4df7e716965624a3d9169c4ed97c4655cf6c4f12d2da7e7033fee094c13388a52f16ba8a9904e0c82ef1eabd473e6fa214b22abdab80ddd40a53fd58032c4c84ee0ed8621bab8fb346307322bf58272028eb8f31f524d320e93ac644ca31a488f125c5f5eaf273b762a8054995a4b7a8cf3ccd1e65eb75fead6025d79dd8dc04225ad8936a199813750587cda511f535b5801c4ac7e88cf2c10e0de0af01a3882a2688ad126d4e9dcacee1d459c9964fc9398576ed4f2228f7047d8f74df21b782cc590b97827e2ea897f797357ef85c19ebf197c35b5342999d85f777d3b3ece2c1870432d5de2ac7dae4a4bf968ef7bccf876e71535dd5930c3f53f140a0c32fb8afaad72b1766136ab2dbf4f6f32fd8022be4ed31afb9797c739312a9f6f9414da0db51fbb900de5c37ca7458b933f453cbd0dd7d8716a6c71e6462356b8706d361ced3c238cc1df0566ae288a34baea4b60ca7f99d1d801929d163d220128523a7d7fc093460c5c0b213ba0c2652d6c5f515254eba633c0fd6f83d74fcd6f33f900c549232e0e4ef2801176c8b5c464635e85c29f04cfdd53a8f581d7782b2ef30d8b7e1acee88f52a41cb18fca61814ff059867af7ec92108d15a4bec49d08b04761c6c1cc7fad82a92c6c67602deb620413260c33193c402fe8b3b822a07a8ed3d641d55c359c41eac26d6cb8450a124564b01dfecd5e139a7526742ff3b85f76eb40e9424a98143ebefb8bc3749c7cef36578af9263146d98627032f2af68a57a4025d84be54143430bab8ab967c3db5e581f248ebeb256b9afc3110b5d43b9b501ac760297e&x-plex-token=Pp6URaToSDwZtYNd7X-G&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1723663985&autoPreview=0
+https://live-manifest.production-public.tubi.io/live/a79bf16e-b53d-434c-a5dc-b7d3ba647cdc/playlist.m3u8
 
 no
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=a29cf0882e4429be925376f97afe321d-f264da8967e3093504a8ef568020f80245ea4f129d19309a32d58b90dbb7613d85839f0232a90cb93dcd6b7f0f101a29b5f9508ccc5808af53c7b583d558bdaa539c02078d7343c0bcc7e2a2518c7c68922b95f8a8c900178b2011f28a2e42803d134488ef5a96c0a9af1c1b31427aca&x-plex-token=G5fgWbjsnSc4yxy-grVe&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719725135
@@ -800,13 +799,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
 
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
+https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
+
+no
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41487abb-ffc4-4eb8-b9af-df4b55bbeeae
-
-
 https://csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video/csm/live/750518024/4.m3u8;jsessionid=DA58A2E0F01174E341B0975084053108.csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video?playback_start_ts=1757884575&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=400000033&content_type=mp4&device_id=a15df197-c681-4cb7-93f4-5fb4e4252215&language=en&now_pos=0&platform=WEB&pub_id=df2a01d09c1bacb2364d5e2e0d449e3c&tb.sid=a5f82ebc-1bac-4ca5-b7bd-00f98646c1cd&vpaid_enabled=false&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9lZGU4ODJjMi00M2Q2LTRlY2EtOTM1MS1lYTI5ZTg0ZGMyMTcvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE1UVmtaakU1Tnkxak5qZ3hMVFJqWWpjdE9UTm1OQzAxWm1JMFpUUXlOVEl5TVRVaUxDSmxlSEFpT2pFM05UZ3hOREk1TVRVc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODJabVU1TWpVM015MHlPVGt4TFRRelpUY3RPVGc1T1MweE9XTTRZakJrTVRsbU1HVXZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuWjZHYWFNS0Q3ZnBkRnItZnQ4N3ZZTXU4OEk5cnM4ckNrYXlCYlhyeW1MaHV4NnNqSWFvNm5NRzFBWlhpUnZIeU1TMDhFSkJjRzU2b0t6Y3lwOUxwX0EmdGIuc2lkPWRlNzMyZGFmLTAyZDUtNGNhOS1iMzYwLWJkZjU1ZTcyZTc3ZQ==
-
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8
-
 https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
 
@@ -1349,9 +1347,10 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vice_Land.svg/500px-Vice_Land.svg.png" group-title="USA",VICE
-https://apollo.production-public.tubi.io/live/vice-tRhHBo.m3u8?
+https://live-manifest.production-public.tubi.io/live/3c0e97d2-21cc-49dd-a486-c268b0c2b93b/playlist.m3u8
 
 no
+https://apollo.production-public.tubi.io/live/vice-tRhHBo.m3u8?
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 
@@ -1484,6 +1483,7 @@ no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453f30085df200085883d8livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entretenimiento +",ION
+https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
 
 no
 https://fl4.moveonjoy.com/ION_TV/index.m3u8
@@ -1499,8 +1499,10 @@ https://apollo.production-public.tubi.io/live/ion-plus-NEcPOE.m3u8?
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/800px-ION_Mystery_logo.svg.png" group-title="Entretenimiento +",Ion Mystery
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
 
+no
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 si
 https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
@@ -1509,6 +1511,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,I
 https://linear-436.frequency.stream/mt/studio/436/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MGM_2021.svg/1920px-MGM_2021.svg.png" group-title="Entretenimiento +",MGM Presents Crime
+https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8
 
 no
 https://linear-719.frequency.stream/mt/studio/719/hls/master/playlist.m3u8
@@ -1539,7 +1542,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="Entretenimiento +",Comedy Dynamics
-https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/profile/sub-0/profileManifest.m3u8?
+https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8
+
 
 https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/profile/sub-0/profileManifest.m3u8?_uid=372a8054-204d-4c7d-afd6-7649ecfa4c34&rK=eu&_did=3b3df7ea9dce41f2730ea5b1e9a5a21c597afaf6
 no
@@ -1592,13 +1596,15 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-name="Crime 360 by A&amp;E" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Entretenimiento+",Crime 360 by A&amp;E
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
+https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5bb1af6a268cae539bcedb0a" tvg-name="Forensic Files" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Entretenimiento+",Forensic Files 
+https://live-manifest.production-public.tubi.io/live/8ebe3ce9-1b31-4a38-be9f-4b55f6b49eaf/playlist.m3u8
+no
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
 
 #EXTINF:-1 channel-id="pluto-5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Entretenimiento+" , Los archivos del FBI 
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
+https://live-manifest.production-public.tubi.io/live/8aee9cff-b626-4950-99e5-809fb599100e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/featuredImage.jpg" group-title="Movies",Pluto TV Staff Picks
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
@@ -1667,6 +1673,10 @@ si
 https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
 https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
+https://live-manifest.production-public.tubi.io/live/6386e065-6010-4fd3-b438-407dbb63eb23/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" group-title="Movies",MTV Classic
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654100b4bdf3cf0008aa49c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f6e1478-21f2-4086-89a2-f5bf724e1c45
@@ -1831,16 +1841,13 @@ https://lnc-ACCDN.tubi.video/index.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/National_Basketball_Association_logo.svg/210px-National_Basketball_Association_logo.svg.png?20221026000552" group-title="Sports",NBA TV
-
-no
-http://fl3.moveonjoy.com/NBA_TV/index.m3u8
-https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="Sports",NFL Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=a4d316c7-02d2-11eb-aeab-0242ac110002&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&deviceDNT=0&userId=&advertisingId=&deviceLat=32.7767&deviceLon=-96.8050&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="MLB Network" tvg-name="MLB Network" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Sports",MLB Network
-https://fl4.moveonjoy.com/MLB_NETWORK/index.m3u8
+https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
 no
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
@@ -2016,8 +2023,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 #EXTINF:-1 tvg-id="64a3d96f060e830008af6745" tvg-name="MovieSphere by Lionsgate" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Movies",MovieSphere by Lionsgate
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+https://live-manifest.production-public.tubi.io/live/050aaad2-b60d-4525-9e2e-2465b85cfa43/playlist.m3u8
 
+no
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745livestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=8fe6eee8-e887-11ee-aac3-8659105ff2ba&deviceId=1dcc17cd-4f04-4f89-9034-73715166fa30&deviceVersion=120.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=43.650001525878906&deviceLon=-79.36000061035156&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax Mexico 
@@ -2309,6 +2318,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Entretenimiento +" , Misterios sin Resolver
+https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
 
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
