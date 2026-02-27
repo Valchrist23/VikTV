@@ -2176,6 +2176,10 @@ https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 
+
+https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
+
+
 no
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
