@@ -204,6 +204,8 @@ https://ythls-v3.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/960px-New_Logo_13_2022.jpg" group-title="Basico",N13
+https://vsd74.okcdn.ru/hls/10550489713352.m3u8/sig/guEdZ1_sxkQ/expires/1772246055653/srcIp/187.190.138.169/urls/45.136.22.68/clientType/0/srcAg/CHROME/mid/11310899928776/10550489713352_high/index.m3u8
+
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.m3u8
 
 no
@@ -238,6 +240,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i0.wp.com/diretelemexico.com/wp-content/uploads/2021/10/Canal-10-Cancun-en-vivo.png" group-title="MX",Canal 10 Cancun 
+https://customer-h65khedbubj3pmn7.cloudflarestream.com/8d79f1ca28780f21aff4639288ed20f4/manifest/video.m3u8
+no
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas
@@ -256,9 +260,13 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1024px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Entretenimiento +",Las Estrellas 
 
 #EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/1600px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento +",Canal 14
+https://hls.streamblue.mx/live/vsudx8gfoqh863eqk0fpi/playlist.m3u8
+
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 no
+https://hls.streamblue.mx/live/vsudx8gfoqh863eqk0fpi/l_308_800904737_5380.ts?nimblesessionid=413632
+
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/mono.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 https://s5.mexside.net:1936/canal14/ngrp:canal14_all/chunklist_b2131072.m3u8
@@ -339,7 +347,6 @@ no
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Galavision
-http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 
@@ -365,7 +372,7 @@ no
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal Pacífico" tvg-name="Cinecanal Pacífico" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal Pacífico
-https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Todo Cine" tvg-name="Todo Cine" tvg-country="MX" tvg-language="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/65/TODO_CINE.jpg" group-title="Lat",Todo Cine
 https://apollo.production-public.tubi.io/live/todo-cine2-a7ucGt.m3u8?
@@ -464,6 +471,8 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #EXTINF:-1 tvg-id="Distrito" tvg-name="Distrito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/LOGO_DISTRITO_TV.png" group-title="Entretenimiento +",Distrito 
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8 
+full
+https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-800/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="Canal Extremadura Sat" tvg-language="es" tvg-logo="https://yt3.ggpht.com/a/AGF-l78JGcbXTmMqNLFTZ5ghfwdealEK1ihf1n855Q=s900-c-k-c0xffffffff-no-rj-mo" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",Canal Extremadura Sat
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/canalextremadura/live_hd/chunks_dvr.m3u8
@@ -692,6 +701,10 @@ no
 https://streamer1.nexgen.bz/HISTORY2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="Entretenimiento +",True History 
+https://linear-188.frequency.stream/dist/distrotv/188/hls/master/playlist.m3u8
+
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/68e537b0-e144-4616-be5c-ba9ed8e15e93/0.m3u8
+no
 https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretenimiento +",TLC 
