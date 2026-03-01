@@ -1246,8 +1246,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ba60f059624e0007
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 
 #EXTINF:-1 tvg-id="Hallmark Movies &amp; Mysteries" tvg-name="Hallmark Movies &amp; Mysteries" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="USA",Hallmark Movies &amp; Mysteries
-https://streamer1.nexgen.bz/HMM/index.m3u8
+
 no
+https://streamer1.nexgen.bz/HMM/index.m3u8
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
@@ -2090,12 +2091,12 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/hiyah/logos/buybox-logo_rar._SY35_FMpng_.png" group-title="Cine/Series",Hi-Yah!
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=f13873a4-43fb-4181-ab6e-21534f1f53bb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-no
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/96023306-a2b2-4bbb-9ba6-8fc2ea01833f/5.m3u8
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8 
 
