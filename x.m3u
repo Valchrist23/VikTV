@@ -1172,8 +1172,9 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zaz TV" tvg-name="Zaz TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Logotipo-jpg-1-.jpg/1600px-Logotipo-jpg-1-.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Infantil",Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+http://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 no
 https://stream-us-east-1.getpublica.com/cl/260304d6k7u787hqmnjrg8tb00/1920x1080_2500000_0_f.m3u8?i=1187_16796
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
