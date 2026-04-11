@@ -2179,9 +2179,10 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 
 #EXTINF:-1 tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c05af24a-46f6-4a91-991e-4c8ddee49b5a/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
 
 no
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c05af24a-46f6-4a91-991e-4c8ddee49b5a/0.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/eb7ddc20-de34-4c0a-8f0d-7fa06ca82ced/0.m3u8
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
