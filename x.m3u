@@ -2378,6 +2378,7 @@ https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w751923359.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1238
 
 #EXTINF:-1 channel-id="02" channel-name="Orbit TV" tvg-logo="https://orbittv.net/images/logotv.png" group-title="Movies",Orbit TV 
+https://orbitachiletv.org/hls/0/stream.m3u8
 
 no
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
