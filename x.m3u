@@ -1872,8 +1872,10 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
+#EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-name="MTV en español" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music",MTV en español
-
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
@@ -2102,6 +2104,10 @@ https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Haunt TV" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="US",Haunt TV
 https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550453f4e468/playlist.m3u8
+
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Haunt TV" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="US",Haunt TV
+
 
 #EXTINF:0 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/014/799/22881.jpeg" group-title="24/7",Rick and Morty
 
