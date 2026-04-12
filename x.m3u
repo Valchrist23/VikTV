@@ -890,7 +890,7 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png" group-title="Anime",Animax
-
+https://nl.utako.moe/Animax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión CHV
 
@@ -1004,6 +1004,7 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=05363556
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Logoyamatovideo.svg/200px-Logoyamatovideo.svg.png" group-title="Anime",Yamato Animation
+https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 
 no
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
