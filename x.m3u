@@ -654,6 +654,8 @@ https://gusto-localnow.amagi.tv/playlist.m3u8
 no
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="El Gourmet" tvg-name="Plato del Dia by elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",Plato del Dia by elGourmet
+https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
 
 #EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",El Gourmet
 https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
@@ -2364,9 +2366,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_actual_de_Orbita_TV.png
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 8 
-
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 10 
-
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento +",Telenord 12
 https://vdo1.streamgato.us:3345/live/telenord12live.m3u8
 
