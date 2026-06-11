@@ -585,6 +585,7 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Antena 3
+http://187.190.55.136:5501/udp/225.1.1.101:5101
 
 no
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
@@ -597,7 +598,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.csid=xumo_web_TelemundoScripted_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a4fc4e4c-d2bf-46a0-8528-71273afae4c7&ads._fw_vcid2=512116:a4fc4e4c-d2bf-46a0-8528-71273afae4c7&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2562&ads.xumo_contentName=TelemundoScripted&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.channelId=99991749&ads._fw_ifa_type=
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento +",Telemundo
-
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 no
 https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist216.m3u8
 https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
@@ -605,6 +606,8 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Al Dia 
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
+si
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="99951321" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951321/168x168.png?type=color_onBlack" group-title="Latino",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321&ads.asnw=169843&ads.afid=380752915&ads.sfid=19647824&ads.csid=xumo_web_TelemundoNoticiasAhora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_vcid2=512116:e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.channelId=99951321&ads._fw_ifa_type=
