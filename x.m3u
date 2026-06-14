@@ -950,9 +950,10 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/800px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 
 same
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?session=mfpaA8mBSyqAxYAZutBFHJ
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65/playlist.m3u8
@@ -965,8 +966,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
+no
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
@@ -1053,10 +1054,10 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Logoyamatovideo.svg/200px-Logoyamatovideo.svg.png" group-title="Anime",Yamato Animation
-https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 
 no
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" group-title="Anime",Max Anime
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w32477728.m3u8
@@ -1111,6 +1112,8 @@ no
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c814939a590008567a3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263254-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a2521e96-4461-4157-b0d7-865b57c5f565
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
+
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 No
@@ -1124,6 +1127,7 @@ https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b_output_0.m3u8?session=NosLySnm2NN7w5JdCbcTUZ
 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/PlayTV_logomarca.jpg" group-title="Anime",Play Television
+https://vsd123.okcdn.ru/hls/4858246007425.m3u8/sig/vY0axqxkYzU/expires/1781542564345/srcIp/187.188.242.159/urls/178.237.23.119/clientType/0/srcAg/CHROME/mid/6035274800769/4858246007425_low/index.m3u8
 
 no
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
