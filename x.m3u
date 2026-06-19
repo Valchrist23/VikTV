@@ -367,10 +367,12 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento +",Galavision
 
 #EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://atacamatelevision.com/logo_header.png" group-title="Entretenimiento +",Atacama TV
-https://v3.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
+
 
 si pero no
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
+https://v2.tustreaming.cl/atacamatv/index.fmp4.m3u8
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Golden Plus" tvg-country="MX" tvg-language="es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Entretenimiento +",Golden Plus
 #EXTINF:-1 tvg-id="Golden MPX" tvg-name="Golden MPX" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Lat",Golden MPX
@@ -477,6 +479,7 @@ https://stream.ads.ottera.tv/cl/240628cpv4qphlm2evgkdkhieg/1280x720_3071200_0_f.
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="Canal 6 CdMX" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" group-title="Entretenimiento +",Canal 6 CdMX
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
+
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=42fa6759-e881-11ee-9cc2-0e8c4bf95ab2&deviceId=e6b812df-4d10-414e-bcc6-d0bc39672e21&deviceVersion=123.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -615,9 +618,9 @@ https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Al Dia" tvg-name="Telemundo Al Dia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="Noticias",Telemundo Al Dia 
-https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
-si
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+no
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
 
 #EXTINF:-1 tvg-id="99951321" tvg-name="Noticias Telemundo Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951321/168x168.png?type=color_onBlack" group-title="Latino",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321&ads.asnw=169843&ads.afid=380752915&ads.sfid=19647824&ads.csid=xumo_web_TelemundoNoticiasAhora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_vcid2=512116:e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.channelId=99951321&ads._fw_ifa_type=
@@ -726,11 +729,6 @@ https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 no works
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 
-
-#EXTINF:-1 tvg-id="5dd6ab8056beb000091fc6b6" tvg-name="Pluto TV Hogar" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Home",Pluto TV Hogar
-https://jmp2.uk/plu-5dd6ab8056beb000091fc6b6.m3u8
-no
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-name="Tiny House Nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Home",Tiny House Nation
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
@@ -866,12 +864,6 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 nop
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="824cda00101510f9eeaa011" tvg-name="Nickelodeon Clásico" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG.png" group-title="Anime",Nickelodeon Clásico
-https://jmp2.uk/plu-824cda00101510f9eeaa011.m3u8
-no
-
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
-
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
 
@@ -931,14 +923,13 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CocoTV" tvg-name="CocoTV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlPfZhmcg_Bx9o1ukRve74gmehrhUWKhMow&s" group-title="Anime",CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png" group-title="Anime",Animax
 https://nl.utako.moe/Animax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión CHV
-https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
 
 no
+https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://wag.ika.lat/stream/870547344
 
@@ -971,6 +962,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
+no
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
@@ -1067,10 +1059,11 @@ no
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 https://nl.utako.moe/AT-X/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" group-title="Anime",Max Anime
-https://streamlov.alsolnet.com/maxanime/live/chunklist_w32477728.m3u8
+#EXTINF:-1 tvg-id="Max Anime" tvg-name="Max Anime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGnaUX6Ar_0WColseJ1dF080f-k3WfhnR5_0taz9y7aVmEzOJh-_1QGXbYfmj96Ly2JqKViMpBAzCVO-6HSTONxr_Mv3oF4fig3VrmCpf7XtS92KoKH4PaYYCzQI_RfRMmNsxJtH-GYL_Qj5YGJl3WdvPNy6ol8MV49nxDFFSI3zIzQci-vD3c5W7Yhsnr/s800/max-anime.jpg" group-title="Anime",Max Anime
+https://cdnlive.klicgo.net/maxanime/live/chunklist_w2037441263_DVR.m3u8
 
 si
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w32477728.m3u8
 https://streamlov.alsolnet.com/maxanime/live/chunklist_w1504708302.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 no
@@ -1165,11 +1158,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c790f780a0af0008583
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/3a8b55adc60910891ff646838d3fa29aad46c240/PlutoTV/gb.xml" group-title="Anime",Yu-Gi-Oh!
-https://jmp2.uk/plu-5c363ac9e41be30cb6054c7c.m3u8
-no
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5dcde17bf6591d0009839e02" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Anime",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
@@ -1885,6 +1873,7 @@ no
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel 
 
 #EXTINF:-1 tvg-id="66a01b52a4ee27000808ea36" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music",MTV Rocks
+no
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1ZDM1NWZkLTFiZDEtNGQ5ZS1iNzJiLWFiYWJlOThhMjBiYiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgxNTAxMjQ4LCJpYXQiOjE3ODE0MTQ4NDgsImp0aSI6ImQ1ZDJjZjYxLWFhZGMtNDMxYy05YzhiLWU2MDk2YmE1NDA1OSJ9.bTP-iT4Te8bbxeKBlnD451hUZFwKfOuF6v16SppScak&profilesFromStream=true
@@ -1906,9 +1895,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc312
 
 
 #EXTINF:-1 tvg-id=">The Box" tvg-name=">The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",The Box
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+
 
 no
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
 #EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="Music",The Nest
@@ -1956,15 +1946,6 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Music",1Muz 
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-name="XITE80sFLASHBLACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Music",XITE 80s FLASHBLACK 
-
-no
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Music",XITE 90s THROWBACK 
-
-no
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-name="The Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
 
@@ -1979,7 +1960,6 @@ https://d1kjwsvo0dbxib.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
 
 no
-
 https://saw-stream21.radiohost.de/saw-rock-classic_mp3-192?ref=radioplayer-de&amsparams=radioplayer-de&_art=dD0xNzM5NzM5NTY3JmQ9NTNiNTBhZjhmYTFkYzdjMzRmYzk
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
@@ -2223,9 +2203,6 @@ https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8
 
 -----------------------------------------Adult---------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART",Gritos TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/4d7a176e-fcdb-4986-b33e-3501c0f12579/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://novakdjokovicfoundation.org/wp-content/uploads/2016/09/Fashion-tv-logo.jpg" group-title="ART",Fasion TV Midnight Haute
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
@@ -2333,8 +2310,6 @@ https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 
 
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
-
-
 no
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
@@ -2436,8 +2411,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies",13MAX HD 
 
 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="Movies",HBO Mundi
 
 no
@@ -2499,11 +2472,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies",Rock Entertainment 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",Rock Action
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-
-no
-https://wag.ika.lat/stream/507371538
-http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png" group-title="Movies",Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v1a1/mono.m3u8
@@ -2564,13 +2532,6 @@ si
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Entretenimiento +",DMAX 
-
-
-#EXTINF:-1 tvg-id="Cine Life" tvg-name="Cine Life" tvg-language="es" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" tvg-country="" group-title="Entretenimiento +",Cine Life
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-
-si pero fullurl
-https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/cb553d16726c678c99d43d64d5ef42a0d8243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c59e0a957f378bbdbe306f2c180680585ee2be5da5edf50843d86bf5b41e4888264ce7815fc8d549ed9ddd599d459b23a447c896f2de8745d4d4c3011266884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dd46856e91051f8038f07b4e440a1a9ba9d3929fd58513a134482c68ef0941732b767bb81e8d17a7a96e41a7146830ab247796ac8af9b46c1ab70e71c17247cada367e0e8a5b342affea78d2d00f304c7c2e6913e4301570d08935cac9b571648b77785c10928504145e2cf1b94c69169396c4b89974d943d2ff98adbcd8f557bfd69150cbc3b9943533885744d6cf521fcad396ea22f1eca606eac1666d602b49304c18af7a94637bcd5c202d86aecbe059bb621a17f335407fca37f0f0b1c3380a0364d0378c544f6da85b4245e4ebfa1bf8baa390f0e37135d1b98a2b620e9e9ee1d5d47911d761a377a71b10bd96ed30533700dc10cdca10c34c8461624e8a3304a492ef1ecb4928cc2c554bf1c829da8214edb389e24c4dc40f5ef2982b393a4e0e8393e52192485df/125/1920x1080_5058864/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel" tvg-name="Star Channel" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" tvg-country="" group-title="Entretenimiento +",Star Channel
 
