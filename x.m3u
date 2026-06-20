@@ -819,7 +819,7 @@ http://190.60.38.114:1010/play/a076/index.m3u8
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AyE" tvg-name="AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento +",AyE
-
+http://23.239.31.26:8989/aande/index.m3u8
 no
 https://tvpass.org/live/AEEast/hd
 
@@ -1518,13 +1518,16 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC
-
+#EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC Arizona
+https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.famouslogos.org/wp-content/uploads/2012/02/abc-current-logo1.png" group-title="US",ABC 13 Las Vegas
 https://c.mjh.nz/abc-nt.m3u8
 
-https://c.mjh.nz/abc-nsw.m3u8
+https://c.mjh.nz/abc-kids.m3u8
+
+https://c.mjh.nz/abc-act.m3u8
+
 
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 
