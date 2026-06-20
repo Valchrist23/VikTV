@@ -1,0 +1,13 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://kaloopy.com/cdn/shop/files/Kaloopy_logo_text_banner_600x200_c7a96803-17c0-4b72-8d34-bf8640dec58f.jpg?v=1778540933&width=600",Kaloopy
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Canal_Once_logo_2025.png/250px-Canal_Once_logo_2025.png",Canal Once
+https://s5.mexside.net:1936/stream/stream/chunklist_w533253457.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Canal_Once_logo_2025.png/250px-Canal_Once_logo_2025.png",Canal Once
+https://s5.mexside.net:1936/stream/stream/index.m3u8
+
+
+
