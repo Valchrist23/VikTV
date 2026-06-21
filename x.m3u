@@ -161,11 +161,14 @@ https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="MX",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWRiwsXe0YuGurPIbfURfU-8nCO-tu2j2AH_Ro1nGQhu2DKO18g3o9qpda5loW6QuEF8&usqp=CAU" group-title="MX",Canal 24
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="MX",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8
 
-no
-https://ythls-v3.onrender.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="MX",Canal 8 TV+
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="MX",Canal 8 TV+
+https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -322,6 +325,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/646cce4d1593940008
 si
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5923
 
+#EXTINF:-1 tvg-id="Azteca Honduras" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Honduras
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+
 #EXTINF:-1 tvg-id="Clic" tvg-name="Clic" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Clic
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5597
 
@@ -370,6 +377,7 @@ https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
 
 
 si pero no
+https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://v2.tustreaming.cl/atacamatv/index.fmp4.m3u8
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
@@ -603,6 +611,9 @@ no
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
+#EXTINF:-1 tvg-id="26" tvg-name="26" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/330px-Canal_26_logo_%282022%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
 #EXTINF:-1 tvg-id="RTS" tvg-name="RTS" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/300px-Russia-today-logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Noticias",RTS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
@@ -760,6 +771,8 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png" group-title="Entretenimiento +",History
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
 http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
 
 
@@ -885,7 +898,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney JR
-
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney XD
 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network 
@@ -894,7 +907,8 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-language="es" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Cartoon",Cartoon Network 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Cartoonito 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1600px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoon",Japanim TV 
+https://foxkidstv.be:3369/stream/play.m3u8
 
 no
 https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w238908951.m3u8
@@ -920,12 +934,19 @@ no
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CocoTV" tvg-name="CocoTV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlPfZhmcg_Bx9o1ukRve74gmehrhUWKhMow&s" group-title="Anime",CocoTV
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+
+no
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png" group-title="Anime",Animax
 https://nl.utako.moe/Animax/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="62aa5740a47b6c000769f407" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión CHV
+#EXTINF:-1 tvg-id="Animevision" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
 no
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
@@ -962,13 +983,14 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
 no
-https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
-
-#EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
 no
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1 tvg-id="Filmrise Anime" tvg-name="Filmrise Anime" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" group-title="Anime",Filmrise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Aniplus
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
@@ -1023,13 +1045,8 @@ https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 no
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDegTYIkGC8V4p7bpdvad7IWvNedCx6CdaS6vcDlI&s" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Moni TV
-
-no
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8?PlaylistM3UCL
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-language="es" tvg-logo="https://scontent.ftij5-1.fna.fbcdn.net/v/t39.30808-6/473237676_1007904091358536_6258729962708499586_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x1280&ctp=s1280x1280&_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=SbkH61hLjx8Q7kNvwGL8cgX&_nc_oc=AdpD13KLM0MCEF9Z4q6mxRjT46YVenjAQuMcAYBSxfkQubq4Ss4qQ7KHYitd9rmOm3a9GwdQUua7RAWTC1G8AFUn&_nc_zt=23&_nc_ht=scontent.ftij5-1.fna&_nc_gid=zL7Z4VwRKWjtV6eTwb-90w&_nc_ss=7b2a8&oh=00_Af9TPUGB7FlXO2NOLmqzjgAW9j4DrLVkTG8U1iQZM6_pHg&oe=6A3D0539" tvg-country="Lat" group-title="Anime",Click TV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",RetroX TV
 
@@ -1051,6 +1068,9 @@ https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=05363556
 
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/960px-El_Chavo_%28simple_logo%29.svg.png" group-title="Entertainment",El Chavo
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Logoyamatovideo.svg/200px-Logoyamatovideo.svg.png" group-title="Anime",Yamato Animation
 
@@ -1378,8 +1398,8 @@ https://fast-channels.sinclairstoryline.com/COMET/index_2.m3u8
 
 https://content-ause1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
-
 si
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8   
 
@@ -1546,10 +1566,12 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/300px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento +",AXN
 
-
 no
 https://wag.ika.lat/stream/2084767267
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Britbox Mysteries" tvg-name="Britbox Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BritBox_2026.svg/250px-BritBox_2026.svg.png" group-title="Entretenimiento +",Britbox Mysteries
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento +",AMC 
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
@@ -1633,8 +1655,8 @@ https://linear-719.frequency.stream/mt/studio/719/hls/master/playlist.m3u8
 no
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png" group-title="Entretenimiento +",Comedy Central MX
-
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/400px-Comedy_Central_2018.svg.png" group-title="Entretenimiento +",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 
 no
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
@@ -1988,6 +2010,9 @@ https://live-manifest.production-public.tubi.io/live/5cfbe5af-a9c2-45cc-ade9-8e1
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="FIFA +" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/960px-FIFA_logo_without_slogan.svg.png" group-title="Sports",FIFA +
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/800px-NBC_Universo_logo.svg.png" group-title="Sports",NBC Universo
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
@@ -2314,11 +2339,11 @@ https://lnc-tubi-originals.tubi.video/index.m3u8
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
-https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 
-
-https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
 no
+https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
+https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://mark.trademarkia.com/logo-images/spelling-satellite-networks-inc/tele-uno-1-75975208.jpg" group-title="Entretenimiento +",TeleUno TV 
@@ -2525,6 +2550,7 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://juicex.nz/hls/mystream.m3u8
 
 nel puro stich
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Filmrise Free Movies & TV" tvg-name="Filmrise Free Movies & TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Filmrise.svg/1920px-Filmrise.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Entretenimiento +",FilmRise Forensic Files
@@ -2581,6 +2607,8 @@ no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 channel-id="pluto-Douyu Movie" tvg-id="Douyu Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png" group-title="Entretenimiento +",Douyu Movie 
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+no
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 no
