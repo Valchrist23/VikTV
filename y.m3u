@@ -14,13 +14,13 @@ https://archive.org/download/the-princess-bride-la-princesa-prometida-1987-rob-r
 
 https://archive.org/download/the-princess-bride_202402/The%20Princess%20Bride.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg" group-title="Peliculas",Falling Down (1998)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg" group-title="Peliculas",Falling Down (1998)
 https://archive.org/download/ford-vs-ferrari-2019/Falling%20Down%2C%20Michael%20Douglas%20Gene%20Hackman.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="Peliculas",Prospect (2018)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/1HpAwszXLsD8GeypDzK0me7fPFA.jpg" group-title="Peliculas",Prospect (2018)
 https://archive.org/download/peli8_202402/Prospect%202018.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg" group-title="Peliculas",P.S. I Love You (2007)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg" group-title="Peliculas",P.S. I Love You (2007)
 https://archive.org/download/north-hollywood-2021/P.S.%20I%20Love%20You%202007.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bT8S51bzeQYsJWuYRoCBIJ71GF0.jpg" group-title="Peliculas",Proximity (2020)
@@ -32,13 +32,13 @@ https://archive.org/download/peli8_202402/Proximity%202020.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ryocnetNNLWs0Oefkqkea6HccqV.jpg" group-title="Peliculas",100 Feet (2008)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f26ClqwwDzC1ql6d7PpAbhWj3N7.jpg" group-title="Peliculas",High Voltage (2003)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/f26ClqwwDzC1ql6d7PpAbhWj3N7.jpg" group-title="Peliculas",High Voltage (2003)
 https://archive.org/download/i-hate-summer-2020/Alta%20tensio%CC%81n%20%282003%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nllMNbjgvUpw378czm5vBYzZqg1.jpg" group-title="Peliculas",Turner & Hutch (1989)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg" group-title="Peliculas",Bad Liutenant (1992)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg" group-title="Peliculas",Bad Liutenant (1992)
 https://archive.org/download/xK1oSj9LppvMpZPTEoqcs1XwIMus6J3I/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/92BZIFPbyCPNhExyFScxA3xF1dy.jpg" group-title="Peliculas",The Outlaw Josey Wales (1964)
