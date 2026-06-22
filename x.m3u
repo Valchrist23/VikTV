@@ -14,7 +14,7 @@ si
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="Basico",C4 en Alerta
+#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 
 si
@@ -31,7 +31,7 @@ https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="652e922db4b047000825f975" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
+#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
