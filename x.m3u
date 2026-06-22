@@ -1041,10 +1041,10 @@ https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w1690700502.m3u8
 no
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
+#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
+#EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="Anime",Channel 7 
@@ -1288,20 +1288,21 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c0008
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-no lifetime
-https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-https://streamer1.nexgen.bz/LMN/index.m3u8
+
+#EXTINF:-1 tvg-id="63335b193583440007c859fb" tvg-name="Lifetime Movie Favorites" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="Entretenimiento +",Lifetime Movie Favorites
+https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento +",Lifetime
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network"  tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento +",My Time Movie Network Latinoamerica
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
+
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20091119195504/logopedia/images/f/f9/Lifetime_Movie_Network_2003.png" group-title="Entretenimiento +",My Time Movie Network Latinoamerica 
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="Entretenimiento+",Pluto TV Cine Romance
 https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
