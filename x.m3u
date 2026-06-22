@@ -748,6 +748,7 @@ https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549310a53fc97000838fcc9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=003ab90e-cb69-4949-9cbf-465fe6c6dc0b
 
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Entretenimiento+",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -771,7 +772,7 @@ logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Discovery_Family
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/168x168.png?type=color_onBlack" group-title="Automotive",Discovery Turbo
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&amp;E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento+",A&amp;E
+#EXTINF:-1 tvg-id="A&amp;E Panregional" tvg-name="A&amp;E Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento+",A&amp;E Panregional
 http://23.239.31.26:8989/aande/index.m3u8
 no
 https://tvpass.org/live/AEEast/hd
@@ -801,7 +802,7 @@ no
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=a29cf0882e4429be925376f97afe321d-f264da8967e3093504a8ef568020f80245ea4f129d19309a32d58b90dbb7613d85839f0232a90cb93dcd6b7f0f101a29b5f9508ccc5808af53c7b583d558bdaa539c02078d7343c0bcc7e2a2518c7c68922b95f8a8c900178b2011f28a2e42803d134488ef5a96c0a9af1c1b31427aca&x-plex-token=G5fgWbjsnSc4yxy-grVe&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719725135
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/624px-Logo_Canal_13_200_8.png" group-title="Ar",El Trece
+#EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Ar",13 de Chile
 no
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -876,7 +877,7 @@ no
 https://vcp8.myplaytv.com:1936/nextv/nextv/chunklist_w676002511.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/444px-BitMe.svg.png" group-title="Anime",BitMe
+#EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" group-title="Anime",BitMe
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 no
