@@ -14,7 +14,7 @@ si
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-chno="4" tvg-language="es" tvg-logo="https://cdn2.telediario.mx/uploads/media/2022/04/07/c-en-alerta-de-abril.jpg" group-title="Basico",C4 en Alerta
+#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="Basico",C4 en Alerta
 https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 
 si
@@ -31,7 +31,7 @@ https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="652e922db4b047000825f975" tvg-name="Milenio Televisión" tvg-chno="5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio Televisión
+#EXTINF:-1 tvg-id="652e922db4b047000825f975" tvg-name="Milenio Televisión" tvg-chno="5" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
@@ -44,7 +44,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 #EXTINF:-1 tvg-id="Telefórmula" tvg-name="Telefórmula" tvg-chno="6" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Telefórmula
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="TeleFórmula" tvg-chno="7" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",TeleFórmula
+#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b" tvg-name="Telefórmula" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Telefórmula
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 
 si
@@ -61,7 +61,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://ythls.armelin.one/channel/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 
-#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-name="ADN 40" tvg-chno="9" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN 40
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-name="ADN Noticias" tvg-chno="9" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",ADN Noticias
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -132,7 +132,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008
 
 http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
 
-#EXTINF:-1 tvg-id="Imagen TV" tvg-name="Imagen TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV+" tvg-name="Imagen TV+" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Imagen TV+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 no
