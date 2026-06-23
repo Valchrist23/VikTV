@@ -685,10 +685,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007
 
 #EXTINF:-1 tvg-id="5f7791b8372da90007fd45e6" tvg-name="The Price Is Right: The Barker Era" tvg-logo="https://canvas-lb.tubitv.com/opts/stWz8KMI6K0AIQ==/7c1bdfbc-0f08-4323-8737-5e90b6a0a0ac/CHgQeDoFMS4xLjhAAQ==" group-title="Game Show",The Price Is Right: The Barker Era
 https://live-manifest.production-public.tubi.io/live/86825bf7-8e1c-4fbe-ac23-01faa48ebee4/playlist.m3u8
-
+si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-
 
 #EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="MasterChef México" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/960px-MasterChef_Logo.svg.png" group-title="Cooking",MasterChef México
 https://apollo.production-public.tubi.io/live/masterchef-mexico-MSZOHV.m3u8?
