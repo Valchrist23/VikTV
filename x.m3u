@@ -369,7 +369,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="es" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Lat",Golden Premier
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Lat",Golden Edge
 
-#EXTINF:-1 tvg-id="D Pelicula" tvg-name="D Pelicula" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",D Pelicula
+#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",De Película
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-id="Todo Cine" tvg-name="Todo Cine" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/TODO_CINE.jpg" group-title="Entretenimiento+",Todo Cine
