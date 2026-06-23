@@ -649,10 +649,12 @@ https://gusto-localnow.amagi.tv/playlist.m3u8
 no
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",Plato del Dia by elGourmet
+#EXTINF:-1 tvg-id="elGourmet" tvg-name="elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",elGourmet
+
+#EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Cooking",Plato del Dia by elGourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
 
-#EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Cooking",Dulce by elGourmet
+#EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756396393218.png" group-title="Cooking",Dulce by elGourmet
 https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
 
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cooking",Pluto TV Cocina
@@ -705,7 +707,7 @@ https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="ET" tvg-name="ET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Entertainment_Tonight_2021.svg" group-title="Entretenimiento+",ET
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="Entretenimiento+",Canal 7 Jujuy 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="Entretenimiento+",Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento+",History
@@ -797,10 +799,10 @@ no
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=a29cf0882e4429be925376f97afe321d-f264da8967e3093504a8ef568020f80245ea4f129d19309a32d58b90dbb7613d85839f0232a90cb93dcd6b7f0f101a29b5f9508ccc5808af53c7b583d558bdaa539c02078d7343c0bcc7e2a2518c7c68922b95f8a8c900178b2011f28a2e42803d134488ef5a96c0a9af1c1b31427aca&x-plex-token=G5fgWbjsnSc4yxy-grVe&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719725135
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-id="El 6" tvg-name="El 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="Ar",El 6
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="Ar",El 6
 https://stream.elseis.do/canal6/live_1080.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://es.wikipedia.org/wiki/Canal_9_%28Buenos_Aires%29#/media/Archivo:Canal_9_2015.png" group-title="Ar",El Nueve
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://es.wikipedia.org/wiki/Canal_9_%28Buenos_Aires%29#/media/Archivo:Canal_9_2015.png" group-title="Ar",El Nueve
 http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Ar",13 de Chileno
@@ -866,7 +868,6 @@ https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8
 http://138.59.177.34:8000/play/a025/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://envivo.expresatv.com.mx//assets/images/logotipo.png" group-title="Cartoon",Expresa TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1425402512_b1428000_sleng.m3u8
 
@@ -883,7 +884,7 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 no
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CocoTV" tvg-name="CocoTV" tvg-language="es" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-294x165-FFFFFF.jpg" group-title="Anime",CocoTV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-294x165-FFFFFF.jpg" group-title="Anime",CocoTV
 https://edge.essastream.com/canalcocotv/playlist.m3u8
 
 no
@@ -903,26 +904,26 @@ https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://wag.ika.lat/stream/870547344
 
-#EXTINF:-1 tvg-id="+" tvg-name="Chilevisión Plus" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión Plus
+#EXTINF:-1 tvg-id="Chilevisión CHV" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión CHV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Chile",V Classic TV (720p)
+#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-name="V Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Chile",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
 https://pistream.ddns.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Fan
+#EXTINF:-1 tvg-id="EnerGeek Fan" tvg-name="EnerGeek Fan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 no
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
+#EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek
+#EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
 same
@@ -961,9 +962,7 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-id="Anime Zone TV" tvg-name="Anime Zone TV" tvg-language="es" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU1MTkyZTYtMDBjNy00MGEyLThhZTgtN2NjOTlmMGQ5ZmY2XkEyXkFqcGc@._V1_.jpg" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Anime Zone TV
 
-
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
-
 
 ya no
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -1012,9 +1011,7 @@ https://stmv6.voxtvhd.com.br/canal72tv/canal72tv/chunklist_w9347131.m3u8
 https://stmv6.voxtvhd.com.br/canal1/canal1/chunklist_w369696033.m3u8
 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/chunklist_w462845501.m3u8
-
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
-
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV Cartoons 
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8?hls_ctx=05363556
@@ -1063,7 +1060,7 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="Anime",Channel 7 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="Anime",Channel 7 
 http://radio.7chan.org:8000/CH7.m3u
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png" group-title="Entretenimiento+",VariedTV
@@ -1083,7 +1080,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
 No
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w841089325.m3u8
 https://kali.vdopanel.com:3070/stream/play.m3u8
