@@ -114,7 +114,7 @@ https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/chunklist_w2001449108_DV
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
 https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml
 
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" tvg-country="MX" tvg-url="" group-title="Basico",El Nueve
+#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NU9VE_2018.svg/1920px-NU9VE_2018.svg.png" tvg-country="MX" tvg-url="" group-title="Basico",El Nueve
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 no
