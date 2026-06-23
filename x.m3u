@@ -188,6 +188,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1724452368/ei/s
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="Basico",Canal 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+si
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-XHILA-TDT.png" tvg-country="Lat" tvg-url="" group-title="Basico",Canal 66
 https://60417ddeaf0d9.streamlock.net/canal66/videocanal66/playlist.m3u8
@@ -210,6 +212,7 @@ https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 https://ythls.armelin.one/channel/UCmH_aocELNh4EJruT20zObA.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/New_Logo_13_2022.jpg/960px-New_Logo_13_2022.jpg" group-title="Basico",N13
+https://stream.haislin.com/14tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="http://www.tvmas.mx/wp-content/themes/TVMASv2/images/logoTVMASblanco.png" group-title="Basico",TVMas
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -348,10 +351,8 @@ https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Entretenimiento+",Galavision
 
-
 #EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://atacamatelevision.com/logo_header.png" group-title="Entretenimiento+",Atacama TV
 https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
-
 
 si pero no
 https://v2.tustreaming.cl/atacamatv/index.m3u8
@@ -368,8 +369,8 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="es" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Lat",Golden Premier
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Lat",Golden Edge
 
-#EXTINF:-1 tvg-id="Cinecanal Pacífico" tvg-name="Cinecanal Pacífico" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",Cinecanal Pacífico
-
+#EXTINF:-1 tvg-id="D Pelicula" tvg-name="D Pelicula" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",D Pelicula
+http://181.119.93.83:8000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-id="Todo Cine" tvg-name="Todo Cine" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/TODO_CINE.jpg" group-title="Entretenimiento+",Todo Cine
 https://apollo.production-public.tubi.io/live/todo-cine2-a7ucGt.m3u8?
@@ -555,7 +556,11 @@ nose
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 #EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Clan
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+no
+https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-id="Canal TeleMadrid" tvg-name="TeleMadrid" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",TeleMadrid
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Antena 3
 http://187.190.55.136:5501/udp/225.1.1.101:5101
@@ -758,6 +763,8 @@ logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Discovery_Family
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/168x168.png?type=color_onBlack" group-title="Automotive",Discovery Turbo
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+si
+https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
 #EXTINF:-1 tvg-id="A&amp;E Panregional" tvg-name="A&amp;E Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Entretenimiento+",A&amp;E Panregional
 http://23.239.31.26:8989/aande/index.m3u8
@@ -789,8 +796,16 @@ no
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88/variant.m3u8?url=a29cf0882e4429be925376f97afe321d-f264da8967e3093504a8ef568020f80245ea4f129d19309a32d58b90dbb7613d85839f0232a90cb93dcd6b7f0f101a29b5f9508ccc5808af53c7b583d558bdaa539c02078d7343c0bcc7e2a2518c7c68922b95f8a8c900178b2011f28a2e42803d134488ef5a96c0a9af1c1b31427aca&x-plex-token=G5fgWbjsnSc4yxy-grVe&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1719725135
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
-#EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Ar",13 de Chile
-no
+#EXTINF:-1 tvg-id="El 6" tvg-name="El 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="Ar",El 6
+https://stream.elseis.do/canal6/live_1080.m3u8
+
+#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://es.wikipedia.org/wiki/Canal_9_%28Buenos_Aires%29#/media/Archivo:Canal_9_2015.png" group-title="Ar",El Nueve
+http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Ar",Energia TV
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+
+13 de Chileno
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="Ar",Magazine
@@ -818,7 +833,6 @@ https://csm-e-cetubiausw2live-094562e87348b91c9.csm.tubi.video/csm/live/75051802
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8
 https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/659e598ab9adc4000843c574/colorLogoPNG.png" group-title="Cartoon",Anime
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 
@@ -826,7 +840,6 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 no
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/659e598ab9adc4000843c574/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8293f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a10e7bc2-27d2-4246-858e-3b550009b794
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Cartoon",Disney
 
@@ -893,13 +906,14 @@ https://wag.ika.lat/stream/870547344
 #EXTINF:-1 tvg-id="+" tvg-name="Chilevisión Plus" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión Plus
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Chile",V Classic TV (720p)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
 https://pistream.ddns.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 no
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
@@ -907,6 +921,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 
 same
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
@@ -919,6 +936,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/l_957775_102100_17.chunks.
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 #EXTINF:-1 tvg-id="Filmrise Anime" tvg-name="Filmrise Anime" tvg-language="es" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcff7361f-e0ba-4aeb-9251-9530f4eb1d80%2FFilmRise_Anime_1500x1000_Light_Logo.png" tvg-country="Lat" group-title="Anime",Filmrise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
@@ -1448,6 +1466,8 @@ https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playl
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento+",AMC 
+https://amchls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento+",Stories By AMC 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento+",AMC Reality 
@@ -1579,6 +1599,8 @@ https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 #EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="Entretenimiento+",Gravitas
 
 #EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" group-title="Art",Classic Arts Showcase 
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+si
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 
 #EXTINF:-1 tvg-id="5ca670f6593a5d78f0e85aed" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="Entretenimiento+",BET Pluto TV
@@ -1757,7 +1779,8 @@ no
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
-#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_Xite.png" group-title="Music",Xite
+#EXTINF:-1 tvg-id="Aguacate TV" tvg-name="Aguacate TV" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Music",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="The Nest" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" group-title="Entretenimiento+",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
@@ -1982,7 +2005,7 @@ https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
 no
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e977a618036500082ec972/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=ed502ec4-ffd0-49d1-b7de-1c00fad2906c&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=780d4add-bd33-4653-991b-a1b01642f1da
 
-#EXTINF:-1 tvg-id="Korgoth The Barbarian" tvg-name="Korgoth The Barbarian" tvg-language="English"tvg-logo="https://m.media-amazon.com/images/M/MV5BYzUzMDNjZWUtYzM4Ny00ODM3LWI2OWYtMjQyZGM5ZjhlNzY2XkEyXkFqcGdeQXVyNTc3NjU4NDE@._V1_FMjpg_UX1000_.jpg" group-title="24/7",Korgoth The Barbarian
+#EXTINF:-1 tvg-id="6486e8984cfc2c0008b6844e" tvg-name="Beavis And Butt-Head" tvg-language="English"tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" group-title="24/7",Beavis And Butt-Head
 
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="Music",~ 24/7 Adult Swim Geo-Blocked ~
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -2026,6 +2049,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d37qvay98eimbp.cloudfront.net/hls/samsungtvplus_es_darkmatter_001.m3u8?ads.xumo_channelId=9992561&ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.networkName=tricoastsstves
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Screen
+
 
 #EXTINF:-1 tvg-id="XPTVUS.es" tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Entertainment",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
@@ -2339,6 +2363,8 @@ no
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 http://epg.112114.xyz/douyu/4332
 
+#EXTINF:-1 tvg-id="Cloudflare" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Music",Cloudflare
+https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="XLevelMedia.ar" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Music",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
