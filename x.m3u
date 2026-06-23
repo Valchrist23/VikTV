@@ -246,6 +246,8 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png?_=20190120112320" group-title="Entretenimiento+",Mega
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento+",Las Estrellas
