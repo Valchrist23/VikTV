@@ -695,8 +695,7 @@ no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 -----------------------------------------Entertainment---------------------------------------------
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/370px-E%21_Logo.svg.png" group-title="Entretenimiento+",E! Entertainment Television
-
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento+",History
 
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/E%21_logo_2012.png" group-title="Entretenimiento+",E! Entertainment Television
 http://23.237.104.106:8080/USA_E/index.m3u8
@@ -712,14 +711,16 @@ https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento+",History
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Entretenimiento+",History
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
-http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
-
-
 #EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Entretenimiento+",History 2
-http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
+no
+http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23001/true-history/thumbh_20211006_223708.jpg" group-title="Entretenimiento+",True History 
 https://linear-188.frequency.stream/dist/distrotv/188/hls/master/playlist.m3u8
@@ -821,11 +822,17 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
 nop
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
+#EXTINF:-1 tvg-id="680ba8c3a48b3ead0db701cc" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG.png" group-title="Anime",Los Caballeros del Zodiaco
+https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
+
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Anime",Kartoon Channel!
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
 no
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
@@ -1053,6 +1060,9 @@ no
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=31.8815&deviceLon=-116.5925&deviceDNT=TARGETOPT&deviceId=3aa2edec-d65e-4ae3-ac76-e4fc9d398d67&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="Gametoon" tvg-logo="http://gametoon.com/images/logo.png" group-title="Gaming",Gametoon
+https://iptv.prosto.tv/ch256/index.m3u8
+
 #EXTINF:-1 tvg-id="Toonami Tv" tvg-name="Toonami Tv" tvg-logo="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2018/10/toonami-aftermath-1024x576.jpg" group-title="Anime",Toonami Tv
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8 
 
@@ -1225,8 +1235,6 @@ no
 https://scl.edge.grupoz.cl/movie/live/chunklist_w870260033.m3u8 
 https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w1786162115.m3u8
 
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Cartoon",Tooncast
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Junior_Logo_2021.svg/960px-Junior_Logo_2021.svg.png?_=20211002155504" group-title="Cartoon",TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
@@ -1281,8 +1289,10 @@ no hallesp
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Hallmark en Español" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="Entretenimiento+",Hallmark en Español
+#EXTINF:-1 tvg-id="Limon TV" tvg-name="Limon TV" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Hallmark en Español"
 
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Entretenimiento+",Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
@@ -1293,6 +1303,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento+",Lifetime
+http://138.121.15.230:9002/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento+",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
@@ -1577,6 +1588,9 @@ https://s5.mexside.net:1936/telemax/telemax/chunklist_w1180237135.m3u8
 no
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
+#EXTINF:-1 tvg-id="Great TV" tvg-name="Great TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/960px-Great%21_TV_logo_2021.svg.png?_=20240411134633" group-title="Cartoon",Great TV
+https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Roar" tvg-name="Roar" tvg-logo="https://dsk4yqs0338lt.cloudfront.net/uploads/2025/04/ROAR_WHITE-2048x551.png" group-title="Entretenimiento+",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index_1.m3u8
 
@@ -1794,6 +1808,13 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8 
 
+#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",	K POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="K POP Mix" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 tvg-id="	KPOP" tvg-name="KPOP" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",KPOP
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_Venus_Berlin.svg/960px-Logo_Venus_Berlin.svg.png" tvg-country="KO" tvg-url="" group-title="Music",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
@@ -1970,6 +1991,9 @@ https://live-manifest.production-public.tubi.io/live/e1314865-409b-4349-87b8-550
 
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-name="Haunt TV" tvg-language="English" tvg-logo="https://haunt-tv.com/wp-content/uploads/2022/09/haunt-tv-logo.png" tvg-country="US" tvg-url="" group-title="US",Haunt TV
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+
 #EXTINF:-1 tvg-id="64ff1d92d545e9000877fba4" tvg-name="A Haunting" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64ff1d92d545e9000877fba4/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="US",Haunt TV
 https://jmp2.uk/plu-64ff1d92d545e9000877fba4.m3u8
 
@@ -2087,7 +2111,7 @@ https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 #EXTINF:-1 tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://yt3.ggpht.com/-sdp4r3gfjC8/AAAAAAAAAAI/AAAAAAAAAAA/7JiSbkGO8Ng/s900-c-k-no/photo.jpg" group-title="Music",Kaloopy
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/tracks-v1a1/mono.ts.m3u8
 
-
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 no
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/2m3u8
 https://dai.google.com/linear/hls/pa/event/FK1bjW0AThepH1W7CJrByg/stream/ed03f467-5752-43ed-972d-58d3c4a9fd64:DLS/master.m3u8
