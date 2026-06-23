@@ -2386,7 +2386,7 @@ no
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 channel-id="VIP" tvg-id="VIP" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Entretenimiento+" ,VIP
+#EXTINF:-1 channel-id="VIP TV" tvg-id="VIP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Vip.png" group-title="Entretenimiento+" ,VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
 https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8
@@ -2398,7 +2398,7 @@ https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 channel-id="pluto-Douyu Movie" tvg-id="Douyu Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/DouYu_2023.svg/220px-DouYu_2023.svg.png" group-title="Entretenimiento+",Della TV
+#EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Entretenimiento+",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 no
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
