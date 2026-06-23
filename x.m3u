@@ -535,26 +535,18 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai=SSSLIVE
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 2
-https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 si
+https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
-si
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}&ads.ssai=SSSLIVE
 https://ztnr.rtve.es/ztnr/5468585.m3u8 
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Clan
-
-#EXTINF:-1 tvg-id="Canal TeleMadrid" tvg-name="TeleMadrid" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",TeleMadrid
-
-si
+No Telemadrids
 https://new-international-23-secure2.akamaized.net/index.m3u8
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://telemadrid-23-secure2.akamaized.net/bitrate_2.m3u8
@@ -562,7 +554,8 @@ https://telemadrid-23.secure2.footprint.net/master.m3u8
 nose
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-
+#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Clan
+#EXTINF:-1 tvg-id="Canal TeleMadrid" tvg-name="TeleMadrid" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",TeleMadrid
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="Noticias",Antena 3
 http://187.190.55.136:5501/udp/225.1.1.101:5101
@@ -597,8 +590,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_cha
 
 #EXTINF:-1 tvg-id="Telemundo Panregional" tvg-name="Telemundo Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento+",Telemundo Panregional
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-no
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
 
 #EXTINF:-1 tvg-id="Telemundo Accion" tvg-name="Telemundo Accion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/960px-Telemundo_logo_2012.svg.png" group-title="Entretenimiento+",Telemundo Accion
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991748/hls/master.m3u8?ads.xumo_channelId=99991748&ads.asnw=169843&ads.afid=137391198&ads.sfid=16926452&ads.csid=xumo_web_TelemundoEpisodic_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=c0305eb2-6597-4b9e-856e-772c20b4e640&ads._fw_vcid2=512116:c0305eb2-6597-4b9e-856e-772c20b4e640&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2560&ads.xumo_contentName=TelemundoEpisodic&ads.xumo_providerId=2560&ads.xumo_providerName=TelemundoEpisodic&ads.channelId=99991748&ads._fw_ifa_type=
@@ -613,7 +604,6 @@ https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dbrb49pjoymg4.cloudfront.net/10001/99951225/hls/master.m3u8?ads.xumo_channelId=99951225&ads.xumo_streamId=99951225&ads.channelId=99951225&ads.channelName=telemundonoticiasca_us&ads.caid=TelemundoNoticiasCA&ads.csid=xumo_web_TelemundoNoticiasCA_ssai&ads._fw_coppa=0&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads._fw_ifa_type=&ads._fw_did=af137958-1577-4359-b5e0-d3c37091b478&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 no
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
-
 
 #EXTINF:-1 tvg-id="Canal 10 Microvision" tvg-name="Canal 10 Microvision" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="Entretenimiento+",Canal 10 Microvision HD 
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1958054915.m3u8 
@@ -631,18 +621,13 @@ https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entretenimiento+",Globovision
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Entretenimiento+",Tves
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg/250px-Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg.png" group-title="Entretenimiento+",Venevision
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 -----------------------------------------Kitchen--------------------------------------------- 
 
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade 
-
 #EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
-no
 
 #EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
