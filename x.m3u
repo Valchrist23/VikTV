@@ -2361,7 +2361,7 @@ nel puro stich
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cde90a84-972c-49ea-baf2-941a657dbeea/FilmRise_FreeMovies_1500x1000_logo_light.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Entretenimiento+",FilmRise True Crime
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df6011f2-06eb-40c0-a217-8bfd437b7f03/FilmRise_TrueCrime_1500x1000_Light_Logo.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Entretenimiento+",FilmRise True Crime
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5963
 
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Entretenimiento+" ,Investiga
