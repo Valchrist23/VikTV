@@ -1315,9 +1315,6 @@ no hallesp
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5de7b59f-e88b-11ee-85f1-566befda4758&deviceId=d9e8639d-2c7c-4671-aa6c-fd7a44cce0a1&deviceVersion=115.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=47.84000015258789&deviceLon=-122.20999908447266&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
-http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Hallmark en Español"
 
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Entretenimiento+",Cine Estelar
@@ -1501,12 +1498,11 @@ https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento+",AMC Reality 
 https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1efa6c33948ea4ceedbcf" tvg-name="AMC en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="Entretenimiento+",AMC en Español
-
-
-
 no
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1efa6c33948ea4ceedbcf" tvg-name="AMC en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="Entretenimiento+",AMC en Español
+
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fc705e2a2236e002d69f36d" tvg-name="AMC Thrillers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="US",AMC Thrillers 
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.app_bundle=&amp;ads.app_store_url=&amp;ads.consent=0&amp;ads.gdpr=0&amp;ads.plex_id=5ef4e1b40d9ad000423c4427&amp;ads.plex_token=z1MCPUpbxYcHru-5hdyq&amp;ads.psid=&amp;ads.targetopt=1&amp;ads.ua=Mozilla/5.0+(Windows+NT+10.0;
@@ -1594,7 +1590,7 @@ https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/64f8a949f5b5e4000862467c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-name="Comedy Dynamics" tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="Entretenimiento+",Comedy Dynamics
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics" tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="Entretenimiento+",Comedy Dynamics
 https://live-manifest.production-public.tubi.io/live/f35167dd-e5c5-4ab4-8741-85e9bfcb0192/playlist.m3u8
 
 https://dbrb49pjoymg4.cloudfront.net/10001/99951463/hls/playlist.m3u8?ads.xumo_channelId=99951463&ads._fw_ifa_type=&ads._fw_did=3d7fa623-9bc1-4198-8caa-f5758c055d85&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FremantleComedyDynamics&ads.csid=xumo_web_FremantleComedyDynamics_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Comedy,Entertainment,GV&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Comedy,Entertainment,GV&ads._fw_content_rating=&ads.xumo_contentId=4297&ads.xumo_contentName=FremantleComedyDynamics&ads.xumo_providerId=4297&ads.xumo_providerName=FremantleComedyDynamics&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951463&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -1612,12 +1608,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbd
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 no
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&us_privacy=1YNY 
-
-#EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/960px-Telemax.png" group-title="Entretenimiento+",Telemax
-https://s5.mexside.net:1936/telemax/telemax/chunklist_w1180237135.m3u8
-
-no
-https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/KCWX_logo_2024.png" group-title="Entretenimiento+",My KCWX TV 
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
@@ -1825,10 +1815,7 @@ no
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 
-#EXTINF:-1 tvg-id="Aguacate TV" tvg-name="Aguacate TV" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Music",Aguacate TV
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="The Nest" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" group-title="Entretenimiento+",The Nest
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" group-title="Entretenimiento+",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 
 https://fast-channels.sinclairstoryline.com/THENEST/index_1_18681883.ts?m=1734546991
@@ -1938,7 +1925,6 @@ http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://en.wikipedia.org/wiki/File:ESPN2_logo.svg" group-title="Sports",ESPN2
-
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://en.wikipedia.org/wiki/File:ESPN2_logo.svg" group-title="Sports",ESPN2
 
 
@@ -2089,7 +2075,7 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="99991331" tvg-name="The Asylum" tvg-logo="https://image.xumo.com/v1/channels/channel/99991331/168x168.png?type=color_onBlack" group-title="Horror & Sci-Fi",The Asylum
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6" tvg-name="Dark Matter TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42d62b39-7f22-4113-a8c5-7445f69ca756/dark_matter_tv_logo_dark.png" group-title="Cine/Series",Dark Matter TV 
-https://live-content.xumo.com/3346/content/XM0V51M0BCGSV8/23832068/master.m3u8
+
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6" tvg-name="Dark Matter TV" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Matter TV
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
@@ -2100,6 +2086,7 @@ no
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dark-matter-tv/e4a2f31b-aa2b-4db0-b1c5-8e2c0dd1dfb1/2.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D 
 https://d37qvay98eimbp.cloudfront.net/hls/samsungtvplus_es_darkmatter_001.m3u8?ads.xumo_channelId=9992561&ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D&ads.networkName=tricoastsstves
+https://live-content.xumo.com/3346/content/XM0V51M0BCGSV8/23832068/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.fXkFbKWvv1d4EwEwBe3hyQHaC3&pid=Api&P=0&w=504&h=196" group-title="Cine/Series",Dark Screen
 
@@ -2238,8 +2225,19 @@ https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Movies",Guaymate 
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Music",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/960px-Telemax.png" group-title="Entretenimiento+",Telemax
+https://s5.mexside.net:1936/telemax/telemax/chunklist_w1180237135.m3u8
+no
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento+",Telenord 8 
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
