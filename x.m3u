@@ -831,7 +831,7 @@ https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="Ar",El 6
 https://stream.elseis.do/canal6/live_1080.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Ar",El 9
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Ar",Elnueve
 http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Ar",13 de Chileno
