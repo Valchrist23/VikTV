@@ -1502,6 +1502,10 @@ https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="Entretenimiento+",AMC Reality 
 https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-62d1efa6c33948ea4ceedbcf" tvg-name="AMC en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6506fc65-9955-42e9-bd64-e9432925db17/amc_yellow_logo.png" group-title="Entretenimiento+",AMC en Español
+
+
+
 no
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
