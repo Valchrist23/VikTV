@@ -1371,12 +1371,13 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/28196c572452294dfc392130a
 #EXTINF:-1 tvg-id="Crave" tvg-name="Crave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/250px-Crave_2018_logo.svg.png" group-title="Entretenimiento+",Crave
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/150px-Fuse_Black_Logo_2017.png" group-title="Gaming",
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/120px-Warner_TV_logo.svg.png" group-title="Entretenimiento+",WBTV At the movies
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a2c1370b91165254efdb3c" tvg-name="At the movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf7b7e0a-feb0-49cf-8962-428a06c1becf/AtTheMovies_Logo_Dark_1500x1000.png" group-title="Entretenimiento+",At the movies
 https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/120px-Warner_TV_logo.svg.png" group-title="Entretenimiento+",WBTV Mysterious Worlds
+
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a1af9677649467da169f12" tvg-name="Mysterious Worlds" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73512c80-94bf-4f2a-bf54-18d3f6d1a41a/MysteriousWorlds_Logo_Dark_1500x1000.png" group-title="Entretenimiento+",Mysterious Worlds
 https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rightnowtelevision.com/wp-content/uploads/2023/10/RightNowLogoWhiteWebCircle-1.png" group-title="USA",Right Now TV 
+#EXTINF:-1 tvg-id="Right Now TV" tvg-name="Right Now TV" tvg-logo="https://www.rightnowtelevision.com/wp-content/uploads/2023/10/RightNowLogoWhiteWebCircle-1.png" group-title="USA",Right Now TV 
 https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3u8 
 
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" tvg-name="TuWarner" tvg-logo="https://images.pluto.tv/channels/6732497f3a61d400087a53b0/colorLogoPNG.png" group-title="Entretenimiento+",TuWarner
