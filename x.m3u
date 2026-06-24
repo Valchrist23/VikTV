@@ -1931,8 +1931,9 @@ https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 no
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
                         
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Pac-12_Network_logo.png" tvg-country="US" tvg-url="" group-title="Sports",Pac-12 Insider
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d" tvg-name="Pac-12 Insider" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Pac-12_Network_logo.png" tvg-country="US" tvg-url="" group-title="Sports",Pac-12 Insider
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0 
+
 noespn2
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN MX" tvg-name="ESPN MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
@@ -2015,7 +2016,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 -----------------------------------------Dedicated 24/7--------------------------------------------- 
 
-#EXTINF:-1 tvg-id="Ghosts Are Real" tvg-name="Ghosts Are Real" tvg-language="English" tvg-logo="https://canvas-lb.tubitv.com/opts/mDKhp24vPvhlUw==/f0784641-0d22-4eb3-88a2-f2854aa235f9/CHgQeDoFMS4xLjhAAQ==" tvg-country="US" group-title="Documentary",Ghosts Are Real
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a294d3e1a2934adfe851f5" tvg-name="Ghosts Are Real" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2354dc9b-6193-44a4-97e0-b9b876620fab/GhostsAreReal_Logo_Dark_1500x1000.png" tvg-country="US" group-title="Documentary",Ghosts Are Real
 https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://screenanarchy.com/assets_c/2019/09/FEAR%20MACHINE%20LOGO-thumb-860xauto-76497.jpg" group-title="US",Horror Machines
@@ -2234,10 +2235,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="http://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Movies",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=3z956x86
 
-#EXTINF:-1 tvg-id="ABTV" tvg-name="ABTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/250px-Logo_TV_2015.svg.png" group-title="Movies",ABTV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/250px-Logo_TV_2015.svg.png" group-title="Movies",ABTV
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 
-#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Movies",Guaymate 
