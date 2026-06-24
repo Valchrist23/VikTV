@@ -1432,13 +1432,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://live-manifest.production-public.tubi.io/live/3c0e97d2-21cc-49dd-a486-c268b0c2b93b/playlist.m3u8
 
 https://dbrb49pjoymg4.cloudfront.net/10001/99951453/hls/playlist.m3u8?ads.xumo_channelId=99951453&ads._fw_ifa_type=&ads._fw_did=afb205d2-ff30-4b01-b1d6-169c01a62f99&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ITVVice&ads.csid=xumo_web_ITVVice_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4274&ads.xumo_contentName=ITVVice&ads.xumo_providerId=4274&ads.xumo_providerName=ITVVice&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951453&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
 no
 https://apollo.production-public.tubi.io/live/vice-tRhHBo.m3u8?
 https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-5f74cf83ffbe690040689f4d" tvg-name="Wonder" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qTbCyOj.png" group-title="",Wonder
+#EXTINF:-1 tvg-id="697140a85d851f5e69414688-5f74cf83ffbe690040689f4d" tvg-name="Wonder" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" group-title="USA",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8 
 
 no
