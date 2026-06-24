@@ -396,7 +396,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Lat",De Película
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 
-#EXTINF:-1 tvg-id="afe5cd54-0d6d-4b60-a4df-91a8d7ac7960" tvg-name="Todo Cine" tvg-country="MX" tvg-language="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Entretenimiento+",Todo Cine
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-644c446d7472b186783f359e" tvg-name="Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Entretenimiento+",Todo Cine
 https://apollo.production-public.tubi.io/live/todo-cine2-a7ucGt.m3u8?
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e" tvg-name="Runtime Cine y Series" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2bb53c0b-9893-4531-8609-e4c811441126%2FRuntime_LATAM_Dark_Mode_Logordx.png" group-title="Cine/Series",Runtime Cine y Series
