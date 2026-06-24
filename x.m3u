@@ -104,6 +104,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="TVUNAM" tvg-name="TVUNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TVUNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 no
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist.m3u
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1747392996_DVR.m3u8
 https://5ca3e84a76d30.streamlock.net:443/tvunam/videotvunam/playlist.m3u8?DVR
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDI0IDU6NTI6NDMgUE0maGFzaF92YWx1ZT1wa3p6ZmNjSHhxWnBJaFlPT2hJWGRnPT0mdmFsaWRtaW51dGVzPTIwJmlkPQ%3D%3D&DVR
@@ -111,9 +112,6 @@ https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 <video class="jw-video jw-reset" tabindex="-1" disableremoteplayback="" webkit-playsinline="" playsinline="" src="blob:https://conceptoweb-studio.com/fa6cde0a-4dac-4a09-9bb2-0d40ffa73d98"></video>
 https://5fe2654d6127d.streamlock.net/tvunam/videotvunam/chunklist_w2001449108_DVR.m3u8
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yLzIwMjQgMjoxMTowMCBQTSZoYXNoX3ZhbHVlPU4wVjQzbXkrS3J5ZUF0ZmIvWWsyQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR
-
-#EXTINF:-1 tvg-id="TVUNAM" tvg-name="TVUNAM" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Tv_UNAM.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml" group-title="Basico",TVUNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist.m3u
 
 https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml
 
@@ -294,13 +292,13 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
-https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-
-#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 si
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=VUdRbiFWBHwhV_sDQS1g
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 
 #EXTINF:-1 tvg-id="Azteca Uno -1 Hora" tvg-name="Azteca Uno -1 Hora" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1 Hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
@@ -389,8 +387,9 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden" tvg-country="MX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" group-title="Entretenimiento+",Golden
 #EXTINF:-1 tvg-id="GPREMSD" tvg-country="MX" tvg-language="es" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Entretenimiento+",Golden Premier
 #EXTINF:-1 tvg-id="GoldenEdge" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/420px-Golden_Edge_Logo_2020.png" group-title="Entretenimiento+",Golden Edge
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png"
 
-#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1920px-CinecanalLA.png" group-title="Entretenimiento+",De Película
+#EXTINF:-1 tvg-id="De Película" tvg-name="De Película" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Entretenimiento+",De Película
 http://181.119.93.83:8000/play/a1jw/index.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-644c446d7472b186783f359e" tvg-name="Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Entretenimiento+",Todo Cine
