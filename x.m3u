@@ -325,13 +325,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/646cce4d1593940008
 
 #EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
 
-#EXTINF:-1 tvg-id="1088747e-b11d-466c-b652-ca6b291ceae5" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5923
 
 si
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5923
 
-#EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
 
