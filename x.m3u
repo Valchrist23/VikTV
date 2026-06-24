@@ -928,14 +928,13 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/120px-Canal_Venus_logo.svg.png" group-title="US",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
-
-no
+no Animax
 https://nl.utako.moe/Animax/tracks-v1a1/mono.m3u8
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://wag.ika.lat/stream/870547344
 
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
 #EXTINF:-1 tvg-id="Animevision" tvg-name="Animevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
 #EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Animevision Classics" tvg-language="es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Animevisión Classics
 
