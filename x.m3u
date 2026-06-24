@@ -920,7 +920,7 @@ https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" group-title="Anime",BitMe
 
-#EXTINF:-1 tvg-id="Nexxo" tvg-name="Nexxo" tvg-language="es" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Anime",Nexxo
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Anime",Nexxo
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 no
@@ -932,15 +932,13 @@ https://edge.essastream.com/canalcocotv/playlist.m3u8
 no
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/120px-Canal_Venus_logo.svg.png" group-title="US",Venus Media
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/120px-Canal_Venus_logo.svg.png" group-title="US",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
 https://nl.utako.moe/Animax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Animevision" tvg-name="Animevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
-
-
 #EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Animevision Classics" tvg-language="es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Animevisión Classics
 
 no
@@ -950,9 +948,6 @@ https://wag.ika.lat/stream/870547344
 
 #EXTINF:-1 tvg-id="Chilevisión CHV" tvg-name="Chilevisión CHV" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevisión CHV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VClassicTV.cl@SD" tvg-name="V Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Chile",V Classic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
 https://pistream.ddns.net/hls/stream.m3u8
@@ -981,7 +976,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-country="Lat" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
 
-#EXTINF:-1 tvg-id="Filmrise Anime" tvg-name="Filmrise Anime" tvg-language="es" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcff7361f-e0ba-4aeb-9251-9530f4eb1d80%2FFilmRise_Anime_1500x1000_Light_Logo.png" tvg-country="Lat" group-title="Anime",Filmrise Anime
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5819" tvg-name="Filmrise Anime" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcff7361f-e0ba-4aeb-9251-9530f4eb1d80%2FFilmRise_Anime_1500x1000_Light_Logo.png" tvg-country="Lat" group-title="Anime",Filmrise Anime
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
 KANADE no
@@ -1034,10 +1029,11 @@ no
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67ed8f7e443f0671bc2b2368/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 
-#EXTINF:-1 tvg-id="Dragonball Z" tvg-name="Pluto TV Anime" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/250px-Dragon_Ball_Z_logo.svg.png" group-title="Anime",Dragonball 
+#EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-name="Dragon Ball Z" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/250px-Dragon_Ball_Z_logo.svg.png" group-title="Anime",Dragonball 
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
-no
+no spain            
+https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-language="es" tvg-logo="https://scontent.ftij5-1.fna.fbcdn.net/v/t39.30808-6/473237676_1007904091358536_6258729962708499586_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x1280&ctp=s1280x1280&_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=SbkH61hLjx8Q7kNvwGL8cgX&_nc_oc=AdpD13KLM0MCEF9Z4q6mxRjT46YVenjAQuMcAYBSxfkQubq4Ss4qQ7KHYitd9rmOm3a9GwdQUua7RAWTC1G8AFUn&_nc_zt=23&_nc_ht=scontent.ftij5-1.fna&_nc_gid=zL7Z4VwRKWjtV6eTwb-90w&_nc_ss=7b2a8&oh=00_Af9TPUGB7FlXO2NOLmqzjgAW9j4DrLVkTG8U1iQZM6_pHg&oe=6A3D0539" tvg-country="Lat" group-title="Anime",Click TV
@@ -1776,6 +1772,9 @@ https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://live-manifest.product
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" group-title="Movies",MTV Classic
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Chile",V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-name="MTV Classic" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV Classic
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
