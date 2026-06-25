@@ -1193,7 +1193,7 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Cartoon",Moonbug
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Cartoon",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-name="Dreiko TV" tvg-language="es" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Cartoon",Dreiko TV
