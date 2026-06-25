@@ -3,12 +3,8 @@
 #EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",The Long Distance Of Murder
 https://archive.org/download/f-zero-x-guitar-arrange-edition/01%20-%20The%20Long%20Distance%20of%20Murder.mp3
 
-#EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",The Long Distance Of Murder
-
-
 #EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",Drivin' Through on Max
 https://archive.org/download/f-zero-x-guitar-arrange-edition/02%20-%20Drivin%27%20Through%20on%20Max.mp3
-
 
 #EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",Crazy Call At Cry
 https://archive.org/download/f-zero-x-guitar-arrange-edition/03%20-%20Crazy%20Call%20at%20Cry.mp3
@@ -18,7 +14,6 @@ https://archive.org/download/f-zero-x-guitar-arrange-edition/04%20-%20Title%20BG
 
 #EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",Decide In The Eyes
 https://archive.org/download/f-zero-x-guitar-arrange-edition/05%20-%20Decide%20in%20the%20Eyes.mp3
-
 
 #EXTINF:-1 tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="Music",Climb Up! And Get the Last Chance! 
 https://archive.org/download/f-zero-x-guitar-arrange-edition/06%20-%20Climb%20Up%21%20And%20Get%20the%20Last%20Chance%21.mp3
@@ -36,32 +31,29 @@ https://archive.org/download/f-zero-x-guitar-arrange-edition/09%20-%20Grand%20Pr
 https://archive.org/download/f-zero-x-guitar-arrange-edition/10%20-%20Staff%20Roll.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Dude looks Like a Lady (Aerosmith)
-https://archive.org/download/cd_permanent-vacation_aerosmith/disc1/05.%20Aerosmith%20-%20Dude%20%28Looks%20Like%20a%20Lady%29_sample.mp3
 
 #EXTINF:-1 tvg-logo="https://ia801604.us.archive.org/5/items/armageddon-the-album-full-tracks/Armageddon%2C_The_Album_itemimage.jpeg?cnt=0" group-title="Music",I Don't Want To Miss A Thing
-https://archive.org/download/armageddon-the-album-full-tracks/%2801%29%20I%20Don%27t%20Want%20To%20Miss%20A%20Thing.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="Music",La Grange (ZZ Top)
-https://archive.org/download/armageddon-the-album-full-tracks/%2804%29%20La%20Grange.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Dream On (Aerosmith)
-https://archive.org/download/04-one-way-street/Dream%20On/03%20Dream%20On.mp3
+
 
 #EXTINF:-1 tvg-logo="https://ia902205.us.archive.org/35/items/aerosmith-get-a-grip/aerosmith%20get%20a%20grip%20cd%20cover.jpg?cnt=0" group-title="Music",Crazy (Aerosmith)
-https://archive.org/download/aerosmith-get-a-grip/Get%20A%20Grip/11%20Crazy.mp3
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Big Gun (AC/DC) 
 https://archive.org/download/LastActionHeroMusicfromtheOriginalMotionPicture/01%20Big%20Guns.flac
 #EXTINF:-1 tvg-logo="null" group-title="Music",Big Gun (AC/DC) 
-https://archive.org/download/LastActionHeroMusicfromtheOriginalMotionPicture/01%20Big%20Guns.mp3
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",Highway to Hell (AC/DC)
-https://archive.org/download/acdc-highway-to-hell_202206/01%20-%20Highway%20To%20Hell.mp3
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",Shoot To Thrill (AC/DC)
-https://archive.org/download/acdc-back-in-black_202206/02%20-%20Shoot%20To%20Thrill.mp3
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",Back In Black (AC/DC)
-https://archive.org/download/acdc-back-in-black_202206/06%20-%20Back%20In%20Black.mp3
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",You Shook Me All Night Long (AC/DC)
-https://archive.org/download/acdc-back-in-black_202206/08%20-%20Have%20A%20Drink%20On%20Me.mp3
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Rictchie Valens Donna
 https://archive.org/download/r_20220209_202202/Ritchie%20Valens-Donna.mp3
@@ -75,7 +67,6 @@ https://archive.org/download/r_20220209_202202/Ray%20Parker%20Jr.%20-%20Ghostbus
 https://archive.org/download/02.-born-to-be-wild-steppenwolf-1969-easy-rider-soundtrack/02.%20Born%20To%20Be%20Wild%20%28Steppenwolf%29%201969%20-%20Easy%20Rider%20%28Soundtrack%29.mp3
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",ACDC Highway to Hell
-https://archive.org/download/10-night-prowler/Highway%20To%20Hell/01%20Highway%20To%20Hell.mp3
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Madona La Isla Bonita
 https://archive.org/download/Madona_008/Madona-LaIslaBonita.mp3
@@ -99,11 +90,10 @@ https://audio.liberta.vip/api/v1/listen/d2b254cf-90f4-4703-8708-7141d6fba77e/?up
 https://audio.liberta.vip/api/v1/listen/308cd45b-7230-4659-91ee-725caff5570d/?upload=90936f90-86c6-483c-987c-8bbb850f0a8d
 
 #EXTINF:-1 tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/bc/6e/9a/attachment_cover-d391f772-f9b5-4704-a395-3e1d46d0374a-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Nirvana Smells Like Teen Spirits
-https://archive.org/download/nirvana-nevermind-1991_202307/Nevermind%20%281991%29/01.%20Smells%20Like%20Teen%20Spirit.mp3
+
 #EXTINF:-1 tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/bc/6e/9a/attachment_cover-d391f772-f9b5-4704-a395-3e1d46d0374a-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Nirvana Lithium
-https://archive.org/download/nirvana-nevermind-1991_202307/Nevermind%20%281991%29/05.%20Lithium.mp3
+
 #EXTINF:-1 tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/bc/6e/9a/attachment_cover-d391f772-f9b5-4704-a395-3e1d46d0374a-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Nirvana Come As You Are
-https://archive.org/download/nirvana-nevermind-1991_202307/Nevermind%20%281991%29/03.%20Come%20As%20You%20Are.mp3
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Voodoo Swing
 
@@ -173,10 +163,11 @@ https://archive.org/download/teenage-mutant-ninja-turtles-original-1990-motion-p
 https://archive.org/download/youtube-BqZ6sRHpWIk/BqZ6sRHpWIk.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Googoo Dolls Iris
-https://archive.org/download/youtube-Dy_eP-mqWow/Dy_eP-mqWow.mp4
+
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Hold The Line
 https://archive.org/download/youtube-ZP69PLBqFUo/ZP69PLBqFUo.mp4
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
