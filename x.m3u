@@ -936,7 +936,7 @@ https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
-https://pistream.ddns.net/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="Anipop TV" tvg-name="Anipop TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",Anipop TV
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
@@ -944,6 +944,8 @@ no EnerGeek Radio TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+no fanpop
+https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=dEmoweBeneRGEek2025
@@ -987,14 +989,13 @@ https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
 #EXTINF:-1 tvg-id="loco" tvg-name="Locomotion" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Locomotion.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",loco
 
-ya no
-http://51.222.85.85:81/hls/loco/index.m3u8
-http://51.222.85.85:81/hls/loco/index.m3u8
-http://85.239.54.197:81/live/loco_hi/index.m3u8
-
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
+no locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
+http://85.239.54.197:81/live/loco_hi/index.m3u8
 no
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
