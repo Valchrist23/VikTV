@@ -1489,7 +1489,7 @@ https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd
 no
 https://fl4.moveonjoy.com/ION_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entretenimiento+",ION
+#EXTINF:-1 tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entretenimiento+",ION
 https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
 
 no
