@@ -93,7 +93,7 @@ si
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX Nuestro Cine" tvg-name="MX Nuestro Cine" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz37TxvcrCBtMBVvH0lVmAxxmt3Gm8aLr8CA&s" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",MX Nuestro Cine
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz37TxvcrCBtMBVvH0lVmAxxmt3Gm8aLr8CA&s" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 no se
@@ -438,7 +438,7 @@ https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Estrella TV" tvg-name="Estrella TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Entretenimiento+",Estrella TV 
 https://estrellatv-plex.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/04/logo-head-3.png" group-title="Entretenimiento+",Mexico Travel Chanel
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/04/logo-head-3.png" group-title="Entretenimiento+",Mexico Travel Channel
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
 
 no
@@ -817,7 +817,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
-#EXTINF:-1 tvg-id="5f36d726234ce10007784f2a" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" group-title="Entretenimiento+" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
+#EXTINF:-1 tvg-id="5f36d726234ce10007784f2a" tvg-name="The Bob Ross Channel" tvg-country="US" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" group-title="Art" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
 https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 
 no
@@ -1220,7 +1220,8 @@ https://stream-us-east-1.getpublica.com/cl/260305d6kutv26q95k0aag3eq0/1920x1080_
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwix.ecwid.com%2Fwix%2Fapp%2Fcart_v2%3FpageId%3DmasterPage%26compId%3Dcomp-m5touzff%26viewerCompId%3Dcomp-m5touzff%26siteRevision%3D239%26viewMode%3Dsite%26deviceType%3Ddesktop%26locale%3Des%26tz%3DAmerica%252FChicago%26regionalLanguage%3Des%26width%3D106%26height%3D106%26instance%3D-V_ZHBg6EqXgyKEq0uuSN81g7GYzplhMO8d_29mGHUQ.eyJpbnN0YW5jZUlkIjoiNDQ4NWIyM2EtMTczNy00NWRkLTg3OGEtMjI2ODFhZjUyOGQzIiwiYXBwRGVmSWQiOiIxMmYxZmJhYi04YjlkLTMwMDItODdiNS0yOTcyODk3ZTgzMTQiLCJzaWduRGF0ZSI6IjIwMjUtMDQtMjZUMjA6NTQ6NDMuMzU4WiIsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiN2JjNDExZDctNTkzYi00NjdkLWJiZmQtZDcwZmM5OGU0YjNhIiwic2l0ZU93bmVySWQiOiJhNjgyZGQ3ZS1jYWY4LTQ2NzgtOTc4Ny0yNjM1MTY2YWZiZTYiLCJicyI6InF1VVdGWWF6SXI1QjNCX3RDd2I0T09fdUJvOTg5aTA3ZFlZVTFnbWNaT0UuSW1RM01UTmhaalkwTFRkak1qVXROREZpWkMxaU1XSmlMV00xWkdVeVkyVXhaakJrT1NJIiwic2NkIjoiMjAyMi0xMi0xNFQyMDowNzoyOS40MThaIn0%26currency%3DMXN%26currentCurrency%3DMXN%26commonConfig%3D%257B%2522brand%2522%253A%2522wix%2522%252C%2522host%2522%253A%2522VIEWER%2522%252C%2522bsi%2522%253A%2522fc6a04cd-e19d-439b-97ce-a5286cefd6f8%257C1%2522%252C%2522siteRevision%2522%253A%2522239%2522%252C%2522renderingFlow%2522%253A%2522NONE%2522%252C%2522language%2522%253A%2522es%2522%252C%2522locale%2522%253A%2522es-mx%2522%252C%2522BSI%2522%253A%2522fc6a04cd-e19d-439b-97ce-a5286cefd6f8%257C1%2522%257D%26currentRoute%3D.%252F%26vsi%3D009ada20-2aa6-4638-bcc6-0a3a03fe8568&title=&referrer=https%3A%2F%2Fwww.zaztv.com%2F&muid=NA&sid=NA&version=6&preview=false&__shared_params__[version]=v3
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Cartoon",TG Junior 
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8" tvg-name="TG Junior" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png" group-title="Cartoon",TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
 
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Cartoon",Watch it Kid
@@ -1824,7 +1825,7 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="Music",1Muz 
+#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Muz 
 http://hz1.teleport.cc/HLS/HD.m3u8
 si country network
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist1080p.m3u8
