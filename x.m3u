@@ -610,13 +610,13 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_cha
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 no
 https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist216.m3u8
-https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
+https://nbcu-telemundosnorthwestfiretv.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166f" tvg-name="Telemundo al Dia" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/183209ec7041b4645921574cffd096f4.png" group-title="Noticias",Telemundo al Dia
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
-
-no reposesors
+                 
+no reposesors  
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
 
@@ -939,6 +939,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 https://wag.ika.lat/stream/870547344
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+
 #EXTINF:-1 tvg-id="Animevision" tvg-name="Animevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
 #EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Animevision Classics" tvg-language="es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Animevisión Classics
 
@@ -1468,14 +1470,15 @@ https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS New York 
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
-
 no
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8?ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_providerId=2632&ads.xumo_providerName=nbclxchannel&ads.xumo_channelId=9999549&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbclx&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC New York https://v-ny.mybtv.net/live/548.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 26 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC Ethiopia https://player.mayya.et/play/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/nbc_eth-1.m3u8
+
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC Home Open House
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento+",AXN
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-639a0b83812b6c1429f7acd1" tvg-name="Britbox Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BritBox_2026.svg/250px-BritBox_2026.svg.png" group-title="Entretenimiento+",Britbox Mysteries
