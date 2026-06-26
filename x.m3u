@@ -524,7 +524,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 
 
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento+",Hola TV
-
+http://8.243.126.131:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Entretenimiento+",¡HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
@@ -588,7 +588,10 @@ https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/250px-Antena_3_%282017%29.svg.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Antena 3
 http://187.190.55.136:5501/udp/225.1.1.101:5101
-
+si
+https://adpnetworkhd-cmd.github.io/iptv/Antena3.m3u8
+same as above github
+https://cdn.telecloud.tv/CH10567/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
 no
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
@@ -1408,7 +1411,9 @@ https://v1.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1600px-FX_International_logo.svg.png" roup-title="Entretenimiento+",FX Movies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png" roup-title="Entretenimiento+",FXM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/260px-FXX_Logo.svg.png" roup-title="Entretenimiento+",FXX
+
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX
+http://84.17.50.102/fox/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_red_UK.png",FOX (KRIV-DT1) Houston TX 
 https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8
