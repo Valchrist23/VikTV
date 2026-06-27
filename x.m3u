@@ -360,6 +360,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8 
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 
 no  
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=5_2WYKPYAmJSS-gXe_xJTg:om3X0OXZ9uaurJx6iq3w5dNnR4fXnosKbxNFXYln-kEvohp9UrOK0UpZUvxIUL02UdSdPuZGgpQIvbpqgGXC5aTrud5_sy03IMWNexO0hBZpEpF95x3Pgqk_BM-dBuviR1bcjigRgFzkRWgYHF6W2mWuqEh7j437WtAXi1NrjG-QzDQY4jFqZZpyk4jq_GySlactzx_XR4gBXWqwco298KsdiQfkObZXSKYrIXgc5Ri_rG4cyqkTzK5gwtc_7-9cbCEexifuWwz8E39B3sWYQ0AqiQp0fVt2903rpkbgXY-X4tmcz7Pf7IC6Pzn0ruUEHShCzgO6AxKroKMod5-kxuUlTWWXdCvYfgblYlvlzXwK2LKVLB7G3bL7X-uX5MeT6EpDGhWjDz60dtZx4OCsoX9pL3SCp55KmXtNOW5L4BWSRP-T5XWmQOpSllPIuhXG3uRpfasS2Qx6Q-6VXBH0i3ZaXBbVk6xAyhGFlStxbwdSLFJ9Xc-bwVTT7YfsMVKnVFmX0mMSuRSSy135W2siFTkEKzBtFcwk1rLfj8YdvX_ORnU2ne3Fi6dzVQYWjFj_HzgEdE9eYiuucuQuvWUgqHUmhVWYc1V5E9OLDFnHUxvP3JzCWnMVjZTzICN8hoklO7GqQzxHKWT4Fr3yhiA9tIXKTa8C5kHf80-sd_7kjQVFydLhfg_p6rstI2i2Qe5GLFwKveRV6Snq2aweq_iH0c-1HbycpLL3ajDvm1wgT-dahROqie6ZSEsvRPtDrYSwdOe47fL05gAw7I6GOMGEEVJ52SrzpsmiGUvnIRi2zGrGbBWPp4PVGEaI9hTE8G59A4KnhHI8bbjqwyfBiwSdHKos1mXEOxUMEUeI9nV491N9OlREQuAahgx3cBc8NprBhSsGm8x6lLALaPE3ce-reWBQ_HGY9_Ok1X8GcnBKRQvPRGiWT7jBAClIeZ_t-Uj-qqtDbGfMUiUvs02OtdBct8YL1jXfEsDy7wNSpDhrFdASm-G2MQZ7b4L9LGte99KvoFV36NALn_hisdBaoeWTOFia12z0H1DzDTdxNUdRoBnUt8vTiKYABJjt_e14qQGN8FXdnkSCfVw7cd1jZpZGuePtePGsaRKyXgu84ejSwM36WI37r1dGNFGDrAGstupps8uvAb59in6DYsnmCnTtGA&anvtrid=f4c133b68c190d66dff10cb9d32d10c1&anvauth=tb=0~te=1754985115~sgn=a2dc61397517b2dd11f2ff6bce9df7551f80cbd29f6e7f09c721c3bd48171267&t=1754985025
@@ -531,8 +532,9 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entretenimiento+",A3Cine 
 #EXTINF:-1 tvg-id="A3Player Multicine" group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento+",A3Cine
-#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento+",A3 Series
 
+#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entretenimiento+",A3 Series
+https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/250px-TVE.svg.png" group-title="Entretenimiento+",Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
@@ -678,6 +680,7 @@ no
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="elGourmet" tvg-name="elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",elGourmet
+http://190.11.225.124:5000/live/el_gourmet_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Cooking",Plato del Dia by elGourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
@@ -1071,6 +1074,7 @@ https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/in
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 si
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
 https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist_w1690700502.m3u8
 no
@@ -1742,6 +1746,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://rezofoot.tv/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV
+https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8
+
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV Live
 
 #EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-name="MTV Hits" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Music",MTV Hits
@@ -1844,7 +1850,9 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w312874524_b1128000.m3u8
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w280200604_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-name="The Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
+#EXTINF:-1 tvg-id="Arpegio" tvg-name="Arpegio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",Arpegio
+https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
 
 #EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
@@ -2099,6 +2107,7 @@ https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/.m3u8
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/tracks-v1a1/mono.ts.m3u8
 
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
 no
 https://raw.githubusercontent.com/Valchrist23/VikTV/master/2m3u8
 https://dai.google.com/linear/hls/pa/event/FK1bjW0AThepH1W7CJrByg/stream/ed03f467-5752-43ed-972d-58d3c4a9fd64:DLS/master.m3u8
