@@ -7370,11 +7370,11 @@ http://ia601407.us.archive.org/13/items/00_20200423/05.mp4
 
 https://moodle1.myyschool.xyz/NVhUNzZ3MS9yWnBuTnhkUTdDWDIxN3BKYVM1a0ZhelNVZ3RYUUd5clZOMD0.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold S01E01 (2015)
+#EXTINF:-1 tvg-id="S01E01" tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold (2015)
 https://archive.org/download/ss-alma-de-oro-cap-13/ss%20alma%20de%20oro%20cap%201.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold S01E02 (2015)
+#EXTINF:-1 tvg-id="S01E02" tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold (2015)
 https://archive.org/download/ss-alma-de-oro-cap-13/ss%20alma%20de%20oro%20Cap%202.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold S01E03 (2015)
+#EXTINF:-1 tvg-id="S01E03" tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold (2015)
 https://archive.org/download/ss-alma-de-oro-cap-13/ss%20alma%20de%20oro%20Cap%203.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/seasons/72775-9.jpg" group-title="7.Caballeros Dorados",Saint Seiya Soul Of Gold S01E04 (2015)
 https://archive.org/download/ss-alma-de-oro-cap-13/ss%20alma%20de%20oro%20Cap%204.mp4
