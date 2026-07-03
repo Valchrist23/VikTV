@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Movies" type="Terror",E.T The Extraterrestrial (1982)
+#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Movie" type="movie",E.T The Extraterrestrial (1982)
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
-#EXTINF:-1 tvg-id="abyss1989" tvg-name="The Abyss (1989)" tvg-logo="https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg" group-title="Movies" type="vod",The Abyss (1989)
+#EXTINF:-1 tvg-id="abyss1989" tvg-name="The Abyss (1989)" tvg-logo="https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg" group-title="movie" type="movie",The Abyss (1989)
 https://archive.org/download/HbVs9Osk7Vzf8JEg2hsVirA1c2fDlS9F/output.mkv
 
-#EXTINF:-1 tvg-id="bruce2003" tvg-name="Bruce Almighty (2003)" tvg-logo="https://image.tmdb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg" group-title="Movies" type="vod",Bruce Almighty (2003)
+#EXTINF:-1 tvg-id="bruce2003" tvg-name="Bruce Almighty (2003)" tvg-logo="https://image.tmdb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg" group-title="movie" type="movie",Bruce Almighty (2003)
 https://archive.org/download/todopoderoso_202409/Todopoderoso.mp4
 
 #EXTINF:-1 tvg-id="pbride1987" tvg-name="The Princess Bride (1987)" tvg-logo="https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg" group-title="Movies" type="vod",The Princess Bride (1987)
