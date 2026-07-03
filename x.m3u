@@ -1923,7 +1923,7 @@ https://lnc-ACCDN.tubi.video/index.m3u8
 
 #EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://lirp.cdn-website.com/2d80bfd0/dms3rep/multi/opt/New+Website+Bottom+Logo-af515097-375w.png" group-title="Sports",LSN Sports
 
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" group-title="Sports",NBA 
+#EXTINF:-1 tvg-id="6792c30abc03978b9b8bb832" tvg-name="The NBA Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png" group-title="Sports",The NBA Channel 
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
 
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
