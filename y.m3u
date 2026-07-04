@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/353858/posters/68e48b4668f1c.jpg"  group-title="Movies" type="vod",Predator Badlands (2025)
-http://127.0.0.1:11470/29c7a498ee26a4aa601bf29fec78fafda0ec3413/0
-
 #EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Movies" type="movies",E.T The Extraterrestrial (1982)
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
