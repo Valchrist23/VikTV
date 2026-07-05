@@ -6,7 +6,7 @@ https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080
 #EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/5c916ac26bb1c.jpg" group-title="series" type="series",Bayonetta
 https://archive.org/download/bayonetta-bloody-fate-blu-ray/BAYONETTA_BLOODY_FATE.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/3969/posters/3969.jpg" type="movie",Final Fantasy Advent Children
+#EXTINF:-1 tvg-id="ffa2000" tvg-logo="https://artworks.thetvdb.com/banners/movies/3969/posters/3969.jpg" group-title="Movies" type="movie",Final Fantasy Advent Children
 https://archive.org/download/final.-fantasy.-vii.-complete.-2005.-bluray.-1080p.-avc.-true-hd-5.1-chdbits/BDMV/STREAM/00000.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73014-3.jpg" group-title="series" type="series",He-Man
