@@ -236,6 +236,9 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="Entretenimiento+",Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TVC.png/1280px-TVC.png" group-title="Entretenimiento+",TVC
+https://d2qsan2ut81n2k.cloudfront.net/live/19e86940-42cc-485e-80f4-89ae27c69f1b/ts:abr.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/330px-Canal_26_logo_%282022%29.svg.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
@@ -425,6 +428,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f5132e362fe160040f26c15" tvg-name="Runtime Español" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Cine/Series",Runtime Español
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=4631
+
+#EXTINF:-1 tvg-id="Popcorn Central" tvg-name="Popcorn Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png" group-title="Cine/Series",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+no pero si
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080/03842/ftvpc_1080_00052.ts
+https://stream.ads.ottera.tv/cl/260705d95b1q6k0umc73fn5c7g/1920x1080_4787200_1_f.m3u8?i=475_16478
 
 #EXTINF:-1 channel-id="Glitz" tvg-id="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1410px-Logo_Glitz.svg.png" group-title="Entretenimiento+",Glitz
 
