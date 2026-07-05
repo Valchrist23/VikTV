@@ -1,5 +1,7 @@
 #EXTM3U
 
+https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/305288-4.jpg" group-title="series" type="series" type="serie",Stranger Things S01E01
 https://archive.org/download/stranger.-things.-s-01.720p.-blu-ray.x-264-galaxy-tv/Stranger.Things.S01.COMPLETE.720p.BluRay.x264-GalaxyTV%5BTGx%5D/Stranger.Things.S01E01.720p.BluRay.x264-GalaxyTV.mkv
 
@@ -2410,40 +2412,46 @@ https://archive.org/download/los-gatos-samurai-capitulo-31-al-35/34-%20SaPizza%2
 https://archive.org/download/los-gatos-samurai-capitulo-31-al-35/35-%20Samurai%20a%20Cats%20Los%20Gatosmuri.%20Episodio%2035%20-%20La%20Explotaci%C3%B3n%20De%20La%20Juventud.mp4
 
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Jubei Chan
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/73703/posters/614bb8ec9bc81.jpg" group-title="series",Jubei Chan S01E01
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_4cqney36/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_xhv8jx4n,1_o26ij9t4,1_7is6j4fc,1_f8kqol1a,1_nki6mlp4,1_6wdz7vmi,1_cctn0gdt/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Jubei Chan Ep 2
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/73703/posters/614bb8ec9bc81.jpg" group-title="series",Jubei Chan S01E02
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_z38dg0xr/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_5s9j5jad,1_tmqcioq7,1_qi12f1rh,1_mj4tm7g9,1_8gi8z9cz,1_97oswsiz,1_bagkcssi/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Kite Libertator
+#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="serie",Kite Libertator
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_n3ao0o7f/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_65oibalg,1_spaloudg,1_1rpgwqwl,1_gvzb6oqz,1_p5iyi58k,1_yhvybnxo,1_hmea32e5/preferredBitrate/1500/maxBitrate/10000/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/79446-5.jpg" group-title="serie",Mezzo DSA S01E01
+https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2001%20%28Uncensored%20Dual%20Audio%29.mkv
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/79446-5.jpg" group-title="serie",Mezzo DSA S01E02
+https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2002%20%28Uncensored%20Dual%20Audio%29.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="MOVIES",Youjo Senki 
 
-#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Mazinkaiser
+#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Mazinkaiser
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdxwe0w/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",z Puppet Princess
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/83724/posters/83724.jpg" group-title="series",Puppet Princess
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_tyone006/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9txr2xcs,1_9lx2u1a5,1_uvzku85p,1_ykashjxa,1_df1jq1v8,1_qbmatvuj,1_et86svt8,1_04kimojs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg" group-title="series" type="series",z Caballeros del Zodiaco Eris Leyenda de la Manzana Dorada (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg" group-title="series" type="series",Saint Seiya Evil godess Eris (1987)
 https://archive.org/download/cdz-memorialbox/Disc1%20Memorial%20Box/D1_MEMORIALBOX.ISO/VIDEO_TS%2FVTS_01_1.VOB
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zwL4R8y2b18nLe8q0OgSr5vbnnc.jpg" group-title="series" type="series",z Caballeros del Zodiaco La ardiente Batalla de los Dioses (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zwL4R8y2b18nLe8q0OgSr5vbnnc.jpg" group-title="series" type="series",Saint Seiya Heated Battle Of Gods (1988)
 https://archive.org/download/1988-i-los-caballeros-del-zodiaco-y-la-gran-batalla-de-los-dioses/%281988%29%20I%20-%20Los%20Caballeros%20del%20Zodiaco%20y%20la%20gran%20batalla%20de%20los%20dioses.mkalita
 
 https://archive.org/serve/los-caballeros-del-zodiaco-y-la-gran-batalla-de-los-dioses-App/Los%20Caballeros%20Del%20Zodiaco%20-%20Y%20La%20Gran%20Batalla%20De%20Los%20Dioses.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qDqk23o8qOljUetnCkQCQk7kElk.jpg" group-title="series" type="series",z Caballeros del Zodiaco Leyenda de la Juventud Escarlata (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qDqk23o8qOljUetnCkQCQk7kElk.jpg" group-title="series" type="series",Saint Seiya Legend Of Scarlett Youth (1988)
 https://archive.org/download/1988-ii-los-caballeros-del-zodiaco-contraatacan/%281988%29%20II%20-%20%20Los%20Caballeros%20del%20Zodiaco%20Contraatacan.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="series" type="series",z Caballeros del Zodiaco Contra Lucifer (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="series" type="series",Saint Seiya Warriors Of Armagedon (1989)
 https://archive.org/download/1989-los-caballeros-del-zodiaco-contra-lucifer/%281989%29%20-%20Los%20Caballeros%20del%20Zodiaco%20contra%20Lucifer.mkv
 
 https://archive.org/download/cdz-memorialbox/Disc1%20Memorial%20Box/D1_MEMORIALBOX.ISO/VIDEO_TS%2FVTS_03_1.VOB
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcyYWY0N2EtZDIwMy00YjhhLTliZmEtYTQwNDU3Mjk5ZWIzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="OVAS",z Caballeros del Zodiaco La Overtura del Cielo (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcyYWY0N2EtZDIwMy00YjhhLTliZmEtYTQwNDU3Mjk5ZWIzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="OVAS",Saint Seiya Overture Of Heaven (2004)
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/13318/posters/13318.jpg" group-title="series" type="series",Demon City (1988)
 https://archive.org/download/demon-city-shinjuku_202104/Demon%20City%20Shinjuku.mp4
@@ -2477,47 +2485,47 @@ https://archive.org/download/SMT43L/Sailor%20Moon%20SuperS%20La%20Pelicula%20Lat
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTZhODgzNDAtMWVkZS00MTIyLWFlMjItMTQxMDExMjU0NjI2XkEyXkFqcGdeQXVyODMyNTM0MjM@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Ooyukiumi no Kaina Hoshi no Kenja (2023)
 https://tvinnov.online/PELICULAS%202023/Ooyukiumi%20no%20Kaina%20Hoshi%20no%20Kenja/Ooyukiumi%20no%20Kaina%20Hoshi%20no%20Kenjasub.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/136397/posters/5eeff01a06554.jpg" group-title="series" type="series",Sailor Moon Eternal 1
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/136397/posters/5eeff01a06554.jpg" group-title="series" type="series",Sailor Moon Eternal S01E01
 https://archive.org/download/pretty-guardian-sailor-moon-eternal-la-pelicula-parte-2_202411/Pretty%20Guardian%20Sailor%20Moon%20Eternal%20La%20Pel%C3%ADcula%20-%20Parte%201.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/136397/posters/5eeff01a06554.jpg" group-title="series" type="series",Sailor Moon Eternal 2
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/136397/posters/5eeff01a06554.jpg" group-title="series" type="series",Sailor Moon Eternal S01E02
 https://archive.org/download/pretty-guardian-sailor-moon-eternal-la-pelicula-parte-2_202411/Pretty%20Guardian%20Sailor%20Moon%20Eternal%20La%20Pel%C3%ADcula%20-%20Parte%202.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/330450/posters/1dvOA0rqCxbUZ43aVYJ4gk8t2un.jpg" group-title="series" type="series",Aracnea Mushikago
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/330450/posters/1dvOA0rqCxbUZ43aVYJ4gk8t2un.jpg" tvg-type="movie" group-title="series" type="series",Aracnea Mushikago
 
 
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg",z El castillo en el cielo
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" tvg-type="movie", type="movie", type="vod",El castillo en el cielo
 https://archive.org/download/peliculas-studio-ghibli-latino/El%20castillo%20en%20el%20cielo.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E01
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series",DNA² S01E01
 https://archive.org/download/dna-2-capitulo-1/DNA2%20CAPITULO%201.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E02
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series",DNA² S01E02
 https://archive.org/download/d.-n.-a.-capitulo-2/D.N.A.%20CAPITULO%202.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E03
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series",DNA² S01E03
 https://archive.org/download/dna-2-capitulo-3/DNA%202%20CAPITULO%203.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E04
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series",DNA² S01E04
 https://archive.org/download/dna-2-capitulo-4/DNA2%20CAPITULO%204.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E05
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series" tvg-type="series",DNA² S01E05
 https://archive.org/download/dna-capitulo-5/DNA%20CAPITULO%205.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E06
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E06
 https://archive.org/download/dna-2-capitulo-6/DNA2%20CAPITULO%206.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E07
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E07
 https://archive.org/download/dna-capitulo-7/DNA%20CAPITULO%207.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E08
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E08
 https://archive.org/download/dna-2-capitulo-8/DNA2%20CAPITULO%208.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E09
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E09
 https://archive.org/download/dna-2-capitulo-8_202502/DNA2%20CAPITULO%208.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E10
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E10
 https://archive.org/download/dna-2-capitulo-10/DNA2%20CAPITULO%2010.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E11
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E11
 https://archive.org/download/dna-capitulo-11/DNA%20CAPITULO%2011.mp4
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg",DNA² S01E12
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E12
 https://archive.org/download/dna-2-capitulo-12/DNA2%20CAPITULO%2012.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/573/posters/632e8b6378836.jpg",El Castillo Vagabundo de Howl
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/573/posters/632e8b6378836.jpg" tvg-type="movie", type="movie", type="vod",El Castillo Vagabundo de Howl
 https://archive.org/download/tauklv20210404studioghibli2004elincreiblecastillovagabundo/Studio%20Ghibli/%282004%29%20El%20incre%C3%ADble%20castillo%20vagabundo/El%20incre%C3%ADble%20castillo%20vagabundo%20%28Howl%27s%20Moving%20Castle%29%20%5BStudio%20Ghibli%20-%20Audio%20Latino-Japon%C3%A9s%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/791/posters/25869802.jpg",Princess Mononoke
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/791/posters/25869802.jpg" tvg-type="movie", type="movie", type="vod",Princess Mononoke
 https://archive.org/download/la-princesa-mononoke-1997-doblaje-latino-original-extras/La%20Princesa%20Mononoke%20%281997%29%20%28Doblaje%20Latino%20Original%20%2B%20Extras%29.mkv
 
 https://archive.org/download/la-princesa-mononoke_202207/La%20princesa%20Mononoke.mp4
@@ -2536,12 +2544,12 @@ https://archive.org/download/4.-mi-vecino-totoro/4.%20Mi%20vecino%20totoro.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODc3MTMzNl5BMl5BanBnXkFtZTcwODYwNzUyMQ@@._V1_FMjpg_UX1000_.jpg",GI Joe Movie
 https://archive.org/download/g.-i.-joe-the-movie-1987_202201/G.I.JOE%20The%20Movie%20%281987%29%20%28Full%20Movie%29.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73016-4.jpg" group-title="series" type="series",Jayce and the Wheeled Warriors Movie
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73016-4.jpg" tvg-type="series" group-title="series" type="series",Jayce and the Wheeled Warriors Movie
 https://archive.org/download/jayce-and-the-wheeled-warriors/Jayce%20and%20the%20Wheeled%20Warriors.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg" group-title="series" type="series",Monsters El infierno del dragon (2024)
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/267054-1.jpg" group-title="series" type="series",Ayane´s High Kick
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/267054-1.jpg" group-title="series" type="series",Ayane´s High Kick
 https://archive.org/download/1111Ayane2/1111_Ayane2.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73333-5.jpg" group-title="series" type="series",z Visionaries Knights of the Magical Light Vol
@@ -2555,49 +2563,49 @@ https://archive.org/download/rolw1/hdr1.ia.mp4
 
 https://ia902602.us.archive.org/6/items/rolw1/hdr1.ia.mp4?cnt=0
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War Vol1
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War Vol1
 https://archive.org/download/Record_of_Lodoss_War_Volume_1990/Record%20of%20Lodoss%20War%20Volume%201.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",z Record of Lodoss War Vol 5-8
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",z Record of Lodoss War Vol 5-8
 https://archive.org/download/Record_of_the_Lodoss_War_Episodes_5-8/Record_of_the_Lodoss_War_Episodes_5-8.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E01
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E01
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%201.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E02
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E02
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%202.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E03
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E03
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%203.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E04
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%204.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E05
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E05
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%205.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E06
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E06
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%206.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E07
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%207.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E08
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E08
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%208.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E09
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E09
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%209.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E10
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E10
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2010.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E11
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E11
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2011.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E12
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E12
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2012.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E13
+#EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/78777-1.jpg" group-title="series" type="series",Record of Lodoss War S01E13
 https://archive.org/download/record-of-lodoss-war-episode-1_202201/Record%20of%20Lodoss%20War%20Episode%2013.mp4
 
 
@@ -4935,13 +4943,6 @@ dub9
 https://archive.org/download/anime-stuff-three_202111/Mezzo%20DSA%20-%209%20%28Dub%29.mp4
 sub
 https://archive.org/download/anime-stuff-three_202111/Mezzo%20DSA%20-%209%20%28Sub%29.mp4
-
-Mezzo Forte 1
-https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2001%20%28Uncensored%20Dual%20Audio%29.mkv
-
-Mezzo Forte 2
-https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2002%20%28Uncensored%20Dual%20Audio%29.mkv
-
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/82070-1.jpg" group-title="series" type="series",Night Walker S01E01 
 https://archive.org/download/anime-stuff-three_202111/Night_Walker_Ep01.mkv
