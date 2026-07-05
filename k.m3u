@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Movies" type="movie",E.T The Extraterrestrial (1982)
+#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="Movies" type="movie",E.T The Extraterrestrial (1982) A
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
-#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982) EN" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"type="movie",E.T The Extraterrestrial (1982)
+#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982) EN" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"type="movie",E.T The Extraterrestrial (1982) B
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
 #EXTINF:-1 tvg-type="series" tvg-logo="https://artworks.thetvdb.com/banners/posters/5c916ac26bb1c.jpg" group-title="series" type="series",Bayonetta
