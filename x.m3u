@@ -1750,9 +1750,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://rezofoot.tv/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV
-https://adpnetworkhd-cmd.github.io/iptv/MTVSpain.m3u8
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Music",MTV Live
+http://206.212.244.63/119/index.m3u8
 
 #EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-name="MTV Hits" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="Music",MTV Hits
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
@@ -2393,6 +2391,9 @@ https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Cinemania" tvg-name="Cinemania" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Movies",Cinemania
+https://lb.dstvmultimedia.com/Cinemania/index.m3u8
 
 #EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Entretenimiento+",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
