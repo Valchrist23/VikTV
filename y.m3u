@@ -26,6 +26,9 @@ https://archive.org/download/north-hollywood-2021/P.S.%20I%20Love%20You%202007.m
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bT8S51bzeQYsJWuYRoCBIJ71GF0.jpg" group-title="movies" type="movies",Proximity (2020)
 https://archive.org/download/peli8_202402/Proximity%202020.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKS1Vuqj7OQpOumfs6ArC0TICTN.jpg" group-title="movies" type="movies",Stigmata (1999)
+https://archive.org/download/peli9/Stigmata%201999.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kIlzZJqV4SCGHrrjoGLBhmsO7z2.jpg" group-title="movies" type="movies",Ghost ship (2002)
 
 
@@ -410,14 +413,19 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg" group-title="movies" type="movies",Species (1995)
 https://archive.org/download/H6dadxkgWZg1HlOt86ePZ0V7x5FXxp4b/output.mkv
+https://archive.org/download/peli9/Species%201995.mkv
 
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ver%20Especies%20%281995%29%20Online%20-%20Cuevana3.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg" group-title="movies" type="movies",Species The Awakening (2007)
-https://archive.org/download/0nyVR4qlo5CQjyGi4Ls7W0knXyzrm2FX/output.mkv
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Species II (1998)
+https://archive.org/download/peli9/Species%20II%201998.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg" group-title="movies" type="movies",Species III (2004)
 https://archive.org/download/jQl2e4e6qC28barxGbKyJnpTPvMdFLy5/output.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wPsu2NM0eUpoqycgjjnRJIwxK13.jpg" group-title="movies" type="movies",Species The Awakening (2007)
+https://archive.org/download/0nyVR4qlo5CQjyGi4Ls7W0knXyzrm2FX/output.mkv
+https://archive.org/download/peli9/Species%20The%20Awakening%202007.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvrw5XGxdHauYUxMfsKcdHT3T2u.jpg" group-title="movies" type="movies",A Stork's Journey 2 (2023)
 https://archive.org/download/richard-la-ciguena-y-la-joya-perdida-2023-filmaffinity/Richard%20la%20cig%C3%BCe%C3%B1a%20y%20la%20joya%20perdida%20%282023%29%20-%20Filmaffinity.mp4
@@ -825,7 +833,7 @@ https://archive.org/download/hdNxwjizA37zteFKMFdPTe0fkJFdbM5G/output.mkv
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="movies" type="movies",Teenage Mutant Ninja Turtles The Movie (1990)
 https://archive.org/download/HtATzosvKJeeVpsmuL79Q4IoQEggyCcc/output.mkv
-
+https://archive.org/download/peli9/Teenage%20Mutant%20Ninja%20Turtles%201990.mkv
 https://archive.org/download/teenage-mutant-ninja-turtles-open-matte/Teenage%20Mutant%20Ninja%20Turtles%20Open%20Matte.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg" group-title="movies" type="movies",Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)
@@ -1361,6 +1369,9 @@ https://cdn.jwplayer.com/manifests/0trZp8Pq.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg" group-title="movies" type="movies",This Boys Life (1993)
 https://archive.org/download/wPBadmsvE2iA2FpmDHgK0763WcRy0KgY/output.mkv
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",13th Warrior (1999)
+https://archive.org/download/peli9/The%2013th%20Warrior%201999.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg" group-title="movies" type="movies",I. Robot (2004)
 https://archive.org/download/blextv2/I.Robot.2004.lati.mp4
 
@@ -1686,6 +1697,7 @@ https://dl.dropbox.com/scl/fi/zd1yzc0pvs93x0hcs7t0o/Los-indestructibles-4-2023-.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg" group-title="movies" type="movies",Top gun pasión y gloria (1986)
 https://cdn.jwplayer.com/manifests/YZhLuXO7.m3u8
 
+
 https://archive.org/download/e.-t.-el-extraterrestre-1982/Top%20Gun%20-%201986.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="movies" type="movies",Top gun: Maverick (2022)
@@ -1693,6 +1705,7 @@ https://cdn.jwplayer.com/manifests/o3Ou9tdF.m3u8
 
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/Top%20Gun%20Maverick.mp4
 https://archive.org/download/linkmultimediacine/Top%20Gun%20Maverick.mp4
+https://archive.org/download/36857/34232.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg" group-title="movies" type="movies",Prometheus (2012)
 https://archive.org/download/pr-0m-3th-3us/Pr0m3th3us.mp4
@@ -2439,9 +2452,21 @@ http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/9.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",The Edge of Seventeen (2016)
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Spell (2020)
+https://archive.org/download/peli9/Spell%202020.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Speed Racer (2008)
+https://archive.org/download/peli9/Speed%20Racer%202008.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Sound Of Metal (2019)
+https://archive.org/download/peli9/Sound%20of%20Metal%202019.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Spider In The Web (2019)
+https://archive.org/download/peli9/Spider%20in%20the%20Web%202019.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Spectre (2015)
 https://goo.gl/3KGMLf
+https://archive.org/download/peli9/Spectre%202015.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NzUwODExM15BMl5BanBnXkFtZTgwNjM0MzE4NjE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",In the Heart of the Sea (2015)
 https://goo.gl/4BqODN
@@ -2754,8 +2779,8 @@ https://archive.org/download/FatalFury2TheNewBattle/Fatal%20Fury%202-%20The%20Ne
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdiMjExNTktODExMi00NTkzLWJkZDktNzFjNzJjOGQ1YWYyXkEyXkFqcGdeQXVyMzA1MTk0MDc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Fatal Fury The Motion Picture (1994)
 https://archive.org/download/FatalFuryTheMotionPicture/Fatal%20Fury%20The%20Motion%20Picture.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ifIiX7qUYIMErSjfLwC0D3D5Yny.jpg" group-title="movies" type="movies",Street Fighter Assassin's Fist (2014)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ifIiX7qUYIMErSjfLwC0D3D5Yny.jpg" group-title="movies" type="vod",Street Fighter Assassin's Fist (2014)
+https://archive.org/download/peli9/Street%20Fighter%20Assassins%20Fist%202014.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg" group-title="movies" type="movies",Pixels (2015)
 https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
@@ -2764,6 +2789,7 @@ https://fina.dyndns.tv/Peliculas/Pixels.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTYzMjA2M2EtYmY1OC00ZWMxLThlY2YtZGI3MTQzOWM4YjE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",The Aviator (2004)
 https://cdn.jwplayer.com/manifests/qAFSj60N.m3u8
+https://archive.org/download/peli9/The%20Aviator%202004.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Troy (2004)
 https://archive.org/download/troy-2004_202409/TROY%20%20%282004%29.ia.mp4
@@ -2944,14 +2970,14 @@ https://archive.org/download/LbC8ckvXtgtNnCg8W5p2uk3aDtXCgoUh/output.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Star Wars: Episode I - The Phantom Menace (1999)
 https://archive.org/download/M3lvdiSOO4RMy2iJdHWNnvNpXVca4Qyz/output.mkv
 si
-
+https://archive.org/download/peli9/Star%20Wars%20Episode%20I%20The%20Phantom%20Menace%201999.mkv
 https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%201%20-%20La%20amenaza%20fantasma.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Star Wars: Episode II - Attack of the Clones (2002)
 https://archive.org/download/d5rFQjogkBb2Hj58fldoHBmWeMzexKaw/output.mkv
 
 https://archive.org/download/star-wars-episode-ll-2002/STAR%20WARS%20EPISODE%20ll%20%20%282002%29.ia.mp4
-
+https://archive.org/download/peli9/Star%20Wars%20Episode%202%20Attack%20of%20the%20Clones%202002.mkv
 si
 https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%202%20-%20El%20ataque%20de%20los%20clones.mp4
 
@@ -2960,7 +2986,7 @@ https://archive.org/download/96vZs3Qa8wisrMxeGPhuaxi7Hy4AZRCN/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Star Wars: Episode VII -The Force Awakens (2015)
 https://archive.org/download/Sf04FEuJV7FBEH02DCAGJpsBBtILjmYV/output.mkv
-
+https://archive.org/download/peli9/Star%20wars%20episode%20VII%20the%20force%20awakens%202015.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Star Wars: Episode VIII -The Last Jedi (2017)
 https://archive.org/download/xZ75goT4hQ9GLqU2PcDavj73fGkQ1hwt/output.mkv
@@ -2971,7 +2997,7 @@ https://archive.org/download/star-wars-episode-viii-2017/STAR%20WARS%20%20EPISOD
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Star Wars: Episode IX - Rise of the Skywalker (2019)
 https://archive.org/download/e8UVL4KX6qrP1TwnvTSiYhAgUGcvCiYW/output.mkv
-
+https://archive.org/download/peli9/Star%20Wars%20Episode%20IX%20The%20Rise%20of%20Skywalker%202019.mkv
 si
 https://archive.org/download/star-wars-episode-l-x-2019/STAR%20WARS%20EPISODE%20lX%20%20%282019%29%20.ia.mp4
 https://archive.org/download/star-wars-episode-l-x-2019/STAR%20WARS%20EPISODE%20lX%20%20%282019%29%20.mp4
@@ -3240,6 +3266,9 @@ https://archive.org/download/S6x2V1Y3PEmbhl24Wsa0Strl8vFMmf6K/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Ad3F9Fm7zdZmBqBSvJIAJRfac9m.jpg" group-title="movies" type="movies",Porkys III (1985)
 https://archive.org/download/C9m7CzrvoEqB3viIibK7mwq8040uPmRx/output.mkv
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Spencer Confidential (2020)
+https://archive.org/download/peli9/Spenser%20Confidential%202020.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY3MWIzZGYtOTliMy00YzQzLTgwNjgtNjlkYTA2Y2Y5YTVkL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Iron Eagle (1986)
 https://archive.org/download/1-l-0-tr-L0R14N/Ir0n.Eagl.1986-SubLat-.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGExMGU4YjMtZWNkYS00Nzk3LWFmOTQtZWQxZDA5OWZjN2U0XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Iron Eagle 2 (1988)
@@ -3320,8 +3349,9 @@ http://ia601404.us.archive.org/26/items/00000_20200926/000011.mp4
 
 https://archive.org/download/29E2XtNyQ2YV0iaa7JITL1L9YH30z6pZ/output.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="movies" type="movies",The Avengers (2012)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="movies" type="vod",The Avengers (2012)
 https://archive.org/download/Rvngdresg/Rvngdres%201.mp4
+https://archive.org/download/peli9/The%20Avengers%202012.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg" group-title="movies" type="movies",Avengers Age of Ultron (2015)
 https://archive.org/download/1-l-0-tr-L0R14N/4v3n4ge0Ultrn.2015.-DuaLat-.mp4
@@ -3364,9 +3394,12 @@ http://archive.org/download/07_20191209/hoiho/03.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",The Amazing Spider-Man (2012)
 http://ia601503.us.archive.org/2/items/00000_20200930/000007.mp4
+https://archive.org/download/peli9/The%20Amazing%20Spider-Man%202012.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",The Amazing Spider-Man 2 (2014)
 http://ia600109.us.archive.org/5/items/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.mp4
 
+https://archive.org/download/peli9/The%20Amazing%20Spider%20Man%202%20Rise%20of%20Electro%202014.mkv
 https://archive.org/download/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.mp4
 https://archive.org/download/Saving.Mr.Banks.2013.1080p/El%20Sorprendente%20Hombre%20Arana%202.avi
 
@@ -3380,6 +3413,7 @@ http://archive.org/download/kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/10.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5weKu49pzJCt06OPpjvT80efnQj.jpg" group-title="movies" type="movies",Spider-Man No Way Home (2021)
 https://archive.org/download/s_20220416/Spider-Man%20No%20Way%20Home.2022.1080p.dual-lat.cinecalidad.lol1.mp4
+https://archive.org/download/peli9/Spider%20Man%20No%20Way%20Home%202022.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="movies" type="movies",Venom (2018)
 http://archive.org/download/a01_mohmal_Z0_20181206_0250/Nueva%20carpeta%20%283%29/z0.mp4
@@ -3401,7 +3435,7 @@ https://archive.org/download/fdvgh65VHS99.222-DL-/BP4nW4kF0rvr.222.mp4
 https://archive.org/download/OgSOyihd352UVGrRvpZTKtjBbtpEtaYn/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="movies" type="movies",Spider-Man: Into the Spider-Verse (2018)
-
+https://archive.org/download/peli9/Spider-Man%20Into%20the%20Spider-Verse%202018.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="movies" type="movies",Spider-Man: Across the Spider-Verse (2023)
 https://archive.org/download/spider-man-across-the-spider-verse-2023-2160p-webrip-x-265-10bit-5.1-yts.-mx_202309/Spider-Man%20Across%20The%20Spider-Verse%20%282023%29%20%5B2160p%5D%20%5B4K%5D%20%5BWEB%5D%20%5B5.1%5D%20%5BYTS.MX%5D/Spider-Man.Across.The.Spider-Verse.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
@@ -3753,6 +3787,7 @@ https://archive.org/download/pack-1_20200802/Madagascar%203.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7phV1ETZnQrLsEeuk4hNeceEl25.jpg" group-title="movies" type="movies",The Land Before Time (1988)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg" group-title="movies" type="movies",The Aristocats (1970)
+https://archive.org/download/peli9/The%20Aristocats%201970.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg" group-title="movies" type="movies",Race To Witch Mountain (2009)
 https://archive.org/download/peli8_202402/Race%20to%20Witch%20Mountain%202009.mkv
@@ -4357,6 +4392,8 @@ https://archive.org/download/etwm-1975_20220201/Indiana%20Jones%20and%20the%20Ki
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="movies" type="movies",Indiana Jones And The Dial Of Destiny (2023)
 https://archive.org/download/t-3-musk.-93-d/1ndy.DoD.223-D-.mp4
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Tadeo Jones Seecret Of King midas (2018)
+https://archive.org/download/peli9/Tad%20Jones%20and%20the%20Secret%20of%20King%20Midas%202018.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fYHiA7LPGl9DG7m3DUs0Td1VMcO.jpg" group-title="movies" type="movies",Priest (2011)
 https://archive.org/download/peli8_202402/Priest%202011.mkv
@@ -4443,11 +4480,12 @@ https://archive.org/download/1QN3fBCcVBstZFJamt92fPSWqQy3cQOo/output.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFf8anju5f2epI0my8RdwwIXFIP.jpg" group-title="movies" type="movies",Addams Family (1991)
 https://archive.org/download/1991_20221227/Ver%20Los%20Locos%20Addams%20%281991%29%20Online%20Latino%20HD%20-.mp4
-
+https://archive.org/download/peli9/The%20Addams%20Family%201991.mkv
 https://archive.org/download/7lIlFjAD1NH3flyUaVpcsHIn9T0rZ03f/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg" group-title="movies" type="movies",Addams Family Values (1993)
 https://archive.org/download/EiGZSu1w5zgbAnJ27BEnRyyj6LerZePL/output.mkv
+https://archive.org/download/peli9/The%20Addams%20Family%20Values%201993.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODBjOTAzZmMtNGJkOC00M2M3LWI1MTctZjZlMzdiODBkMzc0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Addams Family (2019)
 https://archive.org/download/l0ca1/l0ca1.mp4
@@ -4456,6 +4494,7 @@ https://archive.org/download/JFSB4Iv9VIWhEIHg09LI9ngIBsgTAZSZ/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg" group-title="movies" type="movies",Addams Family 2 (2021)
 https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202~1.mp4
+https://archive.org/download/peli9/The%20Addams%20Family%202%202021.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg" group-title="movies" type="movies",Monster House (2006)
 https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos~1.mp4
@@ -4973,26 +5012,35 @@ https://archive.org/download/pel149b83b3a93u/Polaroid.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8fPXvBECD1rbYcmWcsUDgEKmZt1.jpg" group-title="movies" type="movies",The House Of Secrets (2023)
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg" group-title="movies" type="movies",Quarantine 2 Terminal (20111)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg" group-title="movies" type="movies",Quarantine 2 Terminal (2011)
 https://archive.org/download/pel149b83b3a93u/Quarentine%202%20Terminal.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Terminal (2018)
+https://archive.org/download/peli9/Terminal%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5Va1WXDX6nZElVirPrGxf6w99B.jpg" group-title="movies" type="movies",Taken (2008)
 http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%201.mp4
-
+https://archive.org/download/peli9/Taken%202008.mkv
 si
 https://archive.org/download/THcdPq1XgxlSPtl2dreDw3HnAVJo1Hpe/output.mkv
 https://archive.org/download/pelis-rmvb/B%C3%BAsqueda%20Implacable.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yzAlcuJhpnxRPjaj7AHBRbNPQCJ.jpg" group-title="movies" type="movies",Taken 2 (2012)
 http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%202.mp4
-
+https://archive.org/download/peli9/Taken%202%202012.mkv
 https://archive.org/download/AnInibw0Yq1sk6DfdHNX8XAuim5Vo7hg/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vzvMXMypMq7ieDofKThsxjHj9hn.jpg" group-title="movies" type="movies",Taken 3 (2014)
 http://archive.org/download/busqueda-implacable-3_202203/busqueda%20implacable%203.mp4
-
+https://archive.org/download/peli9/Taken%203%202015.mkv
 https://archive.org/download/OpmBFX7tldOEqbGfZcrnbVxKYaBbaPQ7/output.mkv
 https://archive.org/download/Taken3_201506/Taken3.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Takers (2010)
+https://archive.org/download/peli9/Takers%202010.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Taxi (2004)
+https://archive.org/download/peli9/Taxi%202004.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hDDb0H0uJp2wjoJBbBHbKlYRbug.jpg" group-title="movies" type="movies",The Possession Of Hannah Grace (2018)
 https://archive.org/download/vsUCntcw7FV3ZRnxs5UmJNZU0kzSmQTA/output.mkv
@@ -5035,7 +5083,7 @@ https://archive.org/download/HOW5NBRgv3EPVU62Wun0zRY2QgOGynB3/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg" group-title="movies" type="movies",Space Jam (1996)
 http://archive.org/download/motion-ninja-video-2022-01-20-01-34-18/Motion%20Ninja_Video_2022-01-20_01_34_18.mp4
-
+https://archive.org/download/peli9/Space%20Jam%201996.mkv
 https://archive.org/download/movies_20220526/Space.Jam.1996.720p.HDDVD.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x52WmUnfpB2AB0YUNGWJZaRzcBx.jpg" group-title="movies" type="vod",The Disappearance of Haruhi Suzumiya (2010)
@@ -5087,6 +5135,7 @@ https://archive.org/download/my.-cousin.-vinny.-1992.1080p.-bluray.x-264.ano-xmo
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="movies" type="movies",The Assistant (2019)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/The%20Assistant%20%282019%29%20Latino%201080p%20%40StreamingLatino.mp4
+https://archive.org/download/peli9/The%20Assistant%202019.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjgxYzk3NjItNDliMC00YzE5LWEzZDQtZjJjZWUyNjE2MGFkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Tron (1982)
 
@@ -5765,6 +5814,9 @@ http://archive.org/download/2012_20220912/Frankenweenie%202012.mp4
 
 https://archive.org/download/fran_20230107/fran.mp4
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Stan And Ollie (2018)
+https://archive.org/download/peli9/Stan%20and%20ollie%202018.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyNTg3MDYxOF5BMl5BanBnXkFtZTgwODM5ODcxMzE@._V1_.jpg" group-title="movies" type="movies",Bayonetta Bloody Fate (2013)
 http://archive.org/download/1_20200429_20200429_1922/5ub1d0w11mc/1.mp4
 
@@ -5776,6 +5828,7 @@ https://archive.org/download/manguera_202107/M1racu10u5.W0r1d.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDVlZTEwMTItNmE4Zi00ZGFhLWI4NjgtMDdiZTA5NDdmNWYyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Spirit (2021)
 http://ia801401.us.archive.org/10/items/000_20191221/2.mp4
+https://archive.org/download/peli9/Spirit%20Untamed%202021.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",Dune (2021)
 https://archive.org/download/04r4c3l1st45h3/Dun.2021-DuaLat-.mp4
@@ -5945,6 +5998,7 @@ https://archive.org/download/t-3-musk.-93-d/El.Cambio.220-D-.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MDUwNzg5OV5BMl5BanBnXkFtZTgwNTY4NjU3MzI@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="movies",The Babysitter (2017)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/La%20Ni%C3%B1era.mp4
+https://archive.org/download/peli9/The%20Babysitter%202017.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lnCO4dJqNkHi1QYJifYI92igpYa.jpg" group-title="movies" type="movies",Panama (2022)
 https://archive.org/download/125736/105079.mkv
@@ -7268,6 +7322,7 @@ https://archive.org/download/la-monja-2/La%20monja%202.mp4
 https://archive.org/download/t-4k-3-tl-34d.-206-dl/TxCh4s4w%20M4ss.221-DL-.mp4
 
 si
+https://archive.org/download/peli9/Texas%20Chainsaw%20Massacre%202022.mkv
 https://archive.org/download/632727-hd-l/%5B632727%5D%5BHD%5D%5BL%5D.MP4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sbfrPcVHhKU6sPUP7ZVPsy7li4o.jpg" group-title="movies" type="movies",Frankie (2019)
@@ -7355,6 +7410,7 @@ https://archive.org/download/peli8_202402/Sneakerella%202022.mkv
 https://archive.org/download/brh-34rt-195-dl/Brh34rt195-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o624HTt93iIJIc1Sg5hNkDTnk5l.jpg" group-title="movies" type="movies",Spaceballs (1987)
 https://archive.org/download/cinemabucanero/Spaceballs%5B1987%5D384p.mkv
+https://archive.org/download/peli9/Spaceballs%201987.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f3gFb4wLwNGQcpweamVhjNBdJ58.jpg" group-title="movies" type="movies",Superhero Movie (2008)
 https://archive.org/download/superheroes_201908/SUPER%20HEROES.mp4
@@ -7760,6 +7816,10 @@ https://fina.dyndns.tv/Peliculas/Sin%20City.mkv
 https://fina.dyndns.tv/Peliculas/Sin%20City%20a%20dame%20to%20kill%20for.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg" group-title="movies" type="movies",Step Up (2006)
+https://archive.org/download/peli9/Step%20Up%202006.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Step Up 2 (2008)
+https://archive.org/download/peli9/Step%20Up%202%20The%20Streets%202008.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yS5lcaUfFsl7gUT5mSEylECzoqN.jpg" group-title="movies" type="movies",Step Up China (2019)
 
@@ -7769,6 +7829,10 @@ https://archive.org/download/mh-4n.-2.224-l-4t/T3Pr1nc554tFr0.209-DL-.mkv
 https://archive.org/download/sapo_20230310/sapo.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg" group-title="movies" type="movies",Shooter (2007)
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Stop Or My Mom Will Shoot (1992)
+https://archive.org/download/peli9/Stop%21%20Or%20My%20Mom%20Will%20Shoot%201992.mkv
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zR6C66EDklgTPLHRSmmMt5878MR.jpg" group-title="movies" type="movies",Justice League: Crisis on Infinite Earths - Part One (2024)
@@ -7894,7 +7958,7 @@ https://archive.org/download/independence.day.-1996.1080p-dual-lat/Locked.Down.2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg" group-title="movies" type="movies",Split (2016)
 https://archive.org/download/t-40-y-0-v-1205-dl/S5216-DL-.mp4
-
+https://archive.org/download/peli9/Split%202016.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/khTl77Kvwb7emwcluvwKRA7MkSs.jpg" group-title="movies" type="movies",Attack On Titan End Of The World (2013)
 
 
@@ -8174,14 +8238,19 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/S0rd4r0nl1nPr0gv%20-%205ch3rz0%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg" group-title="movies" type="movies",Speed (1994)
 https://archive.org/download/speed-1994_202410/SPEED%20%20%281994%29.ia.mp4
 
+https://archive.org/download/peli9/Speed%201994.mkv
 https://archive.org/download/jtRxaxZOPUgBI2WwmSkJfmzre80hPvgK/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gnK1ocpwUTj24zAktzomOJsD2bu.jpg" group-title="movies" type="movies",Speed 2 (1994)
 https://archive.org/download/speed-2-1997/Speed%202%20%20%281997%29.ia.mp4
-
+https://archive.org/download/peli9/Speed%202%201997.mkv
 https://archive.org/download/lg0ehqgWsem8xRq7tDTyjVLqUyK6C1zL/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f4p18CwxidvznZYMA6m4qv5FCvp.jpg" group-title="movies" type="movies",Speed Kills (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f4p18CwxidvznZYMA6m4qv5FCvp.jpg" group-title="movies" type="movies",Speed Kills (2018)
+https://archive.org/download/peli9/Speed%20kills%202018.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="vod",Spectral (2016)
+https://archive.org/download/peli9/Spectral%202016.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7gXPtMckzLAFOA8V2niy54HqQ4e.jpg" group-title="movies" type="movies",Ehrengard: The Art of Seduction (2023)
 https://archive.org/download/am-0r-dc-4l-3nd.-020-dl/3hr3ng.2023-DL-.mp4
@@ -8893,7 +8962,19 @@ https://archive.org/download/north-hollywood-2021/Pathfinder%202007.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg" group-title="movies" type="movies",Source Code (2011)
+https://archive.org/download/peli9/Source%20Code%202011.mkv
 
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Sorry To Bother You (2018)
+https://archive.org/download/peli9/Sorry%20to%20bother%20you%202018.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Soul Surfer (2011)
+https://archive.org/download/peli9/Soul%20Surfer%202011.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Sound Of Freedom (2023)
+https://archive.org/download/peli9/Sound%20of%20Freedom%202023.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Spanglish (2004)
+https://archive.org/download/peli9/Spanglish%202004.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5a60NuJToRAc0gijjI5IRSVGKL3.jpg" group-title="movies" type="movies",40 Days And 40 Nights (2002)
 
@@ -9066,6 +9147,7 @@ https://archive.org/download/los-cr-00ds-2013-audio-espanol/Plan%20de%20vuelo%20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nfRlQCl590F30L37aihuqBGBvaO.jpg" group-title="movies" type="movies",Terrifier (2016)
 https://archive.org/download/CRFGoluxZVketFtbEBhCnHAKvziVcE2R/output.mp4
+https://archive.org/download/peli9/Terrifier%202016.mkv
 
 https://archive.org/download/terrifier-1-pelicula-completa-en-espanol-720p/Terrifier%201%20%20%20Pelicula%20completa%20en%20espa%C3%B1ol%20%28720p%29.mp4
 
@@ -9126,6 +9208,15 @@ https://archive.org/download/survive-the-night-2020-dvdrip-latino/Survive%20the%
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6On9Ed52fz8W1h9PzaDQ12ZfHdn.jpg" group-title="movies" type="movies",Spy (2015)
 https://archive.org/download/spy-una-espia-despistada/Spy%20Una%20Esp%C3%ADa%20Despistada.mp4
+https://archive.org/download/peli9/Spy%202015.mkv
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Standoff (2016)
+https://archive.org/download/peli9/Standoff%202016.mp4
+
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Step Sisters (2018)
+https://archive.org/download/peli9/Step%20Sisters2018.mkv
+#EXTINF:-1 tvg-logo="null" group-title="movies" type="movies",Star Girl (2020)
+https://archive.org/download/peli9/Stargirl%202020.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sOznYqIAxPT1JnHy3Qy0M9HhdxQ.jpg" group-title="movies" type="movies",Buba (2022)
 https://archive.org/download/buba_2.v0/buba_2.v0.mp4
@@ -9399,7 +9490,7 @@ https://archive.org/download/215618-628e-1079-4c-79-421b-a-1ba-618b-88e-774e-3-a
 https://archive.org/download/215618-628e-1079-4c-79-421b-a-1ba-618b-88e-774e-3-admw-1776820-1fichier/1L1vs%201ns.223.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/geUoKLeHVgnhNRdK8B7zB6C1BhL.jpg" group-title="movies" type="movies",Stay Alive (2006)
 https://archive.org/download/n-05f-3r.-224-dl/5t4l1v206-DL-.mkv
-
+https://archive.org/download/peli9/Stay%20Alive%202006.mkv
 si
 https://archive.org/download/stay-alive-directors-cut/Stay%20Alive%20Director%27s%20Cut.mp4
 
@@ -9466,6 +9557,7 @@ http://archive.org/download/la-lista-de-al-carajo_202007/La%20Lista%20De%20Al%20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg" group-title="movies" type="movies",Soul (2020)
 https://archive.org/download/pack20_20210102/Soul.mp4
+https://archive.org/download/peli9/Soul%202020.mkv
 
 si
 https://archive.org/download/Peliculas-wii/Soul.mp4
@@ -9629,7 +9721,7 @@ https://archive.org/download/Peliculas-wii/La%20tortuga%20roja.mp4
 https://archive.org/download/lBzCmtO06Muwi38zbBH5c3QmALpcKD7X/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="movies" type="movies",The Adam Project (2022)
-
+https://archive.org/download/peli9/The%20Adam%20Project%202022.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gJSvIsI6oQfFim0PGyuuiCYfqKs.jpg" group-title="movies" type="movies",Along With The Gods The Two World (2017)
 https://archive.org/download/along-with-the-gods-the-two-world-2017/ALONG%20WITH%20THE%20GODS%20%20THE%20TWO%20WORLD%20%20%282017%29.ia.mp4
@@ -9847,6 +9939,7 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yOnd3XQIg7JBmu0UuBjZyLdsxQD.jpg" group-title="movies" type="movies",Star Trek Beyond (2016)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/13.-STAR%20TRECK%20M%C3%81S%20ALL%C3%81%20%282016%29%20%E2%9C%94.mp4
+https://archive.org/download/peli9/Star%20trek%20beyond%202016.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg" group-title="movies" type="movies",Maze Runner (2014)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20CORREDOR%20DEL%20LABERINTO%201%20%282014%29%20%E2%9C%94.mp4
@@ -9932,6 +10025,7 @@ https://archive.org/download/rebel-ridge-2024/Rebel%20Ridge%20%282024%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg" group-title="movies" type="movies",Southpaw (2015)
 https://archive.org/download/n-05f-3r.-224-dl/50p4w215-DL-.mp4
+https://archive.org/download/peli9/Southpaw%202015.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg" group-title="movies" type="movies",Watchmen: Chapter I (2024)
 https://archive.org/download/watchmen-chapter-1-2024/WATCHMEN%20CHAPTER%201%20%20%282024%29.ia.mp4
@@ -10513,6 +10607,7 @@ https://archive.org/download/r0TDjxBqHSiYlnyDT07dx58f3MUhpMQp/output.mkv
 https://archive.org/download/TgD7gS065UKuPzGGrA0wRt94Sw9cIE16/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg" group-title="movies" type="movies",Spy Game (2001)
+https://archive.org/download/peli9/Spy%20Game%202001.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="movies" type="movies",Transfusion (2023)
 https://archive.org/download/H2PfQUGoML4WKEq0M4uU91hn1WzFaaWE/output.mkv
@@ -10777,8 +10872,6 @@ https://dl.dropbox.com/scl/fi/1y53751gzo5vox29j5gto/TSupMarG4lMov.226.-DL.mkv?rl
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xtrNYqWsa0XTOs0SOMWLSEUhEki.jpg" group-title="movies" type="movies",La Condesa (2009)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a0pepZNFCjggc7Na9gEwbTI1f46.jpg" group-title="movies" type="movies",She's All That (1999)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKS1Vuqj7OQpOumfs6ArC0TICTN.jpg" group-title="movies" type="movies",Stigmata (1999)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scFc8RD4sFxB2x0eIOaymphMnYh.jpg" group-title="movies" type="movies",War (2007)
 
