@@ -7739,11 +7739,18 @@ magnet:?xt=urn:btih:8f35d7229cdbd5df9cf5ea896efd24efabfa5e20
 
 
 #EXTINF:-1 tvg-id="S01E01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="series" type="series",Bible Black
+https://archive.org/download/bible-black-episode-1/BIBLE%20BLACK%20EPISODE%201.mp4
 https://archive.org/download/bible-black-i-night-of-the-walpulgiss-01/Bible%20Black%20I%20-%20Night%20of%20the%20Walpulgiss%2001.mp4
 #EXTINF:-1 tvg-id="S01E02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="series" type="series",Bible Black
+https://archive.org/download/bible-black-episode-1/BIBLE%20BLACK%20EPISODE%202.mp4
 https://asuka.playmudos.com/SEhTZWQ4YTBBN2lEOGVVMS9sZXcwcEZnVU5uY1RsVHg4cFJ3aUlGRmdJWT0.m3u8
 #EXTINF:-1 tvg-id="S01E03" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="series" type="series",Bible Black
-https://asuka.playmudos.com/aXJVcHU3VXo1NFdEOCtjNWFEMjc4eFF1Sk13Z09aTEFlMjAvU1dLc3M5OD0.m3u8
+https://archive.org/download/bible-black-episode-1/BIBLE%20BLACK%20EPISODE%203.mp4
+#EXTINF:-1 tvg-id="S01E04" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="series" type="series",Bible Black
+https://archive.org/download/bible-black-episode-1/BIBLE%20BLACK%20EPISODE%204.mp4
+
+#EXTINF:-1 tvg-id="S02E02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Bible_Black_US_Front.jpg" group-title="series" type="series",Bible Black S01E02
+https://archive.org/download/BibleBlack2960x720HDEngSubsUncensored/Bible%20Black%20-%202%20%5B960x720%5D.mkv
 
 
 #EXTINF:-1 tvg-id="S01E01" tvg-logo="https://artworks.thetvdb.com/banners/seasons/219701-0.jpg" group-title="series" type="series",Freezing Special 
