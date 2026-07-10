@@ -154,6 +154,10 @@ https://archive.org/download/breakdown-1997_202409/Breakdown%20%281997%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg" group-title="movies" type="vod",Black Hawk Down (2001)
 https://archive.org/download/0PJv0JWchqRcvgPjpUWBWofehKi0vFM4/output.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg" group-title="movies" type="vod",Black Hawk Down (2001)
+https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
+https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg" group-title="movies" type="vod",Born on The Fourth of July (1989)
 https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B0n%20O%20T%20F0rt%200%20Ju%20989%20-Dl-.mp4
 
@@ -355,7 +359,7 @@ https://archive.org/download/myfamilymovie/My%20Family%20movie.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg" group-title="movies" type="vod",Empire Of The Sun (1987)
 https://archive.org/download/aKxtN9iIz1YzFAIIrXNVtm0UlCZhc32M/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg" group-title="movies" type="vod",Los Vatos Locos (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg" group-title="movies" type="vod",Blood in Blood Out (1993)
 https://archive.org/download/1-l-0-tr-L0R14N/S4ngr3P0rS4ngr3.1993-DuaLat-.mkv
 
 si
@@ -1295,7 +1299,7 @@ https://archive.org/download/balto.2.www.peliculasputlocker.net/balto.2.www.peli
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aCBrhOQjhG397GLkEZ49zReQEKX.jpg" group-title="movies" type="vod",The Bridges of Madison County (1995)
 https://cdn.jwplayer.com/manifests/5DJW0rvZ.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vtfsNxAsDHElFvYHUc9Khwqg17Y.jpg" group-title="movies" type="vod",Passanger 57 (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4VBN8pQxGHjeZWcNv1V1xSw0OKC.jpg" group-title="movies" type="vod",Passenger 57 (1993)
 https://archive.org/download/passenger-57-latino-1992/PASSENGER_57_LATINO_1992.mp4
 
 https://archive.org/download/north-hollywood-2021/Passenger%2057%201992.mkv
@@ -1321,7 +1325,7 @@ http://archive.org/download/3rtb-6b41/3RTB6B41.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uGGJJxcS1UA5hvZvQW0fOnn46tZ.jpg" group-title="movies" type="vod",Life On The Line (2015)
 https://archive.org/download/KYjnWt79dQpdsWjnITn1yA9BUiysQ6vs/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg" group-title="movies" type="vod",De ladrón a policía (1999)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jek2osBtFhzU6Hjj7yp1egOtbqO.jpg" group-title="movies" type="vod",Blue Streak (1999)
 https://cdn.jwplayer.com/manifests/ZITfGiUA.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aOYHJclz1yZdFT3hdMY8TeYU4fk.jpg" group-title="movies" type="vod",The Perfect Storm (2000)
@@ -1329,10 +1333,6 @@ https://cdn.jwplayer.com/manifests/6xi76kcK.m3u8
 
 https://cdn.jwplayer.com/manifests/WPoxidJu.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg" group-title="movies" type="vod",La Caída Del Halcón Negro (2001)
-https://cdn.jwplayer.com/manifests/3RAl2Fke.m3u8
-
-https://cdn.jwplayer.com/manifests/ztfljVZv.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tGIJhBejmredgUZRNdteZyiahag.jpg" group-title="movies" type="vod",Exit Wounds (2001)
 https://cdn.jwplayer.com/manifests/bfuasxiA.m3u8
@@ -1360,7 +1360,7 @@ https://archive.org/download/el.-hombre.-sin.-sombra.-2020.1080-p-dual-lat/El.Ho
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lemqKtcCuAano5aqrzxYiKC8kkn.jpg" group-title="movies" type="vod",Gangs of New York (2002)
 https://cdn.jwplayer.com/manifests/FOQryG5o.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5MzY0MjY2MF5BMl5BanBnXkFtZTYwOTc5ODU3._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Misterios Del Titanic (2003)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5MzY0MjY2MF5BMl5BanBnXkFtZTYwOTc5ODU3._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Ghosts Of The Abyss (2003)
 https://cdn.jwplayer.com/manifests/o2E37V3E.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg" group-title="movies" type="vod",Daredevil (2003)
@@ -1368,7 +1368,7 @@ https://cdn.jwplayer.com/manifests/vnNZVGg2.m3u8
 
 https://archive.org/download/pEuNRTHAWgzwqvOQ7VO41NjbUu7Asyn7/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gC6s6NKHneSrOKyQZnUMb443RKU.jpg" group-title="movies" type="vod",Elektra (2003)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gC6s6NKHneSrOKyQZnUMb443RKU.jpg" group-title="movies" type="vod",Elektra (2005)
 https://archive.org/download/m2tIy5SjjTtTGhvVS6JwhJQYErWBzsLp/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pbdm3Z45fwgcfPndm4wmQAhDWjN.jpg" group-title="movies" type="vod",Elephant (2003)
@@ -1382,7 +1382,7 @@ https://archive.org/download/peli9/The%2013th%20Warrior%201999.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg" group-title="movies" type="vod",7 Prisoners (2021)
 https://archive.org/download/peli2_202401/7%20Prisoners%202021.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg" group-title="movies" type="vod",I. Robot (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dlb6JKYv25rJSk2n2hwhOeJ7Dk.jpg" group-title="movies" type="vod",I, Robot (2004)
 https://archive.org/download/blextv2/I.Robot.2004.lati.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg" group-title="movies" type="vod",The Notebook (2004)
@@ -1418,7 +1418,7 @@ https://archive.org/download/eKMUBupKgAs6NwwD1AFOkdv4twnqITPz/output.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI1MzE1MDk2N15BMl5BanBnXkFtZTYwMjEwMzI3._V1_.jpg" group-title="movies" type="vod",Flushed Away (2006)
 https://cdn.jwplayer.com/manifests/cfR3HmOO.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQxZjMyOGItZDgxZS00NzkwLThjNjgtM2Q3YjdjZTQzNGZjXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Last Gift (2006)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjQxZjMyOGItZDgxZS00NzkwLThjNjgtM2Q3YjdjZTQzNGZjXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Ultimate Gift (2006)
 https://cdn.jwplayer.com/manifests/cLok27OH.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA1MTUxNDY4NzReQTJeQWpwZ15BbWU2MDE3ODAxNw@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Click (2006)
@@ -1444,7 +1444,7 @@ https://archive.org/download/UmfxLppQxvdobTpTgzC8JNthDhCvJNOz/output.mkv
 https://cdn.jwplayer.com/manifests/YqkDEnAb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYzMjNiMGQtN2RlNS00NWJlLTg2NzUtZjMyNWMxZjQyNjhlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Meet the Spartans (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg" group-title="movies" type="vod",Meet the Spartans (2008)
 https://cdn.jwplayer.com/manifests/QroHqRIx.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQzYjgyYzEtOTVhZC00MDRkLWJjNjItYzU3N2RiMTExZjA1XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Hachi: A Dog's Tale (2009)
@@ -1455,7 +1455,7 @@ https://archive.org/download/U5FkbVvrCiEe8EquGA32HbByP2taBWxY/output.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzMzI0NTMzNDBeQTJeQWpwZ15BbWU3MDM3NTAyOTM@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Megamind (2010)
 https://cdn.jwplayer.com/manifests/YhAEndMC.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5NDUxNDU4OF5BMl5BanBnXkFtZTcwNDk1NjM1Mw@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Nanny McPhee Returns (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg" group-title="movies" type="vod",Nanny McPhee and the Big Bang (2010)
 https://cdn.jwplayer.com/manifests/IihVkpOm.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU5MDEzMzYwMF5BMl5BanBnXkFtZTcwNTcwMjUxMw@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Wall Street: Money Never Sleeps (2010)
@@ -1473,7 +1473,7 @@ https://cdn.jwplayer.com/manifests/CaszktLq.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg" group-title="movies" type="vod",Mannequin (1987)
 https://archive.org/download/FMVeOKCE3mDfcHjQdRLXqRRKunKa0WIE/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg" group-title="movies" type="vod",The Adventures Of Sharkboy And Lava Girl (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg" group-title="movies" type="vod",The Adventures of Sharkboy and Lavagirl (2005)
 https://archive.org/download/jbJ7QzwpNsDhLLnD8qOT1tV54ne8JIKN/output.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Wolf of Wall Street (2013)
@@ -1569,7 +1569,7 @@ https://cdn.jwplayer.com/manifests/fQNVxbTQ.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="movies" type="vod",The Forgotten Battle (2020)
 https://cdn.jwplayer.com/manifests/vm4DbZPQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5OTM3ZjQtM2E3Zi00NjZjLTlhMDktNDg0ZDJiMzhiOGE2XkEyXkFqcGdeQXVyNTU5OTMzMzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",La foquita  el 10 de la calle (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lyvD8rs2jv8P3IdVm7qcrvgr6Ns.jpg" group-title="movies" type="vod",The Seal: Number 10 from the Street (2020)
 https://cdn.jwplayer.com/manifests/T4IiriH0.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xfv77EkP1CbOCi36LZWuWlvoL4o.jpg" group-title="movies" type="vod",The Haunting Of Alcatraz (2020)
@@ -1626,7 +1626,7 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/El%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wU8ijITXE2ZgoXJexTQByJiHCbp.jpg" group-title="movies" type="vod",The Forgotten Battle (2020)
 https://archive.org/download/la-batalla-olvidada/The.Forgotten.Battle.2020.lati.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDRlNzJmOTEtNjllYy00MTg2LThmNTMtN2RkNmRjZDY2NGU1XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_.jpg" group-title="movies" type="vod",The Greatest Beer Run Ever (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg" group-title="movies" type="vod",The Greatest Beer Run Ever (2022)
 https://cdn.jwplayer.com/manifests/xGFGJBJQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ZmNlZTctMDdmNy00MjMzLWFmZmYtN2M5N2YyYTQ1ZDJjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Rise of the Planet of the Apes (2011)
@@ -1665,7 +1665,7 @@ https://archive.org/download/independence.day.-1996.1080p-dual-lat/Independence.
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwMzIyNzU2N15BMl5BanBnXkFtZTcwMTU4ODQzMg@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",District 13 Ultimatum (2009)
 https://cdn.jwplayer.com/manifests/KYHkxPE7.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4YmU4NWYtYzZkOC00MTY5LThjMzMtZDQ3ZTMzMTM0ODg2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Distrito B 13 (2004)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U4YmU4NWYtYzZkOC00MTY5LThjMzMtZDQ3ZTMzMTM0ODg2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",District B 13 (2004)
 https://cdn.jwplayer.com/manifests/msvxRLvx.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0YjA4ODEtMTZjMC00ODIyLWE5MmQtMzc4M2IzMjE0MWZkXkEyXkFqcGdeQXVyMTUzNDkzNDY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Brawl in Cell Block 99 (2017)
@@ -1726,10 +1726,10 @@ si
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 https://archive.org/download/O0TGzn0SWedIz56h8vdcEXW4fotmpVTI/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vyrhDDWN4qELNyCgzsl9AOsEAfX.jpg" group-title="movies" type="vod",Death Of A Vlogger (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vyrhDDWN4qELNyCgzsl9AOsEAfX.jpg" group-title="movies" type="vod",Death of a Vlogger (2019)
 https://archive.org/download/linkmultimediacine/MUERTE%20DE%20UN%20VLOGGER%20_%20ESTRENO%202022%20_.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg" group-title="movies" type="vod",Eyes Wide Shut (1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg" group-title="movies" type="vod",Eyes Wide Shut (1999)
 https://archive.org/download/ojos-bien-cerrados-1999/Ojos%20Bien%20Cerrados%20-%201999.mp4
 
 https://archive.org/download/ford-vs-ferrari-2019/Eyes%20Wide%20Shut%201999%20Full%20Movie.mp4
@@ -1755,12 +1755,12 @@ https://cdn.jwplayer.com/manifests/sh3FIFsd.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="movies" type="vod",Prey (2024)
 https://archive.org/download/prey-2024/PREY%20%282024%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="movies" type="vod",Aliens VS. Predator (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="movies" type="vod",AVP: Alien vs. Predator (2004)
 https://archive.org/download/4xwBzSm1PXmRRH8qfKMrfOkr7QdnsZzJ/output.mkv
 
 https://archive.org/download/125736/121716.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="movies" type="vod",Aliens VS. Predator 2 (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg" group-title="movies" type="vod",AVP: Alien vs. Predator 2 (2001)
 https://archive.org/download/125736/121705.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg" group-title="movies" type="vod",Aliens VS. Predator Requiem (2007)
