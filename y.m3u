@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="movies" type="vod" ,E.T The Extraterrestrial (1982)
+#EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="movies" type="vod" ,E.T. the Extra-Terrestrial (1982)
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
 #EXTINF:-1 tvg-id="abyss1989" tvg-name="The Abyss (1989)" tvg-logo="https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg" group-title="movies" type="vod" ,The Abyss (1989)
@@ -50,7 +50,7 @@ https://archive.org/download/36857/37773.mkv
 https://archive.org/download/36857/36859.mkv
 
 
-#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/f26ClqwwDzC1ql6d7PpAbhWj3N7.jpg" group-title="movies" type="vod",High Voltage (2003)
+#EXTINF:-1 tvg-type="movie" type="vod" tvg-logo="https://image.tmdb.org/t/p/w500/f26ClqwwDzC1ql6d7PpAbhWj3N7.jpg" group-title="movies" type="vod",High Voltage (1997)
 https://archive.org/download/i-hate-summer-2020/Alta%20tensio%CC%81n%20%282003%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nllMNbjgvUpw378czm5vBYzZqg1.jpg" group-title="movies" type="vod",Turner & Hutch (1989)
@@ -142,7 +142,7 @@ https://archive.org/download/1iqr2uDhVCU39VD0fwzxpz5CSNhN6yox/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8hvt4L3EXWq3ANutok32ODQIGwV.jpg" group-title="movies" type="vod",Black Dog (1998)
 https://archive.org/download/black-dog-1998_202409/BLACK%20DOG%20%20%281998%29.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/MBnX2iGVvIOqocMywl0igpcN4T.jpg" group-title="movies" type="vod",A Chinese Fairytale (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/MBnX2iGVvIOqocMywl0igpcN4T.jpg" group-title="movies" type="vod",A Chinese Fairy Tale (2008)
 https://archive.org/download/slkgjlkfjgdlfkvm/AChineseFairyTale2011Brrip.subesp.gnula.avi.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zaK1aVn5vXfNwLIDop9U8XA3Q0x.jpg" group-title="movies" type="vod",The Mortal Instruments: City of Bones (2013)
@@ -154,7 +154,7 @@ https://archive.org/download/breakdown-1997_202409/Breakdown%20%281997%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg" group-title="movies" type="vod",Black Hawk Down (2001)
 https://archive.org/download/0PJv0JWchqRcvgPjpUWBWofehKi0vFM4/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg" group-title="movies" type="vod",Born on The 4th of July (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg" group-title="movies" type="vod",Born on The Fourth of July (1989)
 https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B0n%20O%20T%20F0rt%200%20Ju%20989%20-Dl-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg" group-title="movies" type="vod",Pearl Harbor (2001)
@@ -173,10 +173,16 @@ https://archive.org/download/north-hollywood-2021/Pamela%20a%20Love%20Story%2020
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lKXINU3ApbhFPQJ3pqgMzGPCYnH.jpg" group-title="movies" type="vod",Up In Smoke (1978)
 https://archive.org/download/w-31d-s-13c-3-985-dl/U1smk978-SLt-.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="movies" type="vod",Dirty Harry  (1991)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="movies" type="vod",Dirty Harry  (1971)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.5.-%20HARRY%20EL%20SUCIO%20%281971%29%20%E2%9C%94.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nL3ccvqU1Wq1j31feHWAydzpbr2.jpg" group-title="movies" type="vod",Toy Soldiers (1971)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="movies" type="vod",Dirty Harry (1971)
+https://archive.org/download/thriller_202202/Harry%20El%20Sucio%20%28Dirty%20Harry%201971%29.mkv
+
+si
+http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nL3ccvqU1Wq1j31feHWAydzpbr2.jpg" group-title="movies" type="vod",Toy Soldiers (1991)
 https://archive.org/download/n-05f-3r.-224-dl/T0.50ld5.991.mkv
 
 si
@@ -212,16 +218,12 @@ https://archive.org/download/l-4m-221-sl/L4m221-SL-.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg" group-title="movies" type="vod",Antebellum (2020)
-
-no
 https://archive.org/download/bgQkf48WzOr5ApaoqFZ4mlzSyRPJv4fZ/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iDMEwUG80avoWoQ85ge6VoVyCrv.jpg" group-title="movies" type="vod",The Most Beautiful Day in the World (2019)
 https://archive.org/download/hUpWRhFeg5gXT5RlLtE78O1nN34BD4HI/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg" group-title="movies" type="vod",Borat (2000)
-
-no
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg" group-title="movies" type="vod",Borat (2006)
 https://archive.org/download/A1Nb4ogypxwb93COhLsw8vb3ggwNhbIA/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ynPJkpmWNi4rnDUb0PuzDnJj5JI.jpg" group-title="movies" type="vod",The Other Lamb (2019)
@@ -268,7 +270,7 @@ https://archive.org/download/gbtG8XQlu2Ufi6XTVL2MZeTxRnU9MjeQ/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/arJF829RP9cYvh0NU70dC5TtXSa.jpg" group-title="movies" type="vod",007 A View To Kill (1985)
 https://archive.org/download/oKeoL9SM0jmML8P7vfPfPKHyPn671VwE/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg" group-title="movies" type="vod",007 Golden Eye (1995)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg" group-title="movies" type="vod",007 GoldenEye (1995)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/18.GOLDENEYE%20%281995%29%20%E2%9C%94.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gZm002w7q9yLOkltxT76TWGfdZX.jpg" group-title="movies" type="vod",007 Tomorrow Never Dies (1997)
@@ -296,7 +298,7 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 
 https://archive.org/download/frPsZV9VtBzMCoCfn5AUidVmC7u8EWwl/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="movies" type="vod",007 Spectre (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title="movies" type="vod",Spectre 007 (2012)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/25.SPECTRE%20%282015%29%20%E2%9C%94.mp4
 
 https://archive.org/download/3bD5gRyGmZFJKmu0zkEpdhnll2jaRT1X/output.mkv
@@ -319,7 +321,7 @@ https://cdn.jwplayer.com/manifests/FTJI05Y2.m3u8
 https://archive.org/download/SE5g5uDV5ulYY788Rrl0kxt4xf8cL2Ai/output.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg" group-title="movies" type="vod",Kadaver (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bo94ZQ0SlFRHL3fGPHNBYQDlnhl.jpg" group-title="movies" type="vod",Cadaver (2020)
 https://archive.org/download/mQUoqNB47PXrvxYmG7DVMNmid9qUhasY/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ftRRIYNzpTDYeTznrAxgT5v1vJY.jpg" group-title="movies" type="vod",High Life (2018)
@@ -366,7 +368,7 @@ https://archive.org/download/aILG6Be0SHInw3PAI9bS4aWyyNA3qlld/output.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/758F57DxVRLe38S1Je4O1Bjx2u6.jpg" group-title="movies" type="vod",The Infiltrator (2016)
 https://archive.org/download/bIBbgZ4kjQSfwDKZyKvQOyrfB61DNGYI/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg" group-title="movies" type="vod",Romansing The Stone (1984)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg" group-title="movies" type="vod",Romancing The Stone (1984)
 https://archive.org/download/4nuoIUGczM4NXUJK6aZyiZ6Ktw9idiHO/output.mkv
 
 https://archive.org/download/m5d88NT9lPRAMqSmFzAEdRuoyyJttALv/output.mkv
@@ -385,7 +387,7 @@ https://archive.org/download/Un.m3t0d0.p3l19r0s0D4v1dCr0n3nb3r92011/Un.m3t0d0.p3
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg" group-title="movies" type="vod",Ace Ventura Pet Detective (1994)
 https://archive.org/download/movies_20220526/Ace.Ventura_.Pet.Detective.1994.720p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg" group-title="movies" type="vod",Ace Ventura  When Nature Calls (1994)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg" group-title="movies" type="vod",Ace Ventura  When Nature Calls (1995)
 https://archive.org/download/movies_20220526/Ace.Ventura_.When.Nature.Calls.1995.720p.BluRay.x264.YIFY.mp4
 
 
@@ -400,12 +402,12 @@ https://archive.org/download/EhzogOi3y4SpK44xVproi4HFC4wgBKXI/output.mkv
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/MAD%20MAX%201%20%281979%29%20%E2%9C%94.mp4
 https://archive.org/download/mad.-max.-1979.1080p.-blu-ray.x-265-rarbg/Mad.Max.1979.1080p.BluRay.x265-RARBG.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhVekfpaCW3QavAwGYbaQig87Xc.jpg" group-title="movies" type="vod",Mad Max The Road Warrior (1981)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhVekfpaCW3QavAwGYbaQig87Xc.jpg" group-title="movies" type="vod",Mad Max 2 (1981)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/MAD%20MAX%202%20%281981%29%20%E2%9C%94.mp4
 
 https://archive.org/download/szpUaEGUBddXULqCvD7k5w7yWISNGDX3/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg" group-title="movies" type="vod",Mad Max Beyond Thunder Dome (1985)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg" group-title="movies" type="vod",Mad Max Beyond Thunderdome (1985)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/MAD%20MAX%203%20%281985%29%20%E2%9C%94.mp4
 
 https://archive.org/download/F1fYTQl6QajLknZrxJrpXInv9C6mhVuw/output.mkv
@@ -442,7 +444,7 @@ https://archive.org/download/jQl2e4e6qC28barxGbKyJnpTPvMdFLy5/output.mkv
 https://archive.org/download/0nyVR4qlo5CQjyGi4Ls7W0knXyzrm2FX/output.mkv
 https://archive.org/download/peli9/Species%20The%20Awakening%202007.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvrw5XGxdHauYUxMfsKcdHT3T2u.jpg" group-title="movies" type="vod",A Stork's Journey 2 (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvrw5XGxdHauYUxMfsKcdHT3T2u.jpg" group-title="movies" type="vod",Richard the Stork and the Mystery of the Great Jewel (2023)
 https://archive.org/download/richard-la-ciguena-y-la-joya-perdida-2023-filmaffinity/Richard%20la%20cig%C3%BCe%C3%B1a%20y%20la%20joya%20perdida%20%282023%29%20-%20Filmaffinity.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tdRgQWMximj0tL6OWu9kRTtePmI.jpg" group-title="movies" type="vod",Flight Of The Navigator (1986)
@@ -473,7 +475,7 @@ https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTVLCOPT:sub-file=https://archive.org/download/movies_202211/Back%20to%20the%20Future.srt
 https://archive.org/download/movies_202211/Back%20to%20the%20Future.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="movies" type="vod",Back to the Future 2 (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="movies" type="vod",Back to the Future Part II (1987)
 https://archive.org/download/2hRDJPQEIfVa0AzuaK0dg9mmNGnLQTqz/output.mkv
 
 https://archive.org/download/blextv2/Back.to.the.future.2.1989.1080p-dual-lat.mp4
@@ -482,7 +484,7 @@ si
 https://archive.org/download/peliculas90s/02%20VOLVER%20AL%20FUTURO%201989.mp4
 https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?discomp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg" group-title="movies" type="vod",Back to the Future III (1990)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg" group-title="movies" type="vod",Back to the Future Part III (1990)
 https://archive.org/download/84CK.70-3/84CK.70.FU7U93.3-ES-1080.mp4
 
 https://archive.org/download/8Gjxbc3fpEiRduKWlIx3SvnIEACFpxdo/output.mkv
@@ -497,10 +499,7 @@ https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?di
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k7gkf5Wa8YZ9iyEOylBMfw9pnkp.jpg" group-title="movies" type="vod",The Flintstones (1994)
 https://archive.org/download/E9n6V9V0OSLfwomp6XuIYQaS5yrt0BTx/output.mkv
 
-
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zWp8QZ1KxNrirNK9MF1EAIHjqVw.jpg" group-title="movies" type="vod",Que Culpa Tiene El Niño (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zWp8QZ1KxNrirNK9MF1EAIHjqVw.jpg" group-title="movies" type="vod",Don't Blame the Kid (2016)
 https://archive.org/download/que-culpa-tiene-el-nino-2016/Qu%C3%A9%20Culpa%20Tiene%20El%20Ni%C3%B1o%20%282016%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n0nglZOU2uLMAwf1glc6dEWvojC.jpg" group-title="movies" type="vod",American Pie (1999)
@@ -536,19 +535,13 @@ https://archive.org/download/NRxRQBMR5MMadO1KtlEZZyNAyZplkLKr/output.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Visit (2015)
 https://archive.org/download/D94gaz2CzknveAioGRL9zxyQisoN4MCl/output.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg" group-title="movies" type="vod",Dirty Harry (1976)
-https://archive.org/download/thriller_202202/Harry%20El%20Sucio%20%28Dirty%20Harry%201971%29.mkv
-
-si
-http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg" group-title="movies" type="vod",Hostel (2005)
 https://archive.org/download/o3teMtxpexmv1HfsBKjG3YazvLiz8vtE/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg" group-title="movies" type="vod",Anaconda (1997)
 https://archive.org/download/jU1FWtSeQSyzENOMw5wZQxzaXRaypT4w/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg" group-title="movies" type="vod",The Mask Of Zorro (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg" group-title="movies" type="vod",The Mask Of Zorro (1998)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.LA%20MASCARA%20DEL%20ZORRO%20%281998%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4ZSuSuWco0aCyKv8xD8X8VSaFs4.jpg" group-title="movies" type="vod",The Legend Of Zorro (2005)
@@ -598,7 +591,7 @@ https://archive.org/download/1-l-0-tr-L0R14N/B0rn1n34st.L.A.1987.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hetHB9L84jOLxajKZLKgaNBRDJ9.jpg" group-title="movies" type="vod",Cheech & Chong's Next Movie (1980)
 https://archive.org/download/cheech-chong-next-movie1980lordload/%5B1980%5D%20Cheech%20%26%20Chong%27s%20Next%20Movie.avi
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wqwt2DKcQV6EeSwXuYTk7pkLFii.jpg" group-title="movies" type="vod",El Crimen del Padre Amaro (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wqwt2DKcQV6EeSwXuYTk7pkLFii.jpg" group-title="movies" type="vod",The Crime of Padre Amaro (2002)
 https://archive.org/download/the-crime-of-padre-amaro-2002/The%20Crime%20of%20Padre%20Amaro%202002.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg" group-title="movies" type="vod",Battleship (2012)
@@ -634,7 +627,7 @@ https://archive.org/download/running.with.the.devil.-2019.1080p-dual-lat-cinecal
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ekt35AOWyS7pqMYTwlx9KJiElFZ.jpg" group-title="movies" type="vod",I Killed My Mother (2009) 
 https://archive.org/download/i-killed-my-mother-2009-jai-tue-ma-mere-720p-x-264-dd-5.1-high-code-converted/I%20Killed%20My%20Mother%202009%20%28J%27ai%20tu%C3%A9%20ma%20m%C3%A8re%29%20720p%20x264%20DD%205.1-HighCode-converted.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlZWM5YTctOGU0OC00ODJjLWIwYjAtOTZkMmMyNGRmMDA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",A Piece of Cake (2019) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlZWM5YTctOGU0OC00ODJjLWIwYjAtOTZkMmMyNGRmMDA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Elfkins: Baking a Difference (2019) 
 https://archive.org/download/yummy_202105/Los%20Elfkins.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aP8swke3gmowbkfZ6lmNidu0y9p.jpg" group-title="movies" type="vod",The Bourne Identity (2002)
@@ -727,7 +720,7 @@ https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.mp4
 https://archive.org/download/yummy_202105/De%20mendigo%20a%20millonario.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/26X4Lldt6bwLnrX6kkLfUZTLojw.jpg" group-title="movies" type="vod",12 Dates Of Christmas (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/26X4Lldt6bwLnrX6kkLfUZTLojw.jpg" group-title="movies" type="vod",12 Dates Of Christmas (2011)
 https://archive.org/download/PelNavvVariass/12DtsfChrstmsHDTV.lat.avi.mp4%20-%20openload.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mBiLHwCMUCmPfhhkTP87Ht65Qy1.jpg" group-title="movies" type="vod",Once Upon A Holiday (2016)
@@ -739,7 +732,7 @@ https://archive.org/download/PelNavvVariass/4ng3l.0f.chr1stm4s-2015.dvdrip.latin
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hiCeUExxUTGbU6FXORLf673uwvK.jpg" group-title="movies" type="vod",Holiday Calendar (2018)
 https://archive.org/download/PelNavvVariass/El%20Calendario%20de%20Navidad%20HD%20720p%2C%20espa%C3%B1ol%20latino%2C%202018%20-%20PeliculasHD.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg" group-title="movies" type="vod",I Care A Lot (2020) -Dual Lat-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg" group-title="movies" type="vod",I Care A Lot (2021)
 https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/I.care.a.lot.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 https://archive.org/download/independence.day.-1996.1080p-dual-lat/I.care.a.lot.2020.1080p-dual-lat-cinecalidad.is.mp4
@@ -763,7 +756,7 @@ https://archive.org/download/F9rZvckQJWoN8ZhMqtUZd4EdVUXTPo9z/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tbTiSr0v9g8Q34MIeIcT0o2vGus.jpg" group-title="movies" type="vod",Bliss (2021)
 https://archive.org/download/superheroicos-720p/Bliss%20-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jX1Bu1ht9FJqpLmSrrO7oKLwk6V.jpg" group-title="movies" type="vod",The Quiet Maid (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jX1Bu1ht9FJqpLmSrrO7oKLwk6V.jpg" group-title="movies" type="vod",The Quiet Maid (2024)
 https://tvnettv.space/contenido/peliculas/Calladita/Calladita.2023.1080p.WEB-DL.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg" group-title="movies" type="vod",Con Air (1997)
@@ -777,7 +770,7 @@ https://archive.org/download/patlabor-1-y-2-latino/Patlabor%201%20Latino.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vIyWhMyMEHnavjUhbusOXDwrJgz.jpg" group-title="movies" type="vod",Patlabor 2 (1993)
 https://archive.org/download/patlabor-1-y-2-latino/Patlabor%202%20Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg" group-title="movies" type="vod",Godzilla: Planeta de monstruos (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hAuZ7g6TqDLv5fOqXIPgYRguOkm.jpg" group-title="movies" type="vod",Godzilla: Planet Of monstesrs (2017)
 https://archive.org/download/gopla-72p/Godzilla1.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nSft7gT42Y7f0gZtZ74nMyuyMvw.jpg" group-title="movies" type="vod",Godzilla Against Mechagodzilla (2002)
@@ -809,13 +802,13 @@ https://archive.org/download/ABN5oBpjAasdxaLjrK3OglOF1YSRGI52/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xyqsfWcjC9TQZjGn2NLspL5YoJ4.jpg" group-title="movies" type="vod",Honey (2003)   
 https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="movies" type="vod",Saga of Tanya the Evil (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="movies" type="vod",Saga of Tanya the Evil: The Movie (2019)
 https://archive.org/download/superheroicos-720p/Youjo%20Senki%20Movie%250aLatino.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kBCCK1FOXxTSSRTsA7KTH3uMNSP.jpg" group-title="movies" type="vod",Irreversible (2002)
 https://cdnst15.tokyvideo.com/videos/283/283128/mp4/7832fca676a3b6cd1308de2a9403b22728172d30acb6d46961c216821c34fcc5.mp4?secure=tOa7mayrRkaQ1OPeHmorzQ%3D%3D%2C1717979422
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJhOWUzYWItNWMxOS00YTgwLWIwM2YtMzgxOTRhMTJjMzg5XkEyXkFqcGdeQXVyMjIzMjcxODU@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Toys & Pets (2017)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDJhOWUzYWItNWMxOS00YTgwLWIwM2YtMzgxOTRhMTJjMzg5XkEyXkFqcGdeQXVyMjIzMjcxODU@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Tea Pets (2017)
 https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg" group-title="movies" type="vod",Men in Black (1997)
@@ -833,7 +826,7 @@ https://archive.org/download/Pl4QBCIiHPjhmMw65RW7TkDla22K1KG6/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg" group-title="movies" type="vod",Men in Black III (2012)
 https://archive.org/download/xI30v2jXgNDm5OoG3AQL82L9sL6glzEM/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="movies" type="vod",Men in Black International (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg" group-title="movies" type="vod",Men in Black: International (2019)
 https://archive.org/download/blextv6/Men.in.black.international.2019.1080p-dual-lat-cinecalidad.to.mp4
 
 https://archive.org/download/vmE5lkX4RhrSQaQt4x4MgU6Zzp3VTCNC/output.mkv
@@ -843,7 +836,7 @@ https://archive.org/download/conjuring-the-beyond_202304/Hombres%20de%20negro%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hWwloeNK2Qjay9JwhgS1Utaqi3X.jpg" group-title="movies" type="vod",Idle Hands (1999)
 https://archive.org/download/pack-5_202008/El%20Diablo%20Meti%C3%B3%20la%20Mano.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pkkvFb765ef9ErkrNA73h0ec3ZY.jpg" group-title="movies" type="vod",The First Knight (1995)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dJH5bwtu3UxbwRsSlhlhmMrV8ZH.jpg" group-title="movies" type="vod",First Knight (1995)
 https://archive.org/download/hdNxwjizA37zteFKMFdPTe0fkJFdbM5G/output.mkv
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="movies" type="vod",Teenage Mutant Ninja Turtles The Movie (1990)
@@ -884,12 +877,12 @@ https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iu3JlLPOk5RUXVJpifkxv9739oo.jpg" group-title="movies" type="vod",Fire And Ice (1983)
 https://archive.org/download/a137ee3e2a37701695abd791d95bfeaf-1080p/a137ee3e2a37701695abd791d95bfeaf-1080p.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7SUOXLW6pbVJXq7Pv925LnTHXaG.jpg" group-title="movies" type="vod",Captain Harlok Space Arcadia (1978)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7SUOXLW6pbVJXq7Pv925LnTHXaG.jpg" group-title="movies" type="vod",Captain Harlock Arcadia of My Youth (1982)
 https://archive.org/download/c-4p-h-4rk-4d.-182-dl/C4pH4rk4d.182-DL-.mkv
 
 https://archive.org/download/capita-harlock-i-la-arcadia/Capit%C3%A0%20Harlock%20i%20la%20Arcadia.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fnoZJlitIOBo2fSCyzAsv0lHtYL.jpg" group-title="movies" type="vod",Captain Harlok Space Pirate (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fnoZJlitIOBo2fSCyzAsv0lHtYL.jpg" group-title="movies" type="vod",Captain Harlock Space Pirate (2013)
 https://archive.org/download/captain-herlock-espanol-latino-1080p-ec-92-eeb-8/Captain%20Herlock%20%5BEspa%C3%B1ol%20Latino%5D%20%5B1080p%5D%20%5BEC92EEB8%5D.mkv
 
 https://moodle1.myyschool.xyz/aTlSOEU2NkU1ZXVTVThqYXlFNlZpTUZ3alM1eEQwRmo3dUJwZC9NQWZyRT0.m3u8
@@ -901,7 +894,7 @@ https://archive.org/download/videotime-cine-latino/Bichos.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cxSZZJBbREsWaRREBIY0DRH08B5.jpg" group-title="movies" type="vod",Crossroads (2002)
 https://archive.org/download/crossroads-amigas-para-siempre_202405/Crossroads%20%28Amigas%20Para%20Siempre%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg" group-title="movies" type="vod",Brahms the Boys II (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg" group-title="movies" type="vod",Brahms: The Boy II (2020)
 https://archive.org/download/blextv6/Brahms.the.boy.II.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg" group-title="movies" type="vod",A Few Good Men (1992)
@@ -980,10 +973,10 @@ https://archive.org/download/thnt-3-.-995-dl/SSq4d.216-DL-.mp4
 https://archive.org/download/wjXbWOxD7m2FJAAuR4ECcLgapjZ3Z8Xt/output.mkv
 https://archive.org/download/manguera_202108/Th3%205u1c1d3%205qu4d%202.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg" group-title="movies" type="vod",Peacemaker (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg" group-title="movies" type="vod",The Peacemaker (1997)
 https://archive.org/download/28asaltoalbf-2037d-42c-92891df-6e-1df-20dc-7eee-1080p/92pacifi1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DMKc9Mf/centinela.jpg" group-title="movies" type="vod",Centinela (2021)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DMKc9Mf/centinela.jpg" group-title="movies" type="vod",Sentinelle (2021)
 https://archive.org/download/carros_202109/C3nt1n3l4.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg" group-title="movies" type="vod",Shakespeare In Love (1998)
@@ -1003,16 +996,16 @@ https://archive.org/download/juego-de-gemelas/Juego%20de%20Gemelas.mp4
 
 https://dl.dropbox.com/s/i15bbwyw4voetsq/juegos%20de%20gemelas.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oxGCI4H0ANXD8YoXnt3ZmjTjNIM.jpg" group-title="movies" type="vod",Macross Do You Remember Love (1984)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oxGCI4H0ANXD8YoXnt3ZmjTjNIM.jpg" group-title="movies" type="vod",Macross: Do You Remember Love? (1984)
 http://archive.org/download/wujede_getcoolmail_7/sub1da_p0r_arn0ld1985/7.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7jkmi0MqIP6XNRaFt0fHTV9VbiQ.jpg" group-title="movies" type="vod",Robotech Shadow Chronicles (2006)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7jkmi0MqIP6XNRaFt0fHTV9VbiQ.jpg" group-title="movies" type="vod",Robotech: The Shadow Chronicles (2006)
 https://archive.org/download/robotech-the-shadow-chronicles/Robotech%20The%20Shadow%20Chronicles.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg" group-title="movies" type="vod",Saint Seiya The Evil Goddess Eris (1987)
 http://ia801506.us.archive.org/28/items/sototo_patonce_00/00.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="movies" type="vod",Saint Seiya The Warriors Of Armagedon (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="movies" type="vod",Saint Seiya: Warriors of the Final Holy Battle (1989)
 https://archive.org/download/1989-los-caballeros-del-zodiaco-contra-lucifer/%281989%29%20-%20Los%20Caballeros%20del%20Zodiaco%20contra%20Lucifer.mkv
 
 https://archive.org/download/n0st4lg1c_m3m0r135/n0st4lg1c_m3m0r135/4n1m3/U2FpbnQgU2VpeWE6IExvcyBDYWJhbGxlcm9zIERlbCBab2RpYWNvIENvbnRyYSBMdWNpZmVy.mp4
@@ -1025,7 +1018,7 @@ https://archive.org/download/n0st4lg1c_m3m0r135/n0st4lg1c_m3m0r135/4n1m3/U2FpbnQ
 
 https://archive.org/download/1988-ii-los-caballeros-del-zodiaco-contraatacan/%281988%29%20II%20-%20%20Los%20Caballeros%20del%20Zodiaco%20Contraatacan.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h3z0ymRvVAFJRFg6SS8I725xoZm.jpg" group-title="movies" type="vod",Saint Seiya: Heaven Chapter - Overture (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h3z0ymRvVAFJRFg6SS8I725xoZm.jpg" group-title="movies" type="vod",Saint Seiya Heaven Chapter: Overture (2004)
 http://ia601407.us.archive.org/13/items/00_20200423/05.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gxKfP9278RK4t3J8vLXoFfB8ihl.jpg" group-title="movies" type="vod",Saint Seiya: Legend Of Sanctuary (2014)
@@ -1034,7 +1027,7 @@ https://archive.org/download/saint-seiya-la-llegenda-del-santuari/Saint%20Seiya%
 si
 https://archive.org/download/los-caballeros-del-zodiaco-la-leyenda-del-santuario-edicion-argentina-dvd-rip/Los%20Caballeros%20del%20Zodiaco%20La%20leyenda%20del%20Santuario%20-%20Edici%C3%B3n%20argentina%20-%20DVD%20Rip.m4v
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eBaUVUNAWSOg70TMl7o9K3qSgYO.jpg" group-title="movies" type="vod",009 Re Cyborg Movie (1994)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eBaUVUNAWSOg70TMl7o9K3qSgYO.jpg" group-title="movies" type="vod",009 Re:Cyborg (2012)
 https://archive.org/download/009-re-cyborg-dob.latino-m-ri-2l-e-7-pe-qu-mp-4-480p/009%20RE%20Cyborg%20%28dob.latino%29-mRi2lE7PeQU-MP4%20%20480p.mp4
 
 
@@ -1162,7 +1155,7 @@ https://archive.org/download/stargate-puerta-a-las-estrellas-1994/Lambada%20%28E
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a3HQNANsAZ3zhKpHeWdznwBmJPF.jpg" group-title="movies" type="vod",Shall We Dance (2004)
 https://archive.org/download/x0pgZIMJDKAjisw35KecBS7NldvKrp2j/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/46PKHg2CKRE4NLLMFMcuGZSl1gk.jpg" group-title="movies" type="vod",Above The Law (1980)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/46PKHg2CKRE4NLLMFMcuGZSl1gk.jpg" group-title="movies" type="vod",Above The Law (1988)
 https://archive.org/download/nico-1988/Nico-1988.mp4
 
 https://archive.org/download/125736/122868.mp4
@@ -1188,7 +1181,7 @@ https://archive.org/download/the-fly-ii-1989/The%20Fly%20II%281989%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3lyaM4QT30eh7ok0hBb13UtWoY.jpg" group-title="movies" type="vod",Dulce Familia (2019)
 https://archive.org/download/accionhd/121102.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jwYKzJS0C3A711hmg1G4ptI0InF.jpg" group-title="movies" type="vod",The Burbs (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jwYKzJS0C3A711hmg1G4ptI0InF.jpg" group-title="movies" type="vod",The 'Burbs (1989)
 https://archive.org/download/the-burbs/The%20Burbs.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg" group-title="movies" type="vod",Laputa Castle In The Sky (1986)
@@ -1208,7 +1201,7 @@ https://archive.org/download/el-ultimo-unicornio-1080p-dolby-sourround-icaic/El_
 
 https://archive.org/download/the-last-unicorn/The%20last%20unicorn.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k7uOoGUk1JiN3gfKefUj2kP3Vu6.jpg" group-title="movies" type="vod",Vampire Hunter D (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k7uOoGUk1JiN3gfKefUj2kP3Vu6.jpg" group-title="movies" type="vod",Vampire Hunter D (1985)
 https://archive.org/download/vampire-hunter-d-english-dubbed-version/Vampire%20Hunter%20D%20English%20Dubbed%20Version.ia.mp4
 
 https://archive.org/download/yt-1s.com-vampire-hunter-d/Vampire%20Hunter%20D%20original%20english%20dub.mp4
@@ -1241,7 +1234,7 @@ https://archive.org/download/universal-soldier-treturn.-720p/World4ufree1.rest_U
 
 https://archive.org/download/R0Fz3OHdJp8Av5DlwQuyMtUaBTx9XuhU/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hYLzRwCcCyTVKGBRAiHEW7NOEni.jpg" group-title="movies" type="vod",Universal Soldier Regeneration (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hYLzRwCcCyTVKGBRAiHEW7NOEni.jpg" group-title="movies" type="vod",Universal Soldier Regeneration (2010)
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_nwtfpd7u/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
 https://archive.org/download/nNbxE4AyQKg0OPf1h46bG2jrk15TdU5q/output.mkv
@@ -1254,7 +1247,7 @@ https://archive.org/download/LN7XPU0EKAd97TTHQNQ41fX1zLHWxzqO/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hTv8Bkq3W1vwKi1IWCLWQW9PNU4.jpg" group-title="movies" type="vod",Mississippi Burning (1988)
 https://cdn.jwplayer.com/manifests/EBcG1lET.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg" group-title="movies" type="vod",El regreso a la laguna azul (1991)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg" group-title="movies" type="vod",Return To The Blue Lagoon (1991)
 https://cdn.jwplayer.com/manifests/F11TUDhR.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tgCA3cO2pM8UTPU3P81ZRbyp0VW.jpg" group-title="movies" type="vod",Sexo Pudor Y Lagrimas 2 (2022)
@@ -1273,7 +1266,7 @@ https://archive.org/download/h5to7MS52gkjzfrj3VdE4POVBnvZeIOT/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg" group-title="movies" type="vod",The Darkest Hour (2017)
 https://archive.org/download/W7O3a4RXLkXDx4EDnMk4gm50igmbVhq0/output.avi
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18HVWwyLihWJPzGpSVl3omRRMyL.jpg" group-title="movies" type="vod",Maximum Risk (1999)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18HVWwyLihWJPzGpSVl3omRRMyL.jpg" group-title="movies" type="vod",Maximum Risk (1996)
 https://archive.org/download/xTuLUzjOR5y3U8WluyFDUDNxRAIxOgkW/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" group-title="movies" type="vod",Lifechanger (2018)
@@ -2529,7 +2522,7 @@ https://archive.org/download/vI2r23hqolYNaaiHaY9kvqL9nJ92Tenh/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Ahd4F7azhjsxgXYjVyFmVzJu9LB.jpg" group-title="movies" type="vod",Brotherhood Of The Wolf (2001)
 https://archive.org/download/Q7G8Rl4aa9CgtutNUWpzqWkwckV98Ouc/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/keHVpf7x6Na3KK7ep2BXzd2jlCv.jpg" group-title="movies" type="vod",The Ottomano Liutenant (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/keHVpf7x6Na3KK7ep2BXzd2jlCv.jpg" group-title="movies" type="vod",The Ottomano Leiutenant (2017)
 https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20teniente%20otomano%20%282017%29%20720p.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg" group-title="movies" type="vod",The Bad Batch (2016)
