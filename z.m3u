@@ -2395,9 +2395,9 @@ https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2001%20%
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/79446-5.jpg" group-title="serie",Mezzo DSA S01E02
 https://archive.org/download/anime-stuff-three_202111/Mezzo%20Forte%20-%2002%20%28Uncensored%20Dual%20Audio%29.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="MOVIES",Youjo Senki 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/omEd5EwOo3LJlGtiiYwEZeCqM3E.jpg" group-title="series",Youjo Senki 
 
-#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="MOVIES",Mazinkaiser
+#EXTINF:-1 tvg-id="Movie" tvg-logo="https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png" group-title="series",Mazinkaiser
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdxwe0w/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_jdv6wxb2,1_5nxi8jpr,1_aokwgywq,1_nf96w194,1_7dytfnmg,1_k7jodire/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/83724/posters/83724.jpg" group-title="series",Puppet Princess
@@ -6017,7 +6017,7 @@ https://archive.org/download/GblnSlyr4kkf1sd56f1sda6fsd16fds/GblnSlyr4kkf1sd56f1
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/1924868/posters/6509914a9243e.jpg" group-title="series" type="series",Goblin Slayer S02E11
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM5ZjhjY2EtMTA0MC00MjczLThkYTMtOWI3MzdlMzIyNTRiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg" group-title="Movie",Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n0K6mjU8aVnag2mi93FuvJsjZi.jpg" group-title="series" type="series",Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
 https://archive.org/download/interstela5555/Interstela%205555.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/97554/posters/97554.jpg" group-title="series" type="series",Love Hina S01E01 
