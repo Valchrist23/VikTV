@@ -3837,6 +3837,18 @@ http://ia801502.us.archive.org/17/items/silonuber_mozej_0/3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8KCNzCArLlvLdQoHx6npua2VSVc.jpg" group-title="movies" type="vod",Enchanted (2007)
 https://archive.org/download/cJmgeDghNtpBYL2wLYY78Zo5dAiyIlTn/output.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg" group-title="movies" type="vod",Disenchanted (2022)
+https://archive.org/download/36857/36240.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg" group-title="movies" type="vod",Blowback (2022)
+https://archive.org/download/36857/36241.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg" group-title="movies" type="vod",The Visitor (2022)
+https://archive.org/download/36857/36246.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="movies" type="vod",Spirited (2022)
+https://archive.org/download/36857/36248.mkv
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Kung Fu Panda (2008)
 https://archive.org/download/pack-1_20200802/Kung%20fu%20panda.mp4
 
@@ -7220,6 +7232,7 @@ https://archive.org/download/once-upon-a-time-in-hollywood-2019-1080p-blu-ray-yt
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" group-title="movies" type="vod",Smile (2022)
 https://archive.org/download/thnt-3-.-995-dl/5m1l.2022-DL-.mp4
+https://archive.org/download/36857/36229.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eowzonDJMCuNXoJGVkP9Z7oCmiM.jpg" group-title="movies" type="vod",Before I Fall (2017)
 https://archive.org/download/thnt-3-.-995-dl/B3f1F4l.217-DL-.mp4
 
@@ -9127,6 +9140,13 @@ https://archive.org/download/peli9/Sound%20of%20Freedom%202023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x3OTaBvjqzhRL53Q39fOoIYqxyO.jpg" group-title="movies" type="vod",Spanglish (2004)
 https://archive.org/download/peli9/Spanglish%202004.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wZvZgA7IkDX78UilzqBGh0QTQvC.jpg" group-title="movies" type="vod",The Wonder (2022)
+https://archive.org/download/36857/36237.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="movies" type="vod",A Christmas Story (2022)
+https://archive.org/download/36857/36238.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/26RZloFHUyc0GTsybmnUPpSCPHb.jpg" group-title="movies" type="vod",Christmas With You (2022)
+https://archive.org/download/36857/36239.mkv
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5a60NuJToRAc0gijjI5IRSVGKL3.jpg" group-title="movies" type="vod",40 Days And 40 Nights (2002)
 
 
@@ -9299,11 +9319,12 @@ https://archive.org/download/los-cr-00ds-2013-audio-espanol/Plan%20de%20vuelo%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nfRlQCl590F30L37aihuqBGBvaO.jpg" group-title="movies" type="vod",Terrifier (2016)
 https://archive.org/download/CRFGoluxZVketFtbEBhCnHAKvziVcE2R/output.mp4
 https://archive.org/download/peli9/Terrifier%202016.mkv
-
+https://archive.org/download/36857/36236.mkv
 https://archive.org/download/terrifier-1-pelicula-completa-en-espanol-720p/Terrifier%201%20%20%20Pelicula%20completa%20en%20espa%C3%B1ol%20%28720p%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg" group-title="movies" type="vod",Terrifier 2 (2022)
 https://archive.org/download/YvCzS2WZqY3F06tH38hZ5qu0HvNJtCSr/output.mp4
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tn3GWm0Erehkpur8PUuYWxGpul5.jpg" group-title="movies" type="vod",Monster High (2022)
 https://archive.org/download/monster-high-el-gran-arrecife-monstruoso/Monster%20High%20El%20Gran%20Arrecife%20Monstruoso.mp4
