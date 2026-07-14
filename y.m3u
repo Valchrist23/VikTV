@@ -233,25 +233,25 @@ https://archive.org/download/A1Nb4ogypxwb93COhLsw8vb3ggwNhbIA/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ynPJkpmWNi4rnDUb0PuzDnJj5JI.jpg" group-title="movies" type="vod",The Other Lamb (2019)
 https://archive.org/download/pel149b83b3a93u/The%20Other%20Lamb.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z4sEWm1ykf9WX5WJU4XMD4oI5sI.jpg",Getaway (2013)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z4sEWm1ykf9WX5WJU4XMD4oI5sI.jpg" group-title="movies" type="vod",Getaway (2013)
 https://archive.org/download/slkgjlkfjgdlfkvm/Getaway.2013.HDRip.lat.avi.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",Bound (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg" group-title="movies" type="vod",Bound (1996)
 https://archive.org/download/xbznznaj_202105/Xbznznaj.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/3134/posters/3134.jpg",Monster (2003)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/3134/posters/3134.jpg" group-title="movies" type="vod",Monster (2003)
 https://archive.org/download/slkgjlkfjgdlfkvm/Monster.2003.BDrip.subesp.gnula.avi.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sUzAJwxeGiODOVmsIGrgXcy9aj1.jpg",Piranha (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sUzAJwxeGiODOVmsIGrgXcy9aj1.jpg" group-title="movies" type="vod",Piranha (2010)
 https://archive.org/download/1BY2SZLYBXHvwTvvSweyjIQXcLvITJMt/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eOLA3IrZATSz5FQ6fmG0Q6sSVyq.jpg",Piranha 3DD (2012)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eOLA3IrZATSz5FQ6fmG0Q6sSVyq.jpg" group-title="movies" type="vod",Piranha 3DD (2012)
 https://archive.org/download/JzVqW8zYATHbD9sxqq5naNxELCSoIYtY/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",Poltergeist (1982)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg" group-title="movies" type="vod",Poltergeist (1982)
 https://archive.org/download/dRbsQ0LAOVfMHvUEQ6i1DLzV8wJovxIJ/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMKWiDmQu3OUZqvOYp99qJkB6Xw.jpg",The Beastmaster (1982)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMKWiDmQu3OUZqvOYp99qJkB6Xw.jpg" group-title="movies" type="vod",The Beastmaster (1982)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%20%281982%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg" group-title="movies" type="vod",Life Is Beautiful (1998)
@@ -2419,7 +2419,7 @@ https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 #EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg" group-title="movies" type="vod",Radio Flyer (1992) 
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
  
-#EXTINF:-1 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg",When We First Met (2018)  
+#EXTINF:-1 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg" group-title="movies" type="vod",When We First Met (2018)  
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MjU0NDA0OF5BMl5BanBnXkFtZTgwNTc0MTU3OTE@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Angry Birds Movie (2016)
@@ -9577,7 +9577,7 @@ https://archive.org/download/pets-united-2020-latino-1080-streaming-latino/Spong
 
 https://ia601601.us.archive.org/24/items/bob-0o-un-agua-hd-720p-960853/Bob0o_Un_agua_HD__720p___960853.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMYg66P/bobalrescate.jpg",Bob Esponja: al rescate (2020)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QMYg66P/bobalrescate.jpg" group-title="movies" type="vod",Bob Esponja: al rescate (2020)
 https://ia904700.us.archive.org/26/items/bobo-0rescate-hd-720p-1213664/Bobo0rescate_HD__720p___1213664.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8K73wvCTBA3XKgZTtOZWgENUnis.jpg" group-title="movies" type="vod",Trauma Center (2019)
