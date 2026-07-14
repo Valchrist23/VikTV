@@ -2785,7 +2785,7 @@ https://archive.org/download/la-tumba-de-las-luciernagas-1988/La%20Tumba%20De%20
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/339/posters/632ea03a9a1ca.jpg",Totoro
 https://archive.org/download/4.-mi-vecino-totoro/4.%20Mi%20vecino%20totoro.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODc3MTMzNl5BMl5BanBnXkFtZTcwODYwNzUyMQ@@._V1_FMjpg_UX1000_.jpg",GI Joe Movie
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODc3MTMzNl5BMl5BanBnXkFtZTcwODYwNzUyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",G.I. Joe S00E36
 https://archive.org/download/g.-i.-joe-the-movie-1987_202201/G.I.JOE%20The%20Movie%20%281987%29%20%28Full%20Movie%29.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73016-4.jpg" tvg-type="series" group-title="series" type="series",Jayce and the Wheeled Warriors Movie
@@ -3720,20 +3720,20 @@ https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%2
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg" group-title="series" type="series",Hellsing Ultimate S01E10 
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2010%20%5B1080p%5D%20%5Bh.265%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",Afro Samurai S01E01 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E01 
 https://archive.org/download/AfroSamurai01KorosenaiAnime/Afro%20Samurai%2001%20%28KorosenaiAnime%29.mp4 
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",Afro Samurai S01E02 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E02 
 https://archive.org/download/AfroSamurai02KorosenaiAnime/Afro%20Samurai%2002%20%28KorosenaiAnime%29.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",Afro Samurai S01E03 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E03 
 https://nika.playmudos.com/afro-samurai/azVBazFaNlZlbDZGRlhDaEdxa2NpU2NiVmdNTzlraCsvRUFOTjQvN25ETT0.m3u8
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",Afro Samurai S01E04 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E04 
 https://nika.playmudos.com/afro-samurai/ZkgvT1Nza1JLNEgzVGI5S0lMMDFnejI5cUdESlNoZGtmSWRXelJ0aThTZz0.m3u8
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg",Afro Samurai S01E05 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E05 
 https://nika.playmudos.com/afro-samurai/cnlCQmJ4b3RTcnNkWTJkaHkvekxSdkxFeVJCb1Nkc1FTN1IySDA3bklYND0.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/7076/posters/7076.jpg",Afro Samurai Resurrection (2009)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/7076/posters/7076.jpg" group-title="series" type="series",Afro Samurai Resurrection (2009) S00E01
 https://archive.org/download/afro-samurai-resurrection-2009-1080px-264_202108/Afro_Samurai_Resurrection_%282009%29_%5B1080p%2Cx264%5D.ia.mp4
 
 https://archive.org/download/afro-samurai-resurrection-2009-1080px-264_202108/Afro_Samurai_Resurrection_%282009%29_%5B1080p%2Cx264%5D.mp4
