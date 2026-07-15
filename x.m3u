@@ -1544,9 +1544,10 @@ https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
-https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1757200227.m3u8
 
 no
+https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
@@ -1579,6 +1580,7 @@ https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
+https://5cf4a2c2512a2.streamlock.net/8164/8164/chunklist_w820124783.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 10 Microvision" tvg-name="Canal 10 Microvision" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr.jpg" group-title="Movies",Canal 10 Microvision HD 
@@ -1603,7 +1605,8 @@ https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0011/6192/brand.gif?itok=L4DEsj0u" group-title="Cartoon",Planeta TV
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w1372623251.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://scontent.ftij5-1.fna.fbcdn.net/v/t39.30808-6/473237676_1007904091358536_6258729962708499586_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x1280&ctp=s1280x1280&_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=SbkH61hLjx8Q7kNvwGL8cgX&_nc_oc=AdpD13KLM0MCEF9Z4q6mxRjT46YVenjAQuMcAYBSxfkQubq4Ss4qQ7KHYitd9rmOm3a9GwdQUua7RAWTC1G8AFUn&_nc_zt=23&_nc_ht=scontent.ftij5-1.fna&_nc_gid=zL7Z4VwRKWjtV6eTwb-90w&_nc_ss=7b2a8&oh=00_Af9TPUGB7FlXO2NOLmqzjgAW9j4DrLVkTG8U1iQZM6_pHg&oe=6A3D0539" group-title="Entretenimiento+",Click TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" group-title="Entretenimiento+",Click TV
+https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/960px-Telemax.png" group-title="Entretenimiento+",Telemax
@@ -1623,7 +1626,7 @@ https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca5029201
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b9/2b/4d/b92b4d60-36da-9d5c-cf76-3b61ec6d0bda/source/512x512bb.jpg" group-title="Movies",15 tv
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg/600px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile_%282004-2016%29.svg.png" group-title="Movies",TVN
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="TVN3"  tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="Movies",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 
@@ -1693,9 +1696,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemania" tvg-name="Cinemania" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="US" tvg-url="" group-title="Movies",Cinemania
-https://lb.dstvmultimedia.com/Cinemania/index.m3u8
 
 #EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Entretenimiento+",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
