@@ -603,6 +603,9 @@ https://i.mjh.nz/.r/bravo-plus1.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?ads.xumo_channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=95b3de6b-ff21-4910-a3ab-beceb467c75b&ads._fw_vcid2=512116:95b3de6b-ff21-4910-a3ab-beceb467c75b&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.channelId=99951242&ads._fw_ifa_type=
 https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 
+#EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-name="Bravo Vault" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="Entretenimiento+",Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentary",Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 
@@ -1118,6 +1121,9 @@ https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/KCWX_logo_2024.png" group-title="Entretenimiento+",My KCWX TV 
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
+
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/960px-Great%21_TV_logo_2021.svg.png?_=20240411134633" group-title="Cartoon",Great TV
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 
@@ -1629,8 +1635,17 @@ https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="TVN3"  tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logotipo_de_TVN3.png" group-title="Movies",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Alcarrizos TV" tvg-language="es" tvg-logo="https://alcarrizostv.com/wp-content/uploads/2022/10/ARTE-LIDERAZGO-01-1.jpg",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Aguila TV" tvg-language="es" tvg-logo="null",Dimelo TV
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Bravo TV" tvg-language="es" tvg-logo="null",Bravo TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 
 #EXTINF:-1 tvg-id="Dimelo TV" tvg-name="Dimelo TV" tvg-language="es" tvg-logo="https://i0.wp.com/dimelotv.com.do/wp-content/uploads/2023/08/cropped-logo.png?fit=300%2C120&ssl=1",Dimelo TV
+
 #EXTINF:-1 tvg-logo="https://www.hometheaterforum.com/wp-content/uploads/2020/02/WOW_Logo-1024x266.jpg" group-title="Movies",Wow TV 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Movies",CincoTV 
 #EXTINF:-1 tvg-id="Neox" tvg-name="Neox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/376px-Neox.svg.png" group-title="Movies",Neox
