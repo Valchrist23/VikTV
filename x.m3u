@@ -1291,24 +1291,26 @@ http://88.212.15.19/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" group-title="Entretenimiento+",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 
+#EXTINF:-1 tvg-id="	KPOP" tvg-name="KPOP" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",KPOP
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=br_NewKPop&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",KPop Hits
+#EXTINF:-1 tvg-id="Kpop TV Play" tvg-name="" tvg-language="Korean" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" tvg-country="KO" tvg-url="" group-title="Music",KPop TV Play
+https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",KPop One Pick Cam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" tvg-country="KO" tvg-url="" group-title="Music",New KPop
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",	K POP by CJ ENM
+#EXTINF:-1 tvg-id="K POP by CJ ENM" tvg-name="K POP by CJ ENM" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" tvg-country="KO" tvg-url="" group-title="Music",	K POP by CJ ENM
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="K POP Mix" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
+#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="K POP Mix" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
-
-#EXTINF:-1 tvg-id="	KPOP" tvg-name="KPOP" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",KPOP
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w687227354.m3u8
