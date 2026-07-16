@@ -137,6 +137,9 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://v2.tustreaming.cl/atacamatv/index.fmp4.m3u8
 https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/330px-COSMOS_logo2K24-100.jpg" group-title="Entretenimiento+",TV Cosmos
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Channel_4_logo_1982.svg/500px-Channel_4_logo_1982.svg.png" group-title="Basico",TV Cuatro 4
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 
@@ -1636,6 +1639,9 @@ https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
 https://5cf4a2c2512a2.streamlock.net/8164/8164/chunklist_w820124783.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="null" group-title="Entretenimiento+",TV COTUI
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/500px-TVS_Logo.svg.png" group-title="Entretenimiento+",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
