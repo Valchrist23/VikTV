@@ -1589,7 +1589,7 @@ https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://m.media-amazon.com/images/I/71GS6z8zwrL.png" group-title="Movies",TV Direct 13
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://en.wikipedia.org/wiki/File:Popcornflixlogo21.png" group-title="Movies",Popflix
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Popcornflixlogo21.png" group-title="Movies",Popflix
 https://signatureentertainment-popflix-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle
