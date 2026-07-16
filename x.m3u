@@ -1607,6 +1607,9 @@ https://host.streamingnation.live:3940/live/caobatvlive.m3u8
 https://5cf4a2c2512a2.streamlock.net/8164/8164/chunklist_w820124783.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg" group-title="Entretenimiento+",Gi TV
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/GAM%20TV%20CR-Costa%20Rica_0.png.webp?itok=ExXxZFSr" group-title="Movies+",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 
