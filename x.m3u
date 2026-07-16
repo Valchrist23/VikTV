@@ -917,6 +917,9 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento+",Lifetime
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento+",Lifetime
+http://rezofoot.tv/LIFETIME/index.m3u8
+
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-name="MyTime Movie Network" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png" group-title="Entretenimiento+",MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8 
 
@@ -1449,7 +1452,8 @@ https://jmp2.uk/plu-64ff1d92d545e9000877fba4.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM AR" tvg-name="ADULT SWIM AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="24/7",ADULT SWIM AR
 https://clips-media-fly.warnermediacdn.com/adultswim/clips/2023-10/1353278-93fa18c88c544f63b674b95dc873447d/cmaf/h264_416x234_500k/h264_416x234_500k.m3u8
 
-#EXTINF:0 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Robot Chicken
+#EXTINF:-1 tvg-id="66bb3212fe11e5000883ea6b" tvg-name="Married With Children" tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Married With Children
+https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 
 #EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chapelle´s Show" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="24/7",Chapelle´s Show
 https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
@@ -1613,6 +1617,9 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg" group-title="Entretenimiento+",Gi TV
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://lunatvdigital.com/wp-content/uploads/2026/03/544X180.png" group-title="Entretenimiento+",Luna TV
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://radiocostarica.net/sites/default/files/styles/player_image/public/2024-06/GAM%20TV%20CR-Costa%20Rica_0.png.webp?itok=ExXxZFSr" group-title="Movies+",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
