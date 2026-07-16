@@ -194,7 +194,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://demo.tvpacifico.mx/images/_tvp/logo-tvpi.png" group-title="Entretenimiento+",TVP Pacifico Obregon 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8 
-
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png?_=20190120112320" group-title="Entretenimiento+",Mega
@@ -1581,6 +1581,12 @@ https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://m.media-amazon.com/images/I/71GS6z8zwrL.png" group-title="Movies",TV Direct 13
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://en.wikipedia.org/wiki/File:Popcornflixlogo21.png" group-title="Movies",Popflix
+https://signatureentertainment-popflix-1-gb.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle
 https://circle-roku.amagi.tv/playlist.m3u8
 
@@ -1621,10 +1627,18 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="Movies",Caoba TV Radio
 https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+visionplus tv
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://tvo.com.do/imgs/logo.png" group-title="Entretenimiento+",TVO
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://limontvcr.com/images/0/20296579/limon-tv-WM2mRRwGRYvlrzlkdKkAhw.png" group-title="Entretenimiento+",Limon TV
 https://5cf4a2c2512a2.streamlock.net/8164/8164/chunklist_w820124783.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/500px-TVS_Logo.svg.png" group-title="Entretenimiento+",TVS
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento+",Megacine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
