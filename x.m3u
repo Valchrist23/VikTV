@@ -1240,7 +1240,7 @@ https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://live-manifest.product
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 
-#EXTINF:-1 tvg-logo="https://theproadmin.online/radio5/world/images/costarica/70597_radio.png" group-title="Movies",IQ Channel
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://theproadmin.online/radio5/world/images/costarica/70597_radio.png" group-title="Movies",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Entretenimiento+",V Classic TV
