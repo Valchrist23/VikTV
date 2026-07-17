@@ -1788,9 +1788,6 @@ https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/maste
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Entretenimiento+" ,Investiga
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Vip.png" group-title="Entretenimiento+",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-
 #EXTINF:-1 tvg-id="6722d2bffb35df319d71a40e" tvg-name="Las Vegas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951238/168x168.png?type=color_onBlack" group-title="Action & Drama",Las Vegas
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_channelId=99951238&ads.asnw=169843&ads.afid=380736666&ads.sfid=19116544&ads.csid=xumo_web_NBCUTopChefVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_vcid2=512116:18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3932&ads.xumo_contentName=NBCUTopChefVault&ads.xumo_providerId=3932&ads.xumo_providerName=NBCUTopChefVault&ads.channelId=99951238&ads._fw_ifa_type=
 
@@ -1798,6 +1795,9 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Vip.png" group-title="Entretenimiento+",VIP TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
 #EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Entretenimiento+",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
