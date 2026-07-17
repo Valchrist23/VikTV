@@ -607,11 +607,8 @@ https://dai.google.com/linear/hls/event/IhMDzQa-SGCpF12Em4b3jg/master.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entretenimiento+",TLC 
 
 #EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/800px-Bravo_TV.svg.png" group-title="Entretenimiento+",Bravo
-http://40.160.24.52/BRAVO/index.m3u8
-http://40.160.24.52/BRAVO_WEST/index.m3u8
-https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Bravo_LOGO_%2B1_2017_Black.png" group-title="Entretenimiento+",Bravo Plus1
 
+#EXTINF:-1 tvg-id="Bravo" tvg-name="Bravo" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Bravo_LOGO_%2B1_2017_Black.png" group-title="Entretenimiento+",Bravo Plus1
 
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-name="Bravo Vault" tvg-country="US" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="Entretenimiento+",Bravo Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?ads.xumo_channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=95b3de6b-ff21-4910-a3ab-beceb467c75b&ads._fw_vcid2=512116:95b3de6b-ff21-4910-a3ab-beceb467c75b&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.channelId=99951242&ads._fw_ifa_type=
@@ -1659,9 +1656,6 @@ https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 https://5cf4a2c2512a2.streamlock.net/8164/8164/chunklist_w820124783.m3u8
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="null" group-title="Entretenimiento+",TV COTUI
-https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/500px-TVS_Logo.svg.png" group-title="Entretenimiento+",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
@@ -1710,9 +1704,9 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 https://s5.mexside.net:1936/telemax/telemax/chunklist_w1180237135.m3u8
 no
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento+",Telenord 8 
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Teleoperadora_del_Nordeste_%28Telenord%29.jpg" group-title="Entretenimiento+",Telenord 8 
+
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg" group-title="Movies",FMTV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
