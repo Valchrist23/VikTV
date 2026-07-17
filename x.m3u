@@ -1589,7 +1589,7 @@ https://apollo.production-public.tubi.io/live/tubi-originals-0uuavF.m3u8?
 https://lnc-tubi-originals.tubi.video/index.m3u8
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
-#EXTINF:-1 tvg-id="Circle Country" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle Country
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle Country
 https://circle-roku.amagi.tv/playlist.m3u8
 
 https://cloudflare.tv/hls/live.m3u8
