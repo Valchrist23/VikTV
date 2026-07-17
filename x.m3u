@@ -1589,6 +1589,11 @@ https://apollo.production-public.tubi.io/live/tubi-originals-0uuavF.m3u8?
 https://lnc-tubi-originals.tubi.video/index.m3u8
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
 
+#EXTINF:-1 tvg-id="Circle Country" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle Country
+https://circle-roku.amagi.tv/playlist.m3u8
+
+https://cloudflare.tv/hls/live.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://pbs.twimg.com/profile_images/3663601877/9f46b5977e2c9d2e370e46d686a95ef7_400x400.jpeg" group-title="Movies", BH tv PERU 
@@ -1605,11 +1610,6 @@ https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Popcornflixlogo21.png" group-title="Movies",Popflix
 https://signatureentertainment-popflix-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle
-https://circle-roku.amagi.tv/playlist.m3u8
-
-https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TeleUno_1997.png" group-title="Entretenimiento+",TeleUno TV 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
