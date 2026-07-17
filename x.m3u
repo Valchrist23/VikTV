@@ -1662,7 +1662,7 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento+",Megacine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png/960px-Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="Entretenimiento+",
+#EXTINF:-1 tvg-id="21 de El Salvador Megavisión" tvg-name="21 de El Salvador Megavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png/960px-Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="Entretenimiento+",21 de El Salvador Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg" group-title="Entretenimiento+",Gi TV
