@@ -687,6 +687,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="7 Catamarca" tvg-name="7 Catamarca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="Entretenimiento+",7 Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
+#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi YV
+https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="680ba8c3a48b3ead0db701cc" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG.png" group-title="Anime",Los Caballeros del Zodiaco
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 
