@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011"
+     type="static"
+     mediaPresentationDuration="PT25M07.631S"
+     minBufferTime="PT1.5S"
+     profiles="urn:mpeg:dash:profile:isoff-on-demand:2011">
+
+  <Period duration="PT25M07.631S">
+
+    <AdaptationSet mimeType="video/mp4"
+                   codecs="avc1.640028"
+                   contentType="video">
+
+      <Representation id="1"
+                      bandwidth="670026"
+                      width="1280"
+                      height="722"
+                      frameRate="24000/1001">
+
+        <BaseURL>https://nc-cf.tubi.video/5e1bdc9e-873c-42cc-883b-ae1df53d8385/0hwtdsrj.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uYy1jZi50dWJpLnZpZGVvLzVlMWJkYzllLTg3M2MtNDJjYy04ODNiLWFlMWRmNTNkODM4NS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1MDkxNjI2fX19XX0=&Signature=maeXFZEpWk479USPluiABN851fnXUi61ojzBW9opnuAqzJrHcZw0F2WdA0e3n1KqoZT0pDAsq5L6Rh0UrN-Os~ZxEFwjVX~Ltb5VWoHvuL6C57a4LVAdSh4e70xlcBeh31P96VS89OZJcRinD3N9YK-OHMDtbrloqNDaquWm2uVSV7V5enbBbVNFms3eWQXoa5nPzii2cshRUQGbpIFKpbwjztmucrw3P2~W0LHgaH0Wu82u~U2GHj79Z1sbgABSqygm5hu-W~eUEH-yN8ozg3ca09sUzpAYUvKUm1CxcYDhP9c0b9kRePc9DXEmxAwR8CbAYiVogguGE~rVjPq~qA__&Key-Pair-Id=K15HB9CCHX44RJ</BaseURL>
+        
+        <SegmentBase indexRange="907-5678">
+          
+        <Initialization range="48-906"/>
+          
+        </SegmentBase>
+
+      </Representation>
+
+    </AdaptationSet>
+
+    <AdaptationSet mimeType="audio/mp4"
+                   codecs="mp4a.40.2"
+                   contentType="audio">
+
+      <Representation id="2"
+                      bandwidth="128000"
+                      audioSamplingRate="44100">
+
+        <BaseURL>https://nc-cf.tubi.video/5e1bdc9e-873c-42cc-883b-ae1df53d8385/b4s5ki91.mp4?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uYy1jZi50dWJpLnZpZGVvLzVlMWJkYzllLTg3M2MtNDJjYy04ODNiLWFlMWRmNTNkODM4NS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg1MDkxNjI2fX19XX0=&Signature=maeXFZEpWk479USPluiABN851fnXUi61ojzBW9opnuAqzJrHcZw0F2WdA0e3n1KqoZT0pDAsq5L6Rh0UrN-Os~ZxEFwjVX~Ltb5VWoHvuL6C57a4LVAdSh4e70xlcBeh31P96VS89OZJcRinD3N9YK-OHMDtbrloqNDaquWm2uVSV7V5enbBbVNFms3eWQXoa5nPzii2cshRUQGbpIFKpbwjztmucrw3P2~W0LHgaH0Wu82u~U2GHj79Z1sbgABSqygm5hu-W~eUEH-yN8ozg3ca09sUzpAYUvKUm1CxcYDhP9c0b9kRePc9DXEmxAwR8CbAYiVogguGE~rVjPq~qA__&Key-Pair-Id=K15HB9CCHX44RJ</BaseURL>
+        
+        <SegmentBase indexRange="802-9881">
+          
+        <Initialization range="44-801"/>
+          
+        </SegmentBase>
+
+      </Representation>
+
+    </AdaptationSet>
+
+  </Period>
+
+</MPD>
