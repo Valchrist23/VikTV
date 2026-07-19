@@ -479,7 +479,7 @@ https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 #EXTVLCOPT:sub-file=https://archive.org/download/movies_202211/Back%20to%20the%20Future.srt
 https://archive.org/download/movies_202211/Back%20to%20the%20Future.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="movies" type="vod",Back to the Future II (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg" group-title="movies" type="vod",Back to the Future 2 (1987)
 https://archive.org/download/2hRDJPQEIfVa0AzuaK0dg9mmNGnLQTqz/output.mkv
 
 https://archive.org/download/blextv2/Back.to.the.future.2.1989.1080p-dual-lat.mp4
