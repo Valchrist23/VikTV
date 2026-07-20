@@ -759,6 +759,11 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
 
+#EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Retro_TV_logo.svg/960px-Retro_TV_logo.svg.png?_=20250622223905" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Retro TV
+https://stream.enlineatv.net/hls/retrotv/index.m3u8
+https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8?tkn=3487850315
+
+
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-language="es" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/2774379_ico.png?v=7" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8
 
