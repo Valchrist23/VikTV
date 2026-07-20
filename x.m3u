@@ -790,6 +790,9 @@ https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-name="Dragon Ball Z" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/250px-Dragon_Ball_Z_logo.svg.png" group-title="Anime",Dragonball 
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/960px-Dragon_Ball_Super.png" group-title="Anime",Dragon Ball Super 
+https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
