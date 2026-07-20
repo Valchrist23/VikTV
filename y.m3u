@@ -3799,7 +3799,7 @@ http://bit.ly/LABELLAMOVIE
 
 https://archive.org/download/o2RY15o6GDEsG6NUsufBvECnnUOo7XBm/output.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg3NGNlNmMtMzhmNS00YmI4LWI3NzItM2ZkOGFiYzljMmEzXkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Peter Pan (1953)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fJJOs1iyrhKfZceANxoPxPwNGF1.jpg" group-title="movies" type="vod",Peter Pan (1953)
 https://archive.org/download/fun-and-fancy-free-1997-vhs/Peter%20Pan%20%282007%20DVD%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w8i0mZR7MEL7c3bXSsuYg7VJsew.jpg" group-title="movies" type="vod",Pan (2015)
@@ -5289,11 +5289,6 @@ https://archive.org/download/la-dama-y-el-vagabundo-1955_202409/La%20Dama%20y%20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg" group-title="movies" type="vod",Lady And The Tramp (2019)
 
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/peter-pan-1953.30934.jpg" group-title="movies" type="vod",Peter Pan (1953)
-https://archive.org/download/peter-pan-1953_202504/Peter%20Pan%20%281953%29.mp4
-
-https://archive.org/download/petepa/petepa.mkv
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/131570/posters/62045583.jpg" group-title="movies" type="vod",Pinocchio (2019)
 https://archive.org/download/north-hollywood-2021/Pinocchio%202019.mkv
