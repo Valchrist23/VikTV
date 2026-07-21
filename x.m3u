@@ -185,10 +185,20 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias MVS" tvg-name="Noticias MVS" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" tvg-country="MX" group-title="News",Noticias MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png?_=20190120112320" group-title="Entretenimiento+",Mega
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png?_=20190120112320" group-title="News",Mega
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
+
+#EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
+http://138.121.15.230:9002/UNIVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entretenimiento+",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -201,14 +211,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 14" tvg-name="Canal 14" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_Canal_14_M%C3%A9xico.svg/960px-Logo_Canal_14_M%C3%A9xico.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",Canal 14
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
-https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
-http://138.121.15.230:9002/UNIVISION/index.m3u8
-
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -258,7 +260,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-name="Azteca Deportes Premium" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Sport",Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
                    
-#EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Deportes
+#EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Sports",Azteca Deportes
 https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8?
 
 #EXTINF:-1 tvg-id="646ccdd0939a5900088a1980" tvg-name="Corazón" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="Basico",Corazón
