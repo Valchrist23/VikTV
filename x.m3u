@@ -687,6 +687,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi YV
+https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="680ba8c3a48b3ead0db701cc" tvg-name="Saint Seiya" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG.png" group-title="Anime",Los Caballeros del Zodiaco
