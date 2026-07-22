@@ -1664,9 +1664,6 @@ https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.nexotv.com.co/logo-blanco.png" group-title="Movies",Nexo TV
-https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Movies",Nexxo TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
