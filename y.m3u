@@ -1,5 +1,42 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="movies" type="vod",Masters Of The Universe (2026)
+https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57tif4rq5xvhf63pu12kkzx&st=ideeer6e&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="movies" type="vod",The Super Mario Bros. Movie (2023)
+https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.cinecalidad.com.mx_20230715/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.ia.mp4
+si
+https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.cinecalidad.com.mx_20230715/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="movies" type="vod",The Super Mario Galaxy Movie (2026)
+https://dl.dropbox.com/scl/fi/csy8znqkszrkgvrwao24v/TSupMarG4lMov.226.-DL.mkv?rlkey=2pne2p4rishjfkavjv3ump3xg&st=rmtwq1tg&dl=0
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/158132/posters/66a34e0aa5e3a.jpg" group-title="movies" type="vod",Transformers One (2024)
+https://archive.org/download/transformers-one-sin-startalents-audio-limpio/Transformers%20One%20SIN%20STARTALENTS%20AUDIO%20LIMPIO.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg" group-title="movies" type="vod",The Conjuring 4 (2025)
+https://archive.org/download/c-0nj.-225/C0nj.225.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg" group-title="movies" type="vod",Beetlejuice 2 (2024)
+https://archive.org/download/3Wv4g4skIo9jOhYrso4rbFAvrnx4QY0b/output.mp4
+
+https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B3t.B3tj224-DL-.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg" group-title="movies" type="vod",The Platform 2 (2024)
+https://dl.dropboxusercontent.com/scl/fi/59llxsph4xup0ltv2cy7u/Ver-El-hoyo-2-2024-Online-Gratis-Cuevana-3.mp4?rlkey=q41tdtfh138vhshi1o1upxw6u&st=mkd3plhg&dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ronHqkmrrNEfcEOirBC5QmUEUSZ.jpg" group-title="movies" type="vod",The Bouncer (2024)
+https://archive.org/download/lukas_202404/Lukas.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg" group-title="movies" type="vod",Garfield: The Movie (2024)
+https://archive.org/download/garfield-fuera-de-casa-2024-sd/Garfield%20fuera%20de%20casa%20%20%282024%29%20%28SD%29.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wKCKKur7LyGFaUHmNhvy7FhIjmC.jpg" group-title="movies" type="vod",Millers Girl (2024)
+https://archive.org/download/jurassic-world-dominion_202207/Millers%20Girl.mkv
+
+https://archive.org/download/m-4rr-0b-0n.-217-dl/M1l5.G1l.224-SL-.mkv
+
+
 #EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="movies" type="vod" ,E.T. the Extra-Terrestrial (1982)
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
@@ -1996,8 +2033,6 @@ https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20str
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzllNmRjYWItNjlhNS00MjcyLWIyODEtMTg0ZjBiNTNhNzQwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Platform (2019) 
 https://archive.org/download/spider-man-sin-camino-a-casa_202201/El%20hoyo.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg" group-title="movies" type="vod",The Platform 2 (2024)
-https://dl.dropboxusercontent.com/scl/fi/59llxsph4xup0ltv2cy7u/Ver-El-hoyo-2-2024-Online-Gratis-Cuevana-3.mp4?rlkey=q41tdtfh138vhshi1o1upxw6u&st=mkd3plhg&dl=0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fwSonK8WrAEqWY7sqjvGRCgzIij.jpg" group-title="movies" type="vod",Violet Evergarden (2018) 
 https://archive.org/download/violet.-evergarden.-gaiden.la.eternidad.y.la.muneca.de.recuerdos.automaticos.-2019.1080p-dual-lat/Violet.Evergarden.Gaiden.la.eternidad.y.la.mu%C3%B1eca.de.recuerdos.autom%C3%A1ticos.2019.1080p-Dual-Lat.mp4
@@ -4156,9 +4191,6 @@ https://archive.org/download/kickboxer-retaliation-2017/Kickboxer%20Retaliation%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vE2fYcP07fbIHoouATNErRQuNrw.jpg" group-title="movies" type="vod",In Hell (2003)
 https://archive.org/download/in.-hell.-2003.1080p.-blu-ray.x-264-yts.-am_202405/In.Hell.2003.1080p.BluRay.x264-%5BYTS.AM%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ronHqkmrrNEfcEOirBC5QmUEUSZ.jpg" group-title="movies" type="vod",The Bouncer (2024)
-https://archive.org/download/lukas_202404/Lukas.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dTV6LVgZgwNOkoAX6RHvFDcjav2.jpg" group-title="movies" type="vod",The Perfect Weapon (1991)
 https://archive.org/download/ver-backdraft-1991/Ver%20El%20Arma%20Perfecta.mp4
 
@@ -6191,9 +6223,6 @@ https://ia904700.us.archive.org/10/items/gar-l-4-pel-hd-720p-1088022/GarL4Pel_HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJP53Zm/garfiel2.jpg" group-title="movies" type="vod",Garfield 2 (2006)
 https://ia601604.us.archive.org/8/items/gar-3d-2-dvdrip-1204275/Gar3d_2_DVDRip__1204275.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vqwTSWNLyH55g8kBT61s2DgNYEp.jpg" group-title="movies" type="vod",Garfield: The Movie (2024)
-https://archive.org/download/garfield-fuera-de-casa-2024-sd/Garfield%20fuera%20de%20casa%20%20%282024%29%20%28SD%29.mp4
 
 #EXTINF:0 tvg-id="lcat2003" tvg-name="The Cat" tvg-logo="https://image.tmdb.org/t/p/w500/uYYLz67e5xEQMsY858VSSCDsLU6.jpg" group-title="movies" type="vod",The Cat In The Hat (2003)
 https://ia601602.us.archive.org/16/items/3l-g-4t-0o-hd-720p-1103201/3l_g4t0o_HD__720p___1103201.mp4
@@ -8361,11 +8390,6 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/D1p.W4t.222-DL-l.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1uNMAlNanIQohAofjyyad2WVCdk.jpg" group-title="movies" type="vod",Haunting Of The Queen Mary (2023)
 https://archive.org/download/m-4rr-0b-0n.-217-dl/H4un0TQ33n%20M4r.223-DL-.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wKCKKur7LyGFaUHmNhvy7FhIjmC.jpg" group-title="movies" type="vod",Millers Girl (2024)
-https://archive.org/download/jurassic-world-dominion_202207/Millers%20Girl.mkv
-
-https://archive.org/download/m-4rr-0b-0n.-217-dl/M1l5.G1l.224-SL-.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pUul9pGWOKT7X0smkTvsIEIQxcP.jpg" group-title="movies" type="vod",Riddick (2013)
 https://archive.org/download/peli8_202402/Riddick%202013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg" group-title="movies" type="vod",Riddick Pitch Black (2000)
@@ -8483,25 +8507,19 @@ https://archive.org/download/jurassic-world-dominion_202207/Radical.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg" group-title="movies" type="vod",Big Fish (2003)
-http://127.0.0.1:11470/6d9b54f3edcf100e4e609f44053d82c046b7121a/0
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2U0NWE2ZDMtOGMzZS00MjRlLTgyNTItMTgwNTFjNjcyNDk2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Gladiator (1992)
-https://archive.org/download/glt-0r.-992-dl/Glt0r.992-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg" group-title="movies" type="vod",Snack Shack (2024)
-https://tvnettv.space/contenido/peliculas/Snack%20Shack/14664.Snack.Shack.2024.1080p.WEBRip.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8KWiZKDYpAgh8n27lanvTuDquyX.jpg" group-title="movies" type="vod",Jade (2024)
-https://tvnettv.space/contenido/peliculas/Jade/Jade%20(2024)%20WEB-DL%20LIGERO%201080p%20Latino.mp4
 
-
-https://archive.org/download/glt-0r.-992-dl/J4d.224-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg" group-title="movies" type="vod",Let Him Go (2020)
 https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kqYDoEb9PxLXM2ccoHInMMJalti.jpg" group-title="movies" type="vod",Constantine The House Of Mysteries (2022)
-https://archive.org/download/glt-0r.-992-dl/C0n5t.4.H050My5t.222-DL-.mkv
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pvlOhgEJFrRB1QWgVxLsj0eMdbW.jpg" group-title="movies" type="vod",I Used To Go Here (2020)
 https://archive.org/download/i-hate-summer-2020/Soli%CC%81a%20ir%20alli%CC%81%20%282020%29.mp4
@@ -9080,7 +9098,7 @@ https://tvnettv.space/contenido/peliculas/Black%20Lotus/Rescate%20en%20%c3%81mst
 https://tvnettv.space/contenido/peliculas/Baghead/Baghead.2023.1080p.WEBRip.lat.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg" group-title="movies" type="vod",Baghead (2024)
-http://127.0.0.1:11470/3772e8f3bc00004c4cbb1cc1b3c2d2ff3d85eacb/0
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg" group-title="movies" type="vod",City Hunter (2023)
 https://tvnettv.space/contenido/peliculas/City%20Hunter/City.Hunter.2024.1080p.WEBRip.lat.mp4
@@ -9441,7 +9459,6 @@ https://archive.org/download/north-hollywood-2021/Patriots%20day%202016.mkv
 https://archive.org/download/north-hollywood-2021/Patriot%20Games%201992.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wn6LkWQst96dPGEkn8Cl2TnNnLp.jpg" group-title="movies" type="vod",Obi-Wan Kenobi A Jedis Return (2023)
-http://127.0.0.1:11470/0e7a04f1e9acaa172e872cce6fe4c3292169a59a/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg" group-title="movies" type="vod",Lisa Frankenstein (2024)
 https://archive.org/download/l-1s.-fr-4nkn.-224-dl/L1s.Fr4nkn.224-DL-.mp4
@@ -10048,8 +10065,7 @@ https://archive.org/download/el-ano-de-mi-graduacion-2022.mkv/El%20A%C3%B1o%20de
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a3q8NkM8uTh9E23VsbUOdDSbBeN.jpg" group-title="movies" type="vod",Justice League Crisis On Infinite Earth Part 3 (2024)
 https://archive.org/download/d-3-yw-0224-dl/JL34guCr1nf34r.P3.224-DL-.mkv
-si
-http://127.0.0.1:11470/25fbfb3dca5216964520a5d69a03bb98eef21efb/0
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5X03SA51Ezd02iF9BCjWXC9X9F.jpg" group-title="movies" type="vod",Tyler Perry's Divorce In The Black (2024)
 https://archive.org/download/d-3-yw-0224-dl/D1nTBlak.Tyr.Prr.224-DL-.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nu2F22TEzk3eK0rsjFDoARyFmCw.jpg" group-title="movies" type="vod",Empire State (2024)
@@ -10233,7 +10249,6 @@ https://archive.org/download/peli9/Southpaw%202015.mp4
 https://archive.org/download/watchmen-chapter-1-2024/WATCHMEN%20CHAPTER%201%20%20%282024%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/357486/posters/673b2eb005aa7.jpg" group-title="movies" type="vod",Watchmen: Chapter II (2024)
-http://127.0.0.1:11470/440b54734fdaf3bd8fdb90d6c8ed5f03c34b2b61/0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1l6eDcH11b9aRmmd4a9WWwhVJ5T.jpg" group-title="movies" type="vod",Do Not Enter (2024)
 https://archive.org/download/do-not-enter-2024/DO%20NOT%20ENTER%20%282024%29.ia.mp4
@@ -10329,17 +10344,13 @@ https://archive.org/download/in-shot-20240810-211744228/InShot_20240810_21174422
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg" group-title="movies" type="vod",Nosferatu (2024)
 https://archive.org/download/n-05f-3r.-224-dl/N05f3r.224-DL.mp4
 
-si
-http://127.0.0.1:11470/96daf840c8281e5cb15d6c55eefee12a3f3b1a96/0
-http://127.0.0.1:11470/5fcc91100ea5399c1a307e45f76551d98390ec4e/0
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg" group-title="movies" type="vod",Moira (2015)
 https://archive.org/download/pel149b83b3a93u/Moira.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/egTUn0oodsHa6gC9XXux40eSAhQ.jpg" group-title="movies" type="vod",A Second Chance Rivals! (2019)
 https://archive.org/download/pel149b83b3a93u/A%20Second%20Chance%20Rivals%21.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg" group-title="movies" type="vod",Salems Lot (2024)
-http://127.0.0.1:11470/6c571c041f692d9abcd2018b042fdcad6d52b60c/0
+
 magnet:?xt=urn:btih:6c571c041f692d9abcd2018b042fdcad6d52b60c&dn=El.Misterio.De.Salems.Lot.2024.1080P-Dual-Lat&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg" group-title="movies" type="vod",Monsters Dragon Damnation (2024)
@@ -10351,7 +10362,7 @@ http://127.0.0.1:11470/ac81bbd8f479588b417aeb081fb11cccf043013f/0
 magnet:?xt=urn:btih:ac81bbd8f479588b417aeb081fb11cccf043013f&dn=El.Conde.De.Montecristo.2024.1080P-Dual-Lat&tr=http%3A%2F%2Ft1.pow7.com%2Fannounce&tr=http%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=http%3A%2F%2Fsecure.pow7.com%2Fannounce&tr=http%3A%2F%2Ft2.pow7.com%2Fannounce
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9w2Gl8zRfCdlFd9O3UWdb8caNke.jpg" group-title="movies" type="vod",Disappear Completely (2024)
-http://127.0.0.1:11470/f4b084a09375e374bd418d74347006a522071c30/0
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg" group-title="movies" type="vod",Back In Action (2025)
 http://127.0.0.1:11470/971f4bff573a7b288c18825f7368aa005f2ccdda/0
@@ -10609,28 +10620,15 @@ https://archive.org/download/2596-machete-2010-720p-d-s-spa-eng-tc-v/2596-Machet
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg" group-title="movies" type="vod",The Greatest Showman (2019)
 
-
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/158132/posters/66a34e0aa5e3a.jpg" group-title="movies" type="vod",Transformers One (2024)
-https://archive.org/download/transformers-one-sin-startalents-audio-limpio/Transformers%20One%20SIN%20STARTALENTS%20AUDIO%20LIMPIO.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tPExtAM958Gx07itJ7nWqSddBQ9.jpg" group-title="movies" type="vod",Mononoke And The Ashes Of Rage (2025)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg" group-title="movies" type="vod",The Conjuring 4 (2025)
-https://archive.org/download/c-0nj.-225/C0nj.225.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg" group-title="movies" type="vod",Beetlejuice 2 (2024)
-https://archive.org/download/3Wv4g4skIo9jOhYrso4rbFAvrnx4QY0b/output.mp4
-
-https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B3t.B3tj224-DL-.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zEODKtBm9JUuylFLpsrA93Juozv.jpg" group-title="movies" type="vod",The Invasion (2007)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="movies" type="vod",Nobody (2021)
 https://archive.org/download/1-l-0-tr-L0R14N/N0b0dy.2021%20-DuaLat-.mp4
 https://archive.org/download/north-hollywood-2021/Nobody%202021.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg" group-title="movies" type="vod",Nobody 2 (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zEODKtBm9JUuylFLpsrA93Juozv.jpg" group-title="movies" type="vod",The Invasion (2007)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg" group-title="movies" type="vod",Nobody 2 (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="movies" type="vod",Lilo & Stich (2025)
 https://archive.org/download/VQnB1CqSBeBO59JiuWHvCSkjOfKpHrd3/output.mp4
@@ -10736,7 +10734,7 @@ https://archive.org/download/2o3HvkgLBF2VzdzPvhi4Jma1l6vMdyJB/output.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/supoIHkh3dzDi1XmvK8tgGlkGNS.jpg" group-title="movies" type="vod",Mojin The Lost Legend (2015)
 https://archive.org/download/QYB5DvYFWAJ1H7SF6MmdL2aldLGZ1x8Q/output.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWMzZDQxNGEtMWE2NC00ZDFkLThkZjctY2JiNzYyZWE3ZjVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Nocturne (2020)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zJNFiWBGYSMbfTAk6Ygqdj6Rahq.jpg" group-title="movies" type="vod",Nocturne (2020)
 https://archive.org/download/NJgVZ5IZPH9chDSUaEqAFUxSNUEAPEkj/output.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg" group-title="movies" type="vod",The Naked Gun (2025)
@@ -10772,7 +10770,7 @@ https://archive.org/download/y162ifmy1WdiuPIIGVF7cGt3w6L5212L/output.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="movies" type="vod",Fast X (2023)
 https://archive.org/download/sEkVb9e4A7OoZZxHpbxJXJMFJRHzvNMI/output.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I2YTNmYzctMGMzYi00N2UwLThiNTItMGZmNmQ3NWFmY2Y4XkEyXkFqcGdeQXVyNjA4NDA4MjQ@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Fallen Angels Murder Club Friends To Die (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3v8qDxeka5cofkRW0KBzsAV3DDm.jpg" group-title="movies" type="vod",Fallen Angels Murder Club Friends To Die (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5vFCHFVLPcU4M8uNXM1ba9y83Iu.jpg" group-title="movies" type="vod",Nobody Sleeps in the Woods Tonight (2020)
 https://archive.org/download/north-hollywood-2021/Nobody%20Sleeps%20in%20the%20Woods%20Tonight%202020.mkv
@@ -10905,7 +10903,6 @@ https://archive.org/download/9ypHJJPt0WgnCsTWJMVGBY3cAnN63eUy/output.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg" group-title="movies" type="vod",Godzilla X Kong The New Empire (2025)
 https://archive.org/download/lAwcus1dmZopzW2b0LLqiI9MaXuA8uO7/output.mp4
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t7PWQHpJHb2ozALCfaPaC5aHxBs.jpg" group-title="movies" type="vod",Beautiful Creatures (2013)
 https://archive.org/download/Tj20uZfsI1DCjnoA5DWkCER6CnGjjrqX/output.mkv
 
@@ -10940,7 +10937,7 @@ https://archive.org/download/m-14-culp-224/m14%20culp224.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg" group-title="movies" type="vod",Our Fault (2025)
 https://archive.org/download/0ur.folt.-225.-dl/0ur.folt.225.-dl-.mkv
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmY2OGU4MmItOTg0Zi00NWUyLWI3YjgtOGJlMzFiNWQ5Mjg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Mea Culpa (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" group-title="movies" type="vod",Mea Culpa (2024)
 https://archive.org/download/0ur.folt.-225.-dl/M34%20Clp4.224-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rqh9TVQgECI3meOfPNrqp7TVOqk.jpg" group-title="movies" type="vod",Jungle Beat (2020)
@@ -10982,18 +10979,6 @@ https://archive.org/download/a-dos-metros-de-ti-espanol-latino-1080p-hd/A%20Dos%
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/og1FteMFRInoQnlZeWqEn8XpXHh.jpg" group-title="movies" type="vod",The Deliverance (2024)
 https://archive.org/download/la-liberacion-2024/la%20liberacion%20%282024%29.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="movies" type="vod",Someone Great (2019)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iKMeE6oYzBVzhA6xLGb8PPWEruF.jpg" group-title="movies" type="vod",Secret Obsession (2019)
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjZhY2UwZWUtYjhiNS00YzhmLWFjMmUtODlmMzU0MDc1OGZmXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The App (2019)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6kmxXfg3aSWrzUlEPt2L0YD4jz9.jpg" group-title="movies" type="vod",The Good Liar (2019)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x6S12SRLD9Lgpbc9wvf5Uv7GFx2.jpg" group-title="movies" type="vod",The Laundromat (2019)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="movies" type="vod",The Domestics (2018)
-
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/666/posters/666.jpg" group-title="movies" type="vod",Wrong Turn (2003)
 https://archive.org/download/camino-hacia-el-terror-2003_202409/Camino%20hacia%20el%20terror%202003.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/530/posters/530.jpg" group-title="movies" type="vod",Wrong Turn 2 (2007)
@@ -11026,19 +11011,9 @@ https://archive.org/download/YVqpWF6E7bTq9ireq5gkj86Qb2THVqzj/output.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg" group-title="movies" type="vod",The Grey (2011)
 https://archive.org/download/YVqpWF6E7bTq9ireq5gkj86Qb2THVqzj/output.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTMyNzQ4MmUtMmJiYy00YjlmLWJiMzktNjc1MGNlMzBjYjhiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Card Counter (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg" group-title="movies" type="vod",The Card Counter (2021)
 https://archive.org/download/WYoT6T3W8ee2SDfGUIk29flps1W4cSnh/output.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="movies" type="vod",The Super Mario Bros. Movie (2023)
-https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.cinecalidad.com.mx_20230715/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.ia.mp4
-si
-https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.cinecalidad.com.mx_20230715/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="movies" type="vod",The Super Mario Galaxy Movie (2026)
-https://dl.dropbox.com/scl/fi/csy8znqkszrkgvrwao24v/TSupMarG4lMov.226.-DL.mkv?rlkey=2pne2p4rishjfkavjv3ump3xg&st=rmtwq1tg&dl=0
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j1omoZD5ExFvjm1JM7n35UccXf9.jpg" group-title="movies" type="vod",Wounds (2019)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/biXzsw22U6vSd0XktmZwAOc4uik.jpg" group-title="movies" type="vod",The Banker (2020)
 https://archive.org/download/peli9/The%20Banker%202020.mkv
@@ -11049,9 +11024,22 @@ https://archive.org/download/peli9/The%20aftermath%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5vBixJD1coOvHvr8N2pbyffxFU.jpg" group-title="movies" type="vod",The Angel (2018)
 https://archive.org/download/peli9/The%20angel%202018.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="movies" type="vod",Masters Of The Universe (2026)
-https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57tif4rq5xvhf63pu12kkzx&st=ideeer6e&dl=0
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="movies" type="vod",Someone Great (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iKMeE6oYzBVzhA6xLGb8PPWEruF.jpg" group-title="movies" type="vod",Secret Obsession (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJcBQreAkGf6RYl91i8RO00c91Q.jpg" group-title="movies" type="vod",The App (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6kmxXfg3aSWrzUlEPt2L0YD4jz9.jpg" group-title="movies" type="vod",The Good Liar (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x6S12SRLD9Lgpbc9wvf5Uv7GFx2.jpg" group-title="movies" type="vod",The Laundromat (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j64I3u1wwgPct3stvvKU2ikl14w.jpg" group-title="movies" type="vod",The Domestics (2018)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j1omoZD5ExFvjm1JM7n35UccXf9.jpg" group-title="movies" type="vod",Wounds (2019)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="movies" type="vod",Knock At The Cabin (2023)
 
@@ -11081,7 +11069,6 @@ https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57t
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ng4lnPnTK43dOWT3dGvOuIiLJKT.jpg" group-title="movies" type="vod",Speak No Evil (2022)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1m0CTxlotr8H8GaoioL2IJHL1gW.jpg" group-title="movies" type="vod",All Fun And Games (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/op37q1x1nCQOpQZQyAvR8ZbWLhu.jpg" group-title="movies" type="vod",Unfollower (2021)
@@ -11109,7 +11096,6 @@ https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57t
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg" group-title="movies" type="vod",The Highwayman (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kzAKJAdknTtBfT0l60h9uBQaKRc.jpg" group-title="movies" type="vod",Shattered Earth Cloudy Mountain (2021)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg" group-title="movies" type="vod",Hannibal (2001)
 
@@ -11257,9 +11243,7 @@ https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57t
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg" group-title="movies" type="vod",Moderator (2022)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iCPm0mfcOdpLgtfFFkWoq62ko0i.jpg" group-title="movies" type="vod",Resurrected (2023)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4esN7mSfMoDUF9Y3fWP0TeUvZW4.jpg" group-title="movies" type="vod",My Teachers Wife (1999)
 
@@ -11295,13 +11279,11 @@ https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57t
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Booksmart (2019)
 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/koXGRfatN0tURFWMA0Keb0p0Gtg.jpg" group-title="movies" type="vod",American Hustle (2013)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uXq56XNfgRgBdCW65K6goiMUr3o.jpg" group-title="movies" type="vod",A Fairy Tale After All (2022)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg" group-title="movies" type="vod",The Tourist (2010)
-
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2EnHRyHdboUWz120LDiAk2M2Lgc.jpg" group-title="movies" type="vod",Under Wraps (2021)
 
