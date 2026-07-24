@@ -1459,9 +1459,12 @@ https://live-content.xumo.com/2073/content/XM0WM13AHU1VC4/24952703/master.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67a1a8ef2358ef4dd5c3018e" tvg-name="Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Sports",Lucha Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/99951449/hls/playlist.m3u8?ads.xumo_channelId=99951449&ads._fw_ifa_type=&ads._fw_did=ab794bbf-2e08-4d49-b17c-5ba34375f10e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LLWorldwideEntertainmentLuchaPlus&ads.csid=xumo_web_LLWorldwideEntertainmentLuchaPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=es&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4263&ads.xumo_contentName=LLWorldwideEntertainmentLuchaPlus&ads.xumo_providerId=4263&ads.xumo_providerName=LLWorldwideEntertainmentLuchaPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951449&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+no
+https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+
 
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-name="Lucha Libre AAA" tvg-logo="http://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Sports",Lucha Libre AAA
-https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+
 
 #EXTINF:-1 tvg-id="67813f893886aa863497733d" tvg-name="Red Bull TV " tvg-logo="https://tse4.mm.bing.net/th?id=OIP.wn0UfJh1LLQD41TUwPOaDQHaC9&pid=Api&P=0&w=432&h=173" group-title="Sports",Red Bull TV 
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
