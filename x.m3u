@@ -1339,7 +1339,7 @@ https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" tvg-country="KO" tvg-url="" group-title="Music",New KPop
+#EXTINF:-1 tvg-id="ES1700005ME" tvg-name="NEW KPOP" tvg-language="Korean" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" tvg-country="KO" tvg-url="" group-title="Music",NEW KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -1706,7 +1706,7 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2472-294x165-FFFFFF.jpg" group-title="Movies",Guaymate 
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Music",Aguacate TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Movies",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Cartoon",Plex TV
