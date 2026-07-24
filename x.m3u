@@ -1,6 +1,6 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="María Visión" tvg-name="María Visión" tvg-chno="1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0" group-title="Basico",María Visión
+#EXTINF:-1 tvg-id="Maria Vision" tvg-name="Maria Vision" tvg-chno="1" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Maria-vision.jpg" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" tvg-shift="0" group-title="Basico",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
@@ -97,7 +97,7 @@ https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 si
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-id="Imagen TV+" tvg-name="Imagen TV+" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Imagen TV
+#EXTINF:-1 tvg-id="IMAGEN TELEVISION.mx" tvg-name="Imagen TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Imagen TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -414,7 +414,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",Hola TV
 http://8.243.126.131:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-id="¡Hola! Play" tvg-name="¡Hola! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",¡Hola! Play
+#EXTINF:-1 tvg-id="ES26000025M" tvg-name="¡Hola! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",¡Hola! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entretenimiento+",A3Cine 
@@ -442,7 +442,7 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
-#EXTINF:-1 tvg-id="Clan" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Clan
+#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Clan
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Telemadrid
@@ -501,7 +501,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entretenimiento+",Globovision
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="Entretenimiento+",Tves
 
-#EXTINF:-1 tvg-id="Venevision Internacional" tvg-name="Venevision Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg/250px-Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg.png" group-title="Entretenimiento+",Venevision Internacional
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg/250px-Logotipo_de_Venevisi%C3%B3n_%28alternate_blue_version%29.svg.png" group-title="Entretenimiento+",Venevision Internacional
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 -----------------------------------------Kitchen--------------------------------------------- 
@@ -650,7 +650,7 @@ https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="News",El 6
 https://stream.elseis.do/canal6/live_1080.m3u8
 
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-language="en" tvg-country="US" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-group-title="Documentary" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",Discover Film
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="en" tvg-country="US" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-group-title="Documentary" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",Discover Film
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=DiscoverFilm&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
                                              
 https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -674,14 +674,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png" group-title="Entretenimiento+",13 de Chileno
 #EXTINF:-1 tvg-id="Nickelodeon Teen" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" group-title="Entretenimiento+",Nickelodeon Teen
 #EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/250px-Catamarca_Radio_y_Televisi%C3%B3n.png" group-title="Entretenimiento+",Magazine
-tvg-logo="https://i.imgur.com/m6y9AMe.png"
+
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="Movies",Imagen del Nordeste
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="7 Catamarca" tvg-name="7 Catamarca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="News",7 Catamarca
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="News",7 Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi YV
@@ -709,7 +707,7 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids",Disney
 
-#EXTINF:-1 tvg-id="Disney JR" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney JR
+#EXTINF:-1 tvg-id="DISNEY JR.mx" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="kids",Disney XD
@@ -1464,7 +1462,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951449/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-name="Lucha Libre AAA" tvg-logo="http://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="Sports",Lucha Libre AAA
 https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.wn0UfJh1LLQD41TUwPOaDQHaC9&pid=Api&P=0&w=432&h=173" group-title="Sports",Red Bull TV 
+#EXTINF:-1 tvg-id="67813f893886aa863497733d" tvg-name="Red Bull TV " tvg-logo="https://tse4.mm.bing.net/th?id=OIP.wn0UfJh1LLQD41TUwPOaDQHaC9&pid=Api&P=0&w=432&h=173" group-title="Sports",Red Bull TV 
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1682,7 +1680,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/500px-TVS_Logo.svg.png" group-title="Entretenimiento+",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Entretenimiento+",Megacine TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies",Megacine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="21 de El Salvador Megavisión" tvg-name="21 de El Salvador Megavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png/960px-Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="Entretenimiento+",21 de El Salvador Megavisión
@@ -1709,14 +1707,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/chunks.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://aguacatetv.com/wp-content/uploads/2025/03/LOGO-UNIFORME-DEFINITIVO-300x200-1.png" group-title="Movies",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Cartoon",Plex TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a73301cbe4a1474aca6429_Anime-logo-design-p-500.png" group-title="Movies",Plex TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 no
 https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8
 https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_122/HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0011/6192/brand.gif?itok=L4DEsj0u" group-title="Cartoon",Planeta TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0011/6192/brand.gif?itok=L4DEsj0u" group-title="Movies",Planeta TV
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w1372623251.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" group-title="Entretenimiento+",Click TV
@@ -1787,7 +1785,7 @@ https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPIX" tvg-name="EPIX" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/800px-Epix_Logo_2019.svg.png" tvg-country="" group-title="Entretenimiento+",EPIX
 
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/960px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="Movies",MiTV
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/960px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="Movies",Mi TV Television Clasica
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://image.roku.com/developer_channels/prod/083ee8a7ef1943f965f756c9ba5f5217fe59156f7f97b8c9e23ea326db71c74d.png" group-title="Entretenimiento+",IU Imagen Universal TV
