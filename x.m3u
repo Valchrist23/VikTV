@@ -1793,30 +1793,29 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://image.roku.com/developer_channels/prod/083ee8a7ef1943f965f756c9ba5f5217fe59156f7f97b8c9e23ea326db71c74d.png" group-title="Entretenimiento+",IU Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Juice_TV_Logo.png/250px-Juice_TV_Logo.png" group-title="Entretenimiento+",Juice tv
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Juice_TV_Logo.png/250px-Juice_TV_Logo.png" group-title="Music",Juice tv
 https://juicex.nz/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://www.megavisiontvrd.com/assets/images/logos/megavision-logo.png" tvg-country="" group-title="Entretenimiento+",2 Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df6011f2-06eb-40c0-a217-8bfd437b7f03/FilmRise_TrueCrime_1500x1000_Light_Logo.png" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Entretenimiento+",FilmRise True Crime
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df6011f2-06eb-40c0-a217-8bfd437b7f03/FilmRise_TrueCrime_1500x1000_Light_Logo.png" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Documentals",FilmRise True Crime
 
-
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-logo="https://canvas-lb.tubitv.com/opts/o-H1LgfSug5Osg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjlAAQ==" group-title="Entretenimiento+",True Crime
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-logo="https://canvas-lb.tubitv.com/opts/o-H1LgfSug5Osg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjlAAQ==" group-title="Documentals",True Crime
 https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8
 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=596321
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92" tvg-name="Untold Stories of the ER" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UyNGQ2NGYtMzEwNS00NzYyLWExNjgtODg4NDY4NzAxMTE2XkEyXkFqcGc@._V1_.jpg" group-title="Entretenimiento+",Untold Stories of the ER
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92" tvg-name="Untold Stories of the ER" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UyNGQ2NGYtMzEwNS00NzYyLWExNjgtODg4NDY4NzAxMTE2XkEyXkFqcGc@._V1_.jpg" group-title="Documentals",Untold Stories of the ER
 https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8
 
-#EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Entretenimiento+" ,Investiga
+#EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Documentals" ,Investiga
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 
 #EXTINF:-1 tvg-id="6722d2bffb35df319d71a40e" tvg-name="Las Vegas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951238/168x168.png?type=color_onBlack" group-title="Action & Drama",Las Vegas
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_channelId=99951238&ads.asnw=169843&ads.afid=380736666&ads.sfid=19116544&ads.csid=xumo_web_NBCUTopChefVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_vcid2=512116:18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3932&ads.xumo_contentName=NBCUTopChefVault&ads.xumo_providerId=3932&ads.xumo_providerName=NBCUTopChefVault&ads.channelId=99951238&ads._fw_ifa_type=
 
-#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Entretenimiento+" ,Misterios sin Resolver
+#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Documentals" ,Misterios sin Resolver
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
@@ -1824,7 +1823,7 @@ https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Vip.png" group-title="Entretenimiento+",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
-#EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Entretenimiento+",Della TV
+#EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Music",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Music",X Level Media
