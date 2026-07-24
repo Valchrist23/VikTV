@@ -190,7 +190,7 @@ https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
 
-#EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
+#EXTINF:-1 tvg-id="Univision" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univision
 https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="Univisión" tvg-name="Univisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Univision.svg/960px-Logo_Univision.svg.png" group-title="News",Univisión
@@ -344,7 +344,7 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f5132e362fe160040f26c15" tvg-name="Runtime Español" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Film",Runtime Español
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=4631
 
-#EXTINF:-1 tvg-id="Popcorn Central" tvg-name="Popcorn Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png" group-title="Film",Popcorn Central
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png" group-title="Film",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 no pero si
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080/03842/ftvpc_1080_00052.ts
@@ -390,7 +390,7 @@ https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 si
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL 
 
-#EXTINF:-1 tvg-id="CGTN en Espanol" tvg-name="CGTN en Espanol" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",CGTN en Espanol
+#EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Espanol" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",CGTN Espanol
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/LOGO_DISTRITO_TV.png" group-title="News",Distrito 
