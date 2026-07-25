@@ -1699,6 +1699,9 @@ http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg" group-title="Entretenimiento+",Gi TV
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://play-lh.googleusercontent.com/S7F8QLjJHAZIDfkKsWGduv1zmPcG796sbrMY6rnJihYBeN3_wL3Nwz50MNQ7zl24Av8MmT9ow3bE2glTUmEQ5w=w240-h480-rw" group-title="Entretenimiento+",Family TV
+https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://lunatvdigital.com/wp-content/uploads/2026/03/544X180.png" group-title="Entretenimiento+",Luna TV
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
