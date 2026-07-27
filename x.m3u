@@ -671,7 +671,7 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Kpbslogo.png" group-title="Documentary",mpt2 
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" group-title="Kids",PBS Kids 
+#EXTINF:-1 tvg-id="usbc3600013pc" tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/250px-PBS_Kids_logo_%282022%29.svg.png" group-title="Kids",PBS Kids 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR 
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Entretenimiento+",Elnueve
