@@ -791,6 +791,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AnimeStation" tvg-name="AnimeStation" tvg-language="es" tvg-logo="https://i.imgur.com/pcH0JjZ.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",AnimeStation
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
+
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Latino Kids Tv" tvg-name="Latino Kids Tv" tvg-language="es" tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Latino Kids Tv
