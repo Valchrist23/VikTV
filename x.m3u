@@ -5,7 +5,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/chunklist.m3u8
 
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
-#EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="N+ Univision 24/7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/250px-Logo-nmas.png" group-title="News",N+ Univision 24/7
+#EXTINF:-1 tvg-id="usbd1700014qu" tvg-name="N+ Univision 24/7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/250px-Logo-nmas.png" group-title="News",N+ Univision 24/7
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Excelsior TV" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
@@ -442,7 +442,7 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La 2" tvg-name="La 2" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",La 2
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100003WE" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Clan
+#EXTINF:-1 tvg-id="esbc4100003we" tvg-name="Clan" tvg-language="es" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Clan
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemadrid-mediano.png" tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml" group-title="News",Telemadrid
@@ -495,7 +495,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951225/hls/master.m3u8?ads.xumo_cha
 no
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
 
-#EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento+",TeleSUR
+#EXTINF:-1 tvg-id="telesur.ar" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entretenimiento+",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entretenimiento+",Globovision
