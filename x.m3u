@@ -963,7 +963,7 @@ https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Comet" tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="Movies",Comet 
 https://fast-channels.sinclairstoryline.com/COMET/index_2.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="CHARGE!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Charge%21_network_logo.png" group-title="USA",CHARGE!
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="CHARGE!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Charge%21_network_logo.png" group-title="Cine/Series",CHARGE!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave" tvg-name="Crave" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/250px-Crave_2018_logo.svg.png" group-title="Entretenimiento+",Crave
@@ -992,7 +992,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="654933e253fc970008390114" tvg-name="Universal Action" tvg-logo="https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png" group-title="Action & Drama",Universal Action
 
 
-#EXTINF:-1 tvg-id="654933e253fc970008390114" tvg-name="Universal Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="Action & Drama",Universal Action
+#EXTINF:-1 tvg-id="654933e253fc970008390114" tvg-name="Universal Action" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="Cine/Series",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=337f1b29-385b-4c5f-ad68-0f3acd79cd1e&ads._fw_vcid2=512116:337f1b29-385b-4c5f-ad68-0f3acd79cd1e&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=
 
 https://jmp2.uk/plu-654933e253fc970008390114.m3u8
@@ -1498,16 +1498,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ADULT SWIM AR" tvg-name="ADULT SWIM AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="24/7",ADULT SWIM AR
 https://clips-media-fly.warnermediacdn.com/adultswim/clips/2023-10/1353278-93fa18c88c544f63b674b95dc873447d/cmaf/h264_416x234_500k/h264_416x234_500k.m3u8
 
-#EXTINF:-1 tvg-id="66bb3212fe11e5000883ea6b" tvg-name="Married With Children" tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",Married With Children
+#EXTINF:-1 tvg-id="66bb3212fe11e5000883ea6b" tvg-name="Married With Children" tvg-logo="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png" group-title="24/7",Married With Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 
+                                                                                                       
 #EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chapelle´s Show" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png" tvg-country="US" tvg-url="" group-title="24/7",Chapelle´s Show
 https://jmp2.uk/plu-65e977a618036500082ec972.m3u8
 
 #EXTINF:-1 tvg-id="6486e8984cfc2c0008b6844e" tvg-name="Beavis And Butt-Head" tvg-language="English"tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" group-title="24/7",Beavis And Butt-Head
 https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/graphicloads/100-flat/256/locked-icon.png" group-title="Music",~ 24/7 Adult Swim Geo-Blocked ~
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Music",~ 24/7 Adult Swim Geo-Blocked ~
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
