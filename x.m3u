@@ -734,12 +734,6 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Anime",Japanim TV 
 https://foxkidstv.be:3369/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://envivo.expresatv.com.mx//assets/images/logotipo.png" group-title="Cartoon",Expresa TV
-https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1425402512_b1428000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Cartoon",Next
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" group-title="Anime",BitMe
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/120px-Canal_Venus_logo.svg.png" group-title="News",Venus Media
@@ -1180,7 +1174,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/960px-Great%21_TV_logo_2021.svg.png?_=20240411134633" group-title="Cartoon",Great TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Great%21_TV_logo_2021.svg/960px-Great%21_TV_logo_2021.svg.png?_=20240411134633" group-title="Movies",Great TV
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://dsk4yqs0338lt.cloudfront.net/uploads/2025/04/ROAR_WHITE-2048x551.png" group-title="Entretenimiento+",Roar
@@ -1662,6 +1656,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="http://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Movies",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=3z956x86
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://envivo.expresatv.com.mx//assets/images/logotipo.png" group-title="Movies",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1425402512_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Movies",Next
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-294x165-FFFFFF.jpg" group-title="Movies",Coco TV
 https://edge.essastream.com/canalcocotv/playlist.m3u8
