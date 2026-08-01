@@ -47,10 +47,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="ADN Noticias" tvg-name="ADN Noticias" tvg-chno="8" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",ADN Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8 
 
-si
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8 
-
 #EXTINF:-1 tvg-id="ADN Noticias" tvg-name="ADN Noticias" tvg-chno="9" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",ADN Noticias
+https://aegis-cloudfront-1.tubi.video/6ebe6450-4630-4425-8d98-c435225154e4/playlist.m3u8
+si
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-chno="10" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
