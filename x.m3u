@@ -234,14 +234,14 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5923
 
 #EXTINF:-1 tvg-id="646cce4d1593940008a33f09" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
+https://aegis-cloudfront-1.tubi.video/111c4da1-f5e2-4e17-b4f0-74f64910e764/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5923
 
 no
 https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
-
-                         
+                        
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
@@ -263,6 +263,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
                    
 #EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Sports",Azteca Deportes
 https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8?
+
+https://aegis-cloudfront-1.tubi.video/36613fc9-8285-479e-8ec2-f9732cbc8947/playlist.m3u8
+
 no
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 
