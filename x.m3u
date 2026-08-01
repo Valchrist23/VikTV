@@ -742,12 +742,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" group-title="Anime",BitMe
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Anime",Nexxo
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-294x165-FFFFFF.jpg" group-title="Anime",CocoTV
-https://edge.essastream.com/canalcocotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/120px-Canal_Venus_logo.svg.png" group-title="News",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
@@ -1290,7 +1284,7 @@ https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://live-manifest.product
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault 80s
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://theproadmin.online/radio5/world/images/costarica/70597_radio.png" group-title="Movies",IQ Channel
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://theproadmin.online/radio5/world/images/costarica/70597_radio.png" group-title="Music",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Entretenimiento+",V Classic TV
@@ -1669,13 +1663,17 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Gen TV" tvg-name="Gen TV" tvg-logo="http://gentvoficial.com/wp-content/uploads/2025/08/logo-footer.png" group-title="Movies",Gen TV
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8?hls_ctx=3z956x86
 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-294x165-FFFFFF.jpg" group-title="Movies",Coco TV
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/250px-Logo_TV_2015.svg.png" group-title="Movies",ABTV
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png" group-title="Movies",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Movies",Nexxo TV
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/mjE4g2LOW6uV4l2n/nexxo-tv-nuevo-m7VDQw8xEMsp8lZE.png" group-title="Movies",Nexxo TV
 https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="Movies",Caoba TV Radio
