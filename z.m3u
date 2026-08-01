@@ -6963,9 +6963,9 @@ https://archive.org/download/01-x-2001_202507/23X2001.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/70865-8.jpg" group-title="series" type="series",X S01E24
 https://archive.org/download/01-x-2001_202507/24X2001.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/29395/posters/29395.jpg" group-title="series" type="series",X S00E01
-https://archive.org/download/pp-174-pp/X%20%281996%29%201080p%20-DL-.mkv
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/29395/posters/29395.jpg" group-title="series" type="series",X S00E02
+https://archive.org/download/pp-174-pp/X%20%281996%29%201080p%20-DL-.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/29395/posters/29395.jpg" group-title="series" type="series",X S00E03
 https://archive.org/download/x-1999precuela.mp-4/X1999precuela.mp4.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78967-1.jpg" group-title="series" type="series",Trinity Blood S01E01
