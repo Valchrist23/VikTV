@@ -4103,8 +4103,6 @@ https://archive.org/download/elf02serieslan.com/ELF-14%20-%20Serieslan.com.mp4
 
 https://archive.org/download/tin-zeo-sm-12/TinZeoSm-12.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y2McH8kPXp5otzuQNIFF50X4rOc.jpg" group-title="series" type="series",Escaflowne The Movie
-https://nika.playmudos.com/bnc3dFB0MHJQWm83OWp2bisvMkc3dz09.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/77248-3.jpg" group-title="series" type="series",Escaflowne S01E01 
 https://archive.org/download/The-Vision-of-EscaFlowne-TV-Series/The%20Vision%20of%20Escaflowne/Escaflowne%2001%20Fateful%20Confession.mkv
@@ -4112,6 +4110,9 @@ no
 https://nika.playmudos.com/tenkuu-no-escaflowne/R094WXUwMUIvSHUvOHphc0s0TnFjM3ovMEMyeU5PQ0xQR09aYVY0SmVsbz0.m3u8
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/77248-3.jpg" group-title="series" type="series",Escaflowne S01E02 
 https://archive.org/download/The-Vision-of-EscaFlowne-TV-Series/The%20Vision%20of%20Escaflowne/Escaflowne%2002%20The%20Girl%20From%20the%20Mystic%20Moon.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y2McH8kPXp5otzuQNIFF50X4rOc.jpg" group-title="series" type="series",Escaflowne S00E01
+https://archive.org/download/Escaflowne-2000-BDRip-1896x1048p-x265-HEVC-TrueHD-FLACx3-AC3-5.1x2-2.0x3-Triple-Audio-sxales/Escaflowne%20%282000%29%20%28BDRip%201896x1048p%20x265%20HEVC%20TrueHD%2C%20FLACx3%2C%20AC3%205.1x2%2B2.0x3%29%28Triple%20Audio%29%5Bsxales%5D.mkv
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU1MTUxNjIxMl5BMl5BanBnXkFtZTcwMDM2NTA0MQ@@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",The Galaxy Railways S01E01 
@@ -4212,6 +4213,9 @@ https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%2
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2009%20%5B1080p%5D%20%5Bh.265%5D.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/season/504259/posters/6090333227db0.jpg" group-title="series" type="series",Hellsing Ultimate S01E10 
 https://archive.org/download/HellllllsingUltimateeeee1080000pHEVC/%5Bpseudo%5D%20Hellsing%20Ultimate%2010%20%5B1080p%5D%20%5Bh.265%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/6528/posters/6528.jpg" group-title="series" type="series",Blood The Last Vampire S00E01 
+https://archive.org/download/blood-the-last-vampire-2000-bdrip-1920x-1036p-x-265-hevc-dts-hd-ma-flac-5.1-2.0sxales/Blood%20The%20Last%20Vampire%20%282000%29%20%28BDRip%201920x1036p%20x265%20HEVC%20DTS-HD%20MA%2C%20FLAC%205.1%2B2.0%29%5Bsxales%5D/Blood%20The%20Last%20Vampire%20%282000%29%20%28BDRip%201920x1036p%20x265%20HEVC%20DTS-HD%20MA%2C%20FLAC%205.1%2B2.0%29%5Bsxales%5D.mkv
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79755/posters/60afdbfb95b30.jpg" group-title="series" type="series",Afro Samurai S01E01 
 https://archive.org/download/AfroSamurai01KorosenaiAnime/Afro%20Samurai%2001%20%28KorosenaiAnime%29.mp4 
