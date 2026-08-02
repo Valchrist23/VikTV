@@ -517,7 +517,7 @@ https://archive.org/download/final.-fantasy.-vii.-complete.-2005.-bluray.-1080p.
 https://archive.org/download/final-fantasy-vii-advent-children-complete-1080p60/Final%20Fantasy%20VII%E2%80%94Advent%20Children%20Complete%E3%80%901080p60%E3%80%91.mp4
 https://archive.org/download/final-fantasy-vii-advent-children_DVD-Rip/bien-xvid-ff7.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/13813/posters/13813.jpg" group-title="series" type="Movies",TEKKEN: Blood Vengeance (2011)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/13813/posters/13813.jpg" group-title="series" type="series",TEKKEN: Blood Vengeance (2011)
 https://archive.org/download/BloodVengeanceAC_201702/%E9%89%84%E6%8B%B3%20%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%BB%E3%83%99%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%EF%BC%8FBlood%20Vengeance%20AC%E4%BB%98%28%E8%8B%B1%E8%AA%9E%29.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/354085/posters/6149d6c156bc2.jpg" group-title="series" type="series",Techno Ninja Gatchaman S01E01
@@ -3124,7 +3124,7 @@ https://archive.org/download/cdz-memorialbox/Disc1%20Memorial%20Box/D1_MEMORIALB
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcyYWY0N2EtZDIwMy00YjhhLTliZmEtYTQwNDU3Mjk5ZWIzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX1000_.jpg" group-title="OVAS",Saint Seiya Overture Of Heaven (2004)
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/8437/posters/64b2f007cc6c5.jpg" group-title="OVAS",Saint Seiya Legend Of Sanctuary (2004)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/8437/posters/64b2f007cc6c5.jpg" group-title="series",Saint Seiya Legend Of Sanctuary (2004)
 https://archive.org/download/SYINZX214/SYINZX214.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtgIeMGVr9gGGoedcks_AwcFeJPJMSxHz7F0IYTdTgw&s" group-title="movies" type="vod",Saint Seiya: Cygnus Story (2026)
@@ -3193,23 +3193,23 @@ https://archive.org/download/dna-capitulo-11/DNA%20CAPITULO%2011.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/80407/posters/5fe89888ed015.jpg" group-title="series" type="series"tvg-type="series",DNA² S01E12
 https://archive.org/download/dna-2-capitulo-12/DNA2%20CAPITULO%2012.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/573/posters/632e8b6378836.jpg" tvg-type="movie", type="movie", type="vod",Howl's Moving Castle
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/573/posters/632e8b6378836.jpg" group-title="movies" type="series",Howl's Moving Castle
 https://archive.org/download/tauklv20210404studioghibli2004elincreiblecastillovagabundo/Studio%20Ghibli/%282004%29%20El%20incre%C3%ADble%20castillo%20vagabundo/El%20incre%C3%ADble%20castillo%20vagabundo%20%28Howl%27s%20Moving%20Castle%29%20%5BStudio%20Ghibli%20-%20Audio%20Latino-Japon%C3%A9s%5D.mkv
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/791/posters/25869802.jpg" tvg-type="movie", type="movie", type="vod",Princess Mononoke
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/791/posters/25869802.jpg" group-title="movies" type="series",Princess Mononoke
 https://archive.org/download/la-princesa-mononoke-1997-doblaje-latino-original-extras/La%20Princesa%20Mononoke%20%281997%29%20%28Doblaje%20Latino%20Original%20%2B%20Extras%29.mkv
 
 https://archive.org/download/la-princesa-mononoke_202207/La%20princesa%20Mononoke.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg" tvg-type="movie", type="movie", type="vod",Ponyo (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg" group-title="movies" type="series",Ponyo (2008)
 https://archive.org/download/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
 
 https://archive.org/download/peliculas-studio-ghibli-latino/Ponyo%20en%20el%20acantilado.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/24506/posters/24506.jpg" tvg-type="movie", type="movie", type="vod",Grave Of Fireflies
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/24506/posters/24506.jpg" group-title="movies" type="series",Grave Of Fireflies
 https://archive.org/download/la-tumba-de-las-luciernagas-1988/La%20Tumba%20De%20Las%20Luciernagas%20-%201988.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/339/posters/632ea03a9a1ca.jpg" tvg-type="movie", type="movie", type="vod",Totoro
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/339/posters/632ea03a9a1ca.jpg" group-title="movies" type="series",Totoro
 https://archive.org/download/4.-mi-vecino-totoro/4.%20Mi%20vecino%20totoro.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwODc3MTMzNl5BMl5BanBnXkFtZTcwODYwNzUyMQ@@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",G.I. Joe S00E36
