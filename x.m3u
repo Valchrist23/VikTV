@@ -828,9 +828,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://cdnlive.klicgo.net/maxanime/live/chunklist_w2037441263_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="eSports Max" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fc905e2a19ebb5996c1339253a548c1aef6194b9e112ea2aa0a9aeecc965c0b98.png" group-title="Sports",eSports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+https://cdnlive.klicgo.net/esportsmax/live/chunklist_w1568631963_DVR.m3u8
 
 si
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 https://vcp13.myplaytv.com/esportsmax/esportsmax/playlist.m3u8
