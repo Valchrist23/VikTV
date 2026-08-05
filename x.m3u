@@ -54,11 +54,12 @@ si
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
-https://s5.mexside.net:1936/stream/stream/index.m3u8
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
 
+https://s5.mexside.net:1936/stream/stream/index.m3u8
 https://stream.streamblue.com.mx/live/srttest/e076e5e9c5cb_main_seg135440.ts
 
 #EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal 22
