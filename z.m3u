@@ -3775,18 +3775,18 @@ https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_iqdx
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/83724/posters/83724.jpg" group-title="series" type="series",Puppet Princess
 https://cdnapisec.kaltura.com/p/2657331/sp/265733100/playManifest/entryId/1_tyone006/format/applehttp/protocol/https/deliveryProfileId/23762/flavorIds/1_9txr2xcs,1_9lx2u1a5,1_uvzku85p,1_ykashjxa,1_df1jq1v8,1_qbmatvuj,1_et86svt8,1_04kimojs/preferredBitrate/1500/maxBitrate/10000/a.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg" group-title="series" type="series",Saint Seiya Evil godess Eris (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/44Ni4sNvXkyRAh2ayuE07CV0lE5.jpg" group-title="series" type="series",Saint Seiya S00E01
 https://archive.org/download/cdz-memorialbox/Disc1%20Memorial%20Box/D1_MEMORIALBOX.ISO/VIDEO_TS%2FVTS_01_1.VOB
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zwL4R8y2b18nLe8q0OgSr5vbnnc.jpg" group-title="series" type="series",Saint Seiya Heated Battle Of Gods (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zwL4R8y2b18nLe8q0OgSr5vbnnc.jpg" group-title="series" type="series",Saint Seiya S00E02 
 https://archive.org/download/1988-i-los-caballeros-del-zodiaco-y-la-gran-batalla-de-los-dioses/%281988%29%20I%20-%20Los%20Caballeros%20del%20Zodiaco%20y%20la%20gran%20batalla%20de%20los%20dioses.mkalita
 
 https://archive.org/serve/los-caballeros-del-zodiaco-y-la-gran-batalla-de-los-dioses-App/Los%20Caballeros%20Del%20Zodiaco%20-%20Y%20La%20Gran%20Batalla%20De%20Los%20Dioses.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qDqk23o8qOljUetnCkQCQk7kElk.jpg" group-title="series" type="series",Saint Seiya Legend Of Scarlett Youth (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qDqk23o8qOljUetnCkQCQk7kElk.jpg" group-title="series" type="series",Saint Seiya S00E03
 https://archive.org/download/1988-ii-los-caballeros-del-zodiaco-contraatacan/%281988%29%20II%20-%20%20Los%20Caballeros%20del%20Zodiaco%20Contraatacan.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="series" type="series",Saint Seiya Warriors Of Armagedon (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a1ftT2mM219UvZ86jgF19mBoUT1.jpg" group-title="series" type="series",Saint Seiya S00E04
 https://archive.org/download/1989-los-caballeros-del-zodiaco-contra-lucifer/%281989%29%20-%20Los%20Caballeros%20del%20Zodiaco%20contra%20Lucifer.mkv
 
 https://archive.org/download/cdz-memorialbox/Disc1%20Memorial%20Box/D1_MEMORIALBOX.ISO/VIDEO_TS%2FVTS_03_1.VOB
@@ -5209,6 +5209,137 @@ https://archive.org/download/samurai-champloo-espanol/Samurai%20Champloo%20Cap%2
 https://archive.org/download/samurai-champloo-espanol/Samurai%20Champloo%20Cap%2025.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/79089/posters/60ba871192491.jpg" group-title="series" type="series",Samurai Champloo S01E26
 https://archive.org/download/samurai-champloo-espanol/Samurai%20Champloo%20Cap%2026.mp4
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E01
+https://archive.org/download/sham50_202607/sham01.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E02
+https://archive.org/download/sham50_202607/sham02.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E03
+https://archive.org/download/sham50_202607/sham03.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E04
+https://archive.org/download/sham50_202607/sham04.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E05
+https://archive.org/download/sham50_202607/sham05.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E06
+https://archive.org/download/sham50_202607/sham06.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E07
+https://archive.org/download/sham50_202607/sham07.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E08
+https://archive.org/download/sham50_202607/sham08.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E09
+https://archive.org/download/sham50_202607/sham09.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E10
+https://archive.org/download/sham50_202607/sham10.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E11
+https://archive.org/download/sham50_202607/sham11.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E12
+https://archive.org/download/sham50_202607/sham12.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E13
+https://archive.org/download/sham50_202607/sham13.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E14
+https://archive.org/download/sham50_202607/sham14.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E15
+https://archive.org/download/sham50_202607/sham15.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E16
+https://archive.org/download/sham50_202607/sham16.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E17
+https://archive.org/download/sham50_202607/sham17.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E18
+https://archive.org/download/sham50_202607/sham18.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E19
+https://archive.org/download/sham50_202607/sham19.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E20
+https://archive.org/download/sham50_202607/sham20.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E21
+https://archive.org/download/sham50_202607/sham21.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E22
+https://archive.org/download/sham50_202607/sham22.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E23
+https://archive.org/download/sham50_202607/sham23.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E24
+https://archive.org/download/sham50_202607/sham24.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E25
+https://archive.org/download/sham50_202607/sham25.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E26
+https://archive.org/download/sham50_202607/sham26.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E27
+https://archive.org/download/sham50_202607/sham27.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E28
+https://archive.org/download/sham50_202607/sham28.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E29
+https://archive.org/download/sham50_202607/sham29.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E30
+https://archive.org/download/sham50_202607/sham30.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E31
+https://archive.org/download/sham50_202607/sham31.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E32
+https://archive.org/download/sham50_202607/sham32.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E33
+https://archive.org/download/sham50_202607/sham33.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E34
+https://archive.org/download/sham50_202607/sham34.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E35
+https://archive.org/download/sham50_202607/sham35.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E36
+https://archive.org/download/sham50_202607/sham36.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E37
+https://archive.org/download/sham50_202607/sham37.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E38
+https://archive.org/download/sham50_202607/sham38.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E39
+https://archive.org/download/sham50_202607/sham39.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E40
+https://archive.org/download/sham50_202607/sham40.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E41
+https://archive.org/download/sham50_202607/sham41.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E42
+https://archive.org/download/sham50_202607/sham42.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E43
+https://archive.org/download/sham50_202607/sham43.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E44
+https://archive.org/download/sham50_202607/sham44.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E45
+https://archive.org/download/sham50_202607/sham45.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E46
+https://archive.org/download/sham50_202607/sham46.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E47
+https://archive.org/download/sham50_202607/sham47.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E48
+https://archive.org/download/sham50_202607/sham48.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E49
+https://archive.org/download/sham50_202607/sham49.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E50
+https://archive.org/download/sham50_202607/sham50.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E5
+https://archive.org/download/sham50_202607/sham51.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S01E5
+https://archive.org/download/sham50_202607/sham52.mp4
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E01
+https://archive.org/download/sham50_202607/sham53.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E02
+https://archive.org/download/sham50_202607/sham54.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E03
+https://archive.org/download/sham50_202607/sham55.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E04
+https://archive.org/download/sham50_202607/sham56.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E05
+https://archive.org/download/sham50_202607/sham57.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E06
+https://archive.org/download/sham50_202607/sham58.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E07
+https://archive.org/download/sham50_202607/sham59.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E08
+https://archive.org/download/sham50_202607/sham60.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E09
+https://archive.org/download/sham50_202607/sham61.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E10
+https://archive.org/download/sham50_202607/sham62.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E11
+https://archive.org/download/sham50_202607/sham63.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/383837/posters/5fe4e486ca6af.jpg" group-title="series" type="series",Shaman King S02E12
+https://archive.org/download/sham50_202607/sham64.mp4
+
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/87501-7.jpg" group-title="series" type="series",K-On! S01E01
 https://archive.org/download/k-on-episode-1-animax-dub/K-On%21%20Episode%201%20%28Animax%20Dub%29.mp4
