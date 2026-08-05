@@ -3769,6 +3769,9 @@ http://archive.org/download/202210_20221004_0422/el%20dorado.mp4
 
 https://dl.dropbox.com/s/knta3xjworertfg/El%20Camino%20Hacia%20El%20Dorado%202000%20-%20lo%20de%20jose.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5m9njnidjR0syG2gpVPVgcEMB2X.jpg" group-title="movies" type="vod",Fantasia (1940)
+https://archive.org/download/fantasia-special-edition-laserdisc-restoration-with-sunflower-v-1.0/Fantasia_Special_Edition_Laserdisc_Restoration_with_Sunflower_v1.0.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTE3OGUxNmItZmM3MC00ZTI3LTg0YTUtMzA3MGJkZjkyNjEyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Fantasia 2000 (1999)
 http://archive.org/download/2000-1999/Fantas%C3%ADa%202000%201999.mp4
 
@@ -5318,6 +5321,9 @@ https://archive.org/download/la-dama-y-el-vagabundo-1955_202409/La%20Dama%20y%20
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8wBEye516IKul9sW7JKGcFXVGfV.jpg" group-title="movies" type="vod",Lady And The Tramp (2019)
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg" group-title="movies" type="vod",The Black Cauldron (1985)
+https://archive.org/download/1-00045/1%20-%2000045.mp4
+https://archive.org/download/the-black-caildron-1998-vhs/The%20Black%20Caildron%20%281998%20VHS%29.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/movies/131570/posters/62045583.jpg" group-title="movies" type="vod",Pinocchio (2019)
 https://archive.org/download/north-hollywood-2021/Pinocchio%202019.mkv
@@ -5394,9 +5400,6 @@ https://archive.org/download/wYzAiFTsGvs24tNbxFdYBXM8DJaMtDNx/output.mkv
 https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
 
 https://archive.org/download/atlas_202303/atlas.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg" group-title="movies" type="vod",The Black Cauldron (1985)
-https://archive.org/download/olla_20230110/olla.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jGfZfSDdi58LlygEC8FAwCUsnXC.jpg" group-title="movies" type="vod",Spycies (2020)
 https://archive.org/download/pel149b83b3a93u/Spycies.mp4
@@ -7189,8 +7192,14 @@ https://archive.org/download/Peliculas-wii/Un%20Jefe%20en%20Pa%C3%B1ales%202%20-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yHhYPv4agAbNgCflZCEDxlCu8g8.jpg" group-title="movies" type="vod",White Snake (2019)
 https://archive.org/download/t-3-musk.-93-d/WSn4k3.219-D-.mp4
 
+https://archive.org/download/green-snake-flying-dagger-new-dragon-gate-inn/2.%20The%20New%20Dragon%20Gate%20Inn%20%E6%96%B0%E9%BE%8D%E9%96%80%E5%AE%A2%E6%A3%A7.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg" group-title="movies" type="vod",White Snake 2: Green Snake (2021)
 https://archive.org/download/t-3-musk.-93-d/G5n4k.2021.%20-D.-.mp4
+https://archive.org/download/green-snake-flying-dagger-new-dragon-gate-inn/1.%20Green%20Snake%20%E9%9D%92%E8%9B%87.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bfAGUOhPGGJTqPJ33KbiBvBhUUW.jpg" group-title="movies" type="vod",Flying Dagger (1993)
+https://archive.org/download/green-snake-flying-dagger-new-dragon-gate-inn/3.%20Flying%20Dagger-%20%E7%A5%9E%E7%BB%8F%E5%88%80%E4%B8%8E%E9%A3%9E%E5%A4%A9%E7%8C%AB%201993.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",The Hunger Games (2012)
 
