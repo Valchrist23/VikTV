@@ -447,9 +447,16 @@ https://archive.org/download/noir-dvd-iso/DVD1/NOIR_13.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/78947-6.jpg" group-title="series" type="series",Noir S01E02
 https://archive.org/download/noir-dvd-iso/DVD2/NOIR_2.iso
 
-
-
-
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/75092/posters/5e9f65d090841.jpg" group-title="series" type="series",Paranoia Agent S01E01
+https://archive.org/download/paranoia-agent-dvd/PARANOIA_AGENT_VOL1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/75092/posters/5e9f65d090841.jpg" group-title="series" type="series",Paranoia Agent S01E02
+https://archive.org/download/paranoia-agent-dvd/PARANOIA_AGENT_VOL19.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/75092/posters/5e9f65d090841.jpg" group-title="series" type="series",Paranoia Agent S01E03
+https://archive.org/download/paranoia-agent-dvd/PARANOIA_AGENT_VOL2.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/75092/posters/5e9f65d090841.jpg" group-title="series" type="series",Paranoia Agent S01E04
+https://archive.org/download/paranoia-agent-dvd/PARANOIA_AGENT_VOL3.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/75092/posters/5e9f65d090841.jpg" group-title="series" type="series",Paranoia Agent S01E05
+https://archive.org/download/paranoia-agent-dvd/PARANOIA_AGENT_VOL4.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/79476-1.jpg" group-title="series" type="series",Carried by the Wind: Tsukikage Ran S01E01
 https://archive.org/download/RanLaChicaSamurai1LatCT/Ran%2Cla%20chica%20samurai%20%28Episodio%201%29%20CT%20Version.mp4
