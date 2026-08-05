@@ -31,7 +31,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Milenio TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
-
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8?uid=2i2bzPvKsEJ65OkOU6MbUwS0nQjEAxB7&sid=HN5SEWatl6lcA0kVSszqu3mpk35ney4P&pid=7RwOzwLBfqdEpmIE5PoQHI6Y6Sq2nmni&an=screen&at=web-app&av=v5.2.201&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=300x150&without_cookies=false&dnt=true.m3u8
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" tvg-name="Teleformula" tvg-language="es" tvg-logo="http://2.bp.blogspot.com/-G31BjyRiqc4/VTRZ6v2Mv9I/AAAAAAAAAp8/DYSJPUIPeU4/s320/TELEFORMULA.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Teleformula
@@ -112,6 +112,9 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunkli
 si
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-26-TV-Aguascalientes-en-vivo-Online-218x150.png" group-title="Entretenimiento+",26 Aguascalientes
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871323.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="Entretenimiento+",SintesisTV
 
@@ -216,7 +219,7 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 
@@ -225,7 +228,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 si
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+azteca 1 no
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Basico",Azteca Uno -1 Hora
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
@@ -290,6 +295,9 @@ no
 https://dcs4-vod.mp.lura.live/vod/p/master.m3u8?encp=5_2WYKPYAmJSS-gXe_xJTg:om3X0OXZ9uaurJx6iq3w5dNnR4fXnosKbxNFXYln-kEvohp9UrOK0UpZUvxIUL02UdSdPuZGgpQIvbpqgGXC5aTrud5_sy03IMWNexO0hBZpEpF95x3Pgqk_BM-dBuviR1bcjigRgFzkRWgYHF6W2mWuqEh7j437WtAXi1NrjG-QzDQY4jFqZZpyk4jq_GySlactzx_XR4gBXWqwco298KsdiQfkObZXSKYrIXgc5Ri_rG4cyqkTzK5gwtc_7-9cbCEexifuWwz8E39B3sWYQ0AqiQp0fVt2903rpkbgXY-X4tmcz7Pf7IC6Pzn0ruUEHShCzgO6AxKroKMod5-kxuUlTWWXdCvYfgblYlvlzXwK2LKVLB7G3bL7X-uX5MeT6EpDGhWjDz60dtZx4OCsoX9pL3SCp55KmXtNOW5L4BWSRP-T5XWmQOpSllPIuhXG3uRpfasS2Qx6Q-6VXBH0i3ZaXBbVk6xAyhGFlStxbwdSLFJ9Xc-bwVTT7YfsMVKnVFmX0mMSuRSSy135W2siFTkEKzBtFcwk1rLfj8YdvX_ORnU2ne3Fi6dzVQYWjFj_HzgEdE9eYiuucuQuvWUgqHUmhVWYc1V5E9OLDFnHUxvP3JzCWnMVjZTzICN8hoklO7GqQzxHKWT4Fr3yhiA9tIXKTa8C5kHf80-sd_7kjQVFydLhfg_p6rstI2i2Qe5GLFwKveRV6Snq2aweq_iH0c-1HbycpLL3ajDvm1wgT-dahROqie6ZSEsvRPtDrYSwdOe47fL05gAw7I6GOMGEEVJ52SrzpsmiGUvnIRi2zGrGbBWPp4PVGEaI9hTE8G59A4KnhHI8bbjqwyfBiwSdHKos1mXEOxUMEUeI9nV491N9OlREQuAahgx3cBc8NprBhSsGm8x6lLALaPE3ce-reWBQ_HGY9_Ok1X8GcnBKRQvPRGiWT7jBAClIeZ_t-Uj-qqtDbGfMUiUvs02OtdBct8YL1jXfEsDy7wNSpDhrFdASm-G2MQZ7b4L9LGte99KvoFV36NALn_hisdBaoeWTOFia12z0H1DzDTdxNUdRoBnUt8vTiKYABJjt_e14qQGN8FXdnkSCfVw7cd1jZpZGuePtePGsaRKyXgu84ejSwM36WI37r1dGNFGDrAGstupps8uvAb59in6DYsnmCnTtGA&anvtrid=f4c133b68c190d66dff10cb9d32d10c1&anvauth=tb=0~te=1754985115~sgn=a2dc61397517b2dd11f2ff6bce9df7551f80cbd29f6e7f09c721c3bd48171267&t=1754985025
 https://dcs-live-ue4.mp.lura.live/server/play/pjN3mWZhv2GRsXb7/rendition.m3u8?track=video-2&anvsid=m177635093-nfcf75504d56cada6ef64b6cc1e7a7088&ts=1666989163&anvtrid=5cadfe5ef9bcf15f7bf7923bf0a3e62a
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTO TV4" tvg-name="GTO TV4" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.1-Guanajuato-en-vivo-Online-218x150.png" group-title="Basico",GTO TV4.4
+https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Unicable MX" tvg-name="Unicable" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/800px-Unicable_logo.svg.png" group-title="Film",Galavision
 
@@ -397,6 +405,7 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Entretenimiento+",Antares TV 
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1493443135.m3u8
 si
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",CGTN Español
