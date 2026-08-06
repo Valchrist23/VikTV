@@ -1019,6 +1019,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",USA Network
 http://138.121.15.230:9002/USA/index.m3u8
+#EXTINF:-1 tvg-id="USA Network" tvg-name="USA Network" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Scifi-World" tvg-name="Scifi-World" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Scifiworld_logotype.png?_=20200625062228" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entretenimiento+",Scifi-World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
