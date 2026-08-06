@@ -128,20 +128,10 @@ https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Metro_%28MetroTV%29_2023_logo.png/960px-Metro_%28MetroTV%29_2023_logo.png?_=20250104121648" group-title="News",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://atacamatelevision.com/logo_header.png" group-title="News",Atacama TV
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
-
-si 
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-https://v2.tustreaming.cl/atacamatv/index.fmp4.m3u8
-https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/330px-COSMOS_logo2K24-100.jpg" group-title="News",TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXMKVUXzn8bvHcWpQnQaBboPo3JEdJV63UO-Fx5qA=s900-c-k-c0x00ffffff-no-rj" group-title="Basico",Canal 12
-
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/San_Luis_%2B_%28Logo_2024%29.png/1280px-San_Luis_%2B_%28Logo_2024%29.png" group-title="Basico",Canal 13 San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
@@ -262,9 +252,9 @@ si
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca 7
-https://dai.google.com/linear/hls/event/dQQwxiRsQDaWE2z59xVZhw/master.m3u8
 
 no
+https://dai.google.com/linear/hls/event/dQQwxiRsQDaWE2z59xVZhw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8 
 
@@ -324,9 +314,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="Film",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="Film",Canal 8 TV+
-https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="Film",Canal 8 TV+
 https://live.obslivestream.com/canal8/index.m3u8
@@ -1653,6 +1640,18 @@ https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.fmp4.m3u8
 https://sc1.wasidata.com/Bhtv/tracks-v1/index.m3u8
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/960px-Logo_La_8.svg.png" group-title="Movies",Canal 8 TV+
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://atacamatelevision.com/logo_header.png" group-title="Movies",Atacama TV
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.ts.m3u8
+
+si 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+https://v2.tustreaming.cl/atacamatv/index.fmp4.m3u8
+https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://m.media-amazon.com/images/I/71GS6z8zwrL.png" group-title="Movies",TV Direct 13
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
