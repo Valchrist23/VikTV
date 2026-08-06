@@ -252,7 +252,9 @@ si
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1280px-Logo_Azteca_7_2011.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca 7
+https://dai.google.com/linear/hls/event/5HKtAWzrTVGjPNdt1HNd_Q/master.m3u8
 
+https://pubads.g.doubleclick.net/ssai/event/5HKtAWzrTVGjPNdt1HNd_Q/master.m3u8
 no
 https://dai.google.com/linear/hls/event/dQQwxiRsQDaWE2z59xVZhw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
