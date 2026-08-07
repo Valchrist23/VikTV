@@ -2028,6 +2028,9 @@ https://archive.org/download/dragon-ball-zvideoplaytv/Dragon%20ball%20Z%20251-29
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1NDNjZDQtMDVjMi00MTJhLWE4NjUtNmJlNjJkYjIwNTJkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Dragon Ball Z S00E02
 https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/10%20DRAGON%20BALL%20Z%20LA%20GALAXIA%20CORRE%20PELIGRO%201080P.mp4
 
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/1225/posters/65f0842f3ae53.jpg" group-title="series" type="series",Dragon Ball Z S00E05
+https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/06%20DRAGON%20BALL%20Z%20LOS%20RIVALES%20MAS%20PODEROSOS.mp4
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTc0ZWQ3NTEtNDJhNC00MjliLWEwZTgtZDJjMjcwZTFlNmE0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Dragon Ball Z S00E06
 https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/07%20DRAGON%20BALL%20Z%20EL%20REGRESO%20DE%20COOLER.mp4
 
@@ -2051,9 +2054,6 @@ https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTg1NDdlMDMtOTRmNy00MjNjLTkxZDYtMDA3ODE1MmViMWFkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Dragon Ball Z S00E13
 https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/14%20DRAGON%20BALL%20Z%20EL%20ATAQUE%20DEL%20DRAGON%201080P.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWY5YzM1YjQtOTIxZC00YTczLWE3ODItNTFmYzUwN2E3MmViXkEyXkFqcGdeQXVyMjIzMTk0MzM@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Dragon Ball Rivals
-https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/06%20DRAGON%20BALL%20Z%20LOS%20RIVALES%20MAS%20PODEROSOS.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkMWM1M2YtYTMwYy00YWZhLWE0ZjktZjhiNTMwMjQ2ZjU5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_FMjpg_UX1000_.jpg" group-title="series" type="series",Dragon Ball Z S00E16
 https://archive.org/download/04-dragon-ball-el-camino-hacia-el-mas-fuerte_202008/04%20Bardock%20El%20padre%20de%20Goku.mp4
@@ -2312,7 +2312,7 @@ https://archive.org/download/super-dragon-ball-heroes-all-episodes/Arc%204%20-%2
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/347734/posters/62109531.jpg" group-title="series" type="series",Super Dragon Ball Heroes S06E06
 https://archive.org/download/super-dragon-ball-heroes-all-episodes/Arc%204%20-%20Meteor%20Mission/Super%20Dragon%20Ball%20Heroes%20Episode%2056.mp4
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/347734/posters/62109531.jpg" group-title="series" type="series",Super Dragon Ball Super S00E03
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/295068-9.jpg" group-title="series" type="series",Super Dragon Ball Super S00E03
 https://archive.org/download/dragon-ball-super-broly-480pto2160p-mulsubndub/Dragon%20Ball%20Super-%20Broly%20%5BSpa%5D%5B1080P%20H264%5D.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/220141/posters/5ff01344c1d25.jpg" group-title="series" type="series",Wolverine S01E01
