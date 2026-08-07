@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 
 #EXTINF:-1 tvg-id="USBD1700014QU" tvg-name="N+ Univision 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo-nmas.png/250px-Logo-nmas.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",N+ Univision 24/7
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel07secure.akamaized.net/hls/live/2036971-b/event01/index.m3u8&redirect=true
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel08secure-notusa.akamaized.net/hls/live/2037034-b/event01/index.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Excelsior TV" tvg-name="Excélsior TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Excelsior_tv-mediano.png",Excélsior TV
 
