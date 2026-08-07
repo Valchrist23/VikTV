@@ -747,9 +747,12 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
-https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Animevision" tvg-name="Animevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
+https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+
 #EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Animevision Classics" tvg-language="es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Animevisión Classics
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Chilevision
