@@ -718,7 +718,10 @@ https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea2
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/659e598ab9adc4000843c574/colorLogoPNG.png" group-title="kids",Anime
+
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/250px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="kids",Dreamworks
+https://thinkkast.dpdns.org/thinkkast/cg_dreamworks_hd1/versiglia/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ANIME%2B_logo.svg/250px-ANIME%2B_logo.svg.png" group-title="Anime",Anime
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids",Disney
@@ -1093,6 +1096,7 @@ https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento+",AXN
+https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-639a0b83812b6c1429f7acd1" tvg-name="Britbox Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BritBox_2026.svg/250px-BritBox_2026.svg.png" group-title="Entretenimiento+",Britbox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
