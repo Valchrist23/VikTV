@@ -57,11 +57,11 @@ https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 #EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
-
 https://s5.mexside.net:1936/stream/stream/index.m3u8
 https://stream.streamblue.com.mx/live/srttest/e076e5e9c5cb_main_seg135440.ts
+#EXTINF:-1 tvg-id="Canal Once" tvg-name="Canal Once" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal Once
+
 
 #EXTINF:-1 tvg-id="Canal 22" tvg-name="Canal 22" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Canal_22_Logo_2011.jpg" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentals",Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w2120558587.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIxIDQ6MzY6NDkgUE0maGFzaF92YWx1ZT1EUWw0UTJ3SzR1QlRKSDFYM0JlUE5nPT0mdmFsaWRtaW51dGVzPTUmaWQ9 
@@ -667,11 +667,6 @@ https://jmp2.uk/plu-5f36d726234ce10007784f2a.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="News",El 6
 https://stream.elseis.do/canal6/live_1080.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="en" tvg-country="US" tvg-logo="https://i.imgur.com/yjIYUim.jpg" tvg-group-title="Documentary" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",Discover Film
-https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=DiscoverFilm&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-                                             
-https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Kpbslogo.png" group-title="Documentary",KPBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
@@ -751,6 +746,7 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
+https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/playlist.m3u8
 https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
 
 
