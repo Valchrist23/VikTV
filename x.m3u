@@ -689,7 +689,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="News",7 Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi YV
+#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
 
@@ -742,12 +742,10 @@ https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1280px-Animax_logo.svg.png" group-title="Anime",Animax
-https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/playlist.m3u8
 https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Animevision" tvg-name="Animevision" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="Anime",Animevisión
-https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="Animevision Classics" tvg-name="Animevision Classics" tvg-language="es" tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Anime",Animevisión Classics
 
