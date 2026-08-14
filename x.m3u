@@ -1594,7 +1594,9 @@ https://live-manifest.production-public.tubi.io/live/050aaad2-b60d-4525-9e2e-246
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5fb84bc1b7ad2d002dcb735f" tvg-name="MOVIESPHERE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png" tvg-country="US" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Movies",MOVIESPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax Mexico 
+#EXTINF:-1 tvg-id="Cinemax Panregiona" tvg-name="Cinemax Panregiona" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax Panregiona
+https://streamer.metronethn.com/Cinemax/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.agYOcYnX5ds7YZObwPnZsAHaCk&pid=Api&P=0&w=465&h=162" group-title="Movies",Cinemax 
 
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-60d4edd8b2fdec002c14112f" tvg-name="Rakuten Viki" tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Rakuten Viki
