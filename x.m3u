@@ -1340,10 +1340,10 @@ https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 
 #EXTINF:-1 tvg-id="	KPOP" tvg-name="KPOP" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg" tvg-country="KO" tvg-url="" group-title="Music",KPOP
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://i.ytimg.com/vi/YS6lU0O_z6A/maxresdefault.jpg" tvg-country="KO" tvg-url="" group-title="Music",Sexy KPop
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=br_NewKPop&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="Kpop TV Play" tvg-name="" tvg-language="Korean" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" tvg-country="KO" tvg-url="" group-title="Music",KPop TV Play
+#EXTINF:-1 tvg-id="Kpop TV Play" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://kpoptv.htforum.net/wp-content/uploads/2024/11/logokpoptvplay.png" tvg-country="KO" tvg-url="" group-title="Music",KPop TV Play
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
@@ -1359,26 +1359,26 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="K POP Mix" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
+#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus
 https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w687227354.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image82141696383.jpg" group-title="Music",Music Retro 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.coolstreaming.us/img/ch/image82141696383.jpg" group-title="Music",Music Retro 
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyzTX252yvQu74qYLo8eHIbwyTfQOwa967-zFEN=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music",TVPop
 
-#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Mus 
 http://rtmp.one.by:2300
 
-#EXTINF:-1 tvg-id="1Mus" tvg-name="1Mus" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Muz 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.giniko.com/logos/190x110/1043.jpg" group-title="Music",1Muz 
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="Rockland Radio" tvg-name="Rockland Radio" tvg-logo="https://mx.radio.net/images/broadcasts/13/6f/1937/2/c300.png" group-title="Music",Rockland Radio
 
-#EXTINF:-1 tvg-id="Rock TV" tvg-name="Rock TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-id="Classic Rock Network" tvg-name="Classic Rock Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock Network
@@ -1865,9 +1865,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_cha
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Vip.png" group-title="Entertainment",VIP TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 
 #EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Music",Della TV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
