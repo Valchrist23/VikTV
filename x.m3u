@@ -422,7 +422,7 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",Hola TV
 http://8.243.126.131:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-id="es26000025m" tvg-name="¡Hola! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",¡Hola! Play
+#EXTINF:-1 tvg-id="ES26000025M" tvg-name="¡Hola! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentals",¡Hola! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entertainment",A3Cine 
@@ -995,7 +995,7 @@ https://2-fss-1.streamhoster.com/pl_154/205448-2145652-1/720/rightnowtvSCTE35.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/300px-Paramount_Network.svg.png" group-title="Entertainment",Paramount Channel
 
 
-#EXTINF:-1 tvg-id="us18000096o" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Entertainment",Saved by the Bell
+#EXTINF:-1 tvg-id="US18000096O" tvg-name="Saved by the Bell" tvg-logo="https://image.xumo.com/v1/channels/channel/99951247/168x168.png?type=color_onBlack" group-title="Entertainment",Saved by the Bell
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951247/hls/master.m3u8?ads.xumo_channelId=99951247&ads.asnw=169843&ads.afid=380750681&ads.sfid=19316459&ads.csid=xumo_web_NBCUSavedBytheBell_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=44fe1354-d04a-4487-bf71-221d57931781&ads._fw_vcid2=512116:44fe1354-d04a-4487-bf71-221d57931781&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Comedy,Entertainment,GV&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99951247&ads._fw_ifa_type=
 
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Entertainment",Universal Movies
@@ -1091,7 +1091,7 @@ http://stream.cammonitorplus.net/1785/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 
 
-#EXTINF:-1 tvg-id="usbb40000028e" tvg-name="NBC LX Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1920px-NBC_LX_Home_2023.svg.png" group-title="Entertainment",NBC LX Home
+#EXTINF:-1 tvg-id="USBB40000028E" tvg-name="NBC LX Home" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NBC_LX_Home_2023.svg/1920px-NBC_LX_Home_2023.svg.png" group-title="Entertainment",NBC LX Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Entertainment",AXN
@@ -1357,7 +1357,7 @@ https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ES1700005ME" tvg-name="NEW KPOP" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="Music",NEW KPOP
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -1389,7 +1389,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock
+#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
