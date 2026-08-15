@@ -1355,9 +1355,11 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="K-POP by CJ ENM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",K-POP by CJ ENM
+#EXTINF:-1 tvg-id="ES3900001QG" tvg-name="CJ ENM K-POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",CJ ENM K-POP
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="US39000038W" tvg-name="CJ ENM K-POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",CJ ENM K-POP
+https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="	K POP Mix" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
@@ -1381,7 +1383,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-id="Classic Rock Network" tvg-name="Classic Rock Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock Network
+#EXTINF:-1 tvg-id="USBD35000180U" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
@@ -1843,9 +1845,16 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Juice_TV_Logo.png/250px-Juice_TV_Logo.png" group-title="Music",Juice tv
+https://gizmo2.cloudserver.nz/hls/Juice.m3u8
 https://juicex.nz/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1762940270644.png" group-title="Music",J2
+https://gizmo2.cloudserver.nz/hls/J2.m3u8
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df6011f2-06eb-40c0-a217-8bfd437b7f03/FilmRise_TrueCrime_1500x1000_Light_Logo.png" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Documentals",FilmRise True Crime
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Big Rig" tvg-language="es" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1742379861048.jpg" group-title="Music",Big Rig
+https://gizmo2.cloudserver.nz/hls/bigrig.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1742379839684.jpg" group-title="Music",GROAT
+https://gizmo2.cloudserver.nz/hls/GROAT.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-logo="https://canvas-lb.tubitv.com/opts/o-H1LgfSug5Osg==/7e8b8518-8447-4c08-9193-55efa2fff3bc/CHgQeDoFMS4xLjlAAQ==" group-title="Documentals",True Crime
 https://live-manifest.production-public.tubi.io/live/71fa1242-fb07-4d70-b30b-f4aaf76ddf2a/playlist.m3u8
