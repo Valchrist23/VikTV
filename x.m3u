@@ -514,38 +514,38 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 
 -----------------------------------------Kitchen--------------------------------------------- 
 
-#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade
+#EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade
 https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 
-#EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade Viajes
+#EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade Viajes
 https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 nsi check
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/68b88712e777774982269ce9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1ZDM1NWZkLTFiZDEtNGQ5ZS1iNzJiLWFiYWJlOThhMjBiYiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgxNTAxMjQ4LCJpYXQiOjE3ODE0MTQ4NDgsImp0aSI6ImQ1ZDJjZjYxLWFhZGMtNDMxYy05YzhiLWU2MDk2YmE1NDA1OSJ9.bTP-iT4Te8bbxeKBlnD451hUZFwKfOuF6v16SppScak
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991328/168x168.png?type=color_onBlack" group-title="Cooking",GustoTV
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991328/168x168.png?type=color_onBlack" group-title="Entertainment",GustoTV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991328/hls/playlist.m3u8?ads.xumo_channelId=99991328&ads._fw_ifa_type=&ads._fw_did=fc870a3a-ab60-415a-bb82-a1d918d84175&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=GustoTV&ads.csid=xumo_web_GustoTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=272&ads.xumo_contentName=GustoTV&ads.xumo_providerId=272&ads.xumo_providerName=GustoTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991328&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Cooking"
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Gusto_TV_logo.jpg" group-title="Entertainment"
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Cooking",GUSTOTV
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Entertainment",GUSTOTV
 https://gusto-localnow.amagi.tv/playlist.m3u8
 no
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="elGourmet" tvg-name="elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Cooking",elGourmet
+#EXTINF:-1 tvg-id="elGourmet" tvg-name="elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Entertainment",elGourmet
 
-#EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Cooking",Plato del Dia by elGourmet
+#EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Entertainment",Plato del Dia by elGourmet
 https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
            
-#EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png" group-title="Cooking",Dulce by elGourmet
+#EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png" group-title="Entertainment",Dulce by elGourmet
 https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
 
-#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Cooking",Pluto TV Cocina
+#EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Entertainment",Pluto TV Cocina
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto Cocina" tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="Cooking",Pluto Cocina 
+#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto Cocina" tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="Entertainment",Pluto Cocina 
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -556,10 +556,10 @@ https://live-manifest.production-public.tubi.io/live/86825bf7-8e1c-4fbe-ac23-01f
 si
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ac65b883-e88e-11ee-b5df-aaf091a1f575&deviceId=34c70dec-e2e0-45ae-8e8f-20a928fb0c82&deviceVersion=122.0.0&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8700008392334&deviceLon=-116.5999984741211&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="MasterChef México" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/960px-MasterChef_Logo.svg.png" group-title="Cooking",MasterChef México
+#EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="MasterChef México" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MasterChef_Logo.svg/960px-MasterChef_Logo.svg.png" group-title="Entertainment",MasterChef México
 https://apollo.production-public.tubi.io/live/masterchef-mexico-MSZOHV.m3u8?
 
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Cooking",Food Network
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entertainment",Food Network
 
 #EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-name="Tiny House Nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Home",Tiny House Nation
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
