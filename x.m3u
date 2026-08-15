@@ -398,7 +398,7 @@ si
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL 
 
-#EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entertainment",CGTN Español
+#EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentary",CGTN Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/LOGO_DISTRITO_TV.png" group-title="News",Distrito 
@@ -594,13 +594,18 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="Entertainment",Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?tvflixhd
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Documentary",History
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Entertainment",Circle Country
+https://circle-roku.amagi.tv/playlist.m3u8
+
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Documentary",History
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Documentary",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Documentary",History
 http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentary",History 2
+#EXTINF:-1 tvg-id="History 2" tvg-name="History 2" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="Documentary",History 2
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 
 http://213.91.179.28:8000/play/a03r
@@ -1635,11 +1640,6 @@ no Tubi
 https://apollo.production-public.tubi.io/live/tubi-originals-0uuavF.m3u8?
 https://lnc-tubi-originals.tubi.video/index.m3u8
 https://apollo.production-public.tubi.io/live/tubi-originals.m3u8
-
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/500px-Circle_Network_logo.svg.png?_=20240917050141" group-title="Music",Circle Country
-https://circle-roku.amagi.tv/playlist.m3u8
-
-https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://media.foxadsolutions.com/wp-content/uploads/2021/07/21132141/TubiOriginalsResized.png" group-title="Movies",Tubi Originals 
 
