@@ -1030,7 +1030,7 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Scifi-World" tvg-name="Scifi-World" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Scifiworld_logotype.png?_=20200625062228" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entertainment",Scifi-World
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
-#EXTINF:-1 tvg-id="4 Fun TV" tvg-name="4 Fun TV" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/960px-4fun.tv_Logo_%282017%29.svg.png?_=20220714054016" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entertainment",4 Fun TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="4 Fun TV" tvg-language="en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/960px-4fun.tv_Logo_%282017%29.svg.png?_=20220714054016" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Entertainment",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-name="Cine en español" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/featuredImage.jpg",Cine en español
@@ -1364,10 +1364,7 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ES3900001QG" tvg-name="CJ ENM K-POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",CJ ENM K-POP
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="US39000038W" tvg-name="CJ ENM K-POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",CJ ENM K-POP
-https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
-
-#EXTINF:-1 tvg-id="	K POP Mix" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-country="KO" tvg-url="" group-title="Music",K POP Mix
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Music",K POP Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://retroplustv.com/gallery_gen/391184735541fc73f216b27309966e07_180x62_fit.jpg" group-title="Music",Retro Plus
