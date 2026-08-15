@@ -317,7 +317,7 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 
 #EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-country="MX" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Film",De Pelicula
-http://181.119.93.83:8000/play/a1jw/index.m3u8
+
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-644c446d7472b186783f359e" tvg-name="Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Film",Todo Cine
 https://apollo.production-public.tubi.io/live/todo-cine2-a7ucGt.m3u8?
