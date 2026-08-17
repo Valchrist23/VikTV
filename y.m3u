@@ -28,6 +28,7 @@ https://archive.org/download/3Wv4g4skIo9jOhYrso4rbFAvrnx4QY0b/output.mp4
 https://archive.org/download/b-3vry-h-15-n-1n.-197-dl/B3t.B3tj224-DL-.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg" group-title="movies" type="vod",The Platform 2 (2024)
+#EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613A88822A4064F42702B3A89C722AF446A342789864533...8C410B7B989B0DD75FBA62835F073119A123C/subfile/The.Platform.2.2024.SPANISH.WEBRip.NF.es%5Bcc%5D.srt
 https://dl.dropboxusercontent.com/scl/fi/59llxsph4xup0ltv2cy7u/Ver-El-hoyo-2-2024-Online-Gratis-Cuevana-3.mp4?rlkey=q41tdtfh138vhshi1o1upxw6u&st=mkd3plhg&dl=0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ronHqkmrrNEfcEOirBC5QmUEUSZ.jpg" group-title="movies" type="vod",The Bouncer (2024)
@@ -43,6 +44,7 @@ https://archive.org/download/m-4rr-0b-0n.-217-dl/M1l5.G1l.224-SL-.mkv
 
 
 #EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="movies" type="vod" ,E.T. the Extra-Terrestrial (1982)
+#EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613AF16D22BFCC14FA4F85D9114AA9844CDC43B46CF2CEB...D9171D145D29D19EDF01EFE38C4852/subfile/E.T.The.Extra-Terrestrial.1982.720p.BluRay.X264-AMIABLE.srt
 https://archive.org/download/movies_20220526/E.T.The.Extra-Terrestrial.1982.1080p.BluRay.x265-RARBG.mp4
 
 #EXTINF:-1 tvg-id="abyss1989" tvg-name="The Abyss (1989)" tvg-logo="https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg" group-title="movies" type="vod" ,The Abyss (1989)
