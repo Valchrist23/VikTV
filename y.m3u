@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg" group-title="movies" type="vod",Masters Of The Universe (2026)
+#EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613A495F8C6B875E8B2BB5F050F4FAE0FC1514BDAE1006D...E11/subfile/Masters of the Universe 2026 iNTERNAL 1080p 10bit HDRip 2CH x265 HEVC-PSA. es. sdh.srt
 https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57tif4rq5xvhf63pu12kkzx&st=ideeer6e&dl=0
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="movies" type="vod",The Super Mario Bros. Movie (2023)
@@ -77,6 +78,7 @@ https://archive.org/download/peli8_202402/Proximity%202020.mkv
 https://archive.org/download/peli9/Stigmata%201999.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kIlzZJqV4SCGHrrjoGLBhmsO7z2.jpg" group-title="movies" type="vod",Ghost ship (2002)
+#EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613A495F8C6B875E8B2BAB8692868F9CBCACB315EE6BFDA...7B4E39FAC0CE0B7159A57C83B507793176A23DBD42A31D1CE/subfile/Ghost. Ship. 2002. 720p. BrRip. x264.srt
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ryocnetNNLWs0Oefkqkea6HccqV.jpg" group-title="movies" type="vod",100 Feet (2008)
