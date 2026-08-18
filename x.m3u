@@ -883,6 +883,18 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-name="Nickelodeon en español" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 
+#EXTINF:-1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-name="Nickelodeon iCarly" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Kids",Nickelodeon iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-name="Kenan y Kel" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Kids",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+
+#EXTINF:-1 tvg-id="68ffc086a530e036bc8f0305" tvg-name="Mi Bella Genio" tvg-logo="https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG.png" group-title="Kids",Mi Bella Genio
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+
+#EXTINF:-1 tvg-id="631fb6be21b7440007b9f606" tvg-name="Hechizada" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Kids",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+
 #EXTINF:-1 tvg-id="USBB11000015Q" tvg-name="Moonbug" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Kids",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
