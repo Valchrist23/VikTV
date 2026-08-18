@@ -4,6 +4,12 @@
 #EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613A495F8C6B875E8B2BB5F050F4FAE0FC1514BDAE1006D...E11/subfile/Masters of the Universe 2026 iNTERNAL 1080p 10bit HDRip 2CH x265 HEVC-PSA. es. sdh.srt
 https://dl.dropbox.com/scl/fi/j90dc5f3bplf0hril8b7f/Jim4n.226-DL.mkv?rlkey=ba57tif4rq5xvhf63pu12kkzx&st=ideeer6e&dl=0
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="movies" type="vod",GOAT (2026)
+https://archive.org/download/ver-goat-la-cabra-que-cambio-el-juego-online-gratis-hd-cinecalidad/Ver_GOAT__La_cabra_que_cambi%C3%B3_el_juego_Online_Gratis_HD_-_Cinecalidad.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg" group-title="movies" type="vod",Superman (2025)
+https://archive.org/download/ver-superman-2025-online-gratis-en-espanol-ver-peliculas-ultra-1-f/Ver_Superman_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra_1_f_.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="movies" type="vod",The Super Mario Bros. Movie (2023)
 https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.cinecalidad.com.mx_20230715/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20%282023%29.1080p.dual-lat.cinecalidad.com.mx.ia.mp4
 si
@@ -12,12 +18,25 @@ https://archive.org/download/super-mario-bros.-la-pelicula-2023.-1080p.dual-lat.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="movies" type="vod",The Super Mario Galaxy Movie (2026)
 https://dl.dropbox.com/scl/fi/csy8znqkszrkgvrwao24v/TSupMarG4lMov.226.-DL.mkv?rlkey=2pne2p4rishjfkavjv3ump3xg&st=rmtwq1tg&dl=0
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg" group-title="movies" type="vod",Frankenstein (2025)
+https://archive.org/download/ver-frankenstein-2025-online-gratis-en-espanol-ver-peliculas-ultra-f/Ver_Frankenstein_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra_f_.mp4
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/movie/158132/posters/66a34e0aa5e3a.jpg" group-title="movies" type="vod",Transformers One (2024)
 https://archive.org/download/transformers-one-sin-startalents-audio-limpio/Transformers%20One%20SIN%20STARTALENTS%20AUDIO%20LIMPIO.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg" group-title="movies" type="vod",When Mary And The Witch's Flower (2017)
+https://archive.org/download/ver-mary-y-la-flor-de-la-hechicera-online-gratis-cuevana-3-f/Ver_Mary_y_la_flor_de_la_hechicera_Online_Gratis_-_Cuevana_3_f_.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mXUCVq3HMtS4Y9IQ8vmEOPyN0vH.jpg" group-title="movies" type="vod",The Garden Of Words (2013)
 https://archive.org/download/c-63ee-684ce-0527225620c-5de-2a-880ee-9edfa-6fe-5-1/The%20Garden%20of%20Words%20%282013%29%20%5B1080p%20x265%20HEVC%2010bit%20BluRay%20Dual%20Audio%20AAC%205.1%5D%20%5BProf%5D.mkv
 https://archive.org/download/el-jardin-de-las-palabras-sd/El%20jard%C3%ADn%20de%20las%20palabras%20SD.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qOrBX1jyVF1OjbWREGPMDr9KWlG.jpg" group-title="movies" type="vod",El Cid: The Legend (2003)
+https://archive.org/download/el-cid-la-leyenda-2003-castellano-ok.-ru-4/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_El_Cid%2C_la_leyenda_%282003%29_Castellano___OK.RU_4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg" group-title="movies" type="vod",When Marnie Was There (2013)
+https://archive.org/download/ver-el-recuerdo-de-marnie-online-gratis-hd-cinecalidad-f/Ver_El_recuerdo_de_Marnie_Online_Gratis_HD_-_Cinecalidad_f_.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8XfIKOPmuCZLh5ooK13SPKeybWF.jpg" group-title="movies" type="vod",The Conjuring 4 (2025)
 https://archive.org/download/c-0nj.-225/C0nj.225.mp4
@@ -42,6 +61,8 @@ https://archive.org/download/jurassic-world-dominion_202207/Millers%20Girl.mkv
 
 https://archive.org/download/m-4rr-0b-0n.-217-dl/M1l5.G1l.224-SL-.mkv
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg" group-title="movies" type="vod" ,Predator Killer Of Killers (2025)
+https://archive.org/download/ver-predator-asesino-de-asesinos-2025-online-gratis-en-espanol-ver-peliculas-ultra-f/Ver_Predator__Asesino_De_Asesinos_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra_f_.mp4
 
 #EXTINF:-1 tvg-id="et1982" tvg-name="E.T The Extraterrestrial (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg" group-title="movies" type="vod" ,E.T. the Extra-Terrestrial (1982)
 #EXTVLCOPT:sub-file=https://www.opensubtitles.com/download/04172AC0BC63613AF16D22BFCC14FA4F85D9114AA9844CDC43B46CF2CEB...D9171D145D29D19EDF01EFE38C4852/subfile/E.T.The.Extra-Terrestrial.1982.720p.BluRay.X264-AMIABLE.srt
@@ -3699,6 +3720,7 @@ http://ia801408.us.archive.org/25/items/00000_20200528_2157/005.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGJiNWFlYTMtZTBiZi00ZTVmLWJmZmMtNzEzYzZjNzYzZmRmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Anastasia (1997)
 http://archive.org/download/ZU44V8H9/ANSTAS97.mkv
+https://archive.org/download/gigi-anastasia-1997-latino-toky-video/%E3%80%8EGigi%E2%99%A1%E3%80%8F%E2%AA%BCAnastasia%20%281997%29%20Latino%20-%20TokyVideo.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg" group-title="movies" type="vod",Beauty And The Beast (1991)
 https://archive.org/download/besfi/besfi.mkv
@@ -5997,19 +6019,22 @@ https://ia802807.us.archive.org/21/items/31d10745SRREGIO/31d10745SRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/usFenYnk6mr8C62dB1MoAfSWMGR.jpg" group-title="movies" type="vod",Home (2015)
 https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="movies" type="vod",Five Nights At Freddys (2025)
+https://archive.org/download/ver-five-nights-at-freddys-2-2025-online-gratis-en-espanol-ver-peliculas-ultra/Ver_Five_Nights_At_Freddy%E2%80%99s_2_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="movies" type="vod",Five Nights At Freddys (2023)
 https://archive.org/download/fnaf-la-pelicula-2023-espanol-latino/FNAF%20La%20Pelicula%202023%20Espa%C3%B1ol%20Latino.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="movies" type="vod",Five Nights At Freddys (2023)
 https://archive.org/download/fnaf-pelicula-2023-latam-espanol-480p/ESTRENO%202023%21%20Pelicula%2C%20Completa%20en%20Espanol%20Latino%20HD.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="movies" type="vod",Five Nights At Freddys (2023)
 https://archive.org/download/fnafmovie_202311/224973--20578098-50af-4c12-bd89-497bbfeb3dcd--gzxl--1879237-1fichier.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="movies" type="vod",Five Nights At Freddys (2023)
+
 https://archive.org/download/fnaf-1080p-hd-espanol-latino/FNAF_1080p_HD%20espa%C3%B1ol%20latino.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="movies" type="vod",Five Nights At Freddys (2023)
 https://archive.org/download/video.-guru-20231031-175155350/Video.Guru_20231031_175155350.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mbWOq4ZXeXFkzdxqzKaIm6AEwQ0.jpg" group-title="movies" type="vod",The Other Son (2023)
+https://archive.org/download/el-otro-hijo-rtvcplay-f/El_otro_hijo___RTVCPlay_f_.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kOqH8Q7YFj9Pfyan0XvwB71QxJR.jpg" group-title="movies" type="vod",Anne+ (2021)
 https://archive.org/download/anne-2021-cesser-16/Anne%2B%20%282021%29%20%40cesser16.mp4
@@ -10692,7 +10717,7 @@ https://archive.org/download/peli9/Surrogates%202009.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="movies" type="vod",F1 (2025)
-
+https://archive.org/download/ver-f-1-la-pelicula-2025-online-gratis-en-espanol-ver-peliculas-ultra_202604/Ver_F1_La_Pel%C3%ADcula_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7PoIAvL3Io5v0HyBliXfXZruQTi.jpg" group-title="movies" type="vod",The Infallibles (2024)
 
