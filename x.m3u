@@ -669,7 +669,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="News",7 Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-#EXTINF:-1 tvg-id="Delmi TV" tvg-name="Delmi TV" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
 
@@ -713,7 +713,7 @@ https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png" group-title="Kids",VariedTV
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Anime",Japanim TV 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Anime",Japanim TV 
 https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="BitMe" tvg-name="BitMe" tvg-language="es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" group-title="Anime",BitMe
@@ -743,7 +743,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="Kanade TV" tvg-name="Kanade TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Aniplex_logo.svg/512px-Aniplex_logo.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Kanade TV
 
-#EXTINF:-1 tvg-id="Retro TV" tvg-name="Retro TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Retro_TV_logo.svg/960px-Retro_TV_logo.svg.png?_=20250622223905" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Retro TV
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Retro_TV_logo.svg/960px-Retro_TV_logo.svg.png?_=20250622223905" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Retro TV
 https://stream.enlineatv.net/hls/retrotv/index.m3u8
 https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8?tkn=3487850315
 
@@ -786,7 +786,7 @@ https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
 #EXTINF:-1 tvg-id="68e8fd7c3ede4398bc69af93" tvg-name="Dragon Ball Z" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/250px-Dragon_Ball_Z_logo.svg.png" group-title="Anime",Dragonball 
 https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dragon Ball Super" tvg-name="Dragon Ball Super" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/960px-Dragon_Ball_Super.png" group-title="Anime",Dragon Ball Super 
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dragon_Ball_Super.png/960px-Dragon_Ball_Super.png" group-title="Anime",Dragon Ball Super 
 https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids" tvg-name="Magic Kids" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids
@@ -863,7 +863,7 @@ https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 #EXTINF:-1 tvg-id="6486e8984cfc2c0008b6844e" tvg-name="Beavis And Butt-Head" tvg-language="English"tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" group-title="Anime",Beavis And Butt-Head
 https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/X-Men_-_The_Animated_Series_-_logo.svg/960px-X-Men_-_The_Animated_Series_-_logo.svg.png" group-title="Anime",X-men Animated Series
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/X-Men_-_The_Animated_Series_-_logo.svg/960px-X-Men_-_The_Animated_Series_-_logo.svg.png" group-title="Anime",X-men Animated Series
 https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ADULT SWIM AR" tvg-name="ADULT SWIM AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png" group-title="Kids",ADULT SWIM AR
