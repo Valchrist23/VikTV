@@ -1308,9 +1308,9 @@ https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
 #EXTINF:-1 tvg-id="5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvg-country="Entertainment" tvg-url="" group-title="Music",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
-#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",The Box
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",The Box
 http://88.212.15.19/live/mb_hits/index.m3u8
-#EXTINF:-1 tvg-id="The Box" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",The Box
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",The Box
 http://88.212.15.19/live/mb_sexy/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/250px-The_Nest_2023.svg.png" group-title="Entertainment",The Nest
@@ -1358,7 +1358,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-#EXTINF:-1 tvg-id="6430aa45fc3be5947780904e-61aaa0cc784a2161d3caf7ff" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock
+#EXTINF:-1 tvg-id="64305451fc3be5947773c339-61aaa0cc784a2161d3caf7ff" tvg-name="Classic Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/CRR_Wappenlogo_ohne_Claim.jpg/250px-CRR_Wappenlogo_ohne_Claim.jpg" group-title="Music",Classic Rock
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 
 -----------------------------------------Sports----------------------------------------------------------
