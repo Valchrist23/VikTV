@@ -1287,7 +1287,7 @@ https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 http://40.160.24.55/VH1_WEST/index.m3u8
 http://rezofoot.tv/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="Entertainment" tvg-url="" group-title="Music",MTV
+#EXTINF:-1 tvg-id="MTV Centro" tvg-name="MTV Centro" tvg-language="English" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" tvg-country="Entertainment" tvg-url="" group-title="Music",MTV Centro
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
 #EXTINF:-1 tvg-id="654100b4bdf3cf0008aa49c7" tvg-name="MTV Hits" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-country="Entertainment" tvg-url="" group-title="Music",MTV Hits
