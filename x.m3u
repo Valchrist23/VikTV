@@ -235,7 +235,7 @@ https://aegis-cloudfront-1.tubi.video/111c4da1-f5e2-4e17-b4f0-74f64910e764/playl
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Internacional" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5923
 
-no
+no sirve
 https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
                         
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
@@ -1331,10 +1331,12 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-60d4edd7b2fdec002c14112d" tvg-name="NEW K-POP" tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
 
 #EXTINF:-1 tvg-id="ES3900001QG" tvg-name="CJ ENM K-POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/250px-CJ_ENM_Logo.svg.png" group-title="Music",CJ ENM K-POP
 https://d3kmrn2mstrnk5.cloudfront.net/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8
+
+https://jmp2.uk/plu-61560abb6ae4b60007300555.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="Korean" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" group-title="Music",K POP Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
