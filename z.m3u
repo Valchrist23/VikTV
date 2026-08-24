@@ -22,10 +22,10 @@ http://192.168.0.226:11470/113e2be9f6c1f07fbcf3af610c4590b334b7403c/6?
 http://192.168.0.226:11470/113e2be9f6c1f07fbcf3af610c4590b334b7403c/7?
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E09
 http://192.168.0.226:11470/113e2be9f6c1f07fbcf3af610c4590b334b7403c/8?
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E10
-http://192.168.0.226:11470/113e2be9f6c1f07fbcf3af610c4590b334b7403c/9?
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E11
-http://192.168.0.226:11470/113e2be9f6c1f07fbcf3af610c4590b334b7403c/10?
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S02E01
+http://127.0.0.1:11470/19a806cceb5ff4ca931fbad18c1dce8d4ce19443/1?
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E02
+http://127.0.0.1:11470/19a806cceb5ff4ca931fbad18c1dce8d4ce19443/2?
 
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/305288-4.jpg" group-title="series" group-title="series" type="series",Stranger Things S01E01
