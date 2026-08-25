@@ -193,7 +193,6 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Entertainment",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -1694,6 +1693,9 @@ http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0011/6192/brand.gif?itok=L4DEsj0u" group-title="Movies",Planeta TV
 https://tls-cl.cdnz.cl/planetatv/live/chunklist_w1372623251.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://canal5tvchepes.com.ar/wp-content/uploads/2022/08/logo-canal.png" group-title="Movies",TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" group-title="Entertainment",Click TV
 https://andromeda3.trapemn.tv:1936/Monitoreo_ClickTV/clicktv.stream/playlist.m3u8
