@@ -424,7 +424,10 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entertainment",A3Cine 
 #EXTINF:-1 tvg-id="A3Player Multicine" group-title="Esᴘᴀɴʜᴀ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/A3Player.png",A3Player Multicineᴴᴰ
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entertainment",A3Cine
-#EXTINF:-1 tvg-id="A3 Series" tvg-name="A3 Series" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entertainment",A3 Series
+
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="Spanish" tvg-logo="https://tvcozumel.mx/wp-content/uploads/2025/09/descarga-1-3-e1760467521457.png" tvg-country="ES" tvg-url="http://www.mi.tv" group-title="Entertainment",TV Cozumel
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/250px-TVE.svg.png" group-title="Entertainment",TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
