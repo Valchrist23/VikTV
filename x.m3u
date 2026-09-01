@@ -1588,6 +1588,8 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Acción - Rakuten TV 
 
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-673d2a870d39ac306d6f2ceb" tvg-name="Spark TV Light &amp; Love" tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Spark TV Light &amp; Love
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-673d2a870d39ac306d6f2ceb" tvg-name="Spark TV Light &amp; Love" tvg-logo="https://shop.ee.co.uk/content/dam/everything-everywhere/images/logos/rakuten_tv_480x270.png.eeimg.800.450.medium.png/1531219518746.png" group-title="Movies",Spark TV Light &amp; Love
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64305451fc3be5947773d339-6920da72" tvg-name="Sony One Series | Thriller TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sony_One_logo_2016.jpg" group-title="Movies",Sony One Series | Thriller TV
