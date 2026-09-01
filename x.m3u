@@ -513,10 +513,10 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 -----------------------------------------Kitchen--------------------------------------------- 
 
 #EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade
-https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
+https://d3ca4qxsdzlrju.cloudfront.net/Tastemade_Home.m3u8
 
 #EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade Viajes
-https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 nsi check
 https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/68b88712e777774982269ce9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijc1ZDM1NWZkLTFiZDEtNGQ5ZS1iNzJiLWFiYWJlOThhMjBiYiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzgxNTAxMjQ4LCJpYXQiOjE3ODE0MTQ4NDgsImp0aSI6ImQ1ZDJjZjYxLWFhZGMtNDMxYy05YzhiLWU2MDk2YmE1NDA1OSJ9.bTP-iT4Te8bbxeKBlnD451hUZFwKfOuF6v16SppScak
 
@@ -533,10 +533,9 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="elGourmet" tvg-name="elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="Entertainment",elGourmet
 
 #EXTINF:-1 tvg-id="6894febddbd49c964f3b66c8" tvg-name="Plato del Dia by elGourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png" group-title="Entertainment",Plato del Dia by elGourmet
-https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8
            
 #EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png" group-title="Entertainment",Dulce by elGourmet
-https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
+
 
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Entertainment",Pluto TV Cocina
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
