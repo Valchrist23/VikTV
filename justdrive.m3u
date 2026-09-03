@@ -1506,8 +1506,11 @@ https://archive.org/download/Es-PosthumusPompeii/EsPosthumus-Pompeii.mp3
 #EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus Nara
 https://archive.org/download/E.S.PosthumusUnearthed2001Nara/E.S.%20Posthumus%20-%20Unearthed%202001%20-%20Nara.flac
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus Unstopable
+#EXTINF:-1 tvg-logo="https://dn600307.us.archive.org/0/items/youtube-VoaUYcwEpSw/VoaUYcwEpSw.jpg" group-title="Music",E.S. Posthumus Unstopable
 https://archive.org/download/youtube-VoaUYcwEpSw/VoaUYcwEpSw.mp4
+
+#EXTINF:-1 tvg-logo="https://ia800702.us.archive.org/3/items/you_and_i_stories/You_And_I_Stories.jpg?cnt=0" group-title="Music",You And I Stories
+https://archive.org/download/you_and_i_stories/You_And_I_Stories.mp3
 
 #EXTINF:-1 tvg-logo="https://ia800704.us.archive.org/35/items/ultra-street-fighter-iv-complete-soundtrack/cover_thumb.jpg?cnt=0" group-title="Music",Street Fighter IV The Next Door Indestructible
 https://archive.org/download/ultra-street-fighter-iv-complete-soundtrack/Disc%202/2-01%20THE%20NEXT%20DOOR%20-INDESTRUCTIBLE-.flac
