@@ -71,8 +71,29 @@ https://archive.org/download/r_20220209_202202/Ritchie%20Valens-Donna.mp3
 #EXTINF:-1 tvg-logo="null" group-title="Music",Ritchie Valens We Belong Together
 https://archive.org/download/r_20220209_202202/Ritchie%20Valens%20-%20We%20Belong%20Together.mp3
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Ray Parker Ghostbusters
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-baltimora-tarzan-boy-extended-1993-remix/Baltimora%20-%20Tarzan%20Boy%20(1993)%20Single%20(EMI%20Music)%20Capa.jpg" group-title="Music",Tarzan Boy
+https://archive.org/download/02.-baltimora-tarzan-boy-extended-1993-remix/01.%20Baltimora%20-%20Tarzan%20Boy%20%281993%20Remix%29.mp3
+#EXTINF:-1 tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="Music",Tarzan Boy
+https://archive.org/download/TMNT3-Soundtrack/01%20Tarzan%20Boy.mp3
+
+#EXTINF:-1 tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="Music",ZZ Top Cant Stop Rocking
+https://archive.org/download/TMNT3-Soundtrack/02%20Can%27t%20Stop%20Rockin%27.mp3
+
+#EXTINF:-1 tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="Music",Turtle Power
+https://archive.org/download/TMNT3-Soundtrack/08%20Turtle%20Power.mp3
+
+#EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music",Ray Parker Ghostbusters
+https://archive.org/download/ghostbusters-ost/01%20Ray%20Parker%2C%20Jr.%20-%20Ghostbusters.flac
 https://archive.org/download/r_20220209_202202/Ray%20Parker%20Jr.%20-%20Ghostbusters.mp3
+#EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music",Ghostbusters Cleaning Up The Town
+https://archive.org/download/ghostbusters-ost/02%20Bus%20Boys%2C%20The%20-%20Cleanin%27%20Up%20the%20Town.flac
+#EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music",Ghostbusters In The Name Of Love
+https://archive.org/download/ghostbusters-ost/04%20Thompson%20Twins%2C%20The%20-%20In%20the%20Name%20of%20Love.flac
+#EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music",Ghostbusters Hot Night
+https://archive.org/download/ghostbusters-ost/06%20Laura%20Branigan%20-%20Hot%20Night.flac
+#EXTINF:-1 tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music",Ghostbusters Magic
+https://archive.org/download/ghostbusters-ost/07%20Mick%20Smiley%20-%20Magic.flac
+
 #EXTINF:-1 tvg-logo="null" group-title="Music",Steppenwolf Born To Be Wild
 https://archive.org/download/02.-born-to-be-wild-steppenwolf-1969-easy-rider-soundtrack/02.%20Born%20To%20Be%20Wild%20%28Steppenwolf%29%201969%20-%20Easy%20Rider%20%28Soundtrack%29.mp3
 
@@ -278,6 +299,12 @@ https://archive.org/download/youtube-ZP69PLBqFUo/ZP69PLBqFUo.mp4
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Bon Jovi Living on a Prayer
 https://archive.org/download/soundcloud-16737972/16737972.mp3
+
+#EXTINF:-1 tvg-logo="null" group-title="Music",Bon Jovi- You Give Love A Bad Name
+https://archive.org/download/pocket-rockers-bon-jovi-wanted-dead-or-alive-you-give-love-a-bad-name/Pocket%20Rockers%20-%20Bon%20Jovi%20-%20Wanted%20Dead%20Or%20Alive%20%26%20You%20Give%20Love%20A%20Bad%20Name.zip/01%20-%20You%20Give%20Love%20A%20Bad%20Name.flac
+
+#EXTINF:-1 tvg-logo="null" group-title="Music",Bon Jovi-  Wanted Dead Or Alive
+https://archive.org/download/pocket-rockers-bon-jovi-wanted-dead-or-alive-you-give-love-a-bad-name/Pocket%20Rockers%20-%20Bon%20Jovi%20-%20Wanted%20Dead%20Or%20Alive%20%26%20You%20Give%20Love%20A%20Bad%20Name.zip/02%20-%20Wanted%20Dead%20Or%20Alive.flac
 
 #EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan -Blue Blood- Blue Blood
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/BLUE%20BLOOD.flac
@@ -848,16 +875,18 @@ https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F05%20-%20Cloud%20Control%20-%20Just%20for%20Now.flac
 #EXTINF:-1 tvg-logo="null" group-title="Music",Magic Mike - Ringside Money 06
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F06%20-%20Ringside%20-%20Money.flac
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
+
+#EXTINF:-1 tvg-logo="https://ia600709.us.archive.org/35/items/Shaffer-KickstartMyHeartMotleyCrue/ksmh.jpg?cnt=0" group-title="Music",Montley Crue Kickstart My Heart
+https://archive.org/download/Shaffer-KickstartMyHeartMotleyCrue/Kickstart%20My%20Heart.mp3
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
-
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
-
-#EXTINF:-1 tvg-logo="null" group-title="Music",Null
-
+#EXTINF:-1 tvg-logo="null" group-title="Music",Judas Priest 10
+https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2010.flac
+#EXTINF:-1 tvg-logo="null" group-title="Music",Judas Priest 11
+https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2011.flac
+#EXTINF:-1 tvg-logo="null" group-title="Music",Judas Priest 12
+https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2012.flac
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
@@ -1451,6 +1480,11 @@ https://archive.org/download/E.S.PosthumusUnearthed2001Nara/E.S.%20Posthumus%20-
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus Unstopable
 https://archive.org/download/youtube-VoaUYcwEpSw/VoaUYcwEpSw.mp4
+
+#EXTINF:-1 tvg-logo="https://ia800704.us.archive.org/35/items/ultra-street-fighter-iv-complete-soundtrack/cover_thumb.jpg?cnt=0" group-title="Music",Street Fighter IV The Next Door Indestructible
+https://archive.org/download/ultra-street-fighter-iv-complete-soundtrack/Disc%202/2-01%20THE%20NEXT%20DOOR%20-INDESTRUCTIBLE-.flac
+#EXTINF:-1 tvg-logo="https://ia800704.us.archive.org/35/items/ultra-street-fighter-iv-complete-soundtrack/cover_thumb.jpg?cnt=0" group-title="Music",Street Fighter IV JAP.
+https://archive.org/download/ultra-street-fighter-iv-complete-soundtrack/Disc%204/4-01%20THE%20NEXT%20DOOR.flac
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Final Fantasy Remake OST Midgar City 1-02
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-02%20-%20Midgar%2C%20City%20of%20Mako.mp3
