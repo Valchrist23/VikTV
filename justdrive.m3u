@@ -541,18 +541,18 @@ https://archive.org/download/dirt_20260524/12%20Angry%20Chair.mp3
 #EXTINF:-1 tvg-logo="https://ia600402.us.archive.org/6/items/dirt-lp_202606/Alice%20in%20Chains%20Dirt%20LP%20HD_thumb.jpg?cnt=0" group-title="Music",Alice In Chains Dirt - Would 13
 https://archive.org/download/dirt_20260524/13%20Would.mp3
 
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Am I Evil 01
-https://archive.org/download/C-D-E-P/Am%20I%20Evil.mp3
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Blitzkrieg 02
-https://archive.org/download/C-D-E-P/Blitzkrieg.mp3
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Creeping Death 03
-https://archive.org/download/C-D-E-P/Creeping%20Death.mp3
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Jump In The Fire 04
-https://archive.org/download/C-D-E-P/Jump%20In%20The%20Fire.mp3
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Phantom Lord Live 05
-https://archive.org/download/C-D-E-P/Phantom%20Lord%20%28Live%29.mp3
-#EXTINF:-1 tvg-logo="https://ia801601.us.archive.org/9/items/C-D-E-P/cd.jpg?cnt=0" group-title="Music",Metallica - Creeping Death - Seek And Destroy Live 06
-https://archive.org/download/C-D-E-P/Seek%20And%20Destroy%20%28Live%29.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Am I Evil 01
+https://archive.org/download/02.-am-i-evil-remastered/02.%20Am%20I%20Evil%20%28Remastered%29.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Blitzkrieg 02
+https://archive.org/download/02.-am-i-evil-remastered/03.%20Blitzkrieg%20%28Remastered%29.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Creeping Death 03
+https://archive.org/download/02.-am-i-evil-remastered/01.%20Creeping%20Death%20%28Remastered%29.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Jump In The Fire 04
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Phantom Lord Live 05
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Seek And Destroy Live 06
+
 
 #EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/3/items/metallica_black_album_remastered/cover.jpg?cnt=0" group-title="Music",Metallica - Black Album - Enter Sandman 01
 https://archive.org/download/metallica_black_album_remastered/01%20Enter%20Sandman%20%28Remastered%29.mp3
