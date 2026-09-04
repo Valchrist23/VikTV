@@ -133,8 +133,15 @@ https://archive.org/download/02.-born-to-be-wild-steppenwolf-1969-easy-rider-sou
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",ACDC Highway to Hell
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Madona La Isla Bonita
-https://archive.org/download/Madona_008/Madona-LaIslaBonita.mp3
+#EXTINF:-1 tvg-logo="https://ia803202.us.archive.org/30/items/madonna-the-singles-collection-83-89-2024/00-COLLECTION%20CD%2082-89-by%20novak.jpg?cnt=0" group-title="Music",Madona - Like A Virgin
+https://archive.org/download/madonna-the-singles-collection-83-89-2024/05.%20Like%20A%20Virgin%20%28Album%20Version%29.mp3
+#EXTINF:-1 tvg-logo="https://ia803202.us.archive.org/30/items/madonna-the-singles-collection-83-89-2024/00-COLLECTION%20CD%2082-89-by%20novak.jpg?cnt=0" group-title="Music",Madona - Material Girl
+https://archive.org/download/madonna-the-singles-collection-83-89-2024/06.%20Material%20Girl%20%28Album%20Version%29.mp3
+
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/les-enfoires-live-2001" group-title="Music",Alizee - La Isla Bonita
+https://archive.org/download/alizeelaislabonita2000/%28%EC%9B%94%EB%93%9C%29%20Alizee%20-%20La%20Isla%20Bonita%202000.mp3
+#EXTINF:-1 tvg-logo="https://ia601401.us.archive.org/22/items/bolerojonze2026-07-18.se8_h5s/cover.jpg?cnt=0" group-title="Music",Bolero Jonze Live at Tucson - La Isla Bonita
+https://archive.org/download/bolerojonze2026-07-18.se8_h5s/03%20-%20La%20Isla%20Bonita.flac
 
 #EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="Music",A-ha - The Sun Always Shines On TV 01 
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%201/A-ha%20-%20The%20Sun%20always%20shines%20on%20T.V..mp3
@@ -166,6 +173,9 @@ https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%2
 
 #EXTINF:-1 tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/48/26/97/attachment_cover-4c35a5b9-8142-4024-bf89-1a65392121e2-crop-c0-5__0-5-600x600-95.jpg" group-title="Music",Top Gun Film Intro
 https://archive.org/download/TopGunThemeFilmVersionDangerZone/TopGunAnthemDangerzoneFilmIntro.mp3
+
+#EXTINF:-1 tvg-logo="https://ia801800.us.archive.org/22/items/01_20240712_20240712_0341/FOREIGNER1982-02-01ad.jpg?cnt=0" group-title="Music",Foreigner - Head Games 08
+https://archive.org/download/01_20240712_20240712_0341/08.flac
 
 #EXTINF:-1 tvg-logo="https://audio.liberta.vip/media/__sized__/attachments/d4/d6/79/attachment_cover-ea3b813d-9988-4921-b10b-39706b498147-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",(Summit No More Running Mix) Celest
 
@@ -209,6 +219,38 @@ https://archive.org/download/yngwie-malmsteen-spellbound-live-in-tampa-2016-16-4
 
 #EXTINF:-1 tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/86/b9/da/attachment_cover-4a6d0ddd-44b6-4136-8fd6-12e49acfffc1-crop-c0-5__0-5-200x200-95.jpg" group-title="Music",Guitarra Espaniola
 
+
+
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Krank 01
+https://archive.org/download/WTF-KMFDM/A1-%20Krank.mp3
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Take It Like A Man
+https://archive.org/download/WTF-KMFDM/E-Take%20It%20Like%20A%20Man.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Viva La Mort
+https://archive.org/download/WTF-KMFDM/F-Vive%20La%20Mort_%20%5BobJsDu169b4%5D.mp3
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Dystopia
+https://archive.org/download/WTF-KMFDM/G-Dystopia.mp3
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Panzerfaust
+https://archive.org/download/WTF-KMFDM/H-Panzerfaust.mp3
+#EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="Music",KMFDM - WTF?! Spectre
+https://archive.org/download/WTF-KMFDM/I-Spectre.mp3
+
+#EXTINF:-1 tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="Music",KMFDM - Angst Light 01
+https://archive.org/download/kmfdm-angst-remastered-flac/01%20Light.flac
+
+#EXTINF:-1 tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="Music",KMFDM - Angst Lust 04
+https://archive.org/download/kmfdm-angst-remastered-flac/04%20Lust.flac
+
+#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="Music",KMFDM - Hau Ruck Professional Killer
+https://archive.org/download/hau-ruck/08%20Professional%20Killer.flac
+
+#EXTINF:-1 tvg-logo="https://ia601008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="Music",KMFDM - Kunst Kunst 01
+https://archive.org/download/1761293425_kunst/Kunst/01%20KMFDM%20-%20Kunst.flac
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="Music",KMFDM - Hell Yeah - A Drug Against War 01
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/A%20DUB%20AGAINST%20WAR.mp3
+#EXTINF:-1 tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="Music",KMFDM - Hell Yeah - Dejavu
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/D%C3%89J%C3%80%20VU.mp3
 
 #EXTINF:-1 tvg-logo="https://ia800500.us.archive.org/20/items/botcon97tillallareone/%27Til%20All%20Are%20One%20Featuring%20Stan%20Bush%20and%20Vince%20DiCola/cover.jpg?cnt=0" group-title="Music",Stan Bush - Transformers The Touch 01
 https://archive.org/download/botcon97tillallareone/%27Til%20All%20Are%20One%20Featuring%20Stan%20Bush%20and%20Vince%20DiCola/Disc%201%20Stan%20Bush%20Call%20To%20Action/01.%20The%20Touch%20%281997%20Remix%29.mp3
