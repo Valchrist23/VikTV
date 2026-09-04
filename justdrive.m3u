@@ -74,21 +74,21 @@ https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Big Gun 
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Hell Bells
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Hell Bells
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/01%20Hells%20Bells.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Shoot To Thrill 
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Shoot To Thrill 
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/02%20Shoot%20To%20Thrill.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - What Do You Do For Money 
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - What Do You Do For Money 
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/03%20What%20Do%20You%20Do%20For%20Money%20Honey.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Back In Black 
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Back In Black 
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/06%20Back%20In%20Black.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - You Shook Me All Night Long
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - You Shook Me All Night Long
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/07%20You%20Shook%20Me%20All%20Night%20Long.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Have A Drink On Me
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Have A Drink On Me
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/08%20Have%20A%20Drink%20On%20Me.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Shake My Leg
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Shake My Leg
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/09%20Shake%20A%20Leg.mp3
-#EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Rock And Roll Aint Noise Pollution
+#EXTINF:-1 tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="Music",ACDC - Rock And Roll Aint Noise Pollution
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/10%20Rock%20And%20Roll%20Ain_t%20Noise%20Pollution.mp3
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",ACDC - Highway to Hell 
@@ -404,10 +404,37 @@ https://archive.org/download/bloodstained-ritual-of-the-night-original-soundtrac
 #EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/18/items/teenage-mutant-ninja-turtles-original-1990-motion-picture-soundtrack/cover.jpg?cnt=0" group-title="Music",Teenage Mutant Ninja Turtles 
 https://archive.org/download/teenage-mutant-ninja-turtles-original-1990-motion-picture-soundtrack/02.%20Teenage%20Mutant%20Ninja%20Turtles.mp3
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",The Turtles - Happy Together
+#EXTINF:-1 tvg-logo="https://ia600401.us.archive.org/23/items/LAMUSICAQUEMEGUSTA_TTHPTGR/the-turtles-happy-together-%20White%20Whale%201967.jpg?cnt=0" group-title="Music",The Turtles - Happy Together
+https://archive.org/download/LAMUSICAQUEMEGUSTA_TTHPTGR/The%20Turtles%20-%20Happy%20Together.mp3
 https://archive.org/download/youtube-BqZ6sRHpWIk/BqZ6sRHpWIk.mp4
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",Googoo Dolls Iris
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - Dizzy 01
+https://archive.org/download/googoodolls_202607/01%20-%20Dizzy.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - Slide 02
+https://archive.org/download/googoodolls_202607/02%20-%20Slide.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - Broadway 03
+https://archive.org/download/googoodolls_202607/03%20-%20Broadway.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - January Friend 04
+https://archive.org/download/googoodolls_202607/04%20-%20January%20Friend.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - Black Ballon 05
+https://archive.org/download/googoodolls_202607/05%20-%20Black%20Balloon.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/06%20-%20Bullet%20Proof.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/07%20-%20Amigone.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/08%20-%20All%20Eyes%20on%20Me.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/09%20-%20Full%20Forever.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/10%20-%20Acoustic%20%233.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - 
+https://archive.org/download/googoodolls_202607/12%20-%20Extra%20Pale.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - I Hate This Place 13
+https://archive.org/download/googoodolls_202607/13%20-%20Hate%20This%20Place.flac
+#EXTINF:-1 tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="Music",Googoo Dolls - Iris 11
+https://archive.org/download/googoodolls_202607/11%20-%20Iris.flac
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/0Front.jpg" group-title="Music",Duran Duran - The Reflex
 https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/01.%20Duran%20Duran%20-%20The%20Reflex.flac
 #EXTINF:-1 tvg-logo="https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/0Front.jpg" group-title="Music",Erasure - Lamoure
@@ -480,9 +507,9 @@ https://archive.org/download/x-japan-blue-blood/Blue%20Blood/WEEK%20END.flac
 #EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood- Weekend
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/WEEK%20END.mp3
 
-#EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood- X
+#EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood - X
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/X.flac
-#EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood- X
+#EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood - X
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/X.mp3
 
 #EXTINF:-1 tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="Music",X-Japan - Blue Blood- Xclamation
@@ -498,7 +525,7 @@ https://archive.org/download/say-anything_202601/JEALOUSY/Desperate%20Angel.mp3
 https://archive.org/download/say-anything_202601/JEALOUSY/Es%20Dur%20%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%9A.flac
 #EXTINF:-1 tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="Music",X-Japan Es Dur
 https://archive.org/download/say-anything_202601/JEALOUSY/Es%20Dur%20%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%9A.mp3
-#EXTINF:-1 tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="Music",X-Japan Joker
+#EXTINF:-1 tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="Music",X-Japan - Joker
 https://archive.org/download/say-anything_202601/JEALOUSY/Joker.flac
 #EXTINF:-1 tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="Music",X-Japan - Joker
 https://archive.org/download/say-anything_202601/JEALOUSY/Joker.mp3
@@ -558,23 +585,23 @@ https://archive.org/download/lastlive/Disc%203/The%20Last%20Song.flac
 #EXTINF:-1 tvg-logo="https://ia800408.us.archive.org/30/items/lastlive/lastlive.jpg?cnt=0" group-title="Music",X-Japan - Last Live- CD 3 X 06
 https://archive.org/download/lastlive/Disc%203/X.flac
 
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Dear Loser 01
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Dear Loser 01
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/01.%20DEAR%20LOSER.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Vanishing Love 02
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Vanishing Love 02
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/02.%20VANISHING%20LOVE.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Phantom Of Guilt 03
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Phantom Of Guilt 03
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/03.%20PHANTOM%20OF%20GUILT.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Sadistic Desire 04
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Sadistic Desire 04
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/04.%20SADISTIC%20DESIRE.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Give Me The Pleasure 05
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Give Me The Pleasure 05
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/05.%20GIVE%20ME%20THE%20PLEASURE.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Ill Kill You 06
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Ill Kill You 06
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/06.%20I%E2%80%99LL%20KILL%20YOU.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Alive 07
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Alive 07
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/07.%20ALIVE.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Kurenai 08
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Kurenai 08
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/08.%20KURENAI.flac
-#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision- Un-Finished 09
+#EXTINF:-1 tvg-logo="https://ia802809.us.archive.org/35/items/vanishing-vision/1988%20-%20Vanishing%20Vision/13434.jpg?cnt=0" group-title="Music",X-Japan - Vanishing Vision - Un-Finished 09
 https://archive.org/download/vanishing-vision/1988%20-%20Vanishing%20Vision/09.%20UN%E2%80%90FINISHED%E2%80%A6.flac
 
 #EXTINF:-1 tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="Music",Nirvana - Higher State Of Mind- Breed 01
@@ -625,36 +652,36 @@ https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/22%20-%20Te
 https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/23%20-%20Lithium.flac
 #EXTINF:-1 tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="Music",Nirvana - Higher State Of Mind-
 
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged About A Girl 01
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - About A Girl 01
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/01%20Nirvana%20-%20About%20A%20Girl.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Come As You Are 02
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Come As You Are 02
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/02%20Nirvana%20-%20Come%20As%20You%20Are.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Jesus Doesnt Want Me For a Sunbeam 03
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Jesus Doesnt Want Me For a Sunbeam 03
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/03%20Nirvana%20-%20Jesus%20Doesn%27t%20Want%20Me%20For%20A%20Sunbeam.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged The Man Who Sold The World 04
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - The Man Who Sold The World 04
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/04%20Nirvana%20-%20The%20Man%20Who%20Sold%20The%20World.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Pennyroyal Tea 05
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Pennyroyal Tea 05
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/05%20Nirvana%20-%20Pennyroyal%20Tea.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Dumb 06
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Dumb 06
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/06%20Nirvana%20-%20Dumb.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Polly 07
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Polly 07
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/07%20Nirvana%20-%20Polly.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged On A Plain 08
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - On A Plain 08
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/08%20Nirvana%20-%20On%20A%20Plain.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Something In The Way 09
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Something In The Way 09
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/09%20Nirvana%20-%20Something%20In%20The%20Way.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Plateau 10
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Plateau 10
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/10%20Nirvana%20-%20Plateau.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Oh Me 11
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Oh Me 11
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/11%20Nirvana%20-%20Oh%20Me.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Lake Of Fire 12
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Lake Of Fire 12
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/12%20Nirvana%20-%20Lake%20Of%20Fire.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged All Apologies 13
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - All Apologies 13
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/13%20Nirvana%20-%20All%20Apologies.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged Where Did You Sleep Last Night 14
+#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="Music",Nirvana - Unplugged - Where Did You Sleep Last Night 14
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/14%20Nirvana%20-%20Where%20Did%20You%20Sleep%20Last%20Night.flac
 
-#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/13/items/Killing-Yourself-alice-in-chains/418466435305_800.jpg?cnt=0" group-title="Music",Alicec In Chains Killing Yourself
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/13/items/Killing-Yourself-alice-in-chains/418466435305_800.jpg?cnt=0" group-title="Music",Alicec In Chains - Killing Yourself
 https://archive.org/download/Killing-Yourself-alice-in-chains/Killing%20Yourself%20%28Remastered%20Vinyl%20Rip%202022%29.flac
 https://archive.org/download/Killing-Yourself-alice-in-chains/Killing%20Yourself%20%28Remastered%29.flac
 
@@ -685,47 +712,47 @@ https://archive.org/download/dirt_20260524/12%20Angry%20Chair.mp3
 #EXTINF:-1 tvg-logo="https://ia803108.us.archive.org/10/items/dirt_20260524/cover.jpg?cnt=0" group-title="Music",Alice In Chains - Dirt- Would 13
 https://archive.org/download/dirt_20260524/13%20Would.mp3
 
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Rotten Apple 01
-https://archive.org/download/01-rotten-apple_202512/01%20Rotten%20Apple.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Nutshell 02
-https://archive.org/download/01-rotten-apple_202512/02%20Nutshell.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies I Stay Away 03
-https://archive.org/download/01-rotten-apple_202512/03%20I%20Stay%20Away.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies No Excuses 04 
-https://archive.org/download/01-rotten-apple_202512/04%20No%20Excuses.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Whale & Wasp 05
-https://archive.org/download/01-rotten-apple_202512/05%20Whale%20%26%20Wasp.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Dont Follow 06
-https://archive.org/download/01-rotten-apple_202512/06%20Don%E2%80%99t%20Follow.flac
-#EXTINF:-1 tvg-logo="https://dn801205.us.archive.org/0/items/01-rotten-apple_202512/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Swing On This 07
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Rotten Apple 01
+https://archive.org/download/r-3478939-1583685057-9679/01%20Rotten%20Apple.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Nutshell 02
+https://archive.org/download/r-3478939-1583685057-9679/02%20Nutshell.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies I Stay Away 03
+https://archive.org/download/r-3478939-1583685057-9679/03%20I%20Stay%20Away.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies No Excuses 04 
+https://archive.org/download/r-3478939-1583685057-9679/04%20No%20Excuses.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Whale & Wasp 05
+https://archive.org/download/r-3478939-1583685057-9679/05%20Whale%20%26%20Wasp.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Dont Follow 06
+https://archive.org/download/r-3478939-1583685057-9679/06%20Don%27t%20Follow.flac
+#EXTINF:-1 tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="Music",Alice In Chains - Jar Of Flies Swing On This 07
 https://archive.org/download/01-rotten-apple_202512/07%20Swing%20on%20This.flac
 
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Nutshell 01
-https://archive.org/download/12-over-now/01%20Nutshell.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Brother 02
-https://archive.org/download/12-over-now/02%20Brother.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged No Excuses 03
-https://archive.org/download/12-over-now/03%20No%20Excuses.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Sludge Factory 04
-https://archive.org/download/12-over-now/04%20Sludge%20Factory.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Down In A Hole 05
-https://archive.org/download/12-over-now/05%20Down%20in%20a%20Hole.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Angry Chair 06
-https://archive.org/download/12-over-now/06%20Angry%20Chair.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Rooster 07
-https://archive.org/download/12-over-now/07%20Rooster.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Got Me Wrong 08
-https://archive.org/download/12-over-now/08%20Got%20Me%20Wrong.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Heaven Beside You 09
-https://archive.org/download/12-over-now/09%20Heaven%20Beside%20You.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Would? 10
-https://archive.org/download/12-over-now/10%20Would%20.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Frogs 11
-https://archive.org/download/12-over-now/11%20Frogs.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Over Now 12
-https://archive.org/download/12-over-now/12%20Over%20Now.flac
-#EXTINF:-1 tvg-logo="https://dn601306.us.archive.org/0/items/12-over-now/Cover.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Killer Is Me 13
-https://archive.org/download/12-over-now/13%20Killer%20Is%20Me.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Nutshell 01
+https://archive.org/download/r-4126594-1700918672-1505/01%20Nutshell.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Brother 02
+https://archive.org/download/r-4126594-1700918672-1505/02%20Brother.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged No Excuses 03
+https://archive.org/download/r-4126594-1700918672-1505/03%20No%20Excuses.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Sludge Factory 04
+https://archive.org/download/r-4126594-1700918672-1505/04%20Sludge%20Factory.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Down In A Hole 05
+https://archive.org/download/r-4126594-1700918672-1505/05%20Down%20In%20A%20Hole.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Angry Chair 06
+https://archive.org/download/r-4126594-1700918672-1505/06%20Angry%20Chair.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Rooster 07
+https://archive.org/download/r-4126594-1700918672-1505/07%20Rooster.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Got Me Wrong 08
+https://archive.org/download/r-4126594-1700918672-1505/08%20Got%20Me%20Wrong.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Heaven Beside You 09
+https://archive.org/download/r-4126594-1700918672-1505/09%20Heaven%20Beside%20You.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Would? 10
+https://archive.org/download/r-4126594-1700918672-1505/10%20Would.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Frogs 11
+https://archive.org/download/r-4126594-1700918672-1505/11%20Frogs.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Over Now 12
+https://archive.org/download/r-4126594-1700918672-1505/12%20Over%20Now.flac
+#EXTINF:-1 tvg-logo="https://ia803208.us.archive.org/28/items/r-4126594-1700918672-1505/R-4126594-1700918672-1505.jpg?cnt=0" group-title="Music",Alice In Chains - MTV Unplugged Killer Is Me 13
+https://archive.org/download/r-4126594-1700918672-1505/13%20Killer%20Is%20Me.flac
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/02.-am-i-evil-remastered/R-8438437-1618608460-9077.jpg" group-title="Music",Metallica - Creeping Death - Am I Evil 01
 https://archive.org/download/02.-am-i-evil-remastered/02.%20Am%20I%20Evil%20%28Remastered%29.mp3
@@ -785,61 +812,61 @@ https://archive.org/download/20250927_20250927_1037/08%20%28Metallica%29%20To%20
 #EXTINF:-1 tvg-logo="https://dn801300.us.archive.org/0/items/08-metallica-to-live-is-to-die/Folder.jpg?cnt=0" group-title="Music",Metallica - And Justice For All - Dyers Eve 09
 https://archive.org/download/20250927_20250927_1037/09%20%28Metallica%29%20Dyers%20Eve.flac
 
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Aint My Bitch 01
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Aint My Bitch 01
 https://archive.org/download/13.-fixxxer_202310/01.%20Ain%27t%20My%20Bitch.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load 2 x 4 02
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - 2 x 4 02
 https://archive.org/download/13.-fixxxer_202310/02.%202%20x%204.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load The House That Jack Built 03
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - The House That Jack Built 03
 https://archive.org/download/13.-fixxxer_202310/03.%20The%20House%20Jack%20Built.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Until It Sleeps 04
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Until It Sleeps 04
 https://archive.org/download/13.-fixxxer_202310/04.%20Until%20It%20Sleeps.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load King Nothing 05
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - King Nothing 05
 https://archive.org/download/13.-fixxxer_202310/05.%20King%20Nothing.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Hero Of The Day 06
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Hero Of The Day 06
 https://archive.org/download/13.-fixxxer_202310/06.%20Hero%20Of%20The%20Day.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Bleeding Me 07
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Bleeding Me 07
 https://archive.org/download/13.-fixxxer_202310/07.%20Bleeding%20Me.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Cure 08
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Cure 08
 https://archive.org/download/13.-fixxxer_202310/08.%20Cure.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Poor Twised Me 09
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Poor Twised Me 09
 https://archive.org/download/13.-fixxxer_202310/09.%20Poor%20Twisted%20Me.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Waisting My Hate 10
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Waisting My Hate 10
 https://archive.org/download/13.-fixxxer_202310/10.%20Wasting%20My%20Hate.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Mama Said 11
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Mama Said 11
 https://archive.org/download/13.-fixxxer_202310/11.%20Mama%20Said.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Thorn Within 12
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Thorn Within 12
 https://archive.org/download/13.-fixxxer_202310/12.%20Thorn%20Within.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load Ronnie 13
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - Ronnie 13
 https://archive.org/download/13.-fixxxer_202310/13.%20Ronnie.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load The Owtlaw Thorn 14
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load - The Owtlaw Thorn 14
 https://archive.org/download/13.-fixxxer_202310/14.%20The%20Outlaw%20Torn.mp3
 
 
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Fuel 01
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Fuel 01
 https://archive.org/download/13.-fixxxer_202310/01.%20Fuel.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load The Memories Remain 02
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - The Memories Remain 02
 https://archive.org/download/13.-fixxxer_202310/02.%20The%20Memory%20Remains.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Devils Dance 03
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Devils Dance 03
 https://archive.org/download/13.-fixxxer_202310/03.%20Devil%27s%20Dance.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Load The Unforgiven II 04
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - The Unforgiven II 04
 https://archive.org/download/13.-fixxxer_202310/04.%20The%20Unforgiven%20II.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Better Than You 05
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Better Than You 05
 https://archive.org/download/13.-fixxxer_202310/05.%20Better%20Than%20You.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Slitter 06
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Slitter 06
 https://archive.org/download/13.-fixxxer_202310/06.%20Slither.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Carpe Diem Baby 07
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Carpe Diem Baby 07
 https://archive.org/download/13.-fixxxer_202310/07.%20Carpe%20Diem%20Baby.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Bad Seed 08
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Bad Seed 08
 https://archive.org/download/13.-fixxxer_202310/08.%20Bad%20Seed.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Where The Wild Things Are 09
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Where The Wild Things Are 09
 https://archive.org/download/13.-fixxxer_202310/09.%20Where%20The%20Wild%20Things%20Are.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Prince Charming 10
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Prince Charming 10
 https://archive.org/download/13.-fixxxer_202310/10.%20Prince%20Charming.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Low Mans Lyric 11
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Low Mans Lyric 11
 https://archive.org/download/13.-fixxxer_202310/11.%20Low%20Man%27s%20Lyric.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Attitude 12
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Attitude 12
 https://archive.org/download/13.-fixxxer_202310/12.%20Attitude.mp3
-#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load Fixxer 13
+#EXTINF:-1 tvg-logo="https://dn801302.us.archive.org/0/items/13.-fixxxer_202310/metallica-load-reload.jpg?cnt=0" group-title="Music",Metallica - Re-Load - Fixxer 13
 https://archive.org/download/13.-fixxxer_202310/13.%20Fixxxer.mp3
 
 
@@ -973,7 +1000,7 @@ https://archive.org/download/blade-soundtrack_202602/12%20New%20Order%20-%20Conf
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
-#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/2/items/queen-of-the-damned-ost/Folder.jpg?cnt=0" group-title="Music",Queen Of The Damned Soundtrack Dead Cell 06
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/2/items/queen-of-the-damned-ost/Folder.jpg?cnt=0" group-title="Music",Queen Of The Damned Soundtrack - Dead Cell 06
 https://archive.org/download/queen-of-the-damned-ost/06%20Papa%20Roach%20-%20Dead%20Cell.flac
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
@@ -1023,7 +1050,7 @@ https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%
 #EXTINF:-1 tvg-logo="https://ia600709.us.archive.org/35/items/Shaffer-KickstartMyHeartMotleyCrue/ksmh.jpg?cnt=0" group-title="Music",Motley Crue - Kickstart My Heart
 https://archive.org/download/Shaffer-KickstartMyHeartMotleyCrue/Kickstart%20My%20Heart.mp3
 
-#EXTINF:-1 tvg-logo="https://dn710701.ca.archive.org/0/items/06OutInTheCold/f.jpg" group-title="Music",Judas Priest - Turbo Lover 01
+#EXTINF:-1 tvg-logo="https://archive.org/download/06OutInTheCold/f.jpg" group-title="Music",Judas Priest - Turbo Lover 01
 https://archive.org/download/06OutInTheCold/01-TurboLover.mp3
 #EXTINF:-1 tvg-logo="null" group-title="Music",Judas Priest - 10
 https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2010.flac
@@ -1613,16 +1640,16 @@ https://archive.org/download/spawn-ost/07%20Stabbing%20Westward%20%26%20Wink%20-
 
 #EXTINF:-1 tvg-logo="null" group-title="Music",Null
 
-#EXTINF:-1 tvg-logo="https://ia600403.us.archive.org/24/items/batteries-not-included-score/folder.jpg?cnt=0" group-title="Music",Batteries Not Included Soundtrack- Cafe Swing 03
+#EXTINF:-1 tvg-logo="https://ia600403.us.archive.org/24/items/batteries-not-included-score/folder.jpg?cnt=0" group-title="Music",Batteries Not Included Soundtrack - Cafe Swing 03
 https://archive.org/download/batteries-not-included-score/03.%20Cafe%20Swing.flac
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus Pompeii
+#EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus - Pompeii
 https://archive.org/download/Es-PosthumusPompeii/EsPosthumus-Pompeii.mp3
 
-#EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus Nara
+#EXTINF:-1 tvg-logo="null" group-title="Music",E.S. Posthumus - Nara
 https://archive.org/download/E.S.PosthumusUnearthed2001Nara/E.S.%20Posthumus%20-%20Unearthed%202001%20-%20Nara.flac
 
-#EXTINF:-1 tvg-logo="https://dn600307.us.archive.org/0/items/youtube-VoaUYcwEpSw/VoaUYcwEpSw.jpg" group-title="Music",E.S. Posthumus Unstopable
+#EXTINF:-1 tvg-logo="https://dn600307.us.archive.org/0/items/youtube-VoaUYcwEpSw/VoaUYcwEpSw.jpg" group-title="Music",E.S. Posthumus - Unstopable
 https://archive.org/download/youtube-VoaUYcwEpSw/VoaUYcwEpSw.mp4
 
 #EXTINF:-1 tvg-logo="https://ia800702.us.archive.org/3/items/you_and_i_stories/You_And_I_Stories.jpg?cnt=0" group-title="Music",You And I Stories
