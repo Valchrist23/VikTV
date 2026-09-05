@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="spa",NAME="Español",AUTOSELECT=YES,DEFAULT=YES,URI="https://archive.org/download/final-fantasy-vii-advent-children_DVD-Rip/bien-xvid-ff7.srt"
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,SUBTITLES="subs"
+https://archive.org/download/final-fantasy-vii-advent-children-complete-1080p60/Final%20Fantasy%20VII%E2%80%94Advent%20Children%20Complete%E3%80%901080p60%E3%80%91.ia.mp4
