@@ -119,16 +119,17 @@ https://archive.org/download/TMNT3-Soundtrack/08%20Turtle%20Power.mp3
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="Music" type="music",Ninja Turtle 
 https://archive.org/download/teenage-mutant-ninja-turtles-original-1990-motion-picture-soundtrack/02.%20Teenage%20Mutant%20Ninja%20Turtles.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ray Parker - Ghostbusters
+#EXTINF:-1 tvg-id="Ghostbusters track 01" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ray Parker - Ghostbusters
 https://archive.org/download/ghostbusters-ost/01%20Ray%20Parker%2C%20Jr.%20-%20Ghostbusters.flac
+#EXTINF:-1 tvg-id="Ghostbusters track 01" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ray Parker - Ghostbusters
 https://archive.org/download/r_20220209_202202/Ray%20Parker%20Jr.%20-%20Ghostbusters.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Cleaning Up The Town
+#EXTINF:-1 tvg-id="Ghostbusters track 02" tvg-name="Cleaning Up The Town" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Cleaning Up The Town
 https://archive.org/download/ghostbusters-ost/02%20Bus%20Boys%2C%20The%20-%20Cleanin%27%20Up%20the%20Town.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - In The Name Of Love
+#EXTINF:-1 tvg-id="Ghostbusters track 04" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - In The Name Of Love
 https://archive.org/download/ghostbusters-ost/04%20Thompson%20Twins%2C%20The%20-%20In%20the%20Name%20of%20Love.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Hot Night
+#EXTINF:-1 tvg-id="Ghostbusters track 06" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Hot Night
 https://archive.org/download/ghostbusters-ost/06%20Laura%20Branigan%20-%20Hot%20Night.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Magic
+#EXTINF:-1 tvg-id="Ghostbusters track 07" tvg-name="null" tvg-logo="https://ia600404.us.archive.org/31/items/ghostbusters-ost/Folder.jpg?cnt=0" group-title="Music" type="music",Ghostbusters - Magic
 https://archive.org/download/ghostbusters-ost/07%20Mick%20Smiley%20-%20Magic.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="Music" type="music",Santo & Johnny - Sleepwalker
