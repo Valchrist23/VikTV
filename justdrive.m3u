@@ -272,14 +272,14 @@ https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%2
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Top Gun Theme" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E01
 https://archive.org/download/tvtunes_7213/Top%20Gun.mp3
-https://archive.org/download/TopGunThemeFilmVersionDangerZone/TopGunAnthemDangerzoneFilmIntro.mp3
 #EXTINF:-1 tvg-id="Track 02" tvg-name="Cheap Trick - Mighty Wings" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E02
 https://archive.org/download/01-danger-zone/02%20Mighty%20Wings.mp3
 #EXTINF:-1 tvg-id="Track 03" tvg-name="Danger Zone" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E03
 https://archive.org/download/top-gun-danger-zone/TOP%20GUN%20-%20Danger%20Zone.mp3
 #EXTINF:-1 tvg-id="Track 10" tvg-name="Berlin - Take My Breath Away" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E10
 https://archive.org/download/LuvCollectionMovieLuv/03%20Take%20My%20Breath%20Away.mp3
-
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Top Gun Theme" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S00E01
+https://archive.org/download/TopGunThemeFilmVersionDangerZone/TopGunAnthemDangerzoneFilmIntro.mp3
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Soul Doctor" tvg-logo="https://ia800703.us.archive.org/21/items/theverybestandbeyond/Folder.jpg?cnt=0" group-title="music" type="series",Foreigner - S01E01
 https://archive.org/download/theverybestandbeyond/01%20Soul%20Doctor.flac
@@ -354,7 +354,6 @@ https://archive.org/download/player-st-1977-danger-zone-1978/17%20-%20Join%20In%
 https://archive.org/download/player-st-1977-danger-zone-1978/18%20-%20Wait%20Until%20Tomorrow.flac
 #EXTINF:-1 tvg-id="Track 19" tvg-name="Let Me Down Easy" tvg-logo="https://archive.org/download/player-st-1977-danger-zone-1978/Div.jpg" group-title="music" type="series",Player - Danger Zone - S01E19
 https://archive.org/download/player-st-1977-danger-zone-1978/19%20-%20Let%20Me%20Down%20Easy.flac
-
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://audio.liberta.vip/media/__sized__/attachments/d4/d6/79/attachment_cover-ea3b813d-9988-4921-b10b-39706b498147-crop-c0-5__0-5-200x200-95.jpg" group-title="music" type="series",(Summit No More Running Mix) Celest
 
