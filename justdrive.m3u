@@ -224,15 +224,36 @@ https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography
 #EXTINF:-1 tvg-id="Track 04" tvg-name="Powerage" tvg-logo="null" group-title="music" type="series",AC/DC - Powerage S01E04
 https://archive.org/download/acdc-discography_202211/ACDC-%20Discography.rar/ACDC-Powerage.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Donna" tvg-logo="null" group-title="music" type="series",Ritchie Valens - S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Donna" tvg-logo="https://archive.org/download/la-bamba-1987/La%20Bamba%20%281987%29.jpg" group-title="music" type="series",Ritchie Valens - S01E01
 https://archive.org/download/r_20220209_202202/Ritchie%20Valens-Donna.mp3
 
-#EXTINF:-1 tvg-id="Track 02" tvg-name="We Belong Together" tvg-logo="null" group-title="music" type="series",Ritchie Valens - S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="We Belong Together" tvg-logo="https://archive.org/download/la-bamba-1987/La%20Bamba%20%281987%29.jpg" group-title="music" type="series",Ritchie Valens - S01E02
 https://archive.org/download/r_20220209_202202/Ritchie%20Valens%20-%20We%20Belong%20Together.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Tarzan Boy" tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="music" type="series",Baltimora - S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Infestissumam" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E01
+https://archive.org/download/infestissumam/01%20Infestissumam.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Per Aspera Ad Inferi" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E02
+https://archive.org/download/infestissumam/02%20Per%20aspera%20ad%20inferi.flac
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Secular Haze" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E03
+https://archive.org/download/infestissumam/03%20Secular%20Haze.flac
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Jigolo har Megiddo" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E04
+https://archive.org/download/infestissumam/04%20Jigolo%20har%20Megiddo.flac
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Infestissumam" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E05
+https://archive.org/download/infestissumam/05%20Ghuleh%20-%20Zombie%20Queen.flac
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Year Zero" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E06
+https://archive.org/download/infestissumam/06%20Year%20Zero.flac
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Body And Blood" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E07
+https://archive.org/download/infestissumam/07%20Body%20and%20Blood.flac
+#EXTINF:-1 tvg-id="Track 08" tvg-name="Idolatrine" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E08
+https://archive.org/download/infestissumam/08%20Idolatrine.flac
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Depth Of Satans Eye" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E09
+https://archive.org/download/infestissumam/09%20Depth%20of%20Satan%27s%20Eyes.flac
+#EXTINF:-1 tvg-id="Track 19" tvg-name="Monstrance Clock" tvg-logo="https://ia600702.us.archive.org/10/items/infestissumam/ghost-infestissumam.jpg?cnt=0" group-title="music" type="series",Ghost B.C. - Infestissumam - S01E10
+https://archive.org/download/infestissumam/10%20Monstrance%20Clock.flac
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Tarzan Boy" tvg-logo="https://archive.org/download/03-tarzan-boy-extended-1993-remix/Baltimora%20-%20Tarzan%20Boy%20(1993)%20Capa.jpg" group-title="music" type="series",Baltimora - S01E01
 https://archive.org/download/TMNT3-Soundtrack/01%20Tarzan%20Boy.mp3
-#EXTINF:-1 tvg-id="Track 02" tvg-name="Tarzan Boy Remix" tvg-logo="https://archive.org/download/02.-baltimora-tarzan-boy-extended-1993-remix/Baltimora%20-%20Tarzan%20Boy%20(1993)%20Single%20(EMI%20Music)%20Capa.jpg" group-title="music" type="series",Baltimora - S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Tarzan Boy Remix" tvg-logo="https://archive.org/download/03-tarzan-boy-extended-1993-remix/Baltimora%20-%20Tarzan%20Boy%20(1993)%20Capa.jpg" group-title="music" type="series",Baltimora - S01E02
 https://archive.org/download/02.-baltimora-tarzan-boy-extended-1993-remix/01.%20Baltimora%20-%20Tarzan%20Boy%20%281993%20Remix%29.mp3
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Turtle Power" tvg-logo="https://ia600704.us.archive.org/9/items/TMNT3-Soundtrack/Teenage%20Mutant%20Ninja%20Turtles%20III%20%28Original%20Motion%20Picture%20Soundtrack%29.jpg?cnt=0" group-title="music" type="series",Teenage Mutant Ninja Turtles Soundtrack - S01E01
@@ -270,10 +291,25 @@ https://archive.org/download/highlander_soundtrack-1986/16%20-%20Don%27t%20Loose
 #EXTINF:-1 tvg-id="Highlander track 21" tvg-name="Who Wants To Live Forever Demo" tvg-logo="https://archive.org/download/highlander_soundtrack-1986/Highlander-01.jpg" group-title="music" type="series",Highlander Original Soundtrack - S01E21
 https://archive.org/download/highlander_soundtrack-1986/21%20-%20Who%20Wants%20To%20Live%20Forever%20%28Bonus%20Track%20-%20Demo%29.flac
 
-
-#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Santo & Johnny - Sleepwalker
+#EXTINF:-1 tvg-id="Track 01" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E01
+https://archive.org/download/originalgoldengr00cann/01_Walk__don_t_run__Ventures_.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E02
+https://archive.org/download/originalgoldengr00cann/02_Tuff__Ace_Cannon_.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E03
+https://archive.org/download/originalgoldengr00cann/03_Topsy__part_2__Cozy_Cole_.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E04
+https://archive.org/download/originalgoldengr00cann/04_Hearts_of_stone__Bill_Black_Combo_.mp3
+#EXTINF:-1 tvg-id="Track 05" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E05
+https://archive.org/download/originalgoldengr00cann/05_So_rare__Jimmy_Dorsey_orchestra_and_chorus_.mp3
+#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E06
+https://archive.org/download/originalgoldengr00cann/06_Red_River_rock__Johnny___the_Hurricanes_.mp3
+#EXTINF:-1 tvg-id="Track 07" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E07
+https://archive.org/download/originalgoldengr00cann/07_Bongo_rock__Preston_Epps_.mp3
+#EXTINF:-1 tvg-id="Track 08" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E08
+https://archive.org/download/originalgoldengr00cann/08_Smokie__part_2__Bill_Black_Connbo_.mp3
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Sleepwalker" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E09
 https://archive.org/download/originalgoldengr00cann/09_Sleep_walk__Santo___Johnny_.mp3
-#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",The Champs - Tequila
+#EXTINF:-1 tvg-id="Track 10" tvg-name="Tequila" tvg-logo="https://ia600101.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/originalgoldengr00cann/originalgoldengr00cann_jp2.zip&file=originalgoldengr00cann_jp2/originalgoldengr00cann_0000.jp2&id=originalgoldengr00cann" group-title="music" type="series",Original Golden Greats Vol.01 - S01E10
 https://archive.org/download/originalgoldengr00cann/10_Tequila__the_Champs_.mp3
 
 #EXTINF:-1 tvg-id="Track 20" tvg-name="Get Lucky Swing Cover" tvg-logo="https://archive.org/services/img/daft-punk-get-lucky-ft-pharrell-swing-vinta-mp-3-128-k" group-title="music" type="series",Artist - 
