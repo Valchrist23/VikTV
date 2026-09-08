@@ -469,8 +469,12 @@ https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%2
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Top Gun Theme" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E01
 https://archive.org/download/tvtunes_7213/Top%20Gun.mp3
-#EXTINF:-1 tvg-id="Track 02" tvg-name="Cheap Trick - Mighty Wings" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Mighty Wings" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E02
 https://archive.org/download/01-danger-zone/02%20Mighty%20Wings.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Playing With The Boys" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E03
+https://archive.org/download/01-danger-zone/03%20Playing%20With%20The%20Boys.mp3
+
+
 #EXTINF:-1 tvg-id="Track 03" tvg-name="Danger Zone" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E03
 https://archive.org/download/top-gun-danger-zone/TOP%20GUN%20-%20Danger%20Zone.mp3
 #EXTINF:-1 tvg-id="Track 10" tvg-name="Berlin - Take My Breath Away" tvg-logo="https://dn710009.ca.archive.org/0/items/top-gun-1986_051286/Top%20Gun%20%281986%29.JPG" group-title="music" type="series",Top Gun Soundtrack - S01E10
