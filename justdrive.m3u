@@ -67,7 +67,7 @@ https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love%
 #EXTINF:-1 tvg-id="Dream On" tvg-name="Dream On" tvg-logo="https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love;%20Best%20Of%20The%20Ballads%20(UK)%20(2011)%20(FLAC)/Art/Back.jpg" group-title="music" type="series",Aerosmith - S01E16
 https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love%3B%20Best%20Of%20The%20Ballads%20%28UK%29%20%282011%29%20%28FLAC%29/16.%20Dream%20On.flac
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Big Balls" tvg-logo="null" group-title="music" type="series",AC/DC - Dirty Deeds Done Dirt Cheap S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Big Balls" tvg-logo="null" group-title="music" type="series",AC/DC - Dirty Deeds Done Dirt Cheap - S01E01
 https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%2F03%20-%20Big%20Balls.mp3
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",AC/DC - Big Gun 
@@ -1199,15 +1199,15 @@ https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%
 https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/06%20The%20Price.FLAC
 #EXTINF:-1 tvg-id="Track 07" tvg-name="null" tvg-logo="https://ia903203.us.archive.org/29/items/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/ab67616d0000b273e4ff6efb66c0c9e8bbb5eb71.jpg?cnt=0" group-title="music" type="series",Twisted Sister - Dont Let Me Down
 https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/07%20Don%27t%20Let%20Me%20Down.FLAC
-#EXTINF:-1 tvg-id="Track 08" tvg-name="null" tvg-logo="https://ia903203.us.archive.org/29/items/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/ab67616d0000b273e4ff6efb66c0c9e8bbb5eb71.jpg?cnt=0" group-title="music" type="series",Twisted Sister - The Beast
+#EXTINF:-1 tvg-id="Track 08" tvg-name="The Beast" tvg-logo="https://ia903203.us.archive.org/29/items/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/ab67616d0000b273e4ff6efb66c0c9e8bbb5eb71.jpg?cnt=0" group-title="music" type="series",Twisted Sister - S01E08
 https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/08%20The%20Beast.FLAC
-#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://ia903203.us.archive.org/29/items/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/ab67616d0000b273e4ff6efb66c0c9e8bbb5eb71.jpg?cnt=0" group-title="music" type="series",Twisted Sister - S.M.F.
+#EXTINF:-1 tvg-id="Track 09" tvg-name="S.M.F." tvg-logo="https://ia903203.us.archive.org/29/items/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/ab67616d0000b273e4ff6efb66c0c9e8bbb5eb71.jpg?cnt=0" group-title="music" type="series",Twisted Sister - S01E09
 https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%20-%20Stay%20Hungry%20%28CD%20RIP%29/09%20S.M.F..FLAC
 
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Blade Soundtrack- New Order Confusion 12
+#EXTINF:-1 tvg-id="Track 12" tvg-name="New Order Confusion" tvg-logo="null" group-title="music" type="series",Blade Soundtrack-  S01E12
 https://archive.org/download/blade-soundtrack_202602/12%20New%20Order%20-%20Confusion%20%28Pump%20Panel%20Reconstruction%20Mix%29.flac
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
@@ -1215,64 +1215,81 @@ https://archive.org/download/blade-soundtrack_202602/12%20New%20Order%20-%20Conf
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800609.us.archive.org/2/items/queen-of-the-damned-ost/Folder.jpg?cnt=0" group-title="music" type="series",Queen Of The Damned Soundtrack - Dead Cell 06
+#EXTINF:-1 tvg-id="null" tvg-name="Dead Cell" tvg-logo="https://ia800609.us.archive.org/2/items/queen-of-the-damned-ost/Folder.jpg?cnt=0" group-title="music" type="series",Queen Of The Damned Soundtrack - S01E06
 https://archive.org/download/queen-of-the-damned-ost/06%20Papa%20Roach%20-%20Dead%20Cell.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
 
-
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden -
+#EXTINF:-1 tvg-id="null" tvg-name="Intro" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E01
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/01-P3%20Live%20Radio%20Broadcast%20Intro.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Wickerman 02
+#EXTINF:-1 tvg-id="null" tvg-name="Wickerman" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E02
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/02-The%20Wickerman.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Brave New World 03
+#EXTINF:-1 tvg-id="null" tvg-name="Brave New World" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E03
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/03-Brave%20New%20World.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Wrathchild 04
+#EXTINF:-1 tvg-id="null" tvg-name="Wrathchild" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E04
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/04-Wrathchild.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Blood Brothers 05
+#EXTINF:-1 tvg-id="null" tvg-name="Blood Brothers" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E05
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/05-Blood%20Brothers.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Fear Of The Dark 06
+#EXTINF:-1 tvg-id="null" tvg-name="Fear Of The Dark" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E06
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/06-Fear%20of%20the%20Dark.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Iron Maiden 07
+#EXTINF:-1 tvg-id="null" tvg-name="Iron Maiden" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E07
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/07-Iron%20Maiden.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - The Number Of The Beast 08
+#EXTINF:-1 tvg-id="null" tvg-name="The Number Of The Beast" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E08
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/08-The%20Number%20Of%20The%20Beast.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Hallowe Be Thy Name 09
+#EXTINF:-1 tvg-id="null" tvg-name="Hallowe Be Thy Name" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E09
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/09-Hallowed%20Be%20thy%20Name.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Sanctuary 10
+#EXTINF:-1 tvg-id="null" tvg-name="Sanctuary" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E10
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/10-Sanctuary.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Dream Of Mirrors 11
+#EXTINF:-1 tvg-id="null" tvg-name="Dream Of Mirrors" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E11
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/11-Dream%20of%20Mirrors.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - The Trooper 12
+#EXTINF:-1 tvg-id="null" tvg-name="The Trooper" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E12
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/12-The%20Trooper.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - Fear Of The Dark 13
+#EXTINF:-1 tvg-id="null" tvg-name="Fear Of The Dark" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E13
 https://archive.org/download/iron_maiden-live_at_sthlm_stadium-27-06-2000/13-Fear%20of%20the%20Dark.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike -  01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E01
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F01%20-%20Alice%20Russell%20-%20Breakdown.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - 02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E02
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F02%20-%20Countr%C3%A9%20Black%20-%20It%E2%80%99s%20Raining%20Men.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - 03
+#EXTINF:-1 tvg-id="Track 03" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E03
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F03%20-%20The%20Unknown%20-%20Bang%20Bang%20Boom.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - 04
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E04
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F04%20-%20Black%20Daniel%20-%20Gimme%20What%20You%20Got.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - 05
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Cloud Control Just For Now" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E05
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F05%20-%20Cloud%20Control%20-%20Just%20for%20Now.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Magic Mike - Ringside Money 06
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Ringside Money" tvg-logo="null" group-title="music" type="series",Magic Mike - S01E06
 https://archive.org/download/MagicMikeFLAC/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D.zip/Various%20Artists%20-%20Magic%20Mike%EF%BC%9A%20Original%20Motion%20Picture%20Soundtrack%20%282012%29%20%5BFLAC%5D%20%5B100_%20Log_Cue%5D%2F06%20-%20Ringside%20-%20Money.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia600709.us.archive.org/35/items/Shaffer-KickstartMyHeartMotleyCrue/ksmh.jpg?cnt=0" group-title="music" type="series",Motley Crue - Kickstart My Heart
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Kickstart My Heart" tvg-logo="https://ia600709.us.archive.org/35/items/Shaffer-KickstartMyHeartMotleyCrue/ksmh.jpg?cnt=0" group-title="music" type="series",Motley Crue - Kickstart My Heart S01E01
 https://archive.org/download/Shaffer-KickstartMyHeartMotleyCrue/Kickstart%20My%20Heart.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://archive.org/download/06OutInTheCold/f.jpg" group-title="music" type="series",Judas Priest - Turbo Lover 01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Grave New World" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E01
+https://archive.org/download/motley_crue-86/grave%20new%20world.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Ignorance" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E02
+https://archive.org/download/motley_crue-86/ignorance.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="In Love I Believe" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E03
+https://archive.org/download/motley_crue-86/in%20love%20believe.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="No Compromise" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E04
+https://archive.org/download/motley_crue-86/no%20compromise.mp3
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Sleep In Hope" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E05
+https://archive.org/download/motley_crue-86/sleep%20in%20hope.mp3
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Time Is Kind" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E06
+https://archive.org/download/motley_crue-86/time%20is%20kind.mp3
+#EXTINF:-1 tvg-id="Track 07" tvg-name="We Dare Speak" tvg-logo="https://ia801908.us.archive.org/12/items/motley_crue-86/motley%20crue.jpg?cnt=0" group-title="music" type="series",Motley Crue - Grave New World - S01E07
+https://archive.org/download/motley_crue-86/we%20dare%20speak.mp3
+
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Turbo Lover" tvg-logo="https://archive.org/download/06OutInTheCold/f.jpg" group-title="music" type="series",Judas Priest - Turbo - S01E01
 https://archive.org/download/06OutInTheCold/01-TurboLover.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - 10
+#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - S01E10
 https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2010.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - 11
+#EXTINF:-1 tvg-id="Track 11" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - S01E11
 https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2011.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - 12
+#EXTINF:-1 tvg-id="Track 12" tvg-name="null" tvg-logo="null" group-title="music" type="series",Judas Priest - S01E12
 https://archive.org/download/judas-priest-1980-08-03-syracuse-ny/Judas%20Priest%20-%201980-08-03%20-%20Syracuse%2C%20NY%20%5BFlac%5D%20-Bootleg%20%2BFrank%20Wallace423/Track%2012.flac
+
+
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
