@@ -101,7 +101,7 @@ https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love%
 #EXTINF:-1 tvg-id="Dream On" tvg-name="Dream On" tvg-logo="https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love;%20Best%20Of%20The%20Ballads%20(UK)%20(2011)%20(FLAC)/Art/Back.jpg" group-title="music" type="series",Aerosmith - S01E16
 https://archive.org/download/11.-livin-on-the-edge/Aerosmith%20-%20Tough%20Love%3B%20Best%20Of%20The%20Ballads%20%28UK%29%20%282011%29%20%28FLAC%29/16.%20Dream%20On.flac
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Big Balls" tvg-logo="null" group-title="music" type="series",AC/DC - Dirty Deeds Done Dirt Cheap - S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Big Balls" tvg-logo="https://ia802806.us.archive.org/3/items/SHAFFER-DirtyDeedsDoneDirtCheap/40294547_271562686999610_246627896993513472_n.jpg?cnt=0" group-title="music" type="series",AC/DC - Dirty Deeds Done Dirt Cheap - S01E01
 https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1976%20-%20Dirty%20Deeds%20Done%20Dirt%20Cheap%2F03%20-%20Big%20Balls.mp3
 
 
@@ -213,16 +213,53 @@ https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/09%20
 #EXTINF:-1 tvg-id="Rock And Roll Aint Noise Pollution" tvg-name="Rock And Roll Aint Noise Pollution" tvg-logo="https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/AlbumArtSmall.jpg" group-title="music" type="series",AC/DC - Back In Black S01E08
 https://archive.org/download/02-shoot-to-thrill_20260329/Back%20In%20Black/10%20Rock%20And%20Roll%20Ain_t%20Noise%20Pollution.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="Highway to Hell" tvg-logo="null" group-title="music" type="series",AC/DC -  
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Beating Around The Bush" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E01
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Beating%20Around%20the%20Bush.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E02
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Get%20It%20Hot.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E03
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Girls%20Got%20Rhythm.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Highway To Hell" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E04
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Highway%20to%20Hell.mp3
 https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1979%20-%20Highway%20to%20Hell%2F01%20-%20Highway%20to%20Hell.mp3
-#EXTINF:-1 tvg-id="Track 02" tvg-name="Sin City" tvg-logo="null" group-title="music" type="series",AC/DC - Powerage S01E02  
-https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1978%20-%20Powerage%2F05%20-%20Sin%20City.mp3
+#EXTINF:-1 tvg-id="Track 05" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E05
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20If%20You%20Want%20Blood%20%28You%27ve%20Got%20It%29.mp3
+#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E06
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Love%20Hungry%20Man.mp3
+#EXTINF:-1 tvg-id="Track 07" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E07
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Night%20Prowler.mp3
+#EXTINF:-1 tvg-id="Track 08" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E08
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Shot%20Down%20in%20Flames.mp3
+#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E09
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Touch%20Too%20Much.mp3
+#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://dn601709.us.archive.org/0/items/acdc-highway-to-hell_202504/AC.DC%20%27%27Highway%20To%20Hell%27%27%20Album%20Cover%20Photo.jpg?cnt=0" group-title="music" type="series",AC/DC - Highway To Hell S01E10
+https://archive.org/download/acdc-highway-to-hell_202504/AC.DC%20-%20Highway%20To%20Hell%20%5BAlbum%5D/AC.DC%20-%20Walk%20All%20Over%20You.mp3
 
-#EXTINF:-1 tvg-id="Track 03" tvg-name="Rock And Roll Damnation" tvg-logo="null" group-title="music" type="series",AC/DC - Powerage S01E03  
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Rock And Roll Damnation" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E01 
 https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1978%20-%20Powerage%2F01%20-%20Rock%20%27N%27%20Roll%20Damnation.mp3
 
-#EXTINF:-1 tvg-id="Track 04" tvg-name="Powerage" tvg-logo="null" group-title="music" type="series",AC/DC - Powerage S01E04
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Give Me A Bullet" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E02
+https://archive.org/download/acdc-powerage-european-release/1978%20-%20Powerage%20%2810%20Track%20European%20Edition%29/02%20-%20Gimme%20A%20Bullet.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Down Payment Blues" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E03  
+https://archive.org/download/acdc-powerage-european-release/1978%20-%20Powerage%20%2810%20Track%20European%20Edition%29/03%20-%20Down%20Payment%20Blues.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Riff Raff" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E04
+https://archive.org/download/acdc-powerage-european-release/1978%20-%20Powerage%20%2810%20Track%20European%20Edition%29/04%20-%20Riff%20Raff.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Sin City" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E05  
+https://archive.org/download/ac-dc-discography-1975-1979/AC-DC%20-%20Discography%201975-1979.rar/AC-DC%20-%20Discography%201975-1979%2F1978%20-%20Powerage%2F05%20-%20Sin%20City.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Whats Next To The Moon" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E06
+https://archive.org/download/acdc-powerage-european-release/1978%20-%20Powerage%20%2810%20Track%20European%20Edition%29/06%20-%20What%27s%20Next%20To%20The%20Moon.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Gone Shootin" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S01E07
+https://archive.org/download/acdc-powerage-european-release/1978%20-%20Powerage%20%2810%20Track%20European%20Edition%29/07%20-%20Gone%20Shootin%27.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Powerage" tvg-logo="https://ia903104.us.archive.org/8/items/acdc-powerage-european-release/maxresdefault.jpg?cnt=0" group-title="music" type="series",AC/DC - Powerage S00E01
 https://archive.org/download/acdc-discography_202211/ACDC-%20Discography.rar/ACDC-Powerage.mp3
+
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Donna" tvg-logo="https://archive.org/download/la-bamba-1987/La%20Bamba%20%281987%29.jpg" group-title="music" type="series",Ritchie Valens - S01E01
 https://archive.org/download/r_20220209_202202/Ritchie%20Valens-Donna.mp3
