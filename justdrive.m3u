@@ -568,28 +568,66 @@ https://archive.org/download/the-outlaws-florida-guitar-army/15%29%20Green%20Gra
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://funk.gravitywell.xyz/media/__sized__/attachments/86/b9/da/attachment_cover-4a6d0ddd-44b6-4136-8fd6-12e49acfffc1-crop-c0-5__0-5-200x200-95.jpg" group-title="music" type="series",Guitarra Espaniola
 
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Krank" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Krank" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E01
 https://archive.org/download/WTF-KMFDM/A1-%20Krank.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="Take It Like A Man" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E02
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E02
+https://archive.org/download/WTF-KMFDM/B-Come%20On%20-%20Go%20Off.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E03
+https://archive.org/download/WTF-KMFDM/C-Rebels%20In%20Kontrol.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Lynchmob" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E04
+https://archive.org/download/WTF-KMFDM/D-Lynchmob.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Take It Like A Man" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E05
 https://archive.org/download/WTF-KMFDM/E-Take%20It%20Like%20A%20Man.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="Viva La Mort" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E03
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Viva La Mort" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E06
 https://archive.org/download/WTF-KMFDM/F-Vive%20La%20Mort_%20%5BobJsDu169b4%5D.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="Dystopia" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E04
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Dystopia" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E07
 https://archive.org/download/WTF-KMFDM/G-Dystopia.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="Panzerfaust" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E05
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="Panzerfaust" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E08
 https://archive.org/download/WTF-KMFDM/H-Panzerfaust.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="Spectre" tvg-logo="https://ia803108.us.archive.org/19/items/WTF-KMFDM/WTFKMFDM.jpg?cnt=0" group-title="music" type="series",KMFDM - WTF?! S01E06
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Spectre" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E09
 https://archive.org/download/WTF-KMFDM/I-Spectre.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="Light" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E01
+#EXTINF:-1 tvg-id="Track 10" tvg-name="Spectre" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E10
+https://archive.org/download/WTF-KMFDM/J-Amnesia.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="Spectre" tvg-logo="https://dn710108.ca.archive.org/0/items/WTF-KMFDM/WTFKMFDM.jpg" group-title="music" type="series",KMFDM - WTF?! S01E11
+https://archive.org/download/WTF-KMFDM/K-Death%20%26%20Burial%20Of%20C.R.%20%5Bbm48Hr8ivwA%5D.mp3
+
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Light" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E01
 https://archive.org/download/kmfdm-angst-remastered-flac/01%20Light.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="Lust" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E4
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Lust" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E04
 https://archive.org/download/kmfdm-angst-remastered-flac/04%20Lust.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="Professional Killer" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E08
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Free Your Hate" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E01
+https://archive.org/download/hau-ruck/01%20Free%20Your%20Hate.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E02
+https://archive.org/download/hau-ruck/02%20Hau%20Ruck.flac
+#EXTINF:-1 tvg-id="Track 03" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E03
+https://archive.org/download/hau-ruck/03%20You%27re%20No%20Good.flac
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E04
+https://archive.org/download/hau-ruck/04%20New%20American%20Century.flac
+#EXTINF:-1 tvg-id="Track 05" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E05
+https://archive.org/download/hau-ruck/05%20Real%20Thing.flac
+#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E06
+https://archive.org/download/hau-ruck/06%20Every%20Day%27s%20a%20Good%20Day.flac
+#EXTINF:-1 tvg-id="Track 07" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E07
+https://archive.org/download/hau-ruck/07%20Mini%20Mini%20Mini.flac
+#EXTINF:-1 tvg-id="Track 08" tvg-name="Professional Killer" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E08
 https://archive.org/download/hau-ruck/08%20Professional%20Killer.flac
+#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E09
+https://archive.org/download/hau-ruck/09%20Feed%20Our%20Fame.flac
+#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E10
+https://archive.org/download/hau-ruck/10%20Ready%20to%20Blow.flac
+#EXTINF:-1 tvg-id="Track 11" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E11
+https://archive.org/download/hau-ruck/11%20Auf%20Wiederseh%27n.flac
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Kunst" tvg-logo="https://ia601008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Kunst  S01E01
 https://archive.org/download/1761293425_kunst/Kunst/01%20KMFDM%20-%20Kunst.flac
