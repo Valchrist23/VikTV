@@ -18,6 +18,7 @@ https://archive.org/download/f-zero-x-guitar-arrange-edition/05%20-%20Decide%20i
 #EXTINF:-1 tvg-id="Track 06" tvg-name="Climb Up! And Get the Last Chance" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",F-Zero X - S01E06
 https://archive.org/download/f-zero-x-guitar-arrange-edition/06%20-%20Climb%20Up%21%20And%20Get%20the%20Last%20Chance%21.mp3
 
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Endless Challenge" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",F-Zero X - S01E07
 https://archive.org/download/f-zero-x-guitar-arrange-edition/07%20-%20Endless%20Challenge.mp3
 
 #EXTINF:-1 tvg-id="Track 08" tvg-name="Dream Chaser" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",F-Zero X - S01E08
@@ -332,6 +333,19 @@ https://archive.org/download/madonna-the-singles-collection-83-89-2024/06.%20Mat
 #EXTINF:-1 tvg-id="null" tvg-name="La Isla Bonita" tvg-logo="https://archive.org/services/img/les-enfoires-live-2001" group-title="music" type="series",Alizee - S01E01
 https://archive.org/download/alizeelaislabonita2000/%28%EC%9B%94%EB%93%9C%29%20Alizee%20-%20La%20Isla%20Bonita%202000.mp3
 
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Setting Fires" tvg-logo="https://ia800900.us.archive.org/9/items/the-chainsmokers-collage/the-chainsmokers-collage.jpg?cnt=0" group-title="music" type="series",The Chain Smokers -Collage S01E01
+https://archive.org/download/the-chainsmokers-collage/01%20Setting%20Fires.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="All We Know" tvg-logo="https://ia800900.us.archive.org/9/items/the-chainsmokers-collage/the-chainsmokers-collage.jpg?cnt=0" group-title="music" type="series",The Chain Smokers -Collage S01E02
+https://archive.org/download/the-chainsmokers-collage/02%20All%20We%20Know.flac
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Closer" tvg-logo="https://ia800900.us.archive.org/9/items/the-chainsmokers-collage/the-chainsmokers-collage.jpg?cnt=0" group-title="music" type="series",The Chain Smokers -Collage S01E03
+https://archive.org/download/the-chainsmokers-collage/03%20Closer.flac
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Inside Out" tvg-logo="https://ia800900.us.archive.org/9/items/the-chainsmokers-collage/the-chainsmokers-collage.jpg?cnt=0" group-title="music" type="series",The Chain Smokers -Collage S01E04
+https://archive.org/download/the-chainsmokers-collage/04%20Inside%20Out.flac
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Dont Let Me Down" tvg-logo="https://ia800900.us.archive.org/9/items/the-chainsmokers-collage/the-chainsmokers-collage.jpg?cnt=0" group-title="music" type="series",The Chain Smokers -Collage S01E05
+https://archive.org/download/the-chainsmokers-collage/05%20Don%27t%20Let%20Me%20Down.flac
+
+
+
 #EXTINF:-1 tvg-id="null" tvg-name="The Sun Always Shines On TV" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",A-ha - S01E01 
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%201/A-ha%20-%20The%20Sun%20always%20shines%20on%20T.V..mp3
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",ABBA - The Winner Takes All
@@ -608,26 +622,50 @@ https://archive.org/download/kmfdm-angst-remastered-flac/04%20Lust.flac
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Free Your Hate" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E01
 https://archive.org/download/hau-ruck/01%20Free%20Your%20Hate.flac
-#EXTINF:-1 tvg-id="Track 02" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Hau Rock tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E02
 https://archive.org/download/hau-ruck/02%20Hau%20Ruck.flac
-#EXTINF:-1 tvg-id="Track 03" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E03
+#EXTINF:-1 tvg-id="Track 03" tvg-name="You're No Good" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E03
 https://archive.org/download/hau-ruck/03%20You%27re%20No%20Good.flac
-#EXTINF:-1 tvg-id="Track 04" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E04
+#EXTINF:-1 tvg-id="Track 04" tvg-name="New American Century" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E04
 https://archive.org/download/hau-ruck/04%20New%20American%20Century.flac
-#EXTINF:-1 tvg-id="Track 05" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E05
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Real Thing" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E05
 https://archive.org/download/hau-ruck/05%20Real%20Thing.flac
-#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E06
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Every Day A Good Day" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E06
 https://archive.org/download/hau-ruck/06%20Every%20Day%27s%20a%20Good%20Day.flac
-#EXTINF:-1 tvg-id="Track 07" tvg-name="null tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E07
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Mini Mini Mini" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E07
 https://archive.org/download/hau-ruck/07%20Mini%20Mini%20Mini.flac
 #EXTINF:-1 tvg-id="Track 08" tvg-name="Professional Killer" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E08
 https://archive.org/download/hau-ruck/08%20Professional%20Killer.flac
-#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E09
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Feed Our Fame" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E09
 https://archive.org/download/hau-ruck/09%20Feed%20Our%20Fame.flac
-#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E10
+#EXTINF:-1 tvg-id="Track 10" tvg-name="Ready To Blow" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E10
 https://archive.org/download/hau-ruck/10%20Ready%20to%20Blow.flac
-#EXTINF:-1 tvg-id="Track 11" tvg-name="null" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E11
+#EXTINF:-1 tvg-id="Track 11" tvg-name="Auf Wiederseh'n" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E11
 https://archive.org/download/hau-ruck/11%20Auf%20Wiederseh%27n.flac
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E01
+https://archive.org/download/kmfdm-blitz_202603/01%20Up%20Uranus.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E02
+https://archive.org/download/kmfdm-blitz_202603/02%20Bait%20%26%20Switch.flac
+#EXTINF:-1 tvg-id="Track 03" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E03
+https://archive.org/download/kmfdm-blitz_202603/03%20Davai.flac
+#EXTINF:-1 tvg-id="Track 04" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E04
+https://archive.org/download/kmfdm-blitz_202603/04%20Never%20Say%20Never.flac
+#EXTINF:-1 tvg-id="Track 05" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E05
+https://archive.org/download/kmfdm-blitz_202603/05%20Potz%20Blitz%21.flac
+#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E06
+https://archive.org/download/kmfdm-blitz_202603/06%20People%20of%20the%20Lie.flac
+#EXTINF:-1 tvg-id="Track 07" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E07
+https://archive.org/download/kmfdm-blitz_202603/07%20Being%20Boiled.flac
+#EXTINF:-1 tvg-id="Track 08" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E08
+https://archive.org/download/kmfdm-blitz_202603/08%20Strut.flac
+#EXTINF:-1 tvg-id="Track 09" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E09
+https://archive.org/download/kmfdm-blitz_202603/09%20Bitches.flac
+#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E10
+https://archive.org/download/kmfdm-blitz_202603/10%20Me%20%26%20My%20Gun.flac
+#EXTINF:-1 tvg-id="Track 11" tvg-name="null" tvg-logo="https://ia803105.us.archive.org/33/items/kmfdm-blitz_202603/kmfdm-blitz.jpg?cnt=0" group-title="music" type="series",KMFDM - Blitz - S01E11
+https://archive.org/download/kmfdm-blitz_202603/11%20Take%27m%20Out.mp3
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Kunst" tvg-logo="https://ia601008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Kunst  S01E01
 https://archive.org/download/1761293425_kunst/Kunst/01%20KMFDM%20-%20Kunst.flac
@@ -821,29 +859,29 @@ https://archive.org/download/youtube-BqZ6sRHpWIk/BqZ6sRHpWIk.mp4
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Dizzy" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E01
 https://archive.org/download/googoodolls_202607/01%20-%20Dizzy.flac
-#EXTINF:-1 tvg-id="Track 02" tvg-name="Slide" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Slide" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E02
 https://archive.org/download/googoodolls_202607/02%20-%20Slide.flac
-#EXTINF:-1 tvg-id="Track 03" tvg-name="Broadway" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E03
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Broadway" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E03
 https://archive.org/download/googoodolls_202607/03%20-%20Broadway.flac
-#EXTINF:-1 tvg-id="Track 04" tvg-name="January Friend" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E04
+#EXTINF:-1 tvg-id="Track 04" tvg-name="January Friend" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E04
 https://archive.org/download/googoodolls_202607/04%20-%20January%20Friend.flac
-#EXTINF:-1 tvg-id="Track 05" tvg-name="Black Ballon" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E05
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Black Ballon" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E05
 https://archive.org/download/googoodolls_202607/05%20-%20Black%20Balloon.flac
-#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E07
+#EXTINF:-1 tvg-id="Track 06" tvg-name="null" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E07
 https://archive.org/download/googoodolls_202607/06%20-%20Bullet%20Proof.flac
-#EXTINF:-1 tvg-id="Track 07" tvg-name="Amigone" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E08
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Amigone" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E08
 https://archive.org/download/googoodolls_202607/07%20-%20Amigone.flac
-#EXTINF:-1 tvg-id="Track 08" tvg-name="All Eyes On Me" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E09
+#EXTINF:-1 tvg-id="Track 08" tvg-name="All Eyes On Me" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E09
 https://archive.org/download/googoodolls_202607/08%20-%20All%20Eyes%20on%20Me.flac
-#EXTINF:-1 tvg-id="Track 09" tvg-name="Full Forever" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E10
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Full Forever" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E10
 https://archive.org/download/googoodolls_202607/09%20-%20Full%20Forever.flac
-#EXTINF:-1 tvg-id="Track 10" tvg-name="Acoustic" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E11
+#EXTINF:-1 tvg-id="Track 10" tvg-name="Acoustic" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E11
 https://archive.org/download/googoodolls_202607/10%20-%20Acoustic%20%233.flac
-#EXTINF:-1 tvg-id="Track 11" tvg-name="Extra Pale" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E12
+#EXTINF:-1 tvg-id="Track 11" tvg-name="Extra Pale" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E12
 https://archive.org/download/googoodolls_202607/12%20-%20Extra%20Pale.flac
-#EXTINF:-1 tvg-id="Track 12" tvg-name="I Hate This Place" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - S01E13
+#EXTINF:-1 tvg-id="Track 12" tvg-name="I Hate This Place" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E13
 https://archive.org/download/googoodolls_202607/13%20-%20Hate%20This%20Place.flac
-#EXTINF:-1 tvg-id="Track 13" tvg-name="null" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Iris 11
+#EXTINF:-1 tvg-id="Track 13" tvg-name="Iris" tvg-logo="https://archive.org/download/googoodolls_202607/The%20Goo%20Goo%20Dolls%20-%20Dizzy%20Up%20The%20Girl.jpg" group-title="music" type="series",Googoo Dolls - Dizzy - S01E11
 https://archive.org/download/googoodolls_202607/11%20-%20Iris.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/0Front.jpg" group-title="music" type="series",Duran Duran - The Reflex
@@ -877,6 +915,14 @@ https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/18.%20Tal
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/0Front.jpg" group-title="music" type="series",Huey Lewis And The News - Power Of Love
 https://archive.org/download/07.-simple-minds-dont-you-forget-about-me/19.%20Huey%20Lewis%20And%20The%20News%20-%20The%20Power%20Of%20Love.flac
 
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Missunderztood" tvg-logo="https://ia600801.us.archive.org/14/items/missundaztood/pink-missundaztood.jpg?cnt=0" group-title="music" type="series",Pink - Missunderztood - S01E01
+https://archive.org/download/missundaztood/01%20M%21ssundaztood.flac
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Stupid Girlz" tvg-logo="https://ia600600.us.archive.org/26/items/pink-im-not-dead/pink-im-not-dead.jpg?cnt=0" group-title="music" type="series",Pink - Im Not Dead - S01E01
+https://archive.org/download/pink-im-not-dead/01%20Stupid%20Girlz.flac
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Trouble" tvg-logo="https://ia803107.us.archive.org/9/items/pink-try-this/pink-try-this.jpg?cnt=0" group-title="music" type="series",Pink - Try This - S01E01
+https://archive.org/download/pink-try-this/01%20Trouble.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://dn710306.ca.archive.org/0/items/Shaffer-HoldTheLine/pic.jpg" group-title="music" type="series",Toto - Hold The Line
 https://archive.org/download/youtube-ZP69PLBqFUo/ZP69PLBqFUo.mp4
@@ -896,50 +942,37 @@ https://archive.org/download/x-japan-blue-blood/Blue%20Blood/BLUE%20BLOOD.flac
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/CELEBRATION.flac
 #EXTINF:-1 tvg-id="Track 03" tvg-name="Easy Fight Rambling" tvg-logo="https://ia601805.us.archive.org/33/items/x-japan-blue-blood/__ia_thumb.jpg" group-title="music" type="series",X-Japan - Blue Blood- S01E03
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/EASY%20FIGHT%20RAMBLING.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Easy Fight Rambling
+#EXTINF:-1 tvg-id="Track 04" tvg-name="Easy Fight Rambling" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- S01E04
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/EASY%20FIGHT%20RAMBLING.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Endless Rain
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Endless Rain" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E05
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/ENDLESS%20RAIN.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Prologue World Anthem
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Prologue World Anthem" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E06
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/PROLOGUE%20%28%E3%80%9CWORLD%20ANTHEM%29.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Rose Of Pain 
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Rose Of Pain " tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E07
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/ROSE%20OF%20PAIN.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Rose Of Pain 
-https://archive.org/download/x-japan-blue-blood/Blue%20Blood/ROSE%20OF%20PAIN.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Unfinished
+#EXTINF:-1 tvg-id="Track 08" tvg-name="Unfinished" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E08
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/UNFINISHED.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Unfinished
-https://archive.org/download/x-japan-blue-blood/Blue%20Blood/UNFINISHED.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Weekend
+#EXTINF:-1 tvg-id="Track 09" tvg-name="Weekend" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E09
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/WEEK%20END.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Weekend
-https://archive.org/download/x-japan-blue-blood/Blue%20Blood/WEEK%20END.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - X
+#EXTINF:-1 tvg-id="Track 10" tvg-name="X" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E10
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/X.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - X
-https://archive.org/download/x-japan-blue-blood/Blue%20Blood/X.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Xclamation
+#EXTINF:-1 tvg-id="Track 11" tvg-name="Xclamation" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood - S01E11
 https://archive.org/download/x-japan-blue-blood/Blue%20Blood/XCLAMATION.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801805.us.archive.org/33/items/x-japan-blue-blood/Blue%20Blood/blueblood.jpg?cnt=0" group-title="music" type="series",X-Japan - Blue Blood- Xclamation
-https://archive.org/download/x-japan-blue-blood/Blue%20Blood/XCLAMATION.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Desperate Angel
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Desperate Angel" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Jealousy - S01E01
 https://archive.org/download/say-anything_202601/JEALOUSY/Desperate%20Angel.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Desperate Angel
-https://archive.org/download/say-anything_202601/JEALOUSY/Desperate%20Angel.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Es Dur
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Es Dur" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Jealousy - S01E02
 https://archive.org/download/say-anything_202601/JEALOUSY/Es%20Dur%20%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%9A.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan Es Dur
-https://archive.org/download/say-anything_202601/JEALOUSY/Es%20Dur%20%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E7%B7%9A.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Joker
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Joker" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Jealousy - S01E03
 https://archive.org/download/say-anything_202601/JEALOUSY/Joker.flac
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Joker
-https://archive.org/download/say-anything_202601/JEALOUSY/Joker.mp3
+
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Love Replica
 https://archive.org/download/say-anything_202601/JEALOUSY/Love%20Replica.mp3
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia601808.us.archive.org/34/items/say-anything_202601/JEALOUSY/jealousy.jpg?cnt=0" group-title="music" type="series",X-Japan - Miscast
