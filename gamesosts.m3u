@@ -1,5 +1,641 @@
 #EXTM3U
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.01 Main Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.01%20Main%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="1.02 Opening" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.02%20Opening.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="1.03 The Towers Rise" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.03%20The%20Towers%20Rise.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="1.04 The Beast" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.04%20The%20Beast.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="1.05 Shiekah Tower" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.05%20Shiekah%20Tower.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="1.06 The Old Man Appears" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.06%20The%20Old%20Man%20Appears.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="1.07 Shrine Trial Start" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.07%20Shrine%20Trial%20Start.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="1.08 Shrine" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.08%20Shrine.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.09 Battle (Shrine)- Original Soundtrack Ver." tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.09%20Battle%20%28Shrine%29-%20Original%20Soundtrack%20Ver..mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="1.10 Highlands" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.10%20Highlands.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="1.11 Stationary Guardian Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.11%20Stationary%20Guardian%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="1.12 The Temple of Time" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.12%20The%20Temple%20of%20Time.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="1.13 The Last King of Hyrule" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.13%20The%20Last%20King%20of%20Hyrule.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="1.14 The Story of Calamity Ganon" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.14%20The%20Story%20of%20Calamity%20Ganon.mp3
+
+#EXTINF:-1 tvg-id="Track 15" tvg-name="1.15 A King&#x27;s Request" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.15%20A%20King%27s%20Request.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="1.16 Enter Hyrule" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.16%20Enter%20Hyrule.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="1.17 Field (Day)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.17%20Field%20%28Day%29.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="1.18 Battle (Field)- Original Soundtrack Ver." tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.18%20Battle%20%28Field%29-%20Original%20Soundtrack%20Ver..mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.19 Shiekah Tower Activated" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.19%20Shiekah%20Tower%20Activated.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.20 Riding (Day)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.20%20Riding%20%28Day%29.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.21 Talus Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.21%20Talus%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.22 Kakariko Village" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.22%20Kakariko%20Village.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.23 Impa&#x27;s Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.23%20Impa%27s%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.24 The 10,000 Year Old Legend" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.24%20The%2010%2C000%20Year%20Old%20Legend.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.25 Hateno Village" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.25%20Hateno%20Village.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.26 Hateno Ancient Tech Lab" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.26%20Hateno%20Ancient%20Tech%20Lab.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.27 Reviving the Great Fairy" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.27%20Reviving%20the%20Great%20Fairy.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.28 Great Fairy&#x27;s Fountain" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.28%20Great%20Fairy%27s%20Fountain.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.29 Field (Night)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.29%20Field%20%28Night%29.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.30 Kass&#x27;s Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.30%20Kass%27s%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.31 Kass- Main Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.31%20Kass-%20Main%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.32 Stables" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.32%20Stables.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.33 Kass- 10,000 Year Old Legend" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.33%20Kass-%2010%2C000%20Year%20Old%20Legend.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.34 Riding (Night)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.34%20Riding%20%28Night%29.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.35 Blessing Shrine" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.35%20Blessing%20Shrine.mp3
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="1.36 Hinox Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 01
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%201/1.36%20Hinox%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.01 Wetlands" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.01%20Wetlands.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.02 The Crazy Flower Lady" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.02%20The%20Crazy%20Flower%20Lady.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.03 Meeting Sidon" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.03%20Meeting%20Sidon.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.04 Sidon&#x27;s Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.04%20Sidon%27s%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.05 Zora&#x27;s Domain" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.05%20Zora%27s%20Domain.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.06 The Divine Beast of the Lake" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.06%20The%20Divine%20Beast%20of%20the%20Lake.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.07 Link&#x27;s Memories- Mipha&#x27;s Touch" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.07%20Link%27s%20Memories-%20Mipha%27s%20Touch.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.08 Vah Ruta Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.08%20Vah%20Ruta%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.09 Sidon&#x27;s Promise" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.09%20Sidon%27s%20Promise.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.10 Divine Beast Vah Ruta" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.10%20Divine%20Beast%20Vah%20Ruta.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.11 Battle (Divine Beast)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.11%20Battle%20%28Divine%20Beast%29.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.12 Blight Ganon Appearance" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.12%20Blight%20Ganon%20Appearance.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.13 Waterblight Ganon Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.13%20Waterblight%20Ganon%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.14 Heart Container Appearance" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.14%20Heart%20Container%20Appearance.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.15 Reunion with Mipha" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.15%20Reunion%20with%20Mipha.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.16 The Champions Power" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.16%20The%20Champions%20Power.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.17 The Divine Beast Aims" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.17%20The%20Divine%20Beast%20Aims.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.18 Mipha and Vah Ruta" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.18%20Mipha%20and%20Vah%20Ruta.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.19 Field (Snow)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.19%20Field%20%28Snow%29.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.20 Cave" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.20%20Cave.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.21 The Divine Beast of the Sky" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.21%20The%20Divine%20Beast%20of%20the%20Sky.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.22 Rito Village" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.22%20Rito%20Village.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.23 Link&#x27;s Memories- Revali&#x27;s Flap" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.23%20Link%27s%20Memories-%20Revali%27s%20Flap.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.24 Rito Flight Range" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.24%20Rito%20Flight%20Range.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.25 Meeting Teba" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.25%20Meeting%20Teba.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.26 Flight Training" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.26%20Flight%20Training.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.27 Vah Medoh Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.27%20Vah%20Medoh%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.28 Teba&#x27;s Encouragement" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.28%20Teba%27s%20Encouragement.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.29 Divine Beast Vah Medoh" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.29%20Divine%20Beast%20Vah%20Medoh.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.30 Windblight Ganon Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.30%20Windblight%20Ganon%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.31 Reunion with Revali" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.31%20Reunion%20with%20Revali.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.32 Revali and Vah Medoh" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.32%20Revali%20and%20Vah%20Medoh.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.33 House" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.33%20House.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.34 Snowball Minigame" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.34%20Snowball%20Minigame.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.35 Sisters Chirping" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.35%20Sisters%20Chirping.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.36 Rito Sisters" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.36%20Rito%20Sisters.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.37 Kass&#x27;s Theme (The Hero&#x27;s Theme ver.)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.37%20Kass%27s%20Theme%20%28The%20Hero%27s%20Theme%20ver.%29.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="2.38 Rito Village (Kass and Five Sisters ver.)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 02
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%202/2.38%20Rito%20Village%20%28Kass%20and%20Five%20Sisters%20ver.%29.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.01 Field (Volcano)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.01%20Field%20%28Volcano%29.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.02 Death Mountain" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.02%20Death%20Mountain.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.03 Goron Humming" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.03%20Goron%20Humming.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.04 The Divine Beast of the Volcano" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.04%20The%20Divine%20Beast%20of%20the%20Volcano.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.05 Goron City" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.05%20Goron%20City.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.06 Abandoned North Mine" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.06%20Abandoned%20North%20Mine.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.07 Meeting Yunobo" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.07%20Meeting%20Yunobo.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.08 Link&#x27;s Memories- Daruk&#x27;s Mettle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.08%20Link%27s%20Memories-%20Daruk%27s%20Mettle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.09 Vah Rudania Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.09%20Vah%20Rudania%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.10 Yunobo&#x27;s Opportunity" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.10%20Yunobo%27s%20Opportunity.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.11 Divine Beast Vah Rudania" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.11%20Divine%20Beast%20Vah%20Rudania.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.12 Fireblight Ganon Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.12%20Fireblight%20Ganon%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.13 Reunion with Daruk" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.13%20Reunion%20with%20Daruk.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.14 Daruk and Vah Rudania" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.14%20Daruk%20and%20Vah%20Rudania.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.15 Field (Desert)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.15%20Field%20%28Desert%29.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.16 The Divine Beast of the Desert" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.16%20The%20Divine%20Beast%20of%20the%20Desert.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.17 Kara Kara Bazaar" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.17%20Kara%20Kara%20Bazaar.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.18 Crossdressing" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.18%20Crossdressing.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.19 Gerudo Town" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.19%20Gerudo%20Town.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.20 Meeting Riju" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.20%20Meeting%20Riju.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.21 Yiga Hideout" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.21%20Yiga%20Hideout.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.22 Kohga&#x27;s Theme" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.22%20Kohga%27s%20Theme.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.23 Master Kohga Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.23%20Master%20Kohga%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.24 Link&#x27;s Memories- Urbosa&#x27;s Hand" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.24%20Link%27s%20Memories-%20Urbosa%27s%20Hand.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.25 Observation Post" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.25%20Observation%20Post.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.26 Vah Naboris Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.26%20Vah%20Naboris%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.27 Riju&#x27;s Trust" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.27%20Riju%27s%20Trust.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.28 Divine Beast Vah Naboris" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.28%20Divine%20Beast%20Vah%20Naboris.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.29 Thunderblight Ganon Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.29%20Thunderblight%20Ganon%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.30 Reunion with Urbosa" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.30%20Reunion%20with%20Urbosa.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.31 Urbosa and Vah Naboris" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.31%20Urbosa%20and%20Vah%20Naboris.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.32 Race Start" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.32%20Race%20Start.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.33 Race Minigame" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.33%20Race%20Minigame.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.34 Challenge Failed" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.34%20Challenge%20Failed.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.35 New Record" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.35%20New%20Record.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.36 Gerudo Race Award Ceremony" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.36%20Gerudo%20Race%20Award%20Ceremony.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.37 Goron Challenge Minigame" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.37%20Goron%20Challenge%20Minigame.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="3.38 Molduga Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 03
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%203/3.38%20Molduga%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.01 Ruins" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.01%20Ruins.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.02 Lost Woods" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.02%20Lost%20Woods.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.03 Korok Forest" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.03%20Korok%20Forest.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.04 Encounter with the Deku Tree" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.04%20Encounter%20with%20the%20Deku%20Tree.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.05 Master Sword" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.05%20Master%20Sword.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.06 Memories- The Master Sword" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.06%20Memories-%20The%20Master%20Sword.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.07 Master Sword - Encounter with the Deku Tree" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.07%20Master%20Sword%20-%20Encounter%20with%20the%20Deku%20Tree.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.08 Hestu&#x27;s Dance!" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.08%20Hestu%27s%20Dance%21.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.09 Akkala Ancient Tech Lab" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.09%20Akkala%20Ancient%20Tech%20Lab.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.10 Naydra Possessed" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.10%20Naydra%20Possessed.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.11 The Dragons of Hyrule" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.11%20The%20Dragons%20of%20Hyrule.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.12 Omen of the Blood Moon" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.12%20Omen%20of%20the%20Blood%20Moon.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.13 The Blood Moon" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.13%20The%20Blood%20Moon.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.14 Resurrecting Memory" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.14%20Resurrecting%20Memory.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.15 Link&#x27;s Memories- Subdued Ceremony" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.15%20Link%27s%20Memories-%20Subdued%20Ceremony.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.16 Link&#x27;s Memories- Resolve and Grief" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.16%20Link%27s%20Memories-%20Resolve%20and%20Grief.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.17 Link&#x27;s Memories- Blades of the Yiga" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.17%20Link%27s%20Memories-%20Blades%20of%20the%20Yiga.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.18 Link&#x27;s Memories- A Premonition" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.18%20Link%27s%20Memories-%20A%20Premonition.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.19 Link&#x27;s Memories- Silent Princess" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.19%20Link%27s%20Memories-%20Silent%20Princess.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.20 Link&#x27;s Memories- Father and Daughter" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.20%20Link%27s%20Memories-%20Father%20and%20Daughter.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.21 Link&#x27;s Memories- Slumbering Power" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.21%20Link%27s%20Memories-%20Slumbering%20Power.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.22 Link&#x27;s Memories- To Mount Lanayru" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.22%20Link%27s%20Memories-%20To%20Mount%20Lanayru.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.23 Link&#x27;s Memories- Return of Calamity Ganon" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.23%20Link%27s%20Memories-%20Return%20of%20Calamity%20Ganon.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.24 Link&#x27;s Memories- Despair" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.24%20Link%27s%20Memories-%20Despair.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.25 All Twelve Memories" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.25%20All%20Twelve%20Memories.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.26 Link&#x27;s Memories- Zelda&#x27;s Awakening" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.26%20Link%27s%20Memories-%20Zelda%27s%20Awakening.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.27 Zelda&#x27;s Wish" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.27%20Zelda%27s%20Wish.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.28 Hyrule Castle Town Ruins" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.28%20Hyrule%20Castle%20Town%20Ruins.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.29 Guardian Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.29%20Guardian%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.30 Ganon&#x27;s Roar" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.30%20Ganon%27s%20Roar.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.31 Hyrule Castle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.31%20Hyrule%20Castle.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.32 Calamity Ganon Appears" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.32%20Calamity%20Ganon%20Appears.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.33 The Divine Beasts Strike!" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.33%20The%20Divine%20Beasts%20Strike%21.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.34 Calamity Ganon Battle - Phase 1" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.34%20Calamity%20Ganon%20Battle%20-%20Phase%201.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.35 Calamity Ganon Battle - Phase 2" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.35%20Calamity%20Ganon%20Battle%20-%20Phase%202.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.36 Dark Beast Ganon Appears" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.36%20Dark%20Beast%20Ganon%20Appears.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.37 Dark Beast Ganon Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.37%20Dark%20Beast%20Ganon%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.38 Do You Remember" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.38%20Do%20You%20Remember.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.39 Staff Roll" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.39%20Staff%20Roll.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="4.40 Epilogue" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 04
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%204/4.40%20Epilogue.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.01 Lurelin Village" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.01%20Lurelin%20Village.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.02 Kilton" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.02%20Kilton.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.03 To Tarrey Town" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.03%20To%20Tarrey%20Town.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.04 Tarrey Town" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.04%20Tarrey%20Town.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.05 Wedding at Tarrey Town" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.05%20Wedding%20at%20Tarrey%20Town.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.06 Wasteland" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.06%20Wasteland.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.07 Horse Riding Minigame" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.07%20Horse%20Riding%20Minigame.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.08 Reviving Malanya" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.08%20Reviving%20Malanya.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.09 Malanya&#x27;s Fountain" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.09%20Malanya%27s%20Fountain.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.10 Malanya&#x27;s Dance" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.10%20Malanya%27s%20Dance.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.11 Lord of Satori Mountain" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.11%20Lord%20of%20Satori%20Mountain.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.12 Parasail Minigame" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.12%20Parasail%20Minigame.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.13 Get Item" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.13%20Get%20Item.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.14 Get Important Item" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.14%20Get%20Important%20Item.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.15 Get Key Item" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.15%20Get%20Key%20Item.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.16 Get Heart Container - Stamina Vessel" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.16%20Get%20Heart%20Container%20-%20Stamina%20Vessel.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.17 Strengthening the Shiekah Slate" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.17%20Strengthening%20the%20Shiekah%20Slate.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.18 Get Shiekah Slate Rune" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.18%20Get%20Shiekah%20Slate%20Rune.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.19 Rest" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.19%20Rest.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.20 Rest (Bed)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.20%20Rest%20%28Bed%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.21 Rest (Luxury Bed)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.21%20Rest%20%28Luxury%20Bed%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.22 Cooking Failure" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.22%20Cooking%20Failure.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.23 Cooking" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.23%20Cooking.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.24 Cooking Success" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.24%20Cooking%20Success.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.25 Korok Trial Achievement" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.25%20Korok%20Trial%20Achievement.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.26 Korok Appearance" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.26%20Korok%20Appearance.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.27 First Location" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.27%20First%20Location.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.28 Dyeing" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.28%20Dyeing.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.29 Bleaching" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.29%20Bleaching.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.30 Repair" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.30%20Repair.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.31 Construction Work" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.31%20Construction%20Work.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.32 Mystery Solved" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.32%20Mystery%20Solved.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.33 Game Over" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.33%20Game%20Over.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.34 Trial of the Sword Completed" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.34%20Trial%20of%20the%20Sword%20Completed.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.35 Master Sword - Praise of the Deku Tree" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.35%20Master%20Sword%20-%20Praise%20of%20the%20Deku%20Tree.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.36 Kass &#x27;&#x27;Link&#x27;s Ballad&#x27;&#x27;" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.36%20Kass%20%27%27Link%27s%20Ballad%27%27.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.37 The Monument&#x27;s Arise" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.37%20The%20Monument%27s%20Arise.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.38 Kass &#x27;&#x27;The Champions&#x27; Ballad&#x27;&#x27; (1st Stage)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.38%20Kass%20%27%27The%20Champions%27%20Ballad%27%27%20%281st%20Stage%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.39 Monument" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.39%20Monument.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.40 Champion Mipha&#x27;s Song" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.40%20Champion%20Mipha%27s%20Song.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.41 Kass &#x27;&#x27;Mipha&#x27;s Ballad&#x27;&#x27;" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.41%20Kass%20%27%27Mipha%27s%20Ballad%27%27.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.42 Kass &#x27;&#x27;The Champions&#x27; Ballad&#x27;&#x27; (2nd Stage)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.42%20Kass%20%27%27The%20Champions%27%20Ballad%27%27%20%282nd%20Stage%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.43 Champion Revali&#x27;s Song" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.43%20Champion%20Revali%27s%20Song.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.44 Kass &#x27;&#x27;Revali&#x27;s Ballad&#x27;&#x27;" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.44%20Kass%20%27%27Revali%27s%20Ballad%27%27.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.45 Kass &#x27;&#x27;The Champions&#x27; Ballad&#x27;&#x27; (3rd Stage)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.45%20Kass%20%27%27The%20Champions%27%20Ballad%27%27%20%283rd%20Stage%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.46 Champion Daruk&#x27;s Song" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.46%20Champion%20Daruk%27s%20Song.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.47 Kass &#x27;&#x27;Daruk&#x27;s Ballad&#x27;&#x27;" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.47%20Kass%20%27%27Daruk%27s%20Ballad%27%27.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.48 Kass &#x27;&#x27;The Champions&#x27; Ballad&#x27;&#x27; (4th Stage)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.48%20Kass%20%27%27The%20Champions%27%20Ballad%27%27%20%284th%20Stage%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.49 Champion Urbosa&#x27;s Song" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.49%20Champion%20Urbosa%27s%20Song.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.50 Kass &#x27;&#x27;Urbosa&#x27;s Ballad&#x27;&#x27;" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.50%20Kass%20%27%27Urbosa%27s%20Ballad%27%27.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.51 Final Trial" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.51%20Final%20Trial.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.52 Monk Maz Koshia Battle" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.52%20Monk%20Maz%20Koshia%20Battle.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.53 The Forgotten Memory (The Champions&#x27; Ballad)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.53%20The%20Forgotten%20Memory%20%28The%20Champions%27%20Ballad%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.54 Princess Zelda and the Champions" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.54%20Princess%20Zelda%20and%20the%20Champions.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.55 Ending of The Champions&#x27; Ballad" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.55%20Ending%20of%20The%20Champions%27%20Ballad.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.56 Framed Picture" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.56%20Framed%20Picture.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.57 The Champions&#x27; Ballad" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.57%20The%20Champions%27%20Ballad.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.58 2014 E3 Trailer BGM (Bonus Track)" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.58%202014%20E3%20Trailer%20BGM%20%28Bonus%20Track%29.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="5.59 Nintendo Switch Presentation 2017 Trailer BGM (Bonus Track)﻿" tvg-logo="https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Cover.jpg" group-title="music" type="album",- 05
+https://archive.org/download/the-legend-of-zelda-breath-of-the-wild-original-soundtrack/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild%20Original%20Soundtrack/Disc%205/5.59%20Nintendo%20Switch%20Presentation%202017%20Trailer%20BGM%20%28Bonus%20Track%29%EF%BB%BF.mp3
+
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01-CoLD SToRAGE-Cairodrome" tvg-logo="https://ia800808.us.archive.org/30/items/wipeout_psx_soundtrack/front.jpg?cnt=0" group-title="music" type="album",Wipeout - 01
 https://archive.org/download/wipeout_psx_soundtrack/01-CoLD%20SToRAGE-Cairodrome.flac
