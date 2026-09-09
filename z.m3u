@@ -606,9 +606,6 @@ https://archive.org/download/crypt-s-01-e-03-dig-that-cat...-he-s-real-gone/Cryp
 https://archive.org/download/crypt-s-01-e-03-dig-that-cat...-he-s-real-gone/Crypt%20-%20S01E06%20-%20Collection%20Completed.mp4
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="series" type="series",Tales From The Crypt S05E01
 https://archive.org/download/crypt-s-5-e-05-people-who-live-in-brass-hearses/Crypt%20-%20S5E01%20-%20Death%20of%20Some%20Salesmen.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73029-2.jpg" group-title="series" type="series",Tales From The Crypt S05E02
@@ -1049,6 +1046,19 @@ https://archive.org/download/candidate-for-goddess_es/S1E4.mp4
 https://archive.org/download/candidate-for-goddess_es/S1E5.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/72719-1.jpg" group-title="series" type="series",Candidate For Goddess S01E16
 https://archive.org/download/candidate-for-goddess_es/S1E6.mp4
+
+
+#EXTINF:-1 tvg-id="null" tvg-name="Cap 1 - La marca obscura" tvg-logo="null" group-title="movies" type="movie",The Soultaker - S01E01
+https://archive.org/download/s0oul010203L471N/Cap%201%20-%20La%20marca%20obscura.mp4
+
+#EXTINF:-1 tvg-id="null" tvg-name="Cap 2 - El mundo es una ilusión" tvg-logo="null" group-title="movies" type="movie",The Soultaker - S01E02
+https://archive.org/download/s0oul010203L471N/Cap%202%20-%20El%20mundo%20es%20una%20ilusi%C3%B3n.mp4
+
+#EXTINF:-1 tvg-id="null" tvg-name="Cap 3 - El esqueleto joven" tvg-logo="null" group-title="movies" type="movie",The Soultaker - S01E03
+https://archive.org/download/s0oul010203L471N/Cap%203%20-%20El%20esqueleto%20joven.mp4
+
+#EXTINF:-1 tvg-id="null" tvg-name="s0oul010203L471N" tvg-logo="null" group-title="movies" type="movie",The Soultaker - S00E01
+https://archive.org/download/s0oul010203L471N/s0oul010203L471N.mp4
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/80790-1.jpg" group-title="series" type="series",Steel Angel Kurumi S01E01
 https://archive.org/download/steel-angel-kurumi_lat/S1E1.mp4
