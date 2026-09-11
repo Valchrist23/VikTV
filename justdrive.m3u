@@ -882,11 +882,37 @@ https://archive.org/download/WTF-KMFDM/J-Amnesia.mp3
 https://archive.org/download/WTF-KMFDM/K-Death%20%26%20Burial%20Of%20C.R.%20%5Bbm48Hr8ivwA%5D.mp3
 
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Light" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E01
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 Light" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E01
 https://archive.org/download/kmfdm-angst-remastered-flac/01%20Light.flac
 
-#EXTINF:-1 tvg-id="Track 04" tvg-name="Lust" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Angst  S01E04
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 A Drug Against War" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E02
+https://archive.org/download/kmfdm-angst-remastered-flac/02%20A%20Drug%20Against%20War.flac
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 Blood Evil-Mix" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E03
+https://archive.org/download/kmfdm-angst-remastered-flac/03%20Blood%20Evil-Mix.flac
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 Lust" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E04
 https://archive.org/download/kmfdm-angst-remastered-flac/04%20Lust.flac
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 Glory" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E05
+https://archive.org/download/kmfdm-angst-remastered-flac/05%20Glory.flac
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 Move On" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E06
+https://archive.org/download/kmfdm-angst-remastered-flac/06%20Move%20On.flac
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 No Peace" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E07
+https://archive.org/download/kmfdm-angst-remastered-flac/07%20No%20Peace.flac
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 A Hole In The Wall" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E08
+https://archive.org/download/kmfdm-angst-remastered-flac/08%20A%20Hole%20In%20The%20Wall.flac
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 Sucks" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E09
+https://archive.org/download/kmfdm-angst-remastered-flac/09%20Sucks.flac
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 The Problem" tvg-logo="https://ia803205.us.archive.org/34/items/kmfdm-angst-remastered-flac/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - Angst  S01E10
+https://archive.org/download/kmfdm-angst-remastered-flac/10%20The%20Problem.flac
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Free Your Hate" tvg-logo="https://ia801500.us.archive.org/6/items/hau-ruck/hau-ruck.jpg?cnt=0" group-title="music" type="series",KMFDM - Hau Ruck S01E01
 https://archive.org/download/hau-ruck/01%20Free%20Your%20Hate.flac
@@ -935,13 +961,212 @@ https://archive.org/download/kmfdm-blitz_202603/10%20Me%20%26%20My%20Gun.flac
 https://archive.org/download/kmfdm-blitz_202603/11%20Take%27m%20Out.mp3
 
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Kunst" tvg-logo="https://ia601008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="series",KMFDM - Kunst  S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 KMFDM - Kunst" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E01
 https://archive.org/download/1761293425_kunst/Kunst/01%20KMFDM%20-%20Kunst.flac
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="A Drug Against War" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="series",KMFDM - Hell Yeah -  S01E01
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 KMFDM - Ave Maria" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E02
+https://archive.org/download/1761293425_kunst/Kunst/02%20KMFDM%20-%20Ave%20Maria.flac
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 KMFDM - Quake" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E03
+https://archive.org/download/1761293425_kunst/Kunst/03%20KMFDM%20-%20Quake.flac
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 KMFDM - Hello" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E04
+https://archive.org/download/1761293425_kunst/Kunst/04%20KMFDM%20-%20Hello.flac
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 KMFDM - Next Big Thing" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E05
+https://archive.org/download/1761293425_kunst/Kunst/05%20KMFDM%20-%20Next%20Big%20Thing.flac
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 KMFDM - Pussy Riot" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E06
+https://archive.org/download/1761293425_kunst/Kunst/06%20KMFDM%20-%20Pussy%20Riot.flac
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 KMFDM - Pseudocide" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E07
+https://archive.org/download/1761293425_kunst/Kunst/07%20KMFDM%20-%20Pseudocide.flac
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 KMFDM - Animal Out" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E08
+https://archive.org/download/1761293425_kunst/Kunst/08%20KMFDM%20-%20Animal%20Out.flac
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 KMFDM - The Mess You Made" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E09
+https://archive.org/download/1761293425_kunst/Kunst/09%20KMFDM%20-%20The%20Mess%20You%20Made.flac
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 KMFDM - I 3 Not" tvg-logo="https://ia801008.us.archive.org/17/items/1761293425_kunst/Kunst/cover.jpg?cnt=0" group-title="music" type="album",KMFDM - KUNST - S01E10
+https://archive.org/download/1761293425_kunst/Kunst/10%20KMFDM%20-%20I%203%20Not.flac
+
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="A DUB AGAINST WAR" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E01
 https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/A%20DUB%20AGAINST%20WAR.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="Dejavu" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="series",KMFDM - Hell Yeah - S01E02
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="ALL 4 1" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E02
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/ALL%204%201.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="ALL WRONG - BUT ALRIGHT" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E03
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/ALL%20WRONG%20-%20BUT%20ALRIGHT.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="AMNESIA DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E04
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/AMNESIA%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="AUTOMATON" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E05
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/AUTOMATON.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="BARGELD" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E06
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BARGELD.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="BINGE, BOIL &amp; BLOW" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E07
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BINGE%2C%20BOIL%20%26%20BLOW.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="BLACK HOLE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E08
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BLACK%20HOLE.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="BLINDFACE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E09
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BLINDFACE.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="BUMAYE DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E10
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BUMAYE%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="BURNING BRAIN" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E11
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/BURNING%20BRAIN.mp3
+
+#EXTINF:-1 tvg-id="Track 12" tvg-name="DELUDED DESPERATE DANGEROUS &amp; DUMB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E12
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/DELUDED%20DESPERATE%20DANGEROUS%20%26%20DUMB.mp3
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="DISTURB THE PEACE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E13
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/DISTURB%20THE%20PEACE.mp3
+
+#EXTINF:-1 tvg-id="Track 14" tvg-name="DUB LIGHT" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E14
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/DUB%20LIGHT.mp3
+
+#EXTINF:-1 tvg-id="Track 15" tvg-name="DUB URANUS" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E15
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/DUB%20URANUS.mp3
+
+#EXTINF:-1 tvg-id="Track 16" tvg-name="DÉJÀ VU" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E16
 https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/D%C3%89J%C3%80%20VU.mp3
+
+#EXTINF:-1 tvg-id="Track 17" tvg-name="FAKE NEWS" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E17
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/FAKE%20NEWS.mp3
+
+#EXTINF:-1 tvg-id="Track 18" tvg-name="FREAK FLAG" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E18
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/FREAK%20FLAG.mp3
+
+#EXTINF:-1 tvg-id="Track 19" tvg-name="GLAM GLITZ GUTS &amp; GORE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E19
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/GLAM%20GLITZ%20GUTS%20%26%20GORE.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="HAU DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E20
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/HAU%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 21" tvg-name="HELL YEAH" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E21
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/HELL%20YEAH.mp3
+
+#EXTINF:-1 tvg-id="Track 22" tvg-name="HELP US-SAVE US-TAKE US AWAY" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E22
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/HELP%20US-SAVE%20US-TAKE%20US%20AWAY.mp3
+
+#EXTINF:-1 tvg-id="Track 23" tvg-name="HYËNA" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E23
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/HY%C3%8BNA.mp3
+
+#EXTINF:-1 tvg-id="Track 24" tvg-name="I WILL PRAY" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E24
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/I%20WILL%20PRAY.mp3
+
+#EXTINF:-1 tvg-id="Track 25" tvg-name="IMMORTALLY YOURS" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E25
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/IMMORTALLY%20YOURS.mp3
+
+#EXTINF:-1 tvg-id="Track 26" tvg-name="IN DUB WE TRUST" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E26
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/IN%20DUB%20WE%20TRUST.mp3
+
+#EXTINF:-1 tvg-id="Track 27" tvg-name="K.M.F" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E27
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/K.M.F.mp3
+
+#EXTINF:-1 tvg-id="Track 28" tvg-name="K•M•F DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E28
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/K%E2%80%A2M%E2%80%A2F%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 29" tvg-name="LIQUOR FISH &amp; CIGARETTES" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E29
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/LIQUOR%20FISH%20%26%20CIGARETTES.mp3
+
+#EXTINF:-1 tvg-id="Track 30" tvg-name="MEGALO" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E30
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/MEGALO.mp3
+
+#EXTINF:-1 tvg-id="Track 31" tvg-name="MONEY (DEUTSCHMARK MIX)" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E31
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/MONEY%20%28DEUTSCHMARK%20MIX%29.mp3
+
+#EXTINF:-1 tvg-id="Track 32" tvg-name="MONEY" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E32
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/MONEY.mp3
+
+#EXTINF:-1 tvg-id="Track33" tvg-name="MURDER MY HEART" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E33
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/MURDER%20MY%20HEART.mp3
+
+#EXTINF:-1 tvg-id="Track 34" tvg-name="NO GOD (IN DUB)" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E34
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/NO%20GOD%20%28IN%20DUB%29.mp3
+
+#EXTINF:-1 tvg-id="Track 35" tvg-name="NO GOD" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E35
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/NO%20GOD.mp3
+
+#EXTINF:-1 tvg-id="Track 36" tvg-name="NO REGRET" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E36
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/NO%20REGRET.mp3
+
+#EXTINF:-1 tvg-id="Track 37" tvg-name="OH MY GOTH" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E37
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/OH%20MY%20GOTH.mp3
+
+#EXTINF:-1 tvg-id="Track 38" tvg-name="ONLY LOVERS" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E38
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/ONLY%20LOVERS.mp3
+
+#EXTINF:-1 tvg-id="Track 39" tvg-name="OPPRESSION 1 2" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E39
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/OPPRESSION%201_2.mp3
+
+#EXTINF:-1 tvg-id="Track 40" tvg-name="OPPRESSION 2 2" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E40
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/OPPRESSION%202_2.mp3
+
+#EXTINF:-1 tvg-id="Track 41" tvg-name="PARA DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E41
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/PARA%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 42" tvg-name="PARADISE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E42
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/PARADISE.mp3
+
+#EXTINF:-1 tvg-id="Track 43" tvg-name="PIGGY" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E43
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/PIGGY.mp3
+
+#EXTINF:-1 tvg-id="Track 44" tvg-name="REAL DUB THING" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E44
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/REAL%20DUB%20THING.mp3
+
+#EXTINF:-1 tvg-id="Track 45" tvg-name="REBELZ DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E45
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/REBELZ%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 46" tvg-name="RIP THE SYSTEM v. 2.0" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E46
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/RIP%20THE%20SYSTEM%20v.%202.0.mp3
+
+#EXTINF:-1 tvg-id="Track 47" tvg-name="ROCK &#x27;N&#x27; ROLL MONSTER" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E47
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/ROCK%20%27N%27%20ROLL%20MONSTER.mp3
+
+#EXTINF:-1 tvg-id="Track 48" tvg-name="SEX ON THE FLAG (JEZEBEELZEBUTTFUNKMIX)" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E48
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/SEX%20ON%20THE%20FLAG%20%28JEZEBEELZEBUTTFUNKMIX%29.mp3
+
+#EXTINF:-1 tvg-id="Track49" tvg-name="SHOCK" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E49
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/SHOCK.mp3
+
+#EXTINF:-1 tvg-id="Track 50" tvg-name="SPIRITUAL HOUSE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E50
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/SPIRITUAL%20HOUSE.mp3
+
+#EXTINF:-1 tvg-id="Track 51" tvg-name="SUPERHERO DUB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E51
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/SUPERHERO%20DUB.mp3
+
+#EXTINF:-1 tvg-id="Track 52" tvg-name="TOTAL STATE MACHINE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E52
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/TOTAL%20STATE%20MACHINE.mp3
+
+#EXTINF:-1 tvg-id="Track 53" tvg-name="UNDER SATAN (DUB)" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E53
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/UNDER%20SATAN%20%28DUB%29.mp3
+
+#EXTINF:-1 tvg-id="Track 54" tvg-name="VOGUE 2000" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E54
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/VOGUE%202000.mp3
+
+#EXTINF:-1 tvg-id="Track 55" tvg-name="VOGUE" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E55
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/VOGUE.mp3
+
+#EXTINF:-1 tvg-id="Track 56" tvg-name="WDYWB" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E56
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/WDYWB.mp3
+
+#EXTINF:-1 tvg-id="Track 57" tvg-name="WE MUST AWAKEN" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E57
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/WE%20MUST%20AWAKEN.mp3
+
+#EXTINF:-1 tvg-id="Track 58" tvg-name="℞ 4 THE DAMNED" tvg-logo="https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA'S%20MONEY%20IN%20PARADISE%20(2023)%20MP3/Cover.png" group-title="music" type="album",KMFDM - HELL YEAH HYENA'S MONEY IN PARADISE - S01E58
+https://archive.org/download/kmfdm-hell-yeah-hyenas-money-in-paradise-2023-mp3/KMFDM%20-%20HELL%20YEAH%20HYENA%27S%20MONEY%20IN%20PARADISE%20%282023%29%20MP3/%E2%84%9E%204%20THE%20DAMNED.mp3
+
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="The Touch" tvg-logo="https://ia800500.us.archive.org/20/items/botcon97tillallareone/%27Til%20All%20Are%20One%20Featuring%20Stan%20Bush%20and%20Vince%20DiCola/cover.jpg?cnt=0" group-title="music" type="series",Stan Bush - Transformers S01E01
 https://archive.org/download/botcon97tillallareone/%27Til%20All%20Are%20One%20Featuring%20Stan%20Bush%20and%20Vince%20DiCola/Disc%201%20Stan%20Bush%20Call%20To%20Action/01.%20The%20Touch%20%281997%20Remix%29.mp3
