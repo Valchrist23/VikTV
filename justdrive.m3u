@@ -1783,7 +1783,7 @@ https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/14%20-%20Te
 https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/15%20-%20Been%20a%20Son.flac
 #EXTINF:-1 tvg-id="null" tvg-name="On A Plain" tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="music" type="series",Nirvana - Higher State Of Mind- S01E16
 https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/16%20-%20On%20a%20Plain.flac
-#EXTINF:-1 tvg-id="null" tvg-name="Negative Creep" tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="music" type="series",Nirvana - Higher State Of Mind- S01E 17
+#EXTINF:-1 tvg-id="null" tvg-name="Negative Creep" tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="music" type="series",Nirvana - Higher State Of Mind- S01E17
 https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/17%20-%20Negative%20creep.flac
 #EXTINF:-1 tvg-id="null" tvg-name="Blew" tvg-logo="https://dn801706.us.archive.org/0/items/Nirvana-A-Higher-State-Of-Mind-KTS-1996/Nirvana%20-%20A%20Higher%20State%20Of%20Mind.jpg?cnt=0" group-title="music" type="series",Nirvana - Higher State Of Mind- S01E18 
 https://archive.org/download/Nirvana-A-Higher-State-Of-Mind-KTS-1996/18%20-%20Blew.flac
@@ -1887,7 +1887,7 @@ https://archive.org/download/dirt_20260524/12%20Angry%20Chair.mp3
 #EXTINF:-1 tvg-id="Track 13" tvg-name="Would" tvg-logo="https://ia803108.us.archive.org/10/items/dirt_20260524/cover.jpg?cnt=0" group-title="music" type="series",Alice In Chains - Dirt- S01E13
 https://archive.org/download/dirt_20260524/13%20Would.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Rotten Apple" tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="music" type="series",Alice In Chains - Jar Of Flies  01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Rotten Apple" tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="music" type="series",Alice In Chains - Jar Of Flies - S01E01
 https://archive.org/download/r-3478939-1583685057-9679/01%20Rotten%20Apple.flac
 #EXTINF:-1 tvg-id="Track 02" tvg-name="Nutshell" tvg-logo="https://ia600902.us.archive.org/26/items/r-3478939-1583685057-9679/R-3478939-1583685057-9679.jpg?cnt=0" group-title="music" type="series",Alice In Chains - Jar Of Flies - S01E02
 https://archive.org/download/r-3478939-1583685057-9679/02%20Nutshell.flac
@@ -2186,8 +2186,9 @@ https://archive.org/download/twisted-sister-stay-hungry-cd-rip/Twisted%20Sister%
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
-#EXTINF:-1 tvg-id="Track 12" tvg-name="New Order Confusion" tvg-logo="null" group-title="music" type="series",Blade Soundtrack-  S01E12
+#EXTINF:-1 tvg-id="Track 12" tvg-name="New Order Confusion" tvg-logo="https://ia903201.us.archive.org/1/items/blade-soundtrack_202602/Folder.jpg?cnt=0" group-title="music" type="series",Blade Soundtrack-  S01E12
 https://archive.org/download/blade-soundtrack_202602/12%20New%20Order%20-%20Confusion%20%28Pump%20Panel%20Reconstruction%20Mix%29.flac
+
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
@@ -2895,16 +2896,16 @@ https://archive.org/download/best-of-narada-new-flamenco-guitar/%2013-%20Rosa%20
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- Trip Like I Do 01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Trip Like I Do " tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- S01E01
 https://archive.org/download/spawn-ost/01%20Filter%20-%20%28Can%27t%20You%29%20Trip%20Like%20I%20Do.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- Road Out Of Hell 02
+#EXTINF:-1 tvg-id="null" tvg-name="Road Out Of Hell" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- S01E02
 https://archive.org/download/spawn-ost/02%20Marilyn%20Manson%20%26%20Sneaker%20Pimps%20-%20Long%20Hard%20Road%20Out%20Of%20Hell.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- For Whom The Bell Tolls 06
+#EXTINF:-1 tvg-id="null" tvg-name="For Whom The Bell Tolls" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- S01E06
 https://archive.org/download/spawn-ost/06%20Metallica%20-%20For%20Whom%20The%20Bell%20Tolls%20%28The%20Irony%20Of%20It%20All%29.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- Thorn Apart 07
+#EXTINF:-1 tvg-id="null" tvg-name="Thorn Apart" tvg-logo="https://ia803200.us.archive.org/12/items/spawn-ost/Folder.jpg?cnt=0" group-title="music" type="series",Spawn Soundtrack- S01E07
 https://archive.org/download/spawn-ost/07%20Stabbing%20Westward%20%26%20Wink%20-%20Torn%20Apart.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
@@ -2945,24 +2946,24 @@ https://archive.org/download/ultra-street-fighter-iv-complete-soundtrack/Disc%20
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800704.us.archive.org/35/items/ultra-street-fighter-iv-complete-soundtrack/cover_thumb.jpg?cnt=0" group-title="music" type="series",Street Fighter IV - The Next Door Indestructible JAP.
 https://archive.org/download/ultra-street-fighter-iv-complete-soundtrack/Disc%204/4-01%20THE%20NEXT%20DOOR.flac
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - Midgar City 1-02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Midgar City 1-02" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E02
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-02%20-%20Midgar%2C%20City%20of%20Mako.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - Bombing Mission 1-03
+#EXTINF:-1 tvg-id="Track 03" tvg-name="Bombing Mission 1-03" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E03
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-03%20-%20Bombing%20Mission.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - Mako Reactor 1-05
+#EXTINF:-1 tvg-id="Track 05" tvg-name="Mako Reactor 1-05" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E05
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-05%20-%20Mako%20Reactor%201.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - Mako Reactor Battle 1-06
+#EXTINF:-1 tvg-id="Track 06" tvg-name="Mako Reactor Battle 1-06" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E06
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-06%20-%20Mako%20Reactor%201%20-%20Battle%20Edit.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - Scorpion Sentinel 1-07
+#EXTINF:-1 tvg-id="Track 07" tvg-name="Scorpion Sentinel 1-07" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E07
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/1-07%20-%20Scorpion%20Sentinel.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - The Airbuster 3-14
+#EXTINF:-1 tvg-id="Track 14" tvg-name="The Airbuster 3-14" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E14
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/3-14%20-%20The%20Airbuster.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - JENOVA Quickening 7-02
+#EXTINF:-1 tvg-id="Track 17" tvg-name="JENOVA Quickening 7-02" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E17
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/7-02%20-%20J-E-N-O-V-A%20-%20Quickening.mp3
 
-#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - One Winged Angel Rebirth7-10
+#EXTINF:-1 tvg-id="Track 20" tvg-name="One Winged Angel Rebirth7-10" tvg-logo="https://ia800808.us.archive.org/17/items/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/folder.jpg?cnt=0" group-title="music" type="series",Final Fantasy Remake OST - S01E20
 https://archive.org/download/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768/7-10%20-%20One-Winged%20Angel%20-%20Rebirth.mp3
 
 https://archive.org/details/final-fantasy-vii-remake-original-soundtrack-special-edit-version-sqex-10768
