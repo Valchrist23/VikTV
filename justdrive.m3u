@@ -30,9 +30,9 @@ https://archive.org/download/f-zero-x-guitar-arrange-edition/09%20-%20Grand%20Pr
 #EXTINF:-1 tvg-id="Staff Roll" tvg-name="Staff Roll" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",F-Zero X - S01E10
 https://archive.org/download/f-zero-x-guitar-arrange-edition/10%20-%20Staff%20Roll.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="Nightshift Secrets" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",Nightshift Secrets - S01E01
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Nightshift Secrets" tvg-logo="https://ia601804.us.archive.org/33/items/soundcloud-741585652/Nightshift%20Secrets-741585652.jpg?cnt=0" group-title="music" type="series",Nightshift Secrets - S01E01
 https://archive.org/download/soundcloud-741585652/Nightshift%20Secrets-741585652.aac
-#EXTINF:-1 tvg-id="Track 02" tvg-name="Nightshift Secrets" tvg-logo="https://ia801807.us.archive.org/20/items/f-zero-x-guitar-arrange-edition/Cover.jpg?cnt=0" group-title="music" type="series",Nightshift Secrets - S01E02
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Nightshift Secrets" tvg-logo="https://ia601804.us.archive.org/33/items/soundcloud-741585652/Nightshift%20Secrets-741585652.jpg?cnt=0" group-title="music" type="series",Nightshift Secrets - S01E02
 https://archive.org/download/soundcloud-181608202/INDIGO%20PLATEAU%21%20%28Future%20Nostalgia%20Deluxe%20%C2%AE%29-181608202.mp3
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Musica Ligera" tvg-logo="https://en.wikipedia.org/wiki/De_M%C3%BAsica_Ligera#/media/File:De_M%C3%BAsica_ligera_cover.png" group-title="music" type="series",Soda Estereo- S01E01
@@ -1462,7 +1462,7 @@ https://archive.org/download/doubledragonneonoriginalsoundtrack/Jake%20Kaufman%2
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://eta.vgmtreasurechest.com/soundtracks/x-tv-original-soundtrack/00%20Front.jpg" group-title="music" type="series",EX Dream X
 
-#EXTINF:-1 tvg-id="null" tvg-name="Garibaldi Temple" tvg-logo="https://ia601606.us.archive.org/33/items/perfect_selection_dracula_battle-1994/00-front.jpg?cnt=0" group-title="music" type="series",Castlevania Curse Of Darkness - S01E17
+#EXTINF:-1 tvg-id="null" tvg-name="Garibaldi Temple" tvg-logo="https://castlevania.fandom.com/wiki/Castlevania:_Curse_of_Darkness_Original_Soundtrack?file=CODOST.jpg" group-title="music" type="series",Castlevania Curse Of Darkness - S01E17
 https://archive.org/download/GaribaldiTemple/Garibaldi%20Temple.mp3
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Beginning" tvg-logo="https://ia601606.us.archive.org/33/items/perfect_selection_dracula_battle-1994/00-front.jpg?cnt=0" group-title="music" type="series",Castlevania Dracula Battle Perfect Selection S01E01
@@ -1818,7 +1818,7 @@ https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/07%20Nirv
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/08%20Nirvana%20-%20On%20A%20Plain.flac
 #EXTINF:-1 tvg-id="Track 09" tvg-name="Something In The Way" tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="music" type="series",Nirvana - Unplugged - S01E09
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/09%20Nirvana%20-%20Something%20In%20The%20Way.flac
-#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="music" type="series",Nirvana - Unplugged - Plateau 10
+#EXTINF:-1 tvg-id="Track 10" tvg-name="null" tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="music" type="series",Nirvana - Unplugged - S01E10
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/10%20Nirvana%20-%20Plateau.flac
 #EXTINF:-1 tvg-id="Track 11" tvg-name="Oh Me" tvg-logo="https://dn801205.us.archive.org/0/items/14-nirvana-where-did-you-sleep-last-night/Folder.jpg?cnt=0" group-title="music" type="series",Nirvana - Unplugged - S01E11
 https://archive.org/download/14-nirvana-where-did-you-sleep-last-night/11%20Nirvana%20-%20Oh%20Me.flac
@@ -2970,5 +2970,7 @@ https://archive.org/details/final-fantasy-vii-remake-original-soundtrack-special
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",With Faith In Life
 https://archive.org/download/WithFaithInLife/With%20Faith%20In%20Life.MP3
 
+#EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801605.us.archive.org/26/items/castlevania-classic-music-collection/folder_itemimage.jpg?cnt=0" group-title="music" type="series",Draculas Chamber Final Boss
+https://archive.org/download/youtube-GQc92nHJtWU/GQc92nHJtWU.mp4
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="https://ia801605.us.archive.org/26/items/castlevania-classic-music-collection/folder_itemimage.jpg?cnt=0" group-title="music" type="series",Draculas Chamber Final Boss
 https://archive.org/download/castlevania-classic-music-collection/3-29%20Dracula%27s%20Chamber%20%28Final%20Boss%29.flac
