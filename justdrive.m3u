@@ -705,7 +705,7 @@ https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%2
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%201/INXS%20-%20Original%20sin.mp3
 #EXTINF:-1 tvg-id="null" tvg-name="Kingston Town" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",Top 1000 - S01E06 - Track 06 - UB40 - Kingston Town
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%201/UB40%20-%20Kingston%20Town.mp3
-#EXTINF:-1 tvg-id="null" tvg-name="The Only Thing That Looks Good On Me Is You" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",Top 1000 - S01E07 - Track 07 - 
+#EXTINF:-1 tvg-id="null" tvg-name="The Only Thing That Looks Good On Me Is You" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",Top 1000 - S01E07 - Track 07 - The Only Thing That Looks Good On Me Is You
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%202/Bryan%20Adams%20-%20The%20only%20thing%20that%20looks%20good%20on%20me%20is%20you.mp3
 #EXTINF:-1 tvg-id="null" tvg-name="I Got You I Feel Good" tvg-logo="https://ia801404.us.archive.org/35/items/va-veronica-top-1000-allertijden-2005-opus-128/Covers/Veronica%20Top%201000%20Allertijden%20%282005%29%20%28Back%29.jpg?cnt=0" group-title="music" type="series",Top 1000 - S01E08 - Track 08 - James Brown - I Feel Good
 https://archive.org/download/va-veronica-top-1000-allertijden-2005-opus-128/CD%202/James%20Brown%20-%20I%20got%20you%20%28I%20feel%20good%29.mp3
@@ -869,7 +869,6 @@ https://archive.org/download/yngwie-malmsteen-concerto-suite-for-electric-guitar
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01. Full concert" tvg-logo="https://ia801404.us.archive.org/10/items/yngwie-malmsteen-concerto-suite-for-electric-guitar-and-orchestra-in-e-flat-mi/cover.jpg?cnt=0" group-title="music" type="series",Yngwie Malmsteen - Concerto Suite - S00E01 - Full Video 
 https://archive.org/download/yngwie-malmsteen-live-with-japanese-philharmonic-orchestra/Yngwie%20Malmsteen%20-%20Live%20with%20Japanese%20Philharmonic%20Orchestra.mp4
-
 
 #EXTINF:-1 tvg-id="Track 00" tvg-name="Barroque And Roll" tvg-logo="https://ia601001.us.archive.org/2/items/yngwie-malmsteen-spellbound-live-in-tampa-2016-16-44.1/cover.jpg?cnt=0" group-title="music" type="series",Yngwie Malmsteen - Flamenco Diablo
 https://archive.org/download/pj-4m-3vn-fl-0w/FlmnkD1abl.flac
@@ -2279,6 +2278,39 @@ https://archive.org/download/blade-soundtrack_202602/12%20New%20Order%20-%20Conf
 https://archive.org/download/queen-of-the-damned-ost/06%20Papa%20Roach%20-%20Dead%20Cell.flac
 
 #EXTINF:-1 tvg-id="null" tvg-name="null" tvg-logo="null" group-title="music" type="series",Null
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Voodoo Mon Amour" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E01 - Track 01 - Voodoo Mon Amour
+https://archive.org/download/pandoraspinata/01%20-%20Voodoo%20Mon%20Amour.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Guerrilla Laments" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E02 - Track 02 - Guerrilla Laments
+https://archive.org/download/pandoraspinata/02%20-%20Guerrilla%20Laments.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - Kevlar Sweethearts" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E03 - Track 03 - Kevlar Sweetheart
+https://archive.org/download/pandoraspinata/03%20-%20Kevlar%20Sweethearts.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 - How To Organize A Lynch Mob" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E04 - Track 04 - How To Organize A Lynch Mob
+https://archive.org/download/pandoraspinata/04%20-%20How%20To%20Organize%20A%20Lynch%20Mob.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 - Black Box Messiah" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E05 - Track 05 - Black Box Messiah
+https://archive.org/download/pandoraspinata/05%20-%20Black%20Box%20Messiah.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 - Exit Strategy Of A Wrecking Ball" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E06 - Track 06 - Exit Strategy Of A Wrecking Ball
+https://archive.org/download/pandoraspinata/06%20-%20Exit%20Strategy%20Of%20A%20Wrecking%20Ball.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07 - Aurora" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E07 - Track 07 - Aurora
+https://archive.org/download/pandoraspinata/07%20-%20Aurora.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 - Mass Rapture" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E08 - Track 08 - Mass Rapture
+https://archive.org/download/pandoraspinata/08%20-%20Mass%20Rapture.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 - Honey Trap Aftermath" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E09 - Track 09 - Honey Trap Aftermath
+https://archive.org/download/pandoraspinata/09%20-%20Honey%20Trap%20Aftermath.mp3
+
+#EXTINF:-1 tvg-id="Track 10" tvg-name="10 - Of Kali Ma Calibre" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E10 - Track 10 - Of Kali Ma Calibre
+https://archive.org/download/pandoraspinata/10%20-%20Of%20Kali%20Ma%20Calibre.mp3
+
+#EXTINF:-1 tvg-id="Track 11" tvg-name="11- Justice For Saint Mary" tvg-logo="https://ia600807.us.archive.org/21/items/pandoraspinata/icon.jpeg?cnt=0" group-title="music" type="series",Pandoras Pinatas - S01E09 - Track 11 - Justice For Saint Mary
+https://archive.org/download/pandoraspinata/11-%20Justice%20For%20Saint%20Mary.mp3
 
 
 #EXTINF:-1 tvg-id="null" tvg-name="Intro" tvg-logo="https://ia800402.us.archive.org/31/items/iron_maiden-live_at_sthlm_stadium-27-06-2000/folder.jpg?cnt=0" group-title="music" type="series",Iron Maiden - S01E01
