@@ -206,7 +206,35 @@ https://archive.org/download/deadbeat_arpxit/11%20Afterthought.flac
 https://archive.org/download/deadbeat_arpxit/12%20End%20Of%20Summer.flac
 
 
-#EXTM3U
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Waiting" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E01 -Track 01 - Waiting
+https://archive.org/download/know-youridols-22222/01%20-%20Waiting.mp3
+
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Evil Ways" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E02 -Track 02 - Evil Ways
+https://archive.org/download/know-youridols-22222/02%20-%20Evil%20Ways.mp3
+
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - Shades of Time" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E03 -Track 03 - Shades Of Time
+https://archive.org/download/know-youridols-22222/03%20-%20Shades%20of%20Time.mp3
+
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 - Savor" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E04 -Track 04 - Savor
+https://archive.org/download/know-youridols-22222/04%20-%20Savor.mp3
+
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 - Jingo" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E05 -Track 05 - Jingo
+https://archive.org/download/know-youridols-22222/05%20-%20Jingo.mp3
+
+#EXTINF:-1 tvg-id="Track 06" tvg-name="06 - Persuasion" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E06 -Track 06 - Persuasion
+https://archive.org/download/know-youridols-22222/06%20-%20Persuasion.mp3
+
+#EXTINF:-1 tvg-id="Track 07" tvg-name="07S01E0 -Treat" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E07 -Track 07S01E0 -Treat
+https://archive.org/download/know-youridols-22222/07%20-%20Treat.mp3
+
+#EXTINF:-1 tvg-id="Track 08" tvg-name="08 - You Just Don&#x27;t Care" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E08 -Track 08 - You Just Dont Care
+https://archive.org/download/know-youridols-22222/08%20-%20You%20Just%20Don%27t%20Care.mp3
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 - Soul Sacrifice" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E09 -Track 09 - Soul Sacrifice
+https://archive.org/download/know-youridols-22222/09%20-%20Soul%20Sacrifice.mp3
+
+
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 Santana - Jingo" tvg-logo="https://archive.org/download/13-santana-dance-sister-dance-baila-mi-hermana/Folder.jpg" group-title="music" type="series",The Best of Santana - S01E01 - Track 01 - Jingo
 https://archive.org/download/13-santana-dance-sister-dance-baila-mi-hermana/01%20Santana%20-%20Jingo.flac
