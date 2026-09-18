@@ -78,13 +78,16 @@ https://archive.org/download/04-mecano-cruz-de-navajas/05%20-%20Hombres%20G%20-%
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Lobo Hombre En Paris" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",La Union - S01E01 - Track 01 - Lobo Hombre En Paris
 https://archive.org/download/04-mecano-cruz-de-navajas/05%20-%20La%20Uni%C3%B3n%20%2C%20Lobo-Hombre%20en%20Paris.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Este Cementerio No Es Serio" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Mecano - S01E01 - Track 01 - Hoy No Me Puedo Levantar
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Este Cementerio No Es Serio" tvg-logo="https://ia800902.us.archive.org/12/items/entre-el-cielo-y-el-suelo/Entre%20el%20Cielo%20y%20el%20Suelo.jpg?cnt=0" group-title="music" type="series",Mecano - S01E01 - Track 01 - Hoy No Me Puedo Levantar
 https://archive.org/download/04-mecano-cruz-de-navajas/04%20-%20Mecano%20%2C%20Hoy%20no%20me%20Puedo%20Levantar.mp3
-#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Cruz De Navajas" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Mecano - S01E02 - Track 02 - Cruz De Navajas
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Cruz De Navajas" tvg-logo="https://ia800902.us.archive.org/12/items/entre-el-cielo-y-el-suelo/Entre%20el%20Cielo%20y%20el%20Suelo.jpg?cnt=0" group-title="music" type="series",Mecano - S01E02 - Track 02 - Cruz De Navajas
+https://archive.org/download/entre-el-cielo-y-el-suelo/10%20Cruz%20de%20Navajas.flac
 https://archive.org/download/04-mecano-cruz-de-navajas/04%20-%20Mecano%20-%20Cruz%20de%20navajas.mp3
-
-#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - Este Cementerio No Es Serio" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Mecano - S01E03 - Track 03 - No Es Serio Este Cementerio
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - Este Cementerio No Es Serio" tvg-logo="https://ia800902.us.archive.org/12/items/entre-el-cielo-y-el-suelo/Entre%20el%20Cielo%20y%20el%20Suelo.jpg?cnt=0" group-title="music" type="series",Mecano - S01E03 - Track 03 - No Es Serio Este Cementerio
+https://archive.org/download/entre-el-cielo-y-el-suelo/09%20No%20Es%20Serio%20Este%20Cementerio.flac
 https://archive.org/download/mecano-no-es-serio-este-cementerio-audio-oficial-256k/Mecano%20-%20No%20Es%20Serio%20Este%20Cementerio%20%28Audio%20oficial%29_256k.mp3
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 - Hijo De La Luna" tvg-logo="https://ia800902.us.archive.org/12/items/entre-el-cielo-y-el-suelo/Entre%20el%20Cielo%20y%20el%20Suelo.jpg?cnt=0" group-title="music" type="series",Mecano - S01E04 - Track 04 - Hijo De La Luna
+https://archive.org/download/entre-el-cielo-y-el-suelo/03%20Hijo%20de%20la%20Luna.flac
 
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Got Me Under Preassure Live" tvg-logo="https://ia600509.us.archive.org/2/items/15-la-grange-live/000.jpg?cnt=0" group-title="music" type="series",ZZ Top - Live - S01E01
@@ -165,9 +168,20 @@ https://archive.org/download/10-blame-it-on-the-kids/10-blame_it_on_the_kids.mp3
 #EXTINF:-1 tvg-id="Track 10" tvg-name="Road Of The Gypsey" tvg-logo="https://image.tmdb.org/t/p/w500/h1qFAZkVusLf3zcArMCaLpnjg55.jpg" group-title="music" type="series",Iron Eagle - S01E01 - Track 01 - Road Of The Gypsey
 https://archive.org/download/pj-4m-3vn-fl-0w/I34glr04dgyp5.flac
 
-#EXTINF:-1 tvg-id="Track 10" tvg-name="Tame Imapala" tvg-logo="https://dn720402.ca.archive.org/0/items/youtube-B6CZTDCb7g4/B6CZTDCb7g4.jpg" group-title="music" type="series",Tame - Impala - S01E10 - Track 02 - Elephant
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Twilight Zone" tvg-logo="https://dn720402.ca.archive.org/0/items/youtube-B6CZTDCb7g4/B6CZTDCb7g4.jpg" group-title="music" type="series",Unlimited- S01E01 - Track 01 - Twilight Zone
+https://archive.org/download/in-shot-20250618-182147293/InShot_20250618_182147293.ia.mp4
+#EXTINF:-1 tvg-id="Track 02" tvg-name="Twilight Zone" tvg-logo="https://dn720402.ca.archive.org/0/items/youtube-B6CZTDCb7g4/B6CZTDCb7g4.jpg" group-title="music" type="series",Unlimited- S01E02 - Track 02 - Ready For TThis
+https://archive.org/download/2_Unlimited_Get_Ready_For_This/2_Unlimited_Get_Ready_For_This.mp4
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - K.I. Feeling" tvg-logo="https://dn720402.ca.archive.org/0/items/youtube-B6CZTDCb7g4/B6CZTDCb7g4.jpg" group-title="music" type="series",Killer Instinct- S01E02 - Track 02 - K.I. Feeling
+https://archive.org/download/k-i-killer-cuts/K.I.%20Killer%20Kuts%20%5BOST%5D.rar/K.I.%20Killer%20Kuts%20%5BOST%5D%2FOST%2F01%20K.%20I.%20Feeling.mp3
+
+
+#EXTINF:-1 tvg-id="Track 13" tvg-name="Tame Imapala" tvg-logo="https://dn720402.ca.archive.org/0/items/youtube-B6CZTDCb7g4/B6CZTDCb7g4.jpg" group-title="music" type="series",Tame - Impala - S01E13 - Track 13 - Elephant
 https://archive.org/download/youtube-B6CZTDCb7g4/B6CZTDCb7g4.mp4
 
+#EXTINF:-1 tvg-id="Track 01" tvg-name="Sirius" tvg-logo="https://archive.org/download/the-alan-parsons-project-hits-wav/0.jpg" group-title="music" type="series",Alan Parsons Project - S01E01 - Track 01 - Sirius
+https://archive.org/download/the-alan-parsons-project-hits-wav/01%20-%20Sirius.flac
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - My Old Ways" tvg-logo="https://ia601604.us.archive.org/9/items/deadbeat_arpxit/Deadbeat%20%C3%81lbum%20Cover.jpg?cnt=0" group-title="music" type="album",Tame Impala - Dead Beat - S01E01
 https://archive.org/download/deadbeat_arpxit/01%20My%20Old%20Ways.flac
@@ -204,7 +218,6 @@ https://archive.org/download/deadbeat_arpxit/11%20Afterthought.flac
 
 #EXTINF:-1 tvg-id="Track 12" tvg-name="12 = End Of Summer" tvg-logo="https://ia601604.us.archive.org/9/items/deadbeat_arpxit/Deadbeat%20%C3%81lbum%20Cover.jpg?cnt=0" group-title="music" type="album",Tame Impala - Dead Beat - S01E12
 https://archive.org/download/deadbeat_arpxit/12%20End%20Of%20Summer.flac
-
 
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Waiting" tvg-logo="https://ia600109.us.archive.org/6/items/know-youridols-22222/cover.jpg?cnt=0" group-title="music" type="series",Carlos Santana-Santana - S01E01 -Track 01 - Waiting
