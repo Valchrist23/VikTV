@@ -71,10 +71,17 @@ https://archive.org/download/03-i-like-the-way-you-kiss-me-mrd-remix/Artemas%20-
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Be Alright" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Ariana grande - S01E01 - Track 01 - Be Alright
 https://archive.org/download/soundcloud-316467514/GRANDE-316467514.mp3
 
-#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Mar Adentro" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Heroes Del Silencio - S01E01 - Track 01 - Mar Adentro
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Mar Adentro" tvg-logo="https://archive.org/download/platinumcollection/Heroes%20Del%20Silencio%20-%20The%20Platinum%20Collection/Tapas/a.jpg" group-title="music" type="series",Heroes Del Silencio - S01E01 - Track 01 - Entre Dos Mundos
+https://archive.org/download/platinumcollection/Heroes%20Del%20Silencio%20-%20The%20Platinum%20Collection/cd1/1-01%20Entre%20Dos%20Tierras.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Mar Adentro" tvg-logo="https://archive.org/download/platinumcollection/Heroes%20Del%20Silencio%20-%20The%20Platinum%20Collection/Tapas/a.jpg" group-title="music" type="series",Heroes Del Silencio - S01E02 - Track 02 - Mar Adentro
+https://archive.org/download/platinumcollection/Heroes%20Del%20Silencio%20-%20The%20Platinum%20Collection/cd1/1-02%20Mar%20Adentro.flac
 https://archive.org/download/04-mecano-cruz-de-navajas/01%20-%20H%C3%A9roes%20del%20Silencio%20-%20Mar%20adentro.mp3
-#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Devuelveme A Mi Chica" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",Hombres G - S01E01 - Track 01 - Devuelveme A Mi Chica
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Devuelveme A Mi Chica" tvg-logo="https://dn601304.us.archive.org/0/items/hombres-g-peligrosamente-juntos-2002/Hombres%20G%20-%20Peligrosamente%20Juntos%20%282002%29%20%5BFlac%5D%20-DRO%20East%20West%20%2BJos%C3%A9%20Almaz%C3%A1n%20Mendiola/A.jpg?cnt=0" group-title="music" type="series",Hombres G - S01E01 - Track 01 - Devuelveme A Mi Chica
 https://archive.org/download/04-mecano-cruz-de-navajas/05%20-%20Hombres%20G%20-%20Devu%C3%A9lveme%20a%20mi%20chica.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Te Quiero" tvg-logo="https://dn601304.us.archive.org/0/items/hombres-g-peligrosamente-juntos-2002/Hombres%20G%20-%20Peligrosamente%20Juntos%20%282002%29%20%5BFlac%5D%20-DRO%20East%20West%20%2BJos%C3%A9%20Almaz%C3%A1n%20Mendiola/A.jpg?cnt=0" group-title="music" type="series",Hombres G - S01E01 - Track 02 - Tr Quiero
+https://archive.org/download/hombres-g-peligrosamente-juntos-2002/Hombres%20G%20-%20Peligrosamente%20Juntos%20%282002%29%20%5BFlac%5D%20-DRO%20East%20West%20%2BJos%C3%A9%20Almaz%C3%A1n%20Mendiola/10%20-%20Hombres%20G%20-%20Te%20quiero.flac
+
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Lobo Hombre En Paris" tvg-logo="https://ia801809.us.archive.org/1/items/soundcloud-316467514/GRANDE-316467514.jpg?cnt=0" group-title="music" type="series",La Union - S01E01 - Track 01 - Lobo Hombre En Paris
 https://archive.org/download/04-mecano-cruz-de-navajas/05%20-%20La%20Uni%C3%B3n%20%2C%20Lobo-Hombre%20en%20Paris.mp3
 
@@ -89,6 +96,17 @@ https://archive.org/download/mecano-no-es-serio-este-cementerio-audio-oficial-25
 #EXTINF:-1 tvg-id="Track 04" tvg-name="04 - Hijo De La Luna" tvg-logo="https://ia800902.us.archive.org/12/items/entre-el-cielo-y-el-suelo/Entre%20el%20Cielo%20y%20el%20Suelo.jpg?cnt=0" group-title="music" type="series",Mecano - S01E04 - Track 04 - Hijo De La Luna
 https://archive.org/download/entre-el-cielo-y-el-suelo/03%20Hijo%20de%20la%20Luna.flac
 
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Hotel California" tvg-logo="https://dn711001.ca.archive.org/0/items/hotel-california-40th-anniversary-expanded-edition/cover.jpg" group-title="music" type="series",Eagles - S01E01 - Track 01 - Hotel California
+https://archive.org/download/hotel-california-40th-anniversary-expanded-edition/Eagles%20-%20Hotel%20California%20%28Official%20Audio%29.mp3
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - Life In The Fast Lane" tvg-logo="https://dn711001.ca.archive.org/0/items/hotel-california-40th-anniversary-expanded-edition/cover.jpg" group-title="music" type="series",Eagles - S01E02 - Track 02 - Life In The Fast Lane
+https://archive.org/download/hotel-california-40th-anniversary-expanded-edition/Eagles%20-%20Life%20In%20The%20Fast%20Lane%20%28Official%20Audio%29.mp3
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - New Kid In Town" tvg-logo="https://dn711001.ca.archive.org/0/items/hotel-california-40th-anniversary-expanded-edition/cover.jpg" group-title="music" type="series",Eagles - S01E03 - Track 03 - New Kid In Town
+https://archive.org/download/hotel-california-40th-anniversary-expanded-edition/Eagles%20-%20New%20Kid%20In%20Town%20%28Official%20Audio%29.mp3
+
+
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 - A Good Day In Hell" tvg-logo="https://dn711001.ca.archive.org/0/items/hotel-california-40th-anniversary-expanded-edition/cover.jpg" group-title="music" type="series",Eagles - S01E09 - Track 09 - A Good Day In Hell
+https://archive.org/download/hotel-california-40th-anniversary-expanded-edition/Good%20Day%20in%20Hell%20%28Live%20at%20The%20Forum%2C%20Los%20Angeles%2C%20CA%2C%2010_20-22_1976%29.mp3
 
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Got Me Under Preassure Live" tvg-logo="https://ia600509.us.archive.org/2/items/15-la-grange-live/000.jpg?cnt=0" group-title="music" type="series",ZZ Top - Live - S01E01
 https://archive.org/download/15-la-grange-live/01%20-%20Got%20Me%20Under%20Pressure%20%28Live%29.mp3
