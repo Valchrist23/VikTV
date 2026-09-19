@@ -246,6 +246,9 @@ https://archive.org/download/youtube-B6CZTDCb7g4/B6CZTDCb7g4.mp4
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Sirius" tvg-logo="https://archive.org/download/the-alan-parsons-project-hits-wav/0.jpg" group-title="music" type="series",Alan Parsons Project - S01E01 - Track 01 - Sirius
 https://archive.org/download/the-alan-parsons-project-hits-wav/01%20-%20Sirius.flac
 
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Turning Japanese" tvg-logo="https://ia800704.us.archive.org/15/items/Turning-japanese-slowed-reverb/Turning%20Japanese%20%28Sped%20Up%29%20EP%20front.jpg?cnt=0" group-title="music" type="series",Vapors - S01E01 - Track 01 - Turning Japanese
+https://archive.org/download/Turning-japanese-slowed-reverb/02%20-%20The%20Vapors%20-%20Turning%20Japanese%20%28Re-Recorded%29.mp3
+
 #EXTINF:-1 tvg-id="Track 01" tvg-name="01 - My Old Ways" tvg-logo="https://ia601604.us.archive.org/9/items/deadbeat_arpxit/Deadbeat%20%C3%81lbum%20Cover.jpg?cnt=0" group-title="music" type="album",Tame Impala - Dead Beat - S01E01
 https://archive.org/download/deadbeat_arpxit/01%20My%20Old%20Ways.flac
 
