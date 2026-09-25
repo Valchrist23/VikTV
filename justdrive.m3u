@@ -45,8 +45,23 @@ https://archive.org/download/soda-stereo-de-musica-ligera-official-video-160k/So
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Animal Rights" tvg-logo="https://archive.org/services/img/opensource_audio" group-title="music" type="series",Animal Rights Mix - S01E01 - Track 01 -
 https://archive.org/download/pj-4m-3vn-fl-0w/Anir1ght5.flac
 
-#EXTINF:-1 tvg-id="Track 05" tvg-name="05 - Sweeter Than Honey" tvg-logo="https://archive.org/services/img/opensource_audio" group-title="music" type="series",Red Octopus - S01E05 - Track 05 - Sweeter Than Honey
+#EXTINF:-1 tvg-id="Track 05" tvg-name="05 - Sweeter Than Honey" tvg-logo="https://dn720704.ca.archive.org/0/items/jefferson-starship-red-octopus/Jefferson%20Starship-Red%20Octopus-1.jpg" group-title="music" type="series",Red Octopus - S01E05 - Track 05 - Sweeter Than Honey
 https://archive.org/download/jefferson-starship-red-octopus/05%20Sweeter%20Than%20Honey.mp3
+
+#EXTINF:-1 tvg-id="Track 20" tvg-name="20 - Fly Me To The Moon" tvg-logo="https://dn721604.ca.archive.org/0/items/shiro-sagisu-neon-genesis-evangelion-ii-surround/Cover.jpg" group-title="music" type="series",Neon Genesis Evangelion - S01E20 - Track 20 - Flyme To The Moon
+https://archive.org/download/shiro-sagisu-neon-genesis-evangelion-ii/20%20CLAIRE%20-%20FLY%20ME%20TO%20THE%20MOON%20%28TV.%20Size%20Version%29.flac
+
+#EXTINF:-1 tvg-id="Track 01" tvg-name="01 - Rules Of Nature" tvg-logo="https://dn720303.ca.archive.org/0/items/metal-gear-rising-revengeance-vocal-tracks/Cover.jpg" group-title="music" type="series",Metal Gear Rising - S01E01 - Track 01 - Rules Of Nature
+https://archive.org/download/metal-gear-rising-revengeance-vocal-tracks/01.%20Rules%20of%20Nature%20%28Platinum%20Mix%29.flac
+#EXTINF:-1 tvg-id="Track 02" tvg-name="02 - The Only Thing I Know For Real" tvg-logo="https://dn720303.ca.archive.org/0/items/metal-gear-rising-revengeance-vocal-tracks/Cover.jpg" group-title="music" type="series",Metal Gear Rising - S01E02 - The Only Thing I Know For Real
+https://archive.org/download/metal-gear-rising-revengeance-vocal-tracks/02.%20The%20Only%20Thing%20I%20Know%20For%20Real%20%28Maniac%20Agenda%20Mix%29.flac
+#EXTINF:-1 tvg-id="Track 03" tvg-name="03 - Rules Of Nature" tvg-logo="https://dn720303.ca.archive.org/0/items/metal-gear-rising-revengeance-vocal-tracks/Cover.jpg" group-title="music" type="series",Metal Gear Rising - S01E03 - Dark Skies Platinum
+https://archive.org/download/metal-gear-rising-revengeance-vocal-tracks/03.%20Dark%20Skies%20%28Platinum%20Mix%29.flac
+#EXTINF:-1 tvg-id="Track 04" tvg-name="04 - I'm My Master Now" tvg-logo="https://dn720303.ca.archive.org/0/items/metal-gear-rising-revengeance-vocal-tracks/Cover.jpg" group-title="music" type="series",Metal Gear Rising - S01E04 - I'm My Master Now
+https://archive.org/download/metal-gear-rising-revengeance-vocal-tracks/04.%20I%27m%20My%20Own%20Master%20Now%20%28Platinum%20Mix%29.flac
+#EXTINF:-1 tvg-id="Track 09" tvg-name="09 - A Soul Can't Be Cut" tvg-logo="https://dn720303.ca.archive.org/0/items/metal-gear-rising-revengeance-vocal-tracks/Cover.jpg" group-title="music" type="series",Metal Gear Rising - S01E09 - A Soul Cant Be Cut
+https://archive.org/download/metal-gear-rising-revengeance-vocal-tracks/09.%20A%20Soul%20Can%27t%20Be%20Cut%20%28Platinum%20Mix%29.flac
+
        
 #EXTINF:-1 tvg-id="Track 01" tvg-name="Emmanuel Cortes Amor" tvg-logo="https://reignofblood.net/images/homeheader2026.jpg" group-title="music" type="series",Cinthias Musik - S01E01 - Track 01 - Emmanuel Cortes Amor 
 https://archive.org/download/pj-4m-3vn-fl-0w/EmmCorz-%20Am0r.mp3
