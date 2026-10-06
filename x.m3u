@@ -1214,6 +1214,9 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6ab3fab35364
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-chno="" tvg-name="Cops en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Mexico",Cops en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc" tvg-id="608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc" tvg-chno="" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Mexico",PursuitUP
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-name="Crime 360 by A&amp;E" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Entertainment",Crime 360 by A&amp;E
 https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8
 
@@ -1252,6 +1255,10 @@ https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml
 
 #EXTINF:-1 tvg-id="64b585f84ea480000838e446" tvg-name="Pluto TV Icons" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/featuredImage.jpg?auto=format&fit=crop&fill=blur&ixlib=react-9.1.5&w=150&h=96&dpr=1&q=75" group-title="Movies",Pluto TV Icons
+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430" tvg-id="608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430" tvg-chno="" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Mexico",Maverick Black Cinema
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
 
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-name="Black Cinema" tvg-language="English" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-country="Entertainment" tvg-url="" group-title="Movies",Black Cinema
 
