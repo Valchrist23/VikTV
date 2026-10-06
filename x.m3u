@@ -211,7 +211,7 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-id="Azteca Uno -1 Hora" tvg-name="Azteca Uno -1 Hora" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1 Hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-si
+si 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 azteca 1 no
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
