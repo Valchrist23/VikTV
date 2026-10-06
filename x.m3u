@@ -384,6 +384,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Multimedios Costa Rica" tvg-name="Multimedios Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="Entertainment",Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-id="400000092" tvg-logo="https://canvas-lb.tubitv.com/opts/td59qtLvlg-NcA==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjlAAQ==" group-title="Other",Cheaters
+https://live-manifest.production-public.tubi.io/live/c9318bbe-15a2-4ece-8cb2-797497d51277/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Entertainment",Antares TV 
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1493443135.m3u8
 si
@@ -619,6 +622,7 @@ logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Discovery_Family
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://image.xumo.com/v1/channels/channel/99951438/168x168.png?type=color_onBlack" group-title="Documentary",Discovery Turbo
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 si
+
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/250px-A%26E_Network_logo.svg.png" group-title="Documentary",A&E
@@ -1354,6 +1358,10 @@ https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" tvg-name="Claro Sports Mexico" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png" group-title="Sports",Claro Sports Mexico
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+
+#EXTINF:-1 tvg-id="beIN Sports XTRA En Español" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://canvas-lb.tubitv.com/opts/y4jAUpeHq4ELHg==/8968101d-cc65-48c7-a102-0a6a46ca55db/CHgQeDoFMS4xLjlAAQ==" group-title="Sports",beIN Sports XTRA En Español
+https://live-manifest.production-public.tubi.io/live/6cd31e43-d255-4ab4-b065-7f28bd541047/playlist.m3u8
+
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6490e78518a55242eea95999" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6c3266e-3f14-426d-b9c8-f419738b1eea/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 
@@ -1385,6 +1393,7 @@ https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b
 https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel
+https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="MLB" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" tvg-country="Entertainment" tvg-url="" group-title="Sports",MLB
@@ -1400,8 +1409,12 @@ https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",Fox Sports Premium
 
+
 #EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-country="Entertainment" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sports",NBC Sports
+
 #EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Sports",FOX Sports
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
 #EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="TNA Wrestling" tvg-country="Entertainment" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",TNA Wrestling
 #EXTINF:-1 tvg-id="WWE Network" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/190px-WWE_official_logo.svg.png" group-title="Sports",WWE Network
 
