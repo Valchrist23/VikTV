@@ -400,7 +400,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65623e0eb7d7
 https://live-manifest.production-public.tubi.io/live/c9318bbe-15a2-4ece-8cb2-797497d51277/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Entertainment",Antares TV 
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+
 
 si
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
@@ -408,7 +408,8 @@ https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentary",CGTN Español
-https://mx-b9-i-e-bv1.cdn.mdstrm.com/live-stream/66a96ae9cc39c5d22b24dc65/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&uid=fdPCb2xVBpkzYNkIwP3sn9bjE5nFI3kx&sid=q3X6VSkX6YJmJwmu8F0zCXhpvvcmE2Mv&pid=UQGv1Ebw9jmPbWClAFTAQCPfxZi1iip0&pid_dvr=CMfimqOzxbwbI7h4EM2zLWpkGOVgUWzF&ref=https%3A%2F%2Fwww.telediario.mx%2F&without_cookies=false&listenerid=&dnt=true&es=mx-b9-i-e-bv1.cdn.mdstrm.com&ote=1791398826416&ot=ohQuK5u1dVu9GyJNtuv5Dw&proto=https&pz=us&CMCD=cid%3D%2266a96ae9cc39c5d22b24dc65%22%2Cmtp%3D73900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22UQGv1Ebw9jmPbWClAFTAQCPfxZi1iip0%22
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 no
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
