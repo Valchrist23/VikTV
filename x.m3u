@@ -528,9 +528,10 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 -----------------------------------------Kitchen--------------------------------------------- 
 
 #EXTINF:-1 tvg-id="5f998c1fc54853000797bacd" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade
-
 #EXTINF:-1 tvg-id="68b88712e777774982269ce9" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Entertainment",Tastemade Viajes
 
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-id="608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7" tvg-chno="" tvg-name="Tastemade en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png" group-title="Mexico",Tastemade en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-name="GUSTOTV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991328/168x168.png?type=color_onBlack" group-title="Entertainment",GustoTV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991328/hls/playlist.m3u8?ads.xumo_channelId=99991328&ads._fw_ifa_type=&ads._fw_did=fc870a3a-ab60-415a-bb82-a1d918d84175&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=GustoTV&ads.csid=xumo_web_GustoTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=272&ads.xumo_contentName=GustoTV&ads.xumo_providerId=272&ads.xumo_providerName=GustoTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991328&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -549,6 +550,9 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-67294a601055ef3897c73477" tvg-id="608049aefa2b8ae93c2c3a63-67294a601055ef3897c73477" tvg-chno="" tvg-name="The Emeril Lagasse Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png" group-title="Mexico",The Emeril Lagasse Channel
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-67294a601055ef3897c73477/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto Cocina" tvg-logo="https://www.frogx3.com/wp-content/uploads/2016/10/twitter-cocina-e1477313916400.jpg" group-title="Entertainment",Pluto Cocina 
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
@@ -643,7 +647,7 @@ http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="Film and Arts" tvg-name="Film and Arts" tvg-country="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Entertainment",Film and Arts
 
 #EXTINF:-1 tvg-id="5f36d726234ce10007784f2a" tvg-name="The Bob Ross Channel" tvg-country="Entertainment" tvg-language="en" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" group-title="Art" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml",The Bob Ross Channel
-
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/960px-Repretel_6_logo.png" group-title="News",El 6
 https://stream.elseis.do/canal6/live_1080.m3u8
@@ -943,6 +947,8 @@ http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 #EXTINF:-1 tvg-id="628e685ba3811100070551a8" tvg-name="Hallmark Movies & More" tvg-logo="https://image.xumo.com/v1/providers/provider/2186/300x300.png?type=color_onBlack" group-title="Entertainment",Hallmark Movies & More
+
+
 #EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" tvg-name="Hallmark en Español"
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="Cine Estelar" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Entertainment",Cine Estelar
 #EXTINF:-1 tvg-id="63335b193583440007c859fb" tvg-name="Lifetime Movie Favorites" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="Entertainment",Lifetime Movie Favorites
@@ -1670,7 +1676,8 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="21 de El Salvador Megavisión" tvg-name="21 de El Salvador Megavisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png/960px-Logotipo_de_Megavisi%C3%B3n_%281990-1991%29.png" group-title="Entertainment",21 de El Salvador Megavisión
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg" group-title="Movies",Gi TV
+https://gitelevision.com/wp-content/uploads/2025/05/Logo-GITV-White.svg
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzFE9tNQ5cwrIdXAsRM7YN0_Pp97tHa6y81gJTb9BNtKM=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",Gi TV
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://play-lh.googleusercontent.com/S7F8QLjJHAZIDfkKsWGduv1zmPcG796sbrMY6rnJihYBeN3_wL3Nwz50MNQ7zl24Av8MmT9ow3bE2glTUmEQ5w=w240-h480-rw" group-title="Movies",Family TV
