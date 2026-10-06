@@ -418,10 +418,10 @@ https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_33_Madrid_logo_2025.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="Documentary",33 Madrid 
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentary",Hola TV
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/960px-%C2%A1HOLA%21TVlogo.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentary",Hola TV
 http://8.243.126.131:8000/play/a0fg/index.m3u8
 
-#EXTINF:-1 tvg-id="ES26000025M" tvg-name="¡Hola! Play" tvg-logo="https://www.olofane.es/images/medios/logo-amp-plus-png" group-title="Documentary",¡Hola! Play
+#EXTINF:-1 tvg-id="ES26000025M" tvg-name="¡Hola! Play" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/960px-%C2%A1HOLA%21TVlogo.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Documentary",¡Hola! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/800px-Atrescine_logo.svg.png" group-title="Entertainment",A3Cine 
@@ -479,12 +479,12 @@ https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166f" tvg-name="Telemundo al Dia" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/183209ec7041b4645921574cffd096f4.png" group-title="News",Telemundo al Dia
 https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
-                 
+
 no reposesors  
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist216.m3u8
 
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166c" tvg-name="Noticias Telemundo AHORA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951321/168x168.png?type=color_onBlack" group-title="News",Noticias Telemundo AHORA
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166c" tvg-name="Noticias Telemundo AHORA" tvg-logo="https://image.xumo.com/v1/channels/channel/99951321/168x168.png?type=color_onWhite" group-title="News",Noticias Telemundo AHORA
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321&ads.asnw=169843&ads.afid=380752915&ads.sfid=19647824&ads.csid=xumo_web_TelemundoNoticiasAhora_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_vcid2=512116:e3fa95a8-123a-45f9-8e76-a43f775916f8&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=es&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3944&ads.xumo_contentName=TelemundoNoticiasAhora&ads.xumo_providerId=3944&ads.xumo_providerName=TelemundoNoticiasAhora&ads.channelId=99951321&ads._fw_ifa_type=
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" group-title="Entertainment",Telemundo Puerto Rico
@@ -708,7 +708,6 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://www.logolynx.com/images/logolynx/2e/2e88fd8fdc6e0c45bf70ec0a105cb66e.png" group-title="Kids",Cartoon Network 
 
 #EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-name="90's Kids" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="Kids",90's Kids
-https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
 
 #EXTINF:-1 tvg-id="VariedTV" tvg-name="VariedTV" tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png" group-title="Kids",VariedTV
 
