@@ -29,6 +29,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Milenio TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
@@ -209,7 +210,8 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="Azteca Uno -1 Hora" tvg-name="Azteca Uno -1 Hora" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1 Hora
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
 si 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
@@ -217,6 +219,8 @@ azteca 1 no
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca UNO -1 hora" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" group-title="Basico",Azteca Uno -1 Hora
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
                                                                                                                               
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca International" tvg-language="es" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" tvg-country="MX" group-title="Basico",Azteca Internacional
@@ -331,6 +335,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 no
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=c6c7713bd924a73bea0756a03f57c603&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656450873&id=4680&ip=2806%3A2f0%3A1100%3Abb7%3A4d2c%3A2831%3A9eb3%3A9533&override_expiration=1500&sign=SODXUy%2Bb0uRhY0tINIYmJEd50E3T%2BWI7IrEI%2FlUz%2B24%3D 
 
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5" tvg-id="608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5" tvg-chno="" tvg-name="Runtime Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1688b0a-fa63-4b15-8f80-634dd473cf23/Runtime_ES_Familia_Dark_Mode_Logordx.png" group-title="Mexico",Runtime Familia
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6683fcdf702b9db9f8177252" tvg-name="Runtime Thriller" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_thriller.jpg" group-title="Film",Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
@@ -342,6 +349,9 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f5132e362fe160040f26c15" tvg-name="Runtime Español" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Film",Runtime Español
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=4631
+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165" tvg-id="608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165" tvg-chno="" tvg-name="Cine Friki Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/72b4d5ba-f30d-4ed1-8414-92f8f47dbe7d/Lfrikiight_Logo_RDX.png" group-title="Mexico",Cine Friki Latino
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png" group-title="Film",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
@@ -376,7 +386,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" tvg-name="Canal 6 CdMX" tvg-logo="https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png" group-title="Entertainment",Canal 6 CdMX
-
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Multimedios Plus" tvg-name="Multimedios Plus" tvg-logo="https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s900-c-k-no/photo.jpg" group-title="Entertainment",Multimedios Plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -384,7 +394,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Multimedios Costa Rica" tvg-name="Multimedios Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="Entertainment",Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-id="400000092" tvg-logo="https://canvas-lb.tubitv.com/opts/td59qtLvlg-NcA==/1a61481a-60fa-4294-9d23-f097b7773866/CHgQeDoFMS4xLjlAAQ==" group-title="Other",Cheaters
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff" tvg-id="608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff" tvg-chno="" tvg-name="Cheaters en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" group-title="Mexico",Cheaters en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
 https://live-manifest.production-public.tubi.io/live/c9318bbe-15a2-4ece-8cb2-797497d51277/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg" group-title="Entertainment",Antares TV 
@@ -665,6 +677,9 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png/500px-Catamarca_Radio_y_Televisi%C3%B3n.png" tvg-country="CL" group-title="News",7 Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-674f6a6cf44561420465f9f3" tvg-id="608049aefa2b8ae93c2c3a63-674f6a6cf44561420465f9f3" tvg-chno="" tvg-name="Animation+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png" group-title="Mexico",Animation+
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-674f6a6cf44561420465f9f3/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi TV
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/playlist.m3u8
@@ -1179,8 +1194,14 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master_720p30.m3u8
 #EXTINF:-1 tvg-id="5ca670f6593a5d78f0e85aed" tvg-name="BET Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" group-title="Entertainment",BET Pluto TV
 https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
-#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="Cops" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Entertainment",Cops
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6" tvg-id="608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6" tvg-chno="" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/93b42a63-bebc-4948-be5d-3ddcba89f2b9/Cops_channel_logo_white_1500x1000RDX.png" group-title="Mexico",COPS
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
+#EXTINF:-1 tvg-id="6419ab7c9189ce000865a469" tvg-name="Cops" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="Entertainment",Cops
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6ab3fab35364aa2377195423/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-chno="" tvg-name="Cops en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Mexico",Cops en Español
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-name="Crime 360 by A&amp;E" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Entertainment",Crime 360 by A&amp;E
 https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8
@@ -1234,6 +1255,13 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a
 #EXTINF:-1 tvg-id="5d8d164d92e97a5e107638d2" tvg-name="Cine adrenalina" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="Entertainment" tvg-url="" group-title="Movies",Cine adrenalina
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="Estrellas de Acción" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" tvg-country="Entertainment" tvg-url="" group-title="Movies",Estrellas de Acción
 
+
+
+#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/-0YnftAlhsdv5Q==/534a2575-8a54-472d-ac96-d71cbd6cb0cf/CHgQeDoFMS4xLjlAAQ==" group-title="Other",FilmRise Horror
+https://live-manifest.production-public.tubi.io/live/4c82889c-7b9c-4f06-bc61-8f18fd23a49a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="692051" tvg-logo="https://canvas-lb.tubitv.com/opts/9JeV0i6F9xtz4w==/f4523b29-6b4d-4b40-ae37-5ff4f79691c5/CHgQeDoFMS4xLjlAAQ==" group-title="Other",Horror by ALTER
+https://live-manifest.production-public.tubi.io/live/c12f35bf-6465-4e44-b5f7-04ec645689c7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinevault 80s" tvg-name="Cinevault 80s" tvg-logo="https://cinevaulttv.com/images/logos/cinevault-80s-logo.jpg" group-title="Movies",Cinevault
 https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
@@ -1780,6 +1808,7 @@ https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/maste
 
 
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Documentary" ,Misterios sin Resolver
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 https://live-manifest.production-public.tubi.io/live/35099120-35d3-463f-a923-f5e68332d6aa/playlist.m3u8
 
 #EXTINF:-1 channel-id="Programacion Local" tvg-id="Programacion Local" tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Della-designstyle-popstar-m.png" group-title="Music",Della TV
