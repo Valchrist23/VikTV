@@ -1446,7 +1446,7 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 #EXTINF:-1 tvg-id="WWE Network" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/190px-WWE_official_logo.svg.png" group-title="Sports",WWE Network
 
 
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="TNA Wrestling Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991341/168x168.png?type=color_onBlack" group-title="Sports",TNA Wrestling Channel
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="TNA Wrestling Channel" tvg-logo="https://en.wikipedia.org/wiki/Total_Nonstop_Action_Wrestling#/media/File:TNA-logo-June-2024-v2.png" group-title="Sports",TNA Wrestling Channel
 https://live-content.xumo.com/2073/content/XM0WM13AHU1VC4/24952703/master.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67a1a8ef2358ef4dd5c3018e" tvg-name="Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Sports",Lucha Plus
@@ -1485,7 +1485,7 @@ https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist
 #EXTINF:-1 tvg-id="66bb3212fe11e5000883ea6b" tvg-name="Married With Children" tvg-logo="https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png" group-title="Cine/Series",Married With Children
 
 
-#EXTINF:-1 tvg-id="6722d2bffb35df319d71a40e" tvg-name="Las Vegas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951238/168x168.png?type=color_onBlack" group-title="Cine/Series",Las Vegas
+#EXTINF:-1 tvg-id="6722d2bffb35df319d71a40e" tvg-name="Las Vegas" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Las_Vegas_%28DreamWorks_Television_series%29_logo.svg/500px-Las_Vegas_%28DreamWorks_Television_series%29_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Cine/Series",Las Vegas
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951238/hls/master.m3u8?ads.xumo_channelId=99951238&ads.asnw=169843&ads.afid=380736666&ads.sfid=19116544&ads.csid=xumo_web_NBCUTopChefVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_vcid2=512116:18150d10-13ef-4d9e-9df6-5a111a755851&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3932&ads.xumo_contentName=NBCUTopChefVault&ads.xumo_providerId=3932&ads.xumo_providerName=NBCUTopChefVault&ads.channelId=99951238&ads._fw_ifa_type=
                                                                                                        
 #EXTINF:-1 tvg-id="65e977a618036500082ec972" tvg-name="Chapelle´s Show" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65e977a618036500082ec972/colorLogoPNG.png" tvg-country="Entertainment" tvg-url="" group-title="Cine/Series",Chapelle´s Show
