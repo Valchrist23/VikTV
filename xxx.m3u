@@ -6,6 +6,8 @@
 #EXTINF:-1 tvg-id="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png?20171113104219" group-title="XXX",Hustler
 https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV pbs
+http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us",AdultIPTV.net Asian
 https://live.mycamtv.com/asian.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetLatina.us",AdultIPTV.net Latina
@@ -49,7 +51,11 @@ https://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",AdultIPTV.net POV (720p)
 https://live.redtraffic.xyz/pov.m3u8
 
-http://live.redtraffic.xyz:80/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",Yuka Ozawa Full vid (720p)
+https://hls-cdn77.xvideos-cdn.com/59QT3xg5s_Qz4Tv87HhHkA==,1791414522/bf90c566-a07d-4f45-976d-4bd3184da318/0/hls-360p.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us",Yuka Ozaki
+https://hls-cdn77.xvideos-cdn.com/reKiQbFZwJ-jVaJJEx2E-A==,1791414716/898d4231-5da4-4130-be40-75c71995b12a/0/hls-360p.m3u8
+
 
 #EXTINF:-1 tvg-id="AdultIPTVnetRussian.us",AdultIPTV.net Russian (720p)
 https://live.redtraffic.xyz/russian.m3u8
