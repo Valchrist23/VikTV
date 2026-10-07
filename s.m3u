@@ -5,6 +5,10 @@ https://marcelinethinks.files.wordpress.com/2015/11/anime-logo-square.png
 dvd isos
 https://archive.org/details/dvdisocollection_202605
 
+
+#EXTINF:-1 tvg-id="S01E01" tvg-name="IT Welcome toDerry" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/418424/posters/6902eb67b9008.jpg" group-title="series" group-title="series" type="series",IT: Welcome to Derry S01E01 - Episode 01 -
+http://127.0.0.1:11470/19a806cceb5ff4ca931fbad18c1dce8d4ce19443/1?
+
 #EXTINF:-1 tvg-id="S01E01" tvg-name="Welcome to Margrave" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E01 - Episode 01 - Welcome to Margrave
 https://archive.org/download/PaixaoFlix-Reacher-1-Temporada/Reacher%20S01E01.mkv
 #EXTINF:-1 tvg-id="S01E02" tvg-name="First Dance" tvg-logo="https://artworks.thetvdb.com/banners/v4/series/366924/posters/655131f48f1a3.jpg" group-title="series" group-title="series" type="series",Reacher S01E02 - Episode 02 - First Dance
