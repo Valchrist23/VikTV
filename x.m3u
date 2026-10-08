@@ -1329,7 +1329,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a
 
 
 
-#EXTINF:-1 tvg-id="692090" tvg-logo="https://canvas-lb.tubitv.com/opts/-0YnftAlhsdv5Q==/534a2575-8a54-472d-ac96-d71cbd6cb0cf/CHgQeDoFMS4xLjlAAQ==" group-title="Entertainment",FilmRise Horror
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66ea09a39502c5778b828d43" tvg-name="FilmRise Horror" tvg-logo="https://canvas-lb.tubitv.com/opts/-0YnftAlhsdv5Q==/534a2575-8a54-472d-ac96-d71cbd6cb0cf/CHgQeDoFMS4xLjlAAQ==" group-title="Entertainment",FilmRise Horror
 https://live-manifest.production-public.tubi.io/live/4c82889c-7b9c-4f06-bc61-8f18fd23a49a/playlist.m3u8
 
 
