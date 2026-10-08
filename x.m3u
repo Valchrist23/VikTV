@@ -208,11 +208,10 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 
-
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/1920px-Azteca_Uno_%282020%29.svg.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno
 
 
-#EXTINF:-1 tvg-id="Azteca Uno -1 Hora" tvg-name="Azteca Uno -1 Hora" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1 Hora
+#EXTINF:-1 tvg-id="646ccc7a2858cb0008127367" tvg-name="Azteca Uno -1 Hora" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Azteca Uno -1 Hora
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
@@ -287,7 +286,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 http://45.5.118.152:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Canal 5
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
 
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
@@ -417,7 +416,7 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1493443135.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL 
 
-#EXTINF:-1 tvg-id="CGTN Español.es" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentary",CGTN Español
+#EXTINF:-1 tvg-id="CGTN Español" tvg-name="CGTN Español" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1280px-CGTN.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Documentary",CGTN Español
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel_id=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5546&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=56fa0ebf-4fe3-443f-a160-9909cdd5f7b1&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 si
@@ -498,7 +497,7 @@ http://187.190.55.136:5501/udp/225.1.1.101:5101
 
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
-#EXTINF:-1 tvg-id="RTS" tvg-name="RTS" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",RTS
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6478acb5c83f56da796f166d" tvg-name="Caso Cerrado" tvg-logo="https://image.xumo.com/v1/channels/channel/99991749/168x168.png?type=color_onBlack" group-title="Entertainment",Caso Cerrado
@@ -534,7 +533,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951225/hls/master.m3u8?ads.xumo_cha
 no
 https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
 
-#EXTINF:-1 tvg-id="telesur.ar" tvg-name="TeleSUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entertainment",TeleSUR
+#EXTINF:-1 tvg-id="TELESUR" tvg-name="TELESUR" tvg-logo="https://www.stopfake.org/content/uploads/2016/03/telesur.jpg" tvg-country="Col" group-title="Entertainment",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="Entertainment",Globovision
@@ -640,10 +639,9 @@ https://jmp2.uk/plu-6549310a53fc97000838fcc9.m3u8
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-country="Entertainment" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Documentary",Pluto TV History
-https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 
 #EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Discovery ID" tvg-country="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Documentary",Investigation Discovery
-http://177.10.184.193:8000/play/a0a8/index.m3u8
+
 
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f" tvg-name="Unidentified" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e929c59-4a28-4375-8ff1-2c92314bfc6a/unidentified.png" tvg-country="Entertainment" tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml" group-title="Documentary",Unidentified
 https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -718,7 +716,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
 
 
-#EXTINF:-1 tvg-id="US2900015RO" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US2900015RO" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
