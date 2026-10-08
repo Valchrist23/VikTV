@@ -104,7 +104,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 si
 https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8
 
-#EXTINF:-1 tvg-id="IMAGEN TELEVISION.mx" tvg-name="Imagen TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV +" tvg-name="Imagen TV +" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",Imagen TV +
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
@@ -273,6 +273,7 @@ https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 #EXTINF:-1 tvg-id="Azteca Corazon" tvg-name="Azteca Corazon" tvg-logo="https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png" group-title="Basico",Azteca Corazon
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c/?X-Plex-Token=o33z9yCmSsaCJyrUnYZd
 si
 646ccdd0939a5900088a1980
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
