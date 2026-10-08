@@ -351,7 +351,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-6683fcdf702b9db9f8177252" tvg-name="Runtime" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/960x540/runtime_thriller.jpg" group-title="Film",Runtime Thriller
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6120
 
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Film",Runtime 
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Film",Runtime 
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e/?X-Plex-Token=YbdPd-iu5yssXsTsyZr3
 
 no
 https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-66840253cd6f1d394094114f/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
