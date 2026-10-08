@@ -263,9 +263,10 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://aegis-cloudfront-1.tubi.video/36613fc9-8285-479e-8ec2-f9732cbc8947/playlist.m3u8
                    
 #EXTINF:-1 tvg-id="Azteca Deportes" tvg-name="Azteca Deportes" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Sports",Azteca Deportes
-http://209.14.115.253:8081/azteca-deportes/index.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f/?X-Plex-Token=o33z9yCmSsaCJyrUnYZd
 
 no
+http://209.14.115.253:8081/azteca-deportes/index.m3u8
 https://apollo.production-public.tubi.io/live/azteca-deportes-network-ootAAI.m3u8?
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
 
@@ -735,10 +736,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="Kids",Disney
 
-#EXTINF:-1 tvg-id="DISNEY JR.mx" tvg-name="Disney JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney JR
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/250px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",DISNEY JR
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="kids",Disney XD
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:2009_Disney_XD_logo.png" group-title="kids",Disney XD
 https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network 
@@ -754,6 +755,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://foxkidstv.be:3369/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="Japanmotion" tvg-name="Japanmotion" tvg-logo="https://i.ibb.co/8D2b197K/Japanmotion.png" group-title="Anime",Japanmotion
+no
 http://tv.japanmotion.com/iptv/session/1/hls.m3u8
 
 #EXTINF:-1 tvg-id="Janimotion" tvg-name="Janimotion" tvg-logo="https://i.ibb.co/chkybmzX/Janimotion.png" group-title="Anime",Janimotion 
@@ -776,8 +778,12 @@ https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop TV" tvg-name="Fanpop TV" tvg-language="es" tvg-logo="https://s3.eu-west-1.amazonaws.com/thumbnails-safecreative-org/1/2024/02/15/0000018d/ab36/7457/68b8/7c12a7fc84c6/Logo-Fanpop-Transparente_thumb.png?t=1709967643181" group-title="Anime",Fanpop TV
+
+no
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Anipop TV" tvg-name="Anipop TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",Anipop TV
+
+no
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 tvg-id="EnerGeek Retro" tvg-name="EnerGeek Retro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",EnerGeek Retro
