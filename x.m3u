@@ -1712,7 +1712,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TVS_Logo.svg/500px-TVS_Logo.svg.png" group-title="Movies",TVS
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://image.tmdb.org/t/p/w500/qVC2wdywMbDPl4N3vTGOAMHk8sQ.jpg" group-title="Movies",Moni TV
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://image.tmdb.org/t/p/w500/qVC2wdywMbDPl4N3vTGOAMHk8sQ.jpg" group-title="Movies",Moni TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Movies",Megacine TV
