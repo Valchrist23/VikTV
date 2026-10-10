@@ -567,6 +567,8 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="6894fc3f66f164e402f4fd14" tvg-name="El Gourmet" tvg-country="Entertainment" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png" group-title="Entertainment",Dulce by elGourmet
 #EXTINF:-1 tvg-id="5dcde0657444a40009cd2422" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png" group-title="Entertainment",Pluto TV Cocina
 
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Entertainment",Cooking Panda
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda/?X-Plex-Token=YHNBrNy7o75CjzrFSazs
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -593,6 +595,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/601a0342dcf4370007
 
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-name="This Old House" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/This_Old_House_logo_black.png" group-title="Entertainment",This Old House
 
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5f0641d3e8ffda004033b16e" tvg-name="The Design Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png" group-title="Entertainment",The Design Network
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-5f0641d3e8ffda004033b16e/?X-Plex-Token=YHNBrNy7o75CjzrFSazs
 no
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c4505b1c-feec-11ec-b6db-0242ac110003&deviceId=b4b4b56a-eb61-4260-a15f-1b791e55ad62&deviceVersion=91.0.4472&appVersion=6.3.1-affe1833605e3f9cbd03529ed3985321034d5e9d&deviceDNT=0&userId=&advertisingId=&deviceLat=31.8815&deviceLon=-116.5925&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
