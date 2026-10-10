@@ -977,12 +977,15 @@ https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
                    
 #EXTINF:-1 tvg-id="697140a85d851f5e69414688-621672612c2627c068e73ad6" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
-https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6/?X-Plex-Token=rJU_GV1whKpykSWUR9kh
-no
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2101
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-621672612c2627c068e73ad6" tvg-chno="" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
+no
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6/?X-Plex-Token=rJU_GV1whKpykSWUR9kh
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-621672612c2627c068e73ad6/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-621672612c2627c068e73ad6" tvg-chno="" tvg-name="Watch it Kid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
+
 
 #EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://i.imgur.com/EnujIY2.png" group-title="Kids",Rakuten TV Familia 
 
