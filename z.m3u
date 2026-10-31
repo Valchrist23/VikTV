@@ -6,6 +6,10 @@ dvd isos
 https://archive.org/details/dvdisocollection_202605
 
 
+
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5d1bfa6c30c50.jpg" group-title="series" type="series",Yellowstone S06E01
+https://archive.org/download/WCTV_6-1_WCTVDT_20230925_010000_Yellowstone/WCTV_6-1_WCTVDT_20230925_010000_Yellowstone.mp4
+
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73540-2.jpg" group-title="series" type="series",Tales From The Cryptkeeper S01E01
 https://archive.org/download/s-01-e-06-the-works...-in-wax/S01E01%20-%20While%20the%20Cat%27s%20Away.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/posters/73540-2.jpg" group-title="series" type="series",Tales From The Cryptkeeper S01E02
