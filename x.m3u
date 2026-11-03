@@ -237,7 +237,7 @@ https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 
-#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://commons.wikimedia.org/wiki/Category:Logos_of_Guatevisi%C3%B3n#/media/File:Guatevisionlogo.JPG" tvg-country="MX" group-title="Basico",Guatevision
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Guatevision_2003-logo_simplified.png/960px-Guatevision_2003-logo_simplified.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" tvg-country="MX" group-title="Basico",Guatevision
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
 #EXTINF:-1 tvg-id="Clic" tvg-name="Clic" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Clic
