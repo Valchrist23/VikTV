@@ -19,12 +19,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",C4 en Alerta
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
-
-si
-https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
-
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="News",Foro TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index_2.m3u8&redirect=true
 
@@ -242,6 +236,9 @@ https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
                         
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-646d06c9b09f13b2d8af68d8" tvg-name="Azteca Honduras" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TV_Azteca_Honduras_logo_2017.png" tvg-country="MX" group-title="Basico",Azteca Honduras
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+
+#EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://commons.wikimedia.org/wiki/Category:Logos_of_Guatevisi%C3%B3n#/media/File:Guatevisionlogo.JPG" tvg-country="MX" group-title="Basico",Guatevision
+https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
 #EXTINF:-1 tvg-id="Clic" tvg-name="Clic" tvg-language="es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Basico",Clic
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=5597
@@ -1879,6 +1876,12 @@ https://live-manifest.production-public.tubi.io/live/91f6ca76-72da-4f5e-a878-fa9
 https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8
 
 #EXTINF:-1 channel-id="pluto-5cf96b8f4f1ca3f0629f4bf1" tvg-id="5cf96b8f4f1ca3f0629f4bf1" tvg-logo="https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png" group-title="Documentary" ,Investiga
+
+
+#EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-name="C4 en Alerta" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" tvg-country="MX" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="News",C4 en Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
 
 
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Documentary" ,Misterios sin Resolver
