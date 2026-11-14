@@ -705,6 +705,8 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-674f6a6cf44561420465f9f3/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-language="es" tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-1024x683.png" group-title="Anime",Delmi TV
+https://183.giatvcdn.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
+
 no
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
@@ -730,11 +732,9 @@ https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-name="Kartoon Channel!" tvg-language="es" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids",~ 24/7 Tom And Jerry~
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.1182266902.4588/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="Kids",~ 24/7 To be announced
 
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/250px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="kids",Dreamworks
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/ANIME%2B_logo.svg/250px-ANIME%2B_logo.svg.png" group-title="Anime",Anime
 
@@ -786,7 +786,7 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Anipop TV" tvg-name="Anipop TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_EnerGeek.png/960px-Logotipo_EnerGeek.png" group-title="Anime",Anipop TV
-https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
+https://cl-2.backend.energeek.cl/bkp/egfanweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
 
 no
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
@@ -856,9 +856,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Magic Kids 2" tvg-name="Magic Kids 2" tvg-language="es" tvg-logo="https://i.imgur.com/bHoFrHs.png" tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml" group-title="Anime",Magic Kids 2
+https://kali.vdopanel.com:3957/stream/play.m3u8
+no
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" tvg-name="RetroX TV" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",RetroX TV
+https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+no
 https://lbgo.bozztv.com/ssh101/ssh101/brhatahtde/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/LOGO-2023-XT-chico.png" group-title="Anime",XtremaTV RetroCartoons 
@@ -932,6 +936,8 @@ https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 
 #EXTINF:-1 tvg-id="Programacion Local" tvg-name="Programacion Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/X-Men_-_The_Animated_Series_-_logo.svg/960px-X-Men_-_The_Animated_Series_-_logo.svg.png" group-title="Anime",X-men Animated Series
+https://183.giatvcdn.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
+no
 https://live20.bozztv.com/giatvplayout7/giatv-210703/tracks-v1a1/mono.ts.m3u8
 
 
@@ -962,8 +968,10 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson"  tvg-logo="https://imgur.com/Z6HJvy8.png" group-title="Kids",Los Simpson
+
+no
 https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
-https://live20.bozztv.com/akamaissh101/ssh101/simplat/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="USBB11000015Q" tvg-name="Moonbug" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Kids",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
