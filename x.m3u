@@ -587,6 +587,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6095ad97351eb00007
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entertainment",Food Network
 
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-name="This Old House" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/This_Old_House_logo_black.png" group-title="Entertainment",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-name="Tiny House Nation" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Entertainment",Tiny House Nation
 https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
@@ -1293,6 +1294,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6ab3fab35364
 
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-id="608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc" tvg-chno="" tvg-name="Cops en Español" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entertainment",Cops en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc/?X-Plex-Token=o9Z-3ex3-uaMQjH9JFqL
+https://langley-productions-cops-1-ca.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-name="Crime 360 by A&amp;E" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/6000a5a9e767980007b497ca/featuredImage.jpg" group-title="Entertainment",Crime 360 by A&amp;E
 https://live-manifest.production-public.tubi.io/live/520220a7-f8c9-488b-b311-0654a1d3c1b8/playlist.m3u8
